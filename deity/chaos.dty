@@ -1,0 +1,51 @@
+#DEITY
+Filename		chaos.dty~
+Name		Speech~
+Description	&z&gAlignment: &Gchaotic
+Focusing on the destruction and disruption of all things, Chaos is
+greatly feared, as well as hated. Followers of Chaos are possessed by
+an intense unnatural hate, making them fearless warriors of terrible
+strength. However, due to their uncontrollable nature, they are
+vulnerable to the more arcane and concentrated attacks.
+~
+Alignment		-350
+Worshippers	158
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		1
+Kill_npcrace	0
+Kill_npcfoe	0
+Kill_magic	1
+Sac		10
+Bury_corpse	0
+Aid_spell		0
+Aid		0
+Steal		1
+Backstab		2
+Die		0
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		0
+Dig_corpse	2
+Scorpse		100
+Savatar		550
+Sdeityobj		100
+Srecall		80
+Suplift		100
+Race		-1
+Class		-1
+Element		1
+Sex		-1
+Affected		1073741824&4
+Npcrace		0
+Npcfoe		0
+Suscept		1048576
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		6
+End
+
+#END

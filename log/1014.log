@@ -1,0 +1,143 @@
+Fri Oct 17 18:26:24 PDT 2014
+Fri Oct 17 18:26:24 2014 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Fri Oct 17 18:26:24 2014 :: Loading commands
+Fri Oct 17 18:26:24 2014 :: Loading sysdata configuration...
+Fri Oct 17 18:26:24 2014 :: Loading socials
+Fri Oct 17 18:26:24 2014 :: Loading skill table
+Fri Oct 17 18:26:24 2014 :: Sorting skill table...
+Fri Oct 17 18:26:24 2014 :: Remapping slots to sns
+Fri Oct 17 18:26:24 2014 :: Loading herb table
+Fri Oct 17 18:26:24 2014 :: Loading clans
+Fri Oct 17 18:26:24 2014 :: Loading channels
+Fri Oct 17 18:26:24 2014 :: Loading bits
+Fri Oct 17 18:26:24 2014 :: Loading help files
+Fri Oct 17 18:26:24 2014 :: Loading books
+Fri Oct 17 18:26:24 2014 :: Initializing random number generator
+Fri Oct 17 18:26:24 2014 :: Setting time and weather
+Fri Oct 17 18:26:24 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill disease not found.
+ASSIGN_GSN: Skill weaken not found.
+ASSIGN_GSN: Skill transmutation not found.
+ASSIGN_GSN: Skill charm person not found.
+ASSIGN_GSN: Skill counterspell not found.
+ASSIGN_GSN: Skill sharpen not found.
+Fri Oct 17 18:26:24 2014 :: Loading nations
+Fri Oct 17 18:26:24 2014 :: Loading cities
+Fri Oct 17 18:26:24 2014 :: Reading in area files...
+help.are: No such file or directory
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: load_area: error loading file (can't open)
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: help.are
+limbo.are     : Rooms:     1 - 8     Objs:     2 - 99    Mobs:     1 - 25
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
+stockobj.are  : Rooms: 29000 - 29000 Objs: 28900 - 29999 Mobs:     0 - 0
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+elkandu.are   : Rooms: 20000 - 20199 Objs: 20001 - 21001 Mobs: 20000 - 20099
+gmaze.are     : Rooms:  9000 - 9074  Objs:  9000 - 9006  Mobs:     0 - 0
+Fri Oct 17 18:26:24 2014 :: [*****] FILE: jaston.are LINE: 1071
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: load_room_reset: 'D': exit 2 not door.
+Fri Oct 17 18:26:24 2014 :: [*****] FILE: jaston.are LINE: 1071
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Reset: D 0 17024 2 2
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
+Fri Oct 17 18:26:24 2014 :: [*****] FILE: jaston.are LINE: 1324
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: load_room_reset: 'D': exit 1 not door.
+Fri Oct 17 18:26:24 2014 :: [*****] FILE: jaston.are LINE: 1324
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Reset: D 0 17040 1 0
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
+Fri Oct 17 18:26:24 2014 :: [*****] FILE: jaston.are LINE: 1685
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: load_room_reset: 'D': exit 0 not door.
+Fri Oct 17 18:26:24 2014 :: [*****] FILE: jaston.are LINE: 1685
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Reset: D 0 17064 0 0
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+jaston.are    : Rooms: 17000 - 17099 Objs: 17000 - 17099 Mobs: 17001 - 17050
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+school.are    : Rooms:   100 - 199   Objs:     0 - 0     Mobs:     0 - 0
+Houses.are    : Rooms:   200 - 999   Objs:     0 - 0     Mobs:     0 - 0
+Fri Oct 17 18:26:24 2014 :: Loading high scores...
+Fri Oct 17 18:26:24 2014 :: Loading Housing System, Home Accessories Data, and Home Auctioning System
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Get_room_index: bad vnum 10088.
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Cannot open homeaccessories.dat. Aborting loadup of accessories data.
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Cannot open homebuy.dat. Aborting loadup of home auction data.
+Fri Oct 17 18:26:24 2014 :: Fixing exits
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Get_room_index: bad vnum 17721.
+Fri Oct 17 18:26:24 2014 :: [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Deleting east exit in room 9001
+Fri Oct 17 18:26:24 2014 :: Initializing economy
+Fri Oct 17 18:26:24 2014 :: Loading materials
+Fri Oct 17 18:26:24 2014 :: Loading world
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Extract_char: NULL ch.
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Fread_mobile: Vnum not found
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Fri Oct 17 18:26:24 2014 :: Loading deities
+Fri Oct 17 18:26:24 2014 :: Loading talents...
+Fri Oct 17 18:26:24 2014 :: fire.dty
+Fri Oct 17 18:26:24 2014 :: earth.dty
+Fri Oct 17 18:26:24 2014 :: wind.dty
+Fri Oct 17 18:26:24 2014 :: frost.dty
+Fri Oct 17 18:26:24 2014 :: lightn.dty
+Fri Oct 17 18:26:24 2014 :: water.dty
+Fri Oct 17 18:26:24 2014 :: dream.dty
+Fri Oct 17 18:26:24 2014 :: speech.dty
+Fri Oct 17 18:26:24 2014 :: healing.dty
+Fri Oct 17 18:26:24 2014 :: death.dty
+Fri Oct 17 18:26:24 2014 :: change.dty
+Fri Oct 17 18:26:24 2014 :: time.dty
+Fri Oct 17 18:26:24 2014 :: motion.dty
+Fri Oct 17 18:26:24 2014 :: mind.dty
+Fri Oct 17 18:26:24 2014 :: illusion.dty
+Fri Oct 17 18:26:24 2014 :: seeking.dty
+Fri Oct 17 18:26:24 2014 :: catalysm.dty
+Fri Oct 17 18:26:24 2014 :: void.dty
+Fri Oct 17 18:26:24 2014 :: $
+Fri Oct 17 18:26:24 2014 ::  Done talents 
+Fri Oct 17 18:26:24 2014 :: Loading bans
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Load_banlist: no match: ÿ
+Fri Oct 17 18:26:24 2014 :: Done.
+Fri Oct 17 18:26:24 2014 :: Loading reserved names
+Fri Oct 17 18:26:24 2014 :: Loading material shops
+Fri Oct 17 18:26:24 2014 :: Loading moons
+Fri Oct 17 18:26:24 2014 :: Loading recipes
+Fri Oct 17 18:26:24 2014 :: Loading ingredients
+Fri Oct 17 18:26:24 2014 :: Loading species
+Fri Oct 17 18:26:24 2014 :: Loading mutations
+Fri Oct 17 18:26:24 2014 :: [*****] BUG: Load_mutations: no mutations found!
+Fri Oct 17 18:26:24 2014 :: Loading arenas
+Fri Oct 17 18:26:24 2014 :: Checking shops
+Fri Oct 17 18:26:24 2014 :: Initializing socket
+Init_socket: bind: Address already in use

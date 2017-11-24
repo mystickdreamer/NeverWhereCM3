@@ -1,0 +1,4512 @@
+#AREA   Torn Elkandu~
+
+
+
+#VERSION 1
+#AUTHOR Keolah~
+
+#RANGES
+2 20000 0 116
+$
+
+#RESETMSG Void~
+
+#FLAGS
+21
+
+#ECONOMY 0 66681172
+
+#CLIMATE 2 1 0 3
+
+#NEIGHBOR Limbo~
+
+#MOBILES
+#20000
+%s wizard nexus~
+Wizard %s~
+~
+71303171 4194304 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3812 100 0
+100 100 1000 100 100 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+> act_prog p appears in the~
+say Welcome home, $n.
+~
+> act_prog p has awakened~
+if time($n) > 4
+if time($n) < 12
+say Good morning, $n. How are you today?
+else
+if time($n) < 17
+say Good afternoon, $n. How are you today?
+else
+say Good evening, $n. How are you today?
+endif
+endif
+else
+yawn
+say I hate the graveyard shift.
+endif
+~
+> speech_prog p jaston!~
+mea $n Tendrils of mist surround you, and you arrive in Jaston.
+mpat 17000 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 17000
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p aymiaysia!~
+mea $n Tendrils of mist surround you, and you arrive in Aymiaysia.
+mpat 19999 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 19999
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog sheenvale!~
+mea $n Tendrils of mist surround you, and you arrive in Sheenvale.
+mpat 18304 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 18304
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p city in the trees!~
+mea $n Tendrils of mist surround you, and you arrive in City in the Trees.
+mpat 17725 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 17725
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p sunmun!~
+mea $n Tendrils of mist surround you, and you arrive in Sunmun.
+mpat 19191 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 19191
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p hrackston!~
+mea $n Tendrils of mist surround you, and you arrive in Hrackston.
+mpat 10000 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 10000
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p tesfin!~
+mea $n Tendrils of mist surround you, and you arrive in Tesfin.
+mpat 19200 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 19200
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p veyrkaal!~
+mea $n Tendrils of mist surround you, and you arrive in Veyrkaal.
+mpat 15234 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 15234
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p watchyourstep!~
+mea $n Tendrils of mist surround you, and you arrive in Watchyourstep.
+mpat 8219 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 8219
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog p corstad!~
+mea $n Tendrils of mist surround you, and you arrive in Corstad.
+mpat 18700 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 18700
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> act_prog traces~
+frown
+mpe _blu $I has dispelled the room!
+say The delicate balance of magicks in the Nexus must not be disrupted.
+~
+> act_prog p prepared to defend~
+mpforce $n guard
+say No need for that here, $n.
+~
+> speech_prog p weo shehfo!~
+mea $n Tendrils of mist surround you, and you arrive in Weo Shehfo.
+mpat 6000 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 6000
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> rand_prog 1~
+,examines the runes on the Nexus, making sure they're working properly.
+~
+> rand_prog 1~
+say Where do you want to go today?
+~
+> rand_prog 1~
+say I can sell you a map for 10 silver if you're lost.
+~
+> rand_prog 1~
+say Read the sign for a list of places the Nexus can send you.
+~
+> speech_prog help? help~
+say Type HELP and HELP START for some useful help files.
+~
+> speech_prog newbie? newbie~
+say If you are new to the realms...
+mea $n _lbl You may wish to first visit the Plane of the Wilderness.
+mea $n _lbl You may find it through the portal to the west in Earth's Grove.
+~
+> speech_prog food? food~
+say You can buy food in the bakery on Earth's Road.
+mea $n _lbl You can find it two west and one south.
+~
+> speech_prog water? water~
+say You can get water in the spring in Water's Square
+mea $n _lbl You can find it to the northeast.
+~
+> speech_prog map? map~
+say I can sell you a map of town.
+mea $n _lbl Just type: give 10 silver wizard
+~
+> death_prog 100~
+mpe _cya A new Wizard comes in to replace $I.
+mpmload 20000
+~
+> speech_prog school? academy?~
+mea $n _lbl You can find it all northwest and all north from here.
+~
+> speech_prog scalyr!~
+mea $n Tendrils of mist surround you, and you arrive in Scalyr.
+mpat 15860 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 15860
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog tinemocun!~
+mea $n Tendrils of mist surround you, and you arrive in Tinemocun.
+mpat 13000 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 13000
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> rand_prog 1~
+,absently points a finger at the trash can.
+mpe The contents of the trash can evaporate.
+mppurge trash
+mpoload 20007
+drop trash
+~
+> speech_prog udon!~
+mea $n Tendrils of mist surround you, an you arrive in Udon.
+mpat 11725 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 11725
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> bribe_prog 10000~
+mea $n Lightning cracks around you, and you arrive in the Iron City.
+mpat 5000 mpe Lightning cracks in the Nexus, and $n appears.
+mptrans $n 5000
+mpe Lightning cracks in the room, and $n is gone.
+~
+> bribe_prog 1000~
+mpoload 20099
+give nexus $n
+say There you go, $n
+drop nexus
+mpjunk all
+~
+> speech_prog p torn elkandu!~
+mea $n Lightning cracks in the Nexus, and you arrive in Torn Elkandu.
+mpat 20000 mpe Lightning cracks in the Nexus, and $n appears.
+mptrans $n 20000
+mpe Lightning cracks in the Nexus, and $n is gone.
+~
+> speech_prog corellius!~
+mea $n Tendrils of mist surround you, and you arrive in Corellius.
+mpat 18917 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 18917
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+> speech_prog fehndarlai!~
+mea $n Tendrils of mist surround you, and you arrive in Fehndarlai.
+mpat 15400 mpe Tendrils of mist fill the room, revealing $n.
+mptrans $n 15400
+mpe Tendrils of mist fill the room, and $n is gone.
+~
+|
+#20001
+%s bartender~
+%s the bartender~
+~
+71303171 4194304 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3812 100 0
+100 100 100 100 100 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 64 0 0 0 0 0
+> rand_prog 3~
+,offers you a drink.
+~
+> rand_prog 3~
+,pours a drink for a customer.
+~
+> rand_prog 3~
+,wipes the bar.
+~
+> rand_prog 3~
+say Can I pour you a drink?
+~
+> rand_prog 3~
+,chats with a customer.
+~
+> rand_prog 3~
+mpe A customer comes in and sits down at the bar.
+~
+> rand_prog 3~
+mpe A customer gets up and leaves.
+~
+> speech_prog ale?~
+,pours you a drink.
+say This one's on the house.
+mpoload 20088
+give ale $n
+drop ale
+~
+|
+#20002
+%s dealer~
+%s the dealer~
+~
+71303171 4194816 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3812 100 0
+100 13 13 100 100 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 64 0 0 0 0 0
+> rand_prog 5~
+,glances around for guards.
+~
+> rand_prog 5~
+,shows you some products.
+~
+|
+#20004
+%s marksman~
+%s the marksman~
+~
+71303171 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3712 100 0
+100 100 100 100 100 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 64 0 0 0 0 0
+> rand_prog 5~
+,strings a bow.
+~
+> rand_prog 5~
+,polishes a pistol.
+~
+> rand_prog 5~
+mpsellrand
+~
+> rand_prog 5~
+mpmakeitem
+~
+|
+#20005
+%s weaponsmith~
+%s, the weaponsmith~
+~
+71303171 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3712 100 0
+100 100 100 100 100 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 64 0 0 0 0 0
+> rand_prog 5~
+,pounds on a piece of white-hot metal.
+mpasound You hear the clanging sounds of a forge.
+~
+> rand_prog 5~
+,pumps at the bellows.
+mpasound _red You feel the heat of a nearby forge.
+~
+> rand_prog 5~
+mpsellrand
+~
+> rand_prog 5~
+mpmakeitem
+~
+|
+#20050
+pigeon~
+a pigeon~
+~
+1 524288 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3812 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 0 0 0 0 0 1
+0 0 16811197 0 0 0 3 2
+#20099
+quest master questmaster~
+the Questmaster~
+If you have any Easter eggs, give them to me one at a time to
+redeem them.
+~
+71303171 4194304 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+3812 100 0
+100 100 100 100 100 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+> act_prog p gives you an~
+if ovnumcarry(14197) > 0
+say Good job, $n, you get 1 point for your reward.
+mpaddpoints $n 1
+mpjunk all
+else
+say I don't want your junk, $n.
+drop all
+endif
+~
+|
+#0
+
+
+#OBJECTS
+#20001
+coffee cup~
+a cup of coffee~
+A hot, steaming cup of coffee sits here.~
+~
+10 0 8193
+0
+0 -1 20 -1 -1 -1
+1 100 0
+'refresh' 'hyperactivity' 'NONE'
+#20002
+NyQuil~
+&z&BNyQuil&w~
+A bottle of NyQuil is sitting here.~
+~
+10 0 1
+0
+0 -1 35 37
+1 100 0
+'NONE' 'sedate' 'sleep'
+#20007
+trash can garbage waste basket~
+trash can~
+Why are you examining a trash can?~
+~
+15 131072 0
+0
+1000000 0 0 0
+10000 0 0
+#20008
+veteran memorial wall~
+the veterans memorial~
+The veterans memorial wall stands here.~
+~
+13 0 0
+0
+0 0 0 0
+10000 0 0
+#20009
+beer~
+a bottle of beer~
+A bottle of beer is sitting here.~
+~
+17 0 1
+0
+5 5 1 0 1 0
+1 50 0
+#20013
+atm machine bank~
+an atm machine~
+An ATM machine is set into one wall.~
+~
+55 131072 0
+0
+0 0 0 0
+10000 0 0
+#20014
+lever~
+the trash compactor~
+A lever is here to operate the trash compactor.~
+~
+37 131072 0
+0
+0 0 0 0
+10000 0 0
+> pull_prog 100~
+mpe You hear a sickening crunch to the east.
+mpat 20163 mpe You are crushed in the trash compactor!
+mpat 20163 c shockwave
+mpat 20163 mppurge
+~
+|
+#20020
+artu root~
+an artu root~
+A dark, chewy artu root lies here.~
+~
+26 0 1
+0
+0 -1 -1 -1 -1 -1
+1 100 0
+'NONE' 'NONE' 'NONE'
+#20021
+calluv grass~
+some stalks of calluv grass~
+Some stalks of yellow calluv grass lie here.~
+~
+26 0 1
+0
+0 -1 -1 -1 -1 -1
+1 100 0
+'NONE' 'NONE' 'NONE'
+#20022
+coffee beans~
+some coffee beans~
+Some coffee beans have been spilled here.~
+~
+19 0 1
+0
+0 0 0 0
+5 100 0
+#20023
+sugar cane~
+some sugar cane~
+Some canes of sugar lie here.~
+~
+19 0 1
+0
+10 0 0 0
+1 100 0
+#20024
+cocoa beans~
+some cocoa beans~
+Some cocoa beans were spilled here.~
+~
+19 0 1
+0
+0 0 0 0
+1 100 0
+#20025
+a piece of chocolate~
+a piece of chocolate~
+A piece of delicious looking chocolate lies here.~
+~
+19 0 1
+0
+10 0 0 0
+1 1000 0
+#20026
+yeast mold~
+some yeast mold~
+Some yeast mold is here.~
+~
+19 0 1
+0
+0 0 0 1
+1 100 0
+#20027
+calluv flour~
+some calluv flour~
+Some calluv flour has been spilled here.~
+~
+19 0 1
+0
+0 0 0 0
+1 100 0
+#20028
+mushroom spotted~
+a spotted mushroom~
+A spotted mushroom sits on the ground.~
+~
+19 0 1
+0
+0 0 0 0
+1 100 0
+#20029
+milk jug~
+a milk jug~
+A milk jug is sitting here.~
+~
+17 0 1
+0
+20 20 10 0
+1 100 0
+#20030
+lichen pink~
+some pink lichen~
+Some pink lichen lies here.~
+~
+19 0 1
+0
+0 0 0 1
+1 100 0
+#20031
+berries worfberries~
+some worfberries~
+A handful of worfberries was dropped here.~
+~
+19 0 1
+0
+10 10 0 0
+1 200 0
+#20032
+lern fruit~
+a piece of lern fruit~
+A piece of sour green lern fruit sits here.~
+~
+19 0 1
+0
+5 5 0 0
+1 200 0
+#20033
+grapes~
+a bunch of grapes~
+A bunch of grapes is sitting here.~
+~
+19 0 1
+0
+5 5 0 0
+1 100 0
+#20034
+algae red~
+some red algae~
+Some reddish colored algae lies here.~
+~
+19 0 1
+0
+0 0 0 5
+1 100 0
+#20050
+cup espresso~
+a cup of espresso~
+A cup of hot steaming espresso sits here.~
+~
+10 0 1
+0
+0 -1 20 20
+1 10000 0
+'hyperactivity' 'hyperactivity' 'hyperactivity'
+#20051
+cream~
+a cup of cream~
+A cup of rich cream sits here.~
+~
+10 0 1
+0
+0 -1 -1 -1 -1 -1
+1 1000 0
+'NONE' 'NONE' 'NONE'
+#20052
+salve pink~
+some pink salve~
+A jar of pink salve sits here.~
+~
+60 0 1
+0
+0 5 5 16 -1 -1
+1 5000 0
+'cure blindness' 'NONE'
+#20053
+potion pink~
+a &Ppink potion&w~
+A foamy pink potion sits here.~
+~
+10 0 1
+0
+0 -1 -1 -1 -1 -1
+1 25000 0
+'NONE' 'NONE' 'NONE'
+#20060
+cup cappucino~
+a cup of cappucino~
+A cup of hot steaming cappucino sits here.~
+~
+10 0 1
+0
+0 -1 20 31
+1 3000 0
+'hyperactivity' 'hyperactivity' 'refresh'
+#20080
+Green Pez~
+&Ga piece of green pez&w~
+A piece of pez lies here.~
+~
+19 0 1
+0
+0 0 0 0
+1 0 0
+#20081
+pez dispenser~
+a pez dispenser~
+A pez dispenser lies on teh ground.~
+~
+1 0 4194305
+128
+30 30 30 86
+1 0 0
+> use_prog 100~
+mea $n A piece of pez drops out of the dispenser.
+mer $n A piece of pez drops out of the dispenser
+mpoload 20080 1 20
+give pez $n
+drop pez
+~
+|
+#20082
+cup mocha~
+a cup of mocha~
+A cup of hot steaming mocha sits here.~
+~
+10 8192 1
+0
+0 -1 20 -1 -1 -1
+1 2000 0
+'hyperactivity' 'hyperactivity' 'NONE'
+#20083
+cookie chocolate chip~
+a chocolate-chip cookie~
+A delicious looking chocolate chip cookie lies here.~
+~
+19 0 1
+0
+20 0 0 0
+1 1000 0
+#20084
+tea cup artu~
+a cup of artu-luv tea~
+A steaming cup of tea lies here.~
+~
+10 0 1
+0
+0 -1 37 37
+1 5000 0
+'sedate' 'sleep' 'sleep'
+#20085
+tea cup artu~
+a cup of artu-luv tea~
+A steaming cup of tea lies here.~
+~
+10 0 1
+0
+0 -1 -1 -1 -1 -1
+1 5000 0
+'sedate' 'NONE' 'NONE'
+#20086
+salve white~
+a cool white salve~
+A jar of a cool white salve sits here.~
+~
+60 0 1
+0
+0 5 5 18 -1 -1
+1 5000 0
+'cure poison' 'NONE'
+#20087
+chocolate milk glass~
+a glass of chocolate milk~
+A glass of chocolate milk sits here.~
+~
+17 0 1
+0
+5 5 10 0
+1 1000 0
+#20088
+ale gnomish mug~
+a mug of gnomish ale~
+A mug of a filmy pink ale lies here.~
+~
+17 0 1
+0
+5 5 4 0 1 0
+1 4000 0
+#20089
+salve blue~
+a light blue salve~
+A jar of a light blue salve sits here.~
+~
+60 0 1
+0
+0 5 5 16 -1 -1
+1 5000 0
+'NONE' 'NONE'
+#20090
+worfberry berry pie~
+a worfberry pie~
+A delicious looking worfberry pie sits here.~
+~
+19 0 1
+0
+20 20 0 0
+1 2000 0
+#20091
+ice cream vanilla~
+some vanilla ice cream~
+A bowl of vanilla ice cream is sitting here.~
+~
+19 0 1
+0
+10 10 0 0
+1 1000 0
+#20092
+ice cream chocolate~
+some chocolate ice cream~
+A bowl of chocolate ice cream is sitting here.~
+~
+19 0 1
+0
+10 10 0 0
+1 2000 0
+#20093
+lernade cup~
+a cup of lernade~
+A cup of sweet green lernade sits here.~
+~
+10 0 1
+0
+0 -1 -1 -1 -1 -1
+1 1000 0
+'refresh' 'NONE' 'NONE'
+#20094
+korlag fruitcake cake~
+a korlag fruitcake~
+A piece of heavy korlag fruitcake sits here.~
+~
+19 0 1
+0
+30 30 0 0
+10 3000 0
+#20095
+salve green~
+a pale green salve~
+A jar of a pale green salve sits here.~
+~
+60 0 1
+0
+0 5 5 16 -1 -1
+1 7500 0
+'remove curse' 'NONE'
+#20096
+cup juice worfberry~
+a cup of worfberry juice~
+A cup of dark red worfberry juice sits here.~
+~
+10 0 1
+0
+0 -1 -1 -1 -1 -1
+1 1000 0
+'refresh' 'NONE' 'NONE'
+#20097
+ice cream worfberry~
+some worfberry ice cream~
+A bowl of worfberry ice cream is sitting here.~
+~
+19 0 1
+0
+10 10 0 0
+1 2000 0
+#20098
+forge~
+a forge~
+A searing fire burns brightly on the smithy's forge~
+~
+34 131073 0
+0
+0 0 0 0
+10000 0 0
+#20099
+map elkandu nexus~
+a map of Torn Elkandu~
+A rolled up map is laying on the floor.~
+~
+45 0 1
+0
+0 0 0 0
+1 1000 0
+E
+map elkandu~
+..........................Frost.............................
+............................................................
+..........Thought......####[ ]#####......Water..............
+..................#####.....#......####.....................
+...............[ ]..........#..........[ ]..In..............
+..............#.##..........#[S].......##.#...fi............
+............##....##........#........##....##...n...........
+...........#........##...[C]#.[W]..##[S].....#...i..........
+..........#........[S]##....#.[S]##...........#...t.........
+.........#..............##..#..##[RP][W].......#..y.........
+.........#..[S]...........#####..[T][PO].......#............
+..Earth.[ ]################( )################[ ].Wind......
+.........#.....[O].[S]....#####........[S].....#............
+.........#..............##..#..##..............#............
+..........#...........##....#[$].##[A]........#.............
+...........#.....[S]##[T]...#......##[S].....#..............
+............##....##........#[S].....##....##...............
+..............#.##..........#..........##.#.................
+...............[ ].......[S]#..........[ ]..................
+.........Soul....######.....#.....#####....Lightning........
+.......................####[ ]####..........................
+............................................................
+..........................Fire..............................
+There is a LEGEND at the bottom (look legend)
+~
+E
+legend~
+### - Road
+( ) - The Nexus
+[ ] - a square
+[S] - a shop
+[$] - the bank
+[C] - The Council Hall
+[PO]- Post Office
+[T] - Temple
+[A] - Auction House
+[W] - a public restroom
+[RP]- Reflecting Pool (shows your talents)
+[O] - Ore Shop
+~
+#20100
+flame tongue dagger~
+&RFl&ra&Rm&re &RT&ro&Rng&rue&w~
+A dagger whose blade seems to be a tongue of pure fire lies here.~
+~
+5 0&2 8193
+0
+0 1 10 2 2 2
+3 1000000 0
+A
+19 30
+A
+18 20
+> wear_prog 100~
+mea $n _ora As you wield the dagger, it bursts into flame!
+mer $n _ora As $n wields the dagger, it bursts into flame!
+~
+> remove_prog 100~
+mea $n _ora The flames die down as you sheathe the dagger.
+mer $n _ora The flames die down as $n sheathes the dagger.
+~
+> get_prog 100~
+mea $n _ora This dagger is hot to the touch, it almost burns you!
+~
+> drop_prog 100~
+mea $n _ora The dagger blackens the ground with heat as you drop it.
+mer $n _ora The dagger blackens the ground with heat as $n drops it.
+~
+|
+#20101
+frozen viper~
+&CFrozen Viper&w~
+&CAn icy cold dagger sends a shiver up your spine.&w~
+~
+5 0&2 8193
+0
+5 1 10 11 4 2
+3 1000000 0
+E
+viper dagger frozen~
+Forged in the time of the Dragon Wars, this icy dagger is a potent
+defense against dragons.
+~
+A
+19 30
+A
+18 20
+A
+27 1
+> wear_prog 100~
+mea $n _lbl For a moment, everything seems to be blanketed in snow.
+mer $n _lbl A frigid mist swirls around $n.
+~
+> get_prog 100~
+mpe _lbl A gust of ice and snow swirls around the frigid blade.
+~
+> remove_prog 100~
+mpe _lbl A gust of warm air blows away the dagger's aura of cold.
+~
+> drop_prog 100~
+mpe _lbl Ice swirls around the dagger, giving it an icy sheen.
+~
+|
+#20102
+serpent tongue dagger~
+&GS&ge&Grp&ge&Gnt&g's &GT&go&Gng&gue&w~
+A wicked dagger shaped like a snake glistens with poison here.~
+~
+5 0&2 8193
+0
+0 1 10 2 1 2
+3 1000000 0
+A
+19 30
+A
+18 20
+> wear_prog 100~
+if isevil($n)
+mea $n _gre The dagger seems to fit perfectly in your hand.
+mer $n _gre $n wields the dagger as if it were made for $m.
+else
+mea $n _gre The serpentine blade coils in protest, biting you!
+mer $n _gre The serpentine blade coils around and bites $n!
+mpdamage $n 100
+c poison $n
+c poison $n
+c poison $n
+endif
+~
+> remove_prog 100~
+if isevil($n)
+mea $n _gre Removing this blade feels like losing a hand.
+mer $n _gre $n wrenches the dagger out of $s hand.
+mpdamage $n 100
+else
+mea $n _gre You feel relieved at sheathing this wicked dagger.
+endif
+~
+> get_prog 100~
+if isevil($n)
+mea $n _gre The serpentine blade seems to hiss in welcome.
+mer $n _gre You hear a faint hissing sound from the blade.
+else
+mea $n _gre The tainted dagger seems to hiss in warning.
+mer $n _gre You hear a faint hissing sound from the blade.
+endif
+~
+> drop_prog 100~
+if isevil($n)
+mea $n _gre You feel sad at the dagger's departure.
+else
+mea $n _gre Relief overcomes you at ridding yourself of the filthy dagger.
+endif
+~
+|
+#20103
+khan fire ring~
+&RKh&ra&Rn&r, the &RR&ri&Rng &rof &RF&ri&Rr&re&w~
+A ring with a radiantly red ruby lies here.~
+%s slides $p onto $s finger, the red stone glowing brightly.~
+9 64&2 3
+128
+0 0 0 0
+1 1000000 0
+A
+28 1
+A
+26 33554432
+A
+32 30
+> wear_prog 100~
+mea $n _ora Mystical flames rise to enshroud you.
+mer $n _ora Mystical flames rise to enshroud $n.
+~
+> remove_prog 100~
+mea $n _ora The mystical flames around you die.
+mer $n _ora The mystical flames around $n die.
+~
+> get_prog 100~
+mea $n _ora This ring is hot to the touch, it almost burns you!
+~
+> drop_prog 100~
+mea $n _ora The ring seems to shimmer with fiery light as you drop it.
+~
+|
+#20104
+nyst frost ice ring~
+&CN&Wy&Cst, the R&Wi&Cng of &WI&Cc&We&w~
+A ring with a frigid glowing blue stone lies here.~
+%s slide$q $p onto $s finger, and the white stone glows.~
+9 64&2 3
+128
+0 0 0 0
+1 1000000 0
+A
+28 2
+A
+26 268435456
+A
+35 30
+#20105
+finn earth ring~
+&GF&gi&Gnn&g, the &GR&gi&Gng&g of &GE&gar&Gth&w~
+A ring with a glowing green emerald lies here.~
+%s slide$q $p onto $s finger, and the green stone glows.~
+9 64&2 3
+256
+0 0 0 0
+1 1000000 0
+A
+28 256
+A
+33 30
+#20106
+gyr water ring~
+&BG&by&Br&b, the &BR&bi&Bng&b of &BW&ba&Bt&be&Br&w~
+A ring with a swirling blue radiant stone lies here.~
+%s slide$q $p onto $s finger and the blue stone glows.~
+9 64&2 3
+256
+0 0 0 0
+1 1000000 0
+A
+28 128
+A
+26 134217728
+A
+26 -2147483648
+A
+37 30
+#20107
+zye speech ring~
+&PZ&py&Pe&p, the &PR&pi&Png&P of &PSp&pee&Pch&w~
+A ring with a glowing amethyst lies here.~
+~
+9 64&2 3
+0
+0 0 0 0
+1 1000000 0
+A
+39 30
+A
+4 10
+#20108
+teeck time ring~
+&CT&cee&Cck&c, the &CR&ci&Cng &cof &CT&ci&Cm&ce&w~
+A ring set with a slowly turning glowing blue stone lies here.~
+%s slide$q $p onto $s finger, and the blue stone glows.~
+9 64&2 3
+256
+0 0 0 0
+1 1000000 0
+A
+43 30
+A
+18 10
+#20109
+ti wind air ring~
+&CT&ci, the &CR&ci&Cng&c of &CW&ci&Cnd&w~
+A ring with a glowing blue stone lies here.~
+%s slide$p $p onto $s finger, and the blue stone glows.~
+9 64&2 3
+128
+0 0 0 0
+1 1000000 0
+A
+26 524288
+A
+34 30
+#20110
+illyr motion ring~
+&WI&Ylly&Wr, the R&Yin&Wg of M&Yotio&Wn&w~
+A ring with a glowing pale yellow stone lies here.~
+%s slide$q $p onto $s finger, and the yellow stone glows.~
+9 64&2 3
+256
+0 0 0 0
+1 1000000 0
+A
+28 524288
+A
+44 30
+#20111
+fawnd seeking ring~
+&GF&gaw&Gnd&g, the &GR&gi&Gng&g of &GS&gee&Gk&gi&Gng&w~
+A ring with a glowing pale green stone lies here.~
+~
+9 1073741888&2 3
+0
+0 0 0 0
+1 1000000 0
+A
+25 20
+A
+47 20
+#20112
+eryck security ring~
+&CEr&cy&Cck&c, the &CR&ci&Cng&c of &CS&ce&Cc&cu&Cr&ci&Ct&cy&w~
+A ring with a glowing turquoise gem lies here.~
+~
+9 64&2 3
+0
+0 0 0 0
+1 1000000 0
+A
+26 8192
+A
+48 30
+#20113
+deluder cloak~
+&za &ws&zh&wi&zf&wt&zi&wn&zg &wc&zl&wo&za&wk named '&wD&ze&wl&zu&wd&ze&wr&w'~
+A cloak like a shifting shadow lies on the ground.~
+~
+9 0&2 9 32
+0
+0 0 0 0
+1 1000000 0
+A
+46 30
+A
+2 10
+#20114
+phial galadriel~
+the &YP&Whia&Yl of G&Wala&Yd&Wrie&Yl&w~
+A radiantly glowing phial lies on the ground.~
+~
+1 1&2 4194305
+0
+0 0 0 0
+1 1000000 0
+A
+40 30
+A
+25 10
+#20115
+mjollnir hammer~
+&zM&cj&wo&Cll&wn&ci&zr&w~
+A massive hammer crackles with lightning here.~
+~
+5 0&2 8193
+0
+0 10 10 8 5 5
+30 1000000 0
+A
+36 30
+A
+18 20
+A
+19 20
+#20116
+arrow~
+arrow~
+Some god dropped a newly created arrow here.~
+~
+57 598016 0
+0
+0 0 0 0 0 8
+1 100 0
+#20117
+bolt~
+bolt~
+Some god dropped a newly created bolt here.~
+~
+57 589824 0
+0
+0 0 0 0 0 9
+1 300 0
+#20118
+bullet~
+bullet~
+Some god dropped a newly created bullet here.~
+~
+57 524288 0
+0
+0 0 0 0 0 7
+1 500 0
+#20119
+lemon drop~
+lemon drop~
+Some god dropped a newly created lemon drop here.~
+~
+19 65 0
+0
+0 0 0 0
+1 0 0
+> use_prog 100~
+mea $n You eat the glowing lemon drop and feel disoriented...
+mer $n $n eats a glowing lemon drop and $s form shimmers and fades...
+mpscatter $n 2000 19999
+~
+|
+#20120
+crystal ball~
+the crystal ball~
+A mystical crystal ball...~
+~
+1 65 0
+0
+0 0 0 0
+1 10000 0
+> exa_prog 100~
+mea $n _blu You gaze into $O.
+mer $n _blu $n gazes into $O.
+if rand(10)
+mpe _lbl $O is clear, the outcome is true.
+else
+if rand(11)
+mpe _lbl $O is clear, the outcome is false.
+else
+if rand(12)
+mpe _lbl $O is cloudy..
+else
+if rand(14)
+mpe _lbl $O is unclear.
+else
+if rand(16)
+mpe _whi $O shimmers a pristine white
+else
+if rand(20)
+mpe _blu $O shines a radiant blue.
+else
+if rand(25)
+mpe _gre $O glows a soft green.
+else
+if rand(33)
+mpe _red $O glows blood red.
+else
+if rand(50)
+mpe _cha $O becomes a mute grey.
+else
+mpe _dch $O goes dead black.
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+|
+#20121
+mystic ball~
+the mystic ball~
+A mystical crystaline ball glowing with magic.~
+~
+1 65 0
+0
+0 0 0 0
+1 100000 0
+> exa_prog 100~
+mea $n _blu You gaze into $O.
+mer $n _blu $n gazes into $O.
+if rand(10)
+mpe _lbl $O is clear, the outcome is true.
+else
+if rand(11)
+mpe _lbl $O is clear, the outcome is false.
+else
+if rand(12)
+mpe _lbl $O is cloudy, the outcome is unknown.
+else
+if rand(14)
+mpe _lbl $O is unclear, it may be so.
+else
+if rand(16)
+mpe _whi $O is bright, the outcome looks positive.
+else
+if rand(20)
+mpe _blu $O is blue, the outcome is good.
+else
+if rand(25)
+mpe _gre $O is green, it will be as you wish it.
+else
+if rand(33)
+mpe _red $O is red, the outcome is bad.
+else
+if rand(50)
+mpe _cha $O is grey, it may not be so.
+else
+mpe _dch $O is dark, the outcome looks negative.
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+|
+#20122
+deck cards~
+the deck of cards~
+A deck of fortune telling cards.~
+~
+13 64 0
+0
+0 0 0 0
+1 200000 0
+> exa_prog 100~
+mea $n _blu You shuffle the deck and pull out a card.
+mer $n _blu $n shuffles the deck and pulls out a card.
+if rand(8)
+mpe _red It is the Demon.
+else
+if rand(9)
+mpe _yel It is the Sun.
+else
+if rand(10)
+mpe _lbl It is the Gates of Time.
+else
+if rand(11)
+mpe _lbl It is the Sword.
+else
+if rand(12)
+mpe _bro It is the Dwarf.
+else
+if rand(14)
+mpe _lbl It is the Pixie.
+else
+if rand(16)
+mpe _whi It is the Angel.
+else
+if rand(20)
+mpe _blu It is the Mermaid.
+else
+if rand(25)
+mpe _gre It is the Tree.
+else
+if rand(33)
+mpe _red It is the Succubus.
+else
+if rand(50)
+mpe _ora It is the Dragon.
+else
+mpe _dch It is the Skull.
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+|
+#20199
+Bleh the Object~
+a newly created Bleh the Object~
+Some god dropped a newly created Bleh the Object here.~
+~
+13 1073741824 0
+0
+0 0 0 0
+1 0 0
+#21001
+portal~
+a portal~
+Some god dropped a newly created portal here.~
+~
+1 131137 0
+0
+0 0 0 0
+10000 0 0
+#0
+
+
+#ROOMS
+#20000
+the Nexus of Torn Elkandu~
+An important sign hangs here telling how to get a map and how to use the Nexus.
+~
+0 8 1 0 0 2304
+80 80 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20001
+D1
+~
+~
+0 -1 20007
+D2
+~
+~
+0 -1 20004
+D3
+~
+~
+0 -1 20010
+D4
+~
+~
+64 -1 20080
+D6
+~
+~
+0 -1 20013
+D7
+~
+~
+0 -1 20022
+D8
+~
+~
+0 -1 20016
+D9
+~
+~
+0 -1 20019
+R M 0 20000 1 20000
+R O 0 20007 1 20000
+E
+sign~
+Welcome to the Nexus of Torn Elkandu.  To use the Nexus, say to the
+wizard posted here the name of your destination, such say, say 'Jaston!'
+if you want to go to Jaston.
+ 
+Currently, the Nexus can take you to the following locations:
+Jaston, Sheenvale, Hrackston, Scalyr, Tinemocun, Fehndarlai (Lezaria)
+Aymiaysia (Sasherey), Tesfin (Hasaris), Corstad (Corstad)
+City in the Trees (Wilderplane)
+Sunmun (Glassandia), Udon (Veeden)
+Veyrkaal and Watchyourstep (Straegarx)
+Weo Shehfo, Corellius (Sea-Lake)
+
+Iron City (Mezulbryst) (give 1 gold wizard, if you wish to go here)
+
+NEWBIES: To buy a map, type: give 10 silver wizard
+~
+> act_prog p Tendrils of mist~
+mpasound The Nexus seems to hum for a moment.
+~
+|
+S
+#20001
+Frost's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20002
+D2
+~
+~
+0 -1 20000
+S
+#20002
+Frost's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20003
+D1
+~
+~
+0 -1 20196
+D2
+~
+~
+0 -1 20001
+D3
+~
+~
+0 -1 20199
+S
+#20003
+Frost's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20029
+D1
+~
+~
+0 -1 20102
+D2
+~
+~
+0 -1 20002
+S
+#20004
+Fire's Road~
+~
+0 0 1
+0 20 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20000
+D2
+~
+~
+0 -1 20005
+S
+#20005
+Fire's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20004
+D1
+~
+~
+0 -1 20160
+D2
+~
+~
+0 -1 20006
+S
+#20006
+Fire's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20005
+D1
+~
+~
+0 -1 20047
+D2
+~
+~
+0 -1 20033
+S
+#20007
+Wind's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20008
+D3
+~
+~
+0 -1 20000
+S
+#20008
+Wind's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20009
+D2
+~
+~
+0 -1 20181
+D3
+~
+~
+0 -1 20007
+S
+#20009
+Wind's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20030
+D2
+~
+~
+0 -1 20048
+D3
+~
+~
+0 -1 20008
+S
+#20010
+Earth's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20000
+D3
+~
+~
+0 -1 20011
+S
+#20011
+Earth's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20193
+D1
+~
+~
+0 -1 20010
+D2
+~
+~
+0 -1 20038
+D3
+~
+~
+0 -1 20012
+S
+#20012
+Earth's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20182
+D1
+~
+~
+0 -1 20011
+D2
+~
+~
+0 -1 20167
+D3
+~
+~
+0 -1 20035
+S
+#20013
+Water's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20039
+D1
+~
+~
+0 -1 20177
+D6
+~
+~
+0 -1 20014
+D9
+~
+~
+0 -1 20000
+S
+#20014
+Water's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20037
+D2
+~
+~
+0 -1 20177
+D3
+~
+~
+0 -1 20039
+D6
+~
+~
+0 -1 20015
+D9
+~
+~
+0 -1 20013
+S
+#20015
+Water's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20184
+D2
+~
+~
+0 -1 20037
+D6
+~
+~
+0 -1 20031
+D9
+~
+~
+0 -1 20014
+S
+#20016
+Lightning's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20179
+D7
+~
+~
+0 -1 20000
+D8
+~
+~
+0 -1 20017
+S
+#20017
+Lightning's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20147
+D2
+~
+~
+0 -1 20148
+D3
+~
+~
+0 -1 20179
+D7
+~
+~
+0 -1 20016
+D8
+~
+~
+0 -1 20018
+S
+#20018
+Lightning's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20147
+D1
+~
+~
+0 -1 20050
+D2
+~
+~
+0 -1 20194
+D3
+~
+~
+0 -1 20148
+D7
+~
+~
+0 -1 20017
+D8
+~
+~
+0 -1 20032
+S
+#20019
+Soul's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20000
+D9
+~
+~
+0 -1 20020
+S
+#20020
+Soul's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20026
+D6
+~
+~
+0 -1 20019
+D9
+~
+~
+0 -1 20021
+S
+#20021
+Soul's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20026
+D2
+~
+~
+0 -1 20183
+D3
+~
+~
+0 -1 20113
+D6
+~
+~
+0 -1 20020
+D9
+~
+~
+0 -1 20034
+S
+#20022
+Thought's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20195
+D7
+~
+~
+0 -1 20023
+D8
+~
+~
+0 -1 20000
+S
+#20023
+Thought's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20195
+D3
+~
+~
+0 -1 20027
+D7
+~
+~
+0 -1 20024
+D8
+~
+~
+0 -1 20022
+S
+#20024
+Thought's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20192
+D2
+~
+~
+0 -1 20027
+D3
+~
+~
+0 -1 20197
+D7
+~
+~
+0 -1 20028
+D8
+~
+~
+0 -1 20023
+S
+#20025
+School of Thought~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 101
+D2
+~
+~
+0 -1 20105
+R M 0 17012 1 20025
+S
+#20026
+Temple of Souls~
+~
+0 8 0 0 0 256
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 9748 20020
+D3
+~
+~
+0 -1 20021
+R M 0 17004 42 20026
+S
+#20027
+Quills of Thought~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20024
+D1
+~
+~
+0 -1 20023
+R M 0 18302 12 20027
+S
+#20028
+Thought's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20192
+D2
+~
+~
+0 -1 20197
+D7
+~
+~
+0 -1 20036
+D8
+~
+~
+0 -1 20024
+S
+#20029
+Frost's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20042
+D2
+~
+~
+0 -1 20003
+S
+#20030
+Wind's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20046
+D2
+~
+~
+0 -1 20191
+D3
+~
+~
+0 -1 20009
+S
+#20031
+Water's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20184
+D6
+~
+~
+0 -1 20040
+D9
+~
+~
+0 -1 20015
+S
+#20032
+Lightning's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20050
+D3
+~
+~
+0 -1 20194
+D7
+~
+~
+0 -1 20018
+D8
+~
+~
+0 -1 20045
+S
+#20033
+Fire's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20006
+D1
+~
+~
+0 -1 20190
+D2
+~
+~
+0 -1 20041
+D3
+~
+~
+0 -1 20103
+S
+#20034
+Soul's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20113
+D1
+~
+~
+0 -1 20183
+D6
+~
+~
+0 -1 20021
+D9
+~
+~
+0 -1 20043
+S
+#20035
+Earth's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20049
+D1
+~
+~
+0 -1 20012
+D2
+~
+~
+0 -1 20180
+D3
+~
+~
+0 -1 20044
+S
+#20036
+Thought's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20136
+D7
+~
+~
+0 -1 20104
+D8
+~
+~
+0 -1 20028
+D9
+~
+~
+0 -1 20137
+D10
+~
+portal~
+131072 -1 20166
+R O 0 21001 1 20036
+S
+#20037
+Potions of Water~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20015
+D3
+~
+~
+0 -1 20014
+R M 0 19402 10 20037
+  R G 1 19996 1
+R O 0 20001 1 20037
+R O 0 20002 1 20037
+S
+#20038
+Bread of Earth~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20011
+R M 0 17001 16 20038
+R O 0 20 1 20038
+S
+#20039
+Tavern of Water~
+~
+0 8 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20158
+D1
+~
+~
+0 -1 20014
+D2
+~
+~
+0 -1 20013
+R M 0 20001 18 20039
+  R G 1 20001 1
+R O 0 20009 1 20039
+R O 0 20029 1 20039
+S
+#20040
+Water's Square~
+~
+0 4 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20060
+D7
+~
+~
+0 -1 20129
+D8
+~
+~
+0 -1 20128
+D9
+~
+~
+0 -1 20031
+R O 0 22 1 20040
+S
+#20041
+Fire's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20033
+D1
+~
+~
+0 -1 20118
+D2
+~
+~
+0 -1 20051
+D3
+~
+~
+0 -1 20117
+D10
+~
+portal~
+131072 -1 20169
+R O 0 30 1 20041
+R O 0 21001 1 20041
+S
+#20042
+Frost's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20091
+D1
+~
+~
+0 -1 20132
+D2
+~
+~
+0 -1 20029
+D3
+~
+~
+0 -1 20133
+S
+#20043
+Soul's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20149
+D6
+~
+~
+0 -1 20034
+D7
+~
+~
+0 -1 20144
+D8
+~
+~
+0 -1 20114
+D10
+~
+portal~
+131072 -1 20145
+R O 0 21001 1 20043
+S
+#20044
+Earth's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20140
+D1
+~
+~
+0 -1 20035
+D2
+~
+~
+0 -1 20141
+D3
+~
+~
+0 -1 20081
+S
+#20045
+Lightning's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20162
+D6
+~
+~
+0 -1 20122
+D7
+~
+~
+0 -1 20032
+D9
+~
+~
+0 -1 20121
+D10
+~
+portal~
+131072 -1 20165
+R O 0 21001 1 20045
+S
+#20046
+Wind's Square~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20125
+D1
+~
+~
+0 -1 20072
+D2
+~
+~
+0 -1 20124
+D3
+~
+~
+0 -1 20030
+D10
+~
+portal~
+131072 -1 20170
+S
+#20047
+Armor of Flame~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20190
+D3
+~
+~
+0 -1 20006
+R M 0 17002 19 20047
+R O 0 20098 1 20047
+S
+#20048
+Arrows of Wind~
+~
+0 8 0
+0 40 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20009
+D1
+~
+~
+0 -1 20191
+R M 0 17006 9 20048
+R O 0 20118 1 20048
+R O 0 20116 1 20048
+R O 0 20117 1 20048
+S
+#20049
+Used Ore~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20035
+S
+#20050
+Lights of Lightning~
+~
+0 8 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20032
+D3
+~
+~
+0 -1 20018
+R M 0 17003 43 20050
+R O 0 21 1 20050
+S
+#20051
+Outside Fire's Cavern~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20041
+D2
+~
+~
+0 -1 20052
+S
+#20052
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D0
+~
+~
+0 -1 20051
+D5
+~
+~
+0 -1 20053
+S
+#20053
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D2
+~
+~
+0 -1 20054
+D3
+~
+~
+0 -1 20056
+D4
+~
+~
+0 -1 20052
+S
+#20054
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D0
+~
+~
+0 -1 20053
+D1
+~
+~
+0 -1 20055
+S
+#20055
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D3
+~
+~
+0 -1 20054
+S
+#20056
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D1
+~
+~
+0 -1 20053
+D5
+~
+~
+0 -1 20057
+S
+#20057
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D3
+~
+~
+0 -1 20058
+D4
+~
+~
+0 -1 20056
+S
+#20058
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D1
+~
+~
+0 -1 20057
+D2
+~
+~
+0 -1 20059
+S
+#20059
+Cave of Fire~
+~
+0 8 13
+0 0 20 20 -100 -100 0 0
+D0
+~
+~
+0 -1 20058
+D10
+~
+portal~
+131072 -1 20157
+R O 0 21001 1 20059
+S
+#20060
+Shore of Water's Lake~
+~
+0 4 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20061
+D1
+~
+~
+0 -1 20062
+D9
+~
+~
+0 -1 20040
+S
+#20061
+Surface of the Lake~
+~
+0 0 7
+0 0 80 70 0 0 0 0
+D1
+~
+~
+0 -1 20063
+D2
+~
+~
+0 -1 20060
+D5
+~
+~
+0 -1 20066
+S
+#20062
+Surface of the Lake~
+~
+0 0 7
+0 0 80 80 0 0 0 0
+D0
+~
+~
+0 -1 20063
+D3
+~
+~
+0 -1 20060
+D5
+~
+~
+0 -1 20070
+S
+#20063
+Surface of the Lake~
+~
+0 0 7
+0 0 80 80 0 0 0 0
+D0
+~
+~
+0 -1 20064
+D1
+~
+~
+0 -1 20065
+D2
+~
+~
+0 -1 20062
+D3
+~
+~
+0 -1 20061
+D5
+~
+~
+0 -1 20067
+S
+#20064
+Surface of the Lake~
+~
+0 0 7
+0 0 80 80 0 0 0 0
+D2
+~
+~
+0 -1 20063
+D5
+~
+~
+0 -1 20068
+S
+#20065
+Surface of the Lake~
+~
+0 0 7
+0 0 80 80 0 0 0 0
+D3
+~
+~
+0 -1 20063
+D5
+~
+~
+0 -1 20069
+S
+#20066
+Bottom of Water's Lake~
+~
+0 0 12
+30 30 100 100 0 0 0 0
+D1
+~
+~
+0 -1 20067
+D4
+~
+~
+0 -1 20061
+S
+#20067
+Beneath Water's Lake~
+~
+0 8 8
+0 0 100 100 0 0 0 0
+D0
+~
+~
+0 -1 20068
+D1
+~
+~
+0 -1 20069
+D2
+~
+~
+0 -1 20070
+D3
+~
+~
+0 -1 20066
+D4
+~
+~
+0 -1 20063
+D5
+~
+~
+0 -1 20071
+S
+#20068
+Bottom of Water's Lake~
+~
+0 0 12
+30 30 100 100 0 0 0 0
+D2
+~
+~
+0 -1 20067
+D4
+~
+~
+0 -1 20064
+S
+#20069
+Bottom of Water's Lake~
+~
+0 0 12
+30 30 100 100 0 0 0 0
+D3
+~
+~
+0 -1 20067
+D4
+~
+~
+0 -1 20065
+S
+#20070
+Bottom of Water's Lake~
+~
+0 0 12
+30 30 100 100 0 0 0 0
+D0
+~
+~
+0 -1 20067
+D4
+~
+~
+0 -1 20062
+S
+#20071
+Center of Water's Lake~
+~
+0 8 12
+30 30 100 100 0 0 0 0
+D4
+~
+~
+0 -1 20067
+D10
+~
+portal~
+131072 -1 20154
+R O 0 21001 1 20071
+S
+#20072
+Beneath Wind's Clouds~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20046
+D4
+~
+~
+64 -1 20073
+D10
+~
+portal~
+131072 -1 20168
+S
+#20073
+Wind's Air~
+~
+0 16777216 9
+0 0 0 0 100 100 0 0
+D4
+~
+~
+64 -1 20074
+D5
+~
+~
+0 -1 20072
+S
+#20074
+Wind's Air~
+~
+0 16777216 9
+0 0 0 0 100 100 0 0
+D3
+~
+~
+0 -1 20075
+D5
+~
+~
+0 -1 20073
+D10
+~
+portal~
+131072 -1 20159
+R O 0 21001 1 20074
+S
+#20075
+Wind's Clouds~
+~
+0 0 9
+0 0 0 0 100 100 0 0
+D1
+~
+~
+0 -1 20074
+D9
+~
+~
+0 -1 20076
+S
+#20076
+Wind's Clouds~
+~
+0 0 9
+0 0 0 0 100 100 0 0
+D3
+~
+~
+0 -1 20077
+D6
+~
+~
+0 -1 20075
+S
+#20077
+Wind's Clouds~
+~
+0 0 9
+0 0 0 0 100 100 0 0
+D1
+~
+~
+0 -1 20076
+D7
+~
+~
+0 -1 20078
+S
+#20078
+Wind's Clouds~
+~
+0 0 9
+0 0 0 0 100 100 0 0
+D3
+~
+~
+0 -1 20079
+D8
+~
+~
+0 -1 20077
+S
+#20079
+Wind's Air~
+~
+0 16777216 9
+0 0 0 0 100 100 0 0
+D1
+~
+~
+0 -1 20078
+D5
+~
+~
+0 -1 20080
+S
+#20080
+Wind's Air~
+~
+0 0 9
+0 0 0 0 100 100 0 0
+D4
+~
+~
+64 -1 20079
+D5
+~
+~
+0 -1 20000 0 200 5
+S
+#20081
+Outside Earth's Grove~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20044
+D3
+~
+~
+0 -1 20082
+S
+#20082
+Path in Earth's Grove~
+~
+0 0 3
+90 107 30 30 0 0 0 0
+D0
+~
+~
+0 -1 20088
+D1
+~
+~
+0 -1 20081
+D2
+~
+~
+0 -1 20090
+D3
+~
+~
+0 -1 20083
+S
+#20083
+Center of Earth's Grove~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D0
+~
+~
+0 -1 20086
+D1
+~
+~
+0 -1 20082
+D2
+~
+~
+0 -1 20085
+D3
+~
+~
+0 -1 20084
+D10
+~
+portal~
+131072 -1 20155
+R O 0 21001 1 20083
+S
+#20084
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D0
+~
+~
+0 -1 20087
+D1
+~
+~
+0 -1 20083
+D2
+~
+~
+0 -1 20089
+S
+#20085
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D0
+~
+~
+0 -1 20083
+D1
+~
+~
+0 -1 20090
+D3
+~
+~
+0 -1 20089
+S
+#20086
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D1
+~
+~
+0 -1 20088
+D2
+~
+~
+0 -1 20083
+D3
+~
+~
+0 -1 20087
+S
+#20087
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D1
+~
+~
+0 -1 20086
+D2
+~
+~
+0 -1 20084
+S
+#20088
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D2
+~
+~
+0 -1 20082
+D3
+~
+~
+0 -1 20086
+S
+#20089
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D0
+~
+~
+0 -1 20084
+D1
+~
+~
+0 -1 20085
+S
+#20090
+Grove of Earth~
+~
+0 0 3
+90 90 30 30 0 0 0 0
+D0
+~
+~
+0 -1 20082
+D3
+~
+~
+0 -1 20085
+S
+#20091
+Gazing upon Frost's Mountain~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20092
+D2
+~
+~
+0 -1 20042
+S
+#20092
+Foothills of Frost's Mountain~
+~
+0 0 4
+30 30 0 0 30 30 0 0
+D1
+~
+~
+0 -1 20094
+D2
+~
+~
+0 -1 20091
+D3
+~
+~
+0 -1 20093
+D4
+~
+~
+65664 -1 20095
+S
+#20093
+Foothills of Frost's Mountain~
+~
+0 0 4
+30 30 0 0 30 30 0 0
+D1
+~
+~
+0 -1 20092
+S
+#20094
+Foothills of Frost's Mountain~
+~
+0 0 4
+30 30 0 0 30 30 0 0
+D3
+~
+~
+0 -1 20092
+S
+#20095
+Slope of Frost's Mountain~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D4
+~
+~
+65664 -1 20096
+D5
+~
+~
+128 -1 20092
+S
+#20096
+Slope of Frost's Mountain~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D4
+~
+~
+65664 -1 20097
+D5
+~
+~
+128 -1 20095
+S
+#20097
+Cliff on Frost's Mountain~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D4
+~
+~
+65664 -1 20098
+D5
+~
+~
+128 -1 20096
+S
+#20098
+Ledge on Frost's Mountain~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D0
+~
+~
+0 -1 20099
+D5
+~
+~
+128 -1 20097
+S
+#20099
+Rock Face on Frost's Mountain~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D2
+~
+~
+0 -1 20098
+D4
+~
+~
+65664 -1 20100
+S
+#20100
+Near Frost's Peak~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D4
+~
+~
+65664 -1 20101
+D5
+~
+~
+128 -1 20099
+S
+#20101
+Frost's Peak~
+~
+0 0 5
+20 20 0 0 70 70 0 0
+D5
+~
+~
+128 -1 20100
+D10
+~
+portal~
+131072 -1 20153
+R O 0 21001 1 20101
+S
+#20102
+Clothes of Frost~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20196
+D3
+~
+~
+0 -1 20003
+R M 0 17005 18 20102
+S
+#20103
+Gems of Fire~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20033
+R M 0 18301 11 20103
+S
+#20104
+Outside Thought's Hall~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20105
+D8
+~
+~
+0 -1 20036
+S
+#20105
+Hall of Thought~
+~
+0 8 0
+0 40 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20025
+D1
+~
+~
+0 -1 20111
+D2
+~
+~
+0 -1 20104
+D3
+~
+~
+0 -1 20106
+S
+#20106
+Hall of Thought~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20105
+D3
+~
+~
+0 -1 20107
+S
+#20107
+Outside the Quest Chambers~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20108
+D1
+~
+~
+0 -1 20106
+D2
+~
+~
+0 -1 20146
+S
+#20108
+Trivia Question Chamber~
+~
+0 1057928 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20107
+> act_prog p rings in on~
+if isimmort($n)
+else
+mea $n Your podium lights up.
+mer $n $n's podium lights up.
+mptrans all 20109
+endif
+save
+~
+> speech_prog p next question~
+if isimmort($n)
+mpat 20110 mptrans all 20108
+mpe The lights clear, ready for the next question.
+endif
+~
+|
+S
+#20109
+Trivia Answer Chamber~
+~
+0 3155084 0
+0 0 0 0 0 0 0 0
+> act_prog p claps at~
+if isimmort($n)
+mpforce $n say Correct, $t!
+mpe A bell rings happily!
+mpqpadd $t 1
+mptrans all 20108
+mpat 20110 mptrans all 20108
+endif
+~
+> act_prog p head in response to~
+if isimmort($n)
+mpforce $n say I'm sorry, $t, but that is incorrect.
+mpe A buzzer sounds loudly!
+mea $t A trapdoor opens beneath your feet, dumping you in a tank of water!
+mer $t $t falls through a trapdoor in the floor.
+mpe _cya *** SPLASH ***
+mptrans $t 20110
+mptrans all 20108
+endif
+~
+|
+S
+#20110
+Trivia Dunk Tank~
+~
+0 15737988 1 50 20108 0
+0 0 0 0 0 0 0 0
+S
+#20111
+Hall of Thought~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20112
+D3
+~
+~
+0 -1 20105
+R O 0 201 1 20111
+S
+#20112
+Hall of Silence~
+~
+0 65544 0
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20111
+D10
+~
+portal~
+131072 -1 20161
+R O 0 21001 1 20112
+S
+#20113
+Pills of Death~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20021
+D2
+~
+~
+0 -1 20034
+R M 0 17003 44 20113
+S
+#20114
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20043
+D8
+~
+~
+0 -1 20115
+S
+#20115
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20114
+D8
+~
+~
+0 -1 20116
+S
+#20116
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20117
+D7
+~
+~
+0 -1 20115
+S
+#20117
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20041
+D3
+~
+~
+0 -1 20116
+S
+#20118
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20119
+D3
+~
+~
+0 -1 20041
+S
+#20119
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20118
+D6
+~
+~
+0 -1 20120
+S
+#20120
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20121
+D9
+~
+~
+0 -1 20119
+S
+#20121
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20045
+D9
+~
+~
+0 -1 20120
+S
+#20122
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20123
+D9
+~
+~
+0 -1 20045
+S
+#20123
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20124
+D9
+~
+~
+0 -1 20122
+S
+#20124
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20046
+D2
+~
+~
+0 -1 20123
+S
+#20125
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20126
+D2
+~
+~
+0 -1 20046
+S
+#20126
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20125
+D7
+~
+~
+0 -1 20127
+S
+#20127
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20128
+D8
+~
+~
+0 -1 20126
+S
+#20128
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20040
+D8
+~
+~
+0 -1 20127
+S
+#20129
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20130
+D8
+~
+~
+0 -1 20040
+S
+#20130
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20131
+D8
+~
+~
+0 -1 20129
+S
+#20131
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20132
+D8
+~
+~
+0 -1 20130
+S
+#20132
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20131
+D3
+~
+~
+0 -1 20042
+S
+#20133
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20042
+D3
+~
+~
+0 -1 20134
+S
+#20134
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20133
+D9
+~
+~
+0 -1 20135
+S
+#20135
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20134
+D9
+~
+~
+0 -1 20136
+S
+#20136
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20135
+D9
+~
+~
+0 -1 20036
+S
+#20137
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20036
+D9
+~
+~
+0 -1 20138
+S
+#20138
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D6
+~
+~
+0 -1 20137
+D9
+~
+~
+0 -1 20139
+S
+#20139
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20140
+D6
+~
+~
+0 -1 20138
+S
+#20140
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20139
+D2
+~
+~
+0 -1 20044
+S
+#20141
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20044
+D2
+~
+~
+0 -1 20142
+S
+#20142
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20141
+D8
+~
+~
+0 -1 20143
+S
+#20143
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20142
+D8
+~
+~
+0 -1 20144
+S
+#20144
+Infinity's Road~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D7
+~
+~
+0 -1 20143
+D8
+~
+~
+0 -1 20043
+S
+#20145
+the Portal to Lezaria~
+A sign hangs here.
+~
+0 1073741828 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20043
+R O 0 21001 1 20145
+E
+sign~
+West - Valley of the Tatret - Lezaria
+North - Sunmun - Glassandia
+~
+S
+#20146
+Torn Elkandu Questmaster~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20107
+R M 0 20099 1 20146
+S
+#20147
+Furniture of Lightning~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20018
+D3
+~
+~
+0 -1 20017
+R M 0 17010 2 20147
+S
+#20148
+Catalysm Station~
+~
+0 12 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20017
+D1
+~
+~
+0 -1 20018
+R M 0 18700 9 20148
+S
+#20149
+Entrance to the Cemetary~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20043
+D2
+~
+~
+0 -1 20150
+S
+#20150
+Torn Elkandu Cemetary~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20149
+D1
+~
+~
+0 -1 20151
+D3
+~
+~
+0 -1 20152
+S
+#20151
+War Veterans Memorial~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20150
+D10
+~
+portal~
+131072 -1 20156
+R O 0 21001 1 20151
+S
+#20152
+Tomb of the Unknown Adventurer~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20150
+S
+#20153
+the Portal to Sasherey~
+~
+0 1073741956 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20101
+R O 0 21001 1 20153
+S
+#20154
+the Portal to Sea-Lake~
+~
+0 1073741836 8
+0 0 100 100 0 0 0 0
+D10
+~
+portal~
+131072 -1 20071
+R O 0 21001 1 20154
+S
+#20155
+the Portal to Wilderplane~
+A sign hangs here.
+~
+0 1073741956 3
+90 90 30 30 0 0 0 0
+D10
+~
+portal~
+131072 -1 20083
+R O 0 21001 1 20155
+E
+sign~
+West - Valkebaranvarres
+~
+S
+#20156
+the Portal to Mezulbryst~
+~
+0 1073741956 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20151
+R O 0 21001 1 20156
+S
+#20157
+the Portal to Straegarx~
+A sign hangs here.
+~
+0 1073741836 13
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20059
+R O 0 21001 1 20157
+E
+sign~
+Down - Veyrynveynnes
+~
+S
+#20158
+Public Restroom~
+~
+0 1073741832 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20039
+R O 0 17199 1 20158
+S
+#20159
+the Portal to Hasaris~
+~
+0 1090519172 9
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20074
+R O 0 21001 1 20159
+S
+#20160
+First Elkandu Bank~
+~
+0 8 1 0 0 256
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20005
+R O 0 20013 1 20160
+S
+#20161
+the Portal to Corstad~
+~
+0 1073741956 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20112
+R O 0 21001 1 20161
+S
+#20162
+The Torn Elkandu Dump~
+~
+0 0 1
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20164
+D3
+~
+~
+0 -1 20045
+R O 0 20014 1 20162
+S
+#20163
+In the Trash Compactor~
+~
+0 1073741832 1
+0 0 0 0 0 0 0 0
+D4
+~
+~
+0 -1 20164
+R O 0 35 1 20163
+R O 0 20001 1 20163
+R O 0 20088 1 20163
+S
+#20164
+Above the Trash Compactor~
+~
+0 16777216 1
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 20162
+D5
+~
+~
+0 -1 20163
+S
+#20165
+the Portal to Glassandia~
+~
+0 1073741956 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20045
+R O 0 21001 1 20165
+S
+#20166
+the Portal to Terra~
+~
+0 132 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20036
+R O 0 21001 1 20166
+S
+#20167
+Ores of Earth~
+~
+0 1073741832 0
+0 0 0 114 0 0 0 0
+D0
+~
+~
+0 -1 20012
+S
+#20168
+Portal to Vestama~
+~
+0 1073741956 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20072
+R O 0 21001 1 20168
+S
+#20169
+Portal to Tenlands~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20041
+R O 0 21001 1 20169
+S
+#20170
+Portal to Veeden~
+~
+0 1073741956 1
+0 0 0 0 0 0 0 0
+D10
+~
+portal~
+131072 -1 20046
+R O 0 21001 1 20170
+S
+#20177
+the Sanctuary of Torn Elkandu~
+~
+0 12 1 0 0 256
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20014
+D3
+~
+~
+0 -1 20013
+R O 0 9006 1 20177
+S
+#20179
+Vehicles of Electricity~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20016
+D1
+~
+~
+0 -1 20017
+R M 0 17002 23 20179
+S
+#20180
+Herbs of Nature~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20035
+R M 0 20002 7 20180
+R O 0 17100 1 20180
+S
+#20181
+Pipes of Breath~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20008
+R M 0 20002 7 20181
+R O 0 17110 1 20181
+S
+#20182
+Shovels of Earth~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20012
+R M 0 17003 43 20182
+R O 0 52 1 20182
+S
+#20183
+Salves of Healing~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20021
+D3
+~
+~
+0 -1 20034
+R M 0 19402 9 20183
+S
+#20184
+Cups of Water~
+~
+0 1073741832 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 20031
+D2
+~
+~
+0 -1 20015
+R M 0 17010 4 20184
+S
+#20190
+Weapons of Fire~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20047
+D3
+~
+~
+0 -1 20033
+R M 0 20005 12 20190
+R O 0 20098 1 20190
+S
+#20191
+Bows of Air~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20030
+D3
+~
+~
+0 -1 20048
+R M 0 20004 9 20191
+S
+#20192
+Harps of Speech~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20024
+D3
+~
+~
+0 -1 20028
+R M 0 17003 43 20192
+R O 0 18701 1 20192
+S
+#20193
+Boxes of Earth~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20011
+R M 0 17010 3 20193
+S
+#20194
+Radios of Lightning~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20018
+D1
+~
+~
+0 -1 20032
+S
+#20195
+Scanners of Seeking~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20022
+D3
+~
+~
+0 -1 20023
+R M 0 17003 55 20195
+S
+#20196
+Fabrics of Frost~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20102
+D3
+~
+~
+0 -1 20002
+S
+#20197
+Books of Mind~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20028
+D1
+~
+~
+0 -1 20024
+R M 0 18302 13 20197
+R O 0 36 1 20197
+S
+#20198
+the Elkandu Council Meeting Room~
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 20199
+S
+#20199
+the Elkandu Council Lobby~
+~
+0 12 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 20198
+D1
+~
+~
+0 -1 20002
+S
+#0
+
+
+#SHOPS
+ 20027   5 120 9 21 -1 (for sale)~
+ 20037   5 120 600 10 -1 (for sale)~
+ 20038   5 120 1992 19 -1 (for sale)~
+ 20039   5 120 0 17 -1 (for sale)~
+ 20047   5 120 46522922 9 19 (for sale)~
+ 20048   5 120 -1169231 57 -1 (for sale)~
+ 20049   5 120 0 8 19 (for sale)~
+ 20050   5 120 1265005 1 -1 (for sale)~
+ 20102   5 120 22959933 9 18 (for sale)~
+ 20103   5 120 438798 8 21 (for sale)~
+ 20113   5 120 420 26 -1 (for sale)~
+ 20147   5 120 899242 12 -1 (for sale)~
+ 20179   5 120 11712021 54 -1 (for sale)~
+ 20180   5 120 -400 32 -1 (for sale)~
+ 20181   5 120 1200 30 -1 (for sale)~
+ 20182   5 120 1955504 59 -1 (for sale)~
+ 20183   5 120 0 60 -1 (for sale)~
+ 20184   5 120 811114 17 -1 (for sale)~
+ 20190   5 120 5490059 5 -1 (for sale)~
+ 20191   5 120 6404091 56 -1 (for sale)~
+ 20192   5 120 2194456 14 -1 (for sale)~
+ 20193   5 120 573444 15 -1 (for sale)~
+ 20194   5 120 664800 6 -1 (for sale)~
+ 20195   5 120 73205 7 -1 (for sale)~
+ 20196   5 120 721 8 18 (for sale)~
+ 20197   5 120 0 35 -1 (for sale)~
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,19 @@
+#DEITY
+Index			6
+Filename		dream.dty~
+Name		Dream~
+Description	&z&gAlignment: &Gneutral
+Dream thrives on the random thoughts of others, especially ones sleeping.
+The disciples of Dream have advanced telepathic capabilties, making them
+observe their enviroment much better than normal people. Their patron
+protects them from anything it can, but not everything can be blocked.
+~
+Message		Vivid colors seem to fill~
+Cost		2
+Count		121
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

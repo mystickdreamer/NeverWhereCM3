@@ -1,0 +1,934 @@
+Wed Oct 15 10:39:01 PDT 2014
+Wed Oct 15 10:39:01 2014 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Wed Oct 15 10:39:01 2014 :: Loading commands
+Wed Oct 15 10:39:01 2014 :: Loading sysdata configuration...
+Wed Oct 15 10:39:01 2014 :: Loading socials
+Wed Oct 15 10:39:01 2014 :: Loading skill table
+Wed Oct 15 10:39:01 2014 :: Sorting skill table...
+Wed Oct 15 10:39:01 2014 :: Remapping slots to sns
+Wed Oct 15 10:39:01 2014 :: Loading herb table
+Wed Oct 15 10:39:01 2014 :: Loading clans
+Wed Oct 15 10:39:01 2014 :: Loading channels
+Wed Oct 15 10:39:01 2014 :: Loading bits
+Wed Oct 15 10:39:01 2014 :: Loading help files
+Wed Oct 15 10:39:01 2014 :: Loading books
+Wed Oct 15 10:39:01 2014 :: Initializing random number generator
+Wed Oct 15 10:39:01 2014 :: Setting time and weather
+Wed Oct 15 10:39:01 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill disease not found.
+ASSIGN_GSN: Skill weaken not found.
+ASSIGN_GSN: Skill transmutation not found.
+ASSIGN_GSN: Skill charm person not found.
+ASSIGN_GSN: Skill counterspell not found.
+ASSIGN_GSN: Skill sharpen not found.
+Wed Oct 15 10:39:01 2014 :: Loading nations
+Wed Oct 15 10:39:01 2014 :: Loading cities
+Wed Oct 15 10:39:01 2014 :: Reading in area files...
+help.are: No such file or directory
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: load_area: error loading file (can't open)
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: help.are
+limbo.are     : Rooms:     1 - 8     Objs:     2 - 99    Mobs:     1 - 25
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
+stockobj.are  : Rooms: 29000 - 29000 Objs: 28900 - 29999 Mobs:     0 - 0
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+elkandu.are   : Rooms: 20000 - 20199 Objs: 20001 - 21001 Mobs: 20000 - 20099
+gmaze.are     : Rooms:  9000 - 9074  Objs:  9000 - 9006  Mobs:     0 - 0
+Wed Oct 15 10:39:01 2014 :: [*****] FILE: jaston.are LINE: 1071
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: load_room_reset: 'D': exit 2 not door.
+Wed Oct 15 10:39:01 2014 :: [*****] FILE: jaston.are LINE: 1071
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Reset: D 0 17024 2 2
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
+Wed Oct 15 10:39:01 2014 :: [*****] FILE: jaston.are LINE: 1324
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: load_room_reset: 'D': exit 1 not door.
+Wed Oct 15 10:39:01 2014 :: [*****] FILE: jaston.are LINE: 1324
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Reset: D 0 17040 1 0
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
+Wed Oct 15 10:39:01 2014 :: [*****] FILE: jaston.are LINE: 1685
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: load_room_reset: 'D': exit 0 not door.
+Wed Oct 15 10:39:01 2014 :: [*****] FILE: jaston.are LINE: 1685
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Reset: D 0 17064 0 0
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+jaston.are    : Rooms: 17000 - 17099 Objs: 17000 - 17099 Mobs: 17001 - 17050
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+school.are    : Rooms:   100 - 199   Objs:     0 - 0     Mobs:     0 - 0
+Houses.are    : Rooms:   200 - 999   Objs:     0 - 0     Mobs:     0 - 0
+Wed Oct 15 10:39:01 2014 :: Loading high scores...
+Wed Oct 15 10:39:01 2014 :: Loading Housing System, Home Accessories Data, and Home Auctioning System
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Get_room_index: bad vnum 10088.
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Cannot open homeaccessories.dat. Aborting loadup of accessories data.
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Cannot open homebuy.dat. Aborting loadup of home auction data.
+Wed Oct 15 10:39:01 2014 :: Fixing exits
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Get_room_index: bad vnum 17721.
+Wed Oct 15 10:39:01 2014 :: [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Deleting east exit in room 9001
+Wed Oct 15 10:39:01 2014 :: Initializing economy
+Wed Oct 15 10:39:01 2014 :: Loading materials
+Wed Oct 15 10:39:01 2014 :: Loading world
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Extract_char: NULL ch.
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Fread_mobile: Vnum not found
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Wed Oct 15 10:39:01 2014 :: Loading deities
+Wed Oct 15 10:39:01 2014 :: Loading talents...
+Wed Oct 15 10:39:01 2014 :: fire.dty
+Wed Oct 15 10:39:01 2014 :: earth.dty
+Wed Oct 15 10:39:01 2014 :: wind.dty
+Wed Oct 15 10:39:01 2014 :: frost.dty
+Wed Oct 15 10:39:01 2014 :: lightn.dty
+Wed Oct 15 10:39:01 2014 :: water.dty
+Wed Oct 15 10:39:01 2014 :: dream.dty
+Wed Oct 15 10:39:01 2014 :: speech.dty
+Wed Oct 15 10:39:01 2014 :: healing.dty
+Wed Oct 15 10:39:01 2014 :: death.dty
+Wed Oct 15 10:39:01 2014 :: change.dty
+Wed Oct 15 10:39:01 2014 :: time.dty
+Wed Oct 15 10:39:01 2014 :: motion.dty
+Wed Oct 15 10:39:01 2014 :: mind.dty
+Wed Oct 15 10:39:01 2014 :: illusion.dty
+Wed Oct 15 10:39:01 2014 :: seeking.dty
+Wed Oct 15 10:39:01 2014 :: catalysm.dty
+Wed Oct 15 10:39:01 2014 :: void.dty
+Wed Oct 15 10:39:01 2014 :: $
+Wed Oct 15 10:39:01 2014 ::  Done talents 
+Wed Oct 15 10:39:01 2014 :: Loading bans
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Load_banlist: no match: ÿ
+Wed Oct 15 10:39:01 2014 :: Done.
+Wed Oct 15 10:39:01 2014 :: Loading reserved names
+Wed Oct 15 10:39:01 2014 :: Loading material shops
+Wed Oct 15 10:39:01 2014 :: Loading moons
+Wed Oct 15 10:39:01 2014 :: Loading recipes
+Wed Oct 15 10:39:01 2014 :: Loading ingredients
+Wed Oct 15 10:39:01 2014 :: Loading species
+Wed Oct 15 10:39:01 2014 :: Loading mutations
+Wed Oct 15 10:39:01 2014 :: [*****] BUG: Load_mutations: no mutations found!
+Wed Oct 15 10:39:01 2014 :: Loading arenas
+Wed Oct 15 10:39:01 2014 :: Checking shops
+Wed Oct 15 10:39:01 2014 :: Initializing socket
+Wed Oct 15 10:39:01 2014 :: Ar'Oan Lost Dragons ready at address boogeyman on port 6501.
+Wed Oct 15 10:39:01 2014 :: I3: Loading I3 command table...
+Wed Oct 15 10:39:01 2014 :: I3: Loading Intermud-3 network data...
+Wed Oct 15 10:39:01 2014 :: I3: Loading I3 router data...
+Wed Oct 15 10:39:01 2014 :: I3: Loading I3 help file...
+Wed Oct 15 10:39:01 2014 :: I3: Loading color table...
+Wed Oct 15 10:39:01 2014 :: I3: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Wed Oct 15 10:39:02 2014 :: IMC: Loading IMC2 command table...
+Wed Oct 15 10:39:02 2014 :: ***BUG*** IMC: imc_readcommand: Command imcping loaded with invalid function. Set to NULL.
+Wed Oct 15 10:39:02 2014 :: ***BUG*** IMC: imc_readcommand: Command imcstats loaded with invalid function. Set to NULL.
+Wed Oct 15 10:39:02 2014 :: IMC: Loading IMC2 network data...
+Wed Oct 15 10:39:02 2014 :: IMC: Loading IMC2 help file...
+Wed Oct 15 10:39:02 2014 :: IMC: Loading IMC2 color table...
+Wed Oct 15 10:39:02 2014 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Wed Oct 15 10:39:06 2014 :: Sock.sinaddr:  127.0.0.1, port -10339.
+Wed Oct 15 10:39:10 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:39:10 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:39:10 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:39:10 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:39:10 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:39:10 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:39:10 2014 :: Preloading player data for: Aasterinian (11K)
+Wed Oct 15 10:39:10 2014 :: Creating area entry for Aasterinian
+Wed Oct 15 10:39:14 2014 :: Loading player data for: Aasterinian (11K)
+Wed Oct 15 10:39:14 2014 :: Updating area entry for Aasterinian
+Wed Oct 15 10:39:14 2014 :: Aasterinian@127.0.0.1((unknown)) has connected.
+Wed Oct 15 10:39:16 2014 :: Aasterinian has entered the game in Fire's Road (20005).
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:39:26 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:40:10 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:30 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:40:30 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:40:30 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:40:30 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:40:30 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:40:30 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:40:38 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:42:19 2014 :: Aasterinian (8062) died in Fire's Road (20006)
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 10:46:14 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 10:46:38 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:46:38 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:46:38 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:46:38 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:46:38 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:46:38 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:47:17 2014 :: Closing link to Aasterinian.
+Wed Oct 15 10:47:22 2014 :: Nehirmb blacksmith used mpasound _red You feel the heat of a nearby forge.
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Sig handler SIGSEGV.
+Wed Oct 15 10:47:22 2014 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Wed Oct 15 10:47:22 2014 :: Loading commands
+Wed Oct 15 10:47:22 2014 :: Loading sysdata configuration...
+Wed Oct 15 10:47:22 2014 :: Loading socials
+Wed Oct 15 10:47:22 2014 :: Loading skill table
+Wed Oct 15 10:47:22 2014 :: Sorting skill table...
+Wed Oct 15 10:47:22 2014 :: Remapping slots to sns
+Wed Oct 15 10:47:22 2014 :: Loading herb table
+Wed Oct 15 10:47:22 2014 :: Loading clans
+Wed Oct 15 10:47:22 2014 :: Loading channels
+Wed Oct 15 10:47:22 2014 :: Loading bits
+Wed Oct 15 10:47:22 2014 :: Loading help files
+Wed Oct 15 10:47:22 2014 :: Loading books
+Wed Oct 15 10:47:22 2014 :: Initializing random number generator
+Wed Oct 15 10:47:22 2014 :: Setting time and weather
+Wed Oct 15 10:47:22 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill disease not found.
+ASSIGN_GSN: Skill weaken not found.
+ASSIGN_GSN: Skill transmutation not found.
+ASSIGN_GSN: Skill charm person not found.
+ASSIGN_GSN: Skill counterspell not found.
+ASSIGN_GSN: Skill sharpen not found.
+Wed Oct 15 10:47:22 2014 :: Loading nations
+Wed Oct 15 10:47:22 2014 :: Loading cities
+Wed Oct 15 10:47:22 2014 :: Reading in area files...
+help.are: No such file or directory
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: load_area: error loading file (can't open)
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: help.are
+limbo.are     : Rooms:     1 - 8     Objs:     2 - 99    Mobs:     1 - 25
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
+stockobj.are  : Rooms: 29000 - 29000 Objs: 28900 - 29999 Mobs:     0 - 0
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+elkandu.are   : Rooms: 20000 - 20199 Objs: 20001 - 21001 Mobs: 20000 - 20099
+gmaze.are     : Rooms:  9000 - 9074  Objs:  9000 - 9006  Mobs:     0 - 0
+Wed Oct 15 10:47:22 2014 :: [*****] FILE: jaston.are LINE: 1071
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: load_room_reset: 'D': exit 2 not door.
+Wed Oct 15 10:47:22 2014 :: [*****] FILE: jaston.are LINE: 1071
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Reset: D 0 17024 2 2
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
+Wed Oct 15 10:47:22 2014 :: [*****] FILE: jaston.are LINE: 1324
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: load_room_reset: 'D': exit 1 not door.
+Wed Oct 15 10:47:22 2014 :: [*****] FILE: jaston.are LINE: 1324
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Reset: D 0 17040 1 0
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
+Wed Oct 15 10:47:22 2014 :: [*****] FILE: jaston.are LINE: 1685
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: load_room_reset: 'D': exit 0 not door.
+Wed Oct 15 10:47:22 2014 :: [*****] FILE: jaston.are LINE: 1685
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Reset: D 0 17064 0 0
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+jaston.are    : Rooms: 17000 - 17099 Objs: 17000 - 17099 Mobs: 17001 - 17050
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+school.are    : Rooms:   100 - 199   Objs:     0 - 0     Mobs:     0 - 0
+Houses.are    : Rooms:   200 - 999   Objs:     0 - 0     Mobs:     0 - 0
+Wed Oct 15 10:47:22 2014 :: Loading high scores...
+Wed Oct 15 10:47:22 2014 :: Loading Housing System, Home Accessories Data, and Home Auctioning System
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Get_room_index: bad vnum 10088.
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Cannot open homeaccessories.dat. Aborting loadup of accessories data.
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Cannot open homebuy.dat. Aborting loadup of home auction data.
+Wed Oct 15 10:47:22 2014 :: Fixing exits
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Get_room_index: bad vnum 17721.
+Wed Oct 15 10:47:22 2014 :: [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Deleting east exit in room 9001
+Wed Oct 15 10:47:22 2014 :: Initializing economy
+Wed Oct 15 10:47:22 2014 :: Loading materials
+Wed Oct 15 10:47:22 2014 :: Loading world
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Extract_char: NULL ch.
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Fread_mobile: Vnum not found
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 3
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 28901
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29000
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29103
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29074
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29018
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29008
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29121
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 28923
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 44
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29999
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29066
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29999
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29166
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 35
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 23
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29204
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29202
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29203
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29200
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29110
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29028
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29028
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 29027
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_obj: room is NULL on OS_GROUND for obj->pIndexData->vnum 28935
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Wed Oct 15 10:47:22 2014 :: Loading deities
+Wed Oct 15 10:47:22 2014 :: Loading talents...
+Wed Oct 15 10:47:22 2014 :: fire.dty
+Wed Oct 15 10:47:22 2014 :: earth.dty
+Wed Oct 15 10:47:22 2014 :: wind.dty
+Wed Oct 15 10:47:22 2014 :: frost.dty
+Wed Oct 15 10:47:22 2014 :: lightn.dty
+Wed Oct 15 10:47:22 2014 :: water.dty
+Wed Oct 15 10:47:22 2014 :: dream.dty
+Wed Oct 15 10:47:22 2014 :: speech.dty
+Wed Oct 15 10:47:22 2014 :: healing.dty
+Wed Oct 15 10:47:22 2014 :: death.dty
+Wed Oct 15 10:47:22 2014 :: change.dty
+Wed Oct 15 10:47:22 2014 :: time.dty
+Wed Oct 15 10:47:22 2014 :: motion.dty
+Wed Oct 15 10:47:22 2014 :: mind.dty
+Wed Oct 15 10:47:22 2014 :: illusion.dty
+Wed Oct 15 10:47:22 2014 :: seeking.dty
+Wed Oct 15 10:47:22 2014 :: catalysm.dty
+Wed Oct 15 10:47:22 2014 :: void.dty
+Wed Oct 15 10:47:22 2014 :: $
+Wed Oct 15 10:47:22 2014 ::  Done talents 
+Wed Oct 15 10:47:22 2014 :: Loading bans
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Load_banlist: no match: ÿ
+Wed Oct 15 10:47:22 2014 :: Done.
+Wed Oct 15 10:47:22 2014 :: Loading reserved names
+Wed Oct 15 10:47:22 2014 :: Loading material shops
+Wed Oct 15 10:47:22 2014 :: Loading moons
+Wed Oct 15 10:47:22 2014 :: Loading recipes
+Wed Oct 15 10:47:22 2014 :: Loading ingredients
+Wed Oct 15 10:47:22 2014 :: Loading species
+Wed Oct 15 10:47:22 2014 :: Loading mutations
+Wed Oct 15 10:47:22 2014 :: [*****] BUG: Load_mutations: no mutations found!
+Wed Oct 15 10:47:22 2014 :: Loading arenas
+Wed Oct 15 10:47:22 2014 :: Checking shops
+Wed Oct 15 10:47:22 2014 :: Initializing socket
+Wed Oct 15 10:47:22 2014 :: Ar'Oan Lost Dragons ready at address boogeyman on port 6501.
+Wed Oct 15 10:47:22 2014 :: I3: Loading I3 command table...
+Wed Oct 15 10:47:22 2014 :: I3: Loading Intermud-3 network data...
+Wed Oct 15 10:47:22 2014 :: I3: Loading I3 router data...
+Wed Oct 15 10:47:22 2014 :: I3: Loading I3 help file...
+Wed Oct 15 10:47:22 2014 :: I3: Loading color table...
+Wed Oct 15 10:47:22 2014 :: I3: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Wed Oct 15 10:47:22 2014 :: IMC: Loading IMC2 command table...
+Wed Oct 15 10:47:22 2014 :: ***BUG*** IMC: imc_readcommand: Command imcping loaded with invalid function. Set to NULL.
+Wed Oct 15 10:47:22 2014 :: ***BUG*** IMC: imc_readcommand: Command imcstats loaded with invalid function. Set to NULL.
+Wed Oct 15 10:47:22 2014 :: IMC: Loading IMC2 network data...
+Wed Oct 15 10:47:22 2014 :: IMC: Loading IMC2 help file...
+Wed Oct 15 10:47:22 2014 :: IMC: Loading IMC2 color table...
+Wed Oct 15 10:47:22 2014 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Wed Oct 15 10:47:22 2014 :: Running copyover_recover.
+Wed Oct 15 10:47:22 2014 :: Copyover recovery initiated
+Wed Oct 15 10:53:55 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:53:55 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:53:55 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:53:55 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 10:53:55 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 10:53:55 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:02:11 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:02:11 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:02:11 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:02:11 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:02:11 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:02:11 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:02:59 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:06:31 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:06:31 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:06:31 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:06:31 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:06:31 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:06:31 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:06:39 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:07:43 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:07:43 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:07:43 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:07:43 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:07:43 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:07:43 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:08:03 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:11:20 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:11:20 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:11:20 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:11:20 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:11:20 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:11:20 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:12:08 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:12:28 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:12:28 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:12:28 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:12:28 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:12:28 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:12:28 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:12:52 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:12:52 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:12:52 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:12:52 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:12:52 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:12:52 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:14:04 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:14:12 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:14:12 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:14:12 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:14:12 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:14:12 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:14:12 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:16:32 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:16:40 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:16:40 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:16:40 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:16:40 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:16:40 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:16:40 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:17:16 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:17:36 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:17:36 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:17:36 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:17:36 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:17:36 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:17:36 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:20:24 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:44 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:20:44 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:20:44 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:20:44 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:20:44 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:20:44 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:20:48 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Wed Oct 15 11:24:44 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Wed Oct 15 11:25:16 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:25:16 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:25:16 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:25:16 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Wed Oct 15 11:25:16 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Wed Oct 15 11:25:16 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.

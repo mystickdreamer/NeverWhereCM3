@@ -1,0 +1,189 @@
+Number	3100
+Desc	Has abit 3100.~
+End
+
+Number	8000
+Desc	kw1~
+End
+
+Number	8001
+Desc	kw2~
+End
+
+Number	8002
+Desc	kw3~
+End
+
+Number	8100
+Desc	Escaped prisoner.~
+End
+
+Number	8101
+Desc	rw1~
+End
+
+Number	9000
+Desc	gm0~
+End
+
+Number	9001
+Desc	gm1~
+End
+
+Number	9002
+Desc	gm2~
+End
+
+Number	9003
+Desc	gm3~
+End
+
+Number	9004
+Desc	gm4~
+End
+
+Number	9005
+Desc	gm5~
+End
+
+Number	8500
+Desc	qb1~
+End
+
+Number	8501
+Desc	qb2~
+End
+
+Number	8502
+Desc	qb3~
+End
+
+Number	8200
+Desc	gfc~
+End
+
+Number	8201
+Desc	gt1~
+End
+
+Number	8202
+Desc	gt2~
+End
+
+Number	15600
+Desc	lc1~
+End
+
+Number	12601
+Desc	Griffin Aging bit~
+End
+
+Number	12602
+Desc	Griffin Aging bit~
+End
+
+Number	12603
+Desc	Griffin Aging bit~
+End
+
+Number	12604
+Desc	Griffin Aging bit~
+End
+
+Number	12605
+Desc	Griffin Aging bit~
+End
+
+Number	12606
+Desc	Griffin Aging bit~
+End
+
+Number	12607
+Desc	Mating bit for griffins.~
+End
+
+Number	12608
+Desc	Pregnancy bit for griffins.~
+End
+
+Number	12609
+Desc	Griffin Aging bit~
+End
+
+Number	12619
+Desc	clear~
+End
+
+Number	12610
+Desc	Griffin Aging bit~
+End
+
+Number	0
+Desc	2100~
+End
+
+Number	19001
+Desc	yes~
+End
+
+Number	19002
+Desc	no~
+End
+
+Number	7500
+Desc	ye1~
+End
+
+Number	7501
+Desc	hkc~
+End
+
+Number	7502
+Desc	mon~
+End
+
+Number	19407
+Desc	Drow Phys. Quest Start~
+End
+
+Number	19406
+Desc	Elf Phys. Quest Start~
+End
+
+Number	19408
+Desc	Physical Quest End~
+End
+
+Number	7505
+Desc	met~
+End
+
+Number	666
+Desc	sot~
+End
+
+Number	7800
+Desc	gc1~
+End
+
+Number	7801
+Desc	gc2~
+End
+
+Number	7802
+Desc	gcx~
+End
+
+Number	7202
+Desc	Arilyn is a moron~
+End
+
+Number	7201
+Desc	Arilyn is a complete moron~
+End
+
+Number	15050
+Desc	cap~
+End
+
+#END

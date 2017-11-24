@@ -1,0 +1,19 @@
+#DEITY
+Index			2
+Filename		wind.dty~
+Name		Wind~
+Description	&z&gAlignment: &Glawful
+A fickle deity, Wind constantly changes its moods. Disciples of Wind
+move without effort and are much more stable than their patron. While
+often helped by their tempermental deity, there are ways to still their
+movements permanently.
+~
+Message		A gust of wind blows into~
+Cost		2
+Count		165
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

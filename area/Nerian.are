@@ -1,0 +1,48 @@
+#AREA   Houses~
+
+
+
+#VERSION 1
+#AUTHOR Nerian~
+
+#RANGES
+0 0 0 0
+$
+
+#RESETMSG Void~
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#200
+Houses area~
+This are is for house files
+~
+0 0 1
+0 0 0 0 0 0 0 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

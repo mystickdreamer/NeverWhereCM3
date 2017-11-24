@@ -1,0 +1,20 @@
+#DEITY
+Index			9
+Filename		death.dty~
+Name		Death~
+Description	&z&gAlignment: &Gevil
+An odd deity, devoted to the protection and upkeep of ones personal self.
+Spirit has superb insight and can look into one's soul and detect any
+presence of evil at all. Followers of Spirit possess huge amounts of
+negative energy, which negates other negative forces. They usually
+inhabit the cooler northern regions, due to their dislike of heat.
+~
+Message		Shadows fill~
+Cost		3
+Count		292
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

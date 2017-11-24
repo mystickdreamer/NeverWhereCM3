@@ -1,0 +1,1821 @@
+
+#MATERIAL
+Name	iron~
+Short	a lump of iron~
+Long	A lump of iron lies here.~
+Weight	10
+Magic	300
+Cost	1
+Rarity	10
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 -2 2 0
+Affect       -1 -1 5 17 0
+
+#MATERIAL
+Name	leather~
+Short	a strip of leather~
+Long	A strip of leather lies here.~
+Weight	3
+Magic	100
+Cost	1
+Rarity	10
+Sector	-1
+Race	86
+Extra	262144
+
+#MATERIAL
+Name	leaf~
+Short	a pile of leaves~
+Long	A pile of leaves lies here.~
+Weight	10
+Magic	500
+Cost	1
+Rarity	5
+Sector	3
+Race	-1
+Extra	327680
+
+#MATERIAL
+Name	silver~
+Short	a lump of silver~
+Long	A lump of silver sits here.~
+Weight	4
+Magic	60
+Cost	40000
+Rarity	4
+Sector	13
+Race	-1
+Extra	524352
+
+#MATERIAL
+Name	mithril~
+Short	a lump of mithril~
+Long	A lump of mithril sits here.~
+Weight	5
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 10 18 0
+
+#MATERIAL
+Name	silk~
+Short	a length of silk~
+Long	A length of silk lies on the ground.~
+Weight	1
+Magic	70
+Cost	30000
+Rarity	10
+Sector	2
+Race	-1
+Extra	262144
+Affect       -1 -1 10 2 0
+
+#MATERIAL
+Name	copper~
+Short	a lump of copper~
+Long	A lump of copper sits here.~
+Weight	4
+Magic	100
+Cost	1
+Rarity	8
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 4 29 0
+
+#MATERIAL
+Name	gold~
+Short	a lump of gold~
+Long	A lump of gold sits here.~
+Weight	10
+Magic	85
+Cost	10000
+Rarity	2
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 10 25 0
+
+#MATERIAL
+Name	lead~
+Short	a lump of lead~
+Long	A lump of lead sits here.~
+Weight	20
+Magic	1000
+Cost	1
+Rarity	10
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 19 0
+
+#MATERIAL
+Name	cotton~
+Short	a length of cotton~
+Long	A length of cotton was dropped here.~
+Weight	2
+Magic	400
+Cost	1
+Rarity	1
+Sector	2
+Race	-1
+Extra	327680
+
+#MATERIAL
+Name	red dragon scale~
+Short	some red dragon scales~
+Long	Some red dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	-1
+Extra	262144
+Affect       -1 -1 1 27 0
+
+#MATERIAL
+Name	white dragon scale~
+Short	some white dragon scales~
+Long	Some white dragon scales are laying here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	33
+Extra	262144
+Affect       -1 -1 2 27 0
+
+#MATERIAL
+Name	blue dragon scale~
+Short	some blue dragon scales~
+Long	Some blue dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	34
+Extra	262144
+Affect       -1 -1 4 27 0
+
+#MATERIAL
+Name	black dragon scale~
+Short	some black dragon scales~
+Long	Some black dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	32
+Extra	262144
+Affect       -1 -1 128 27 0
+
+#MATERIAL
+Name	green dragon scale~
+Short	some green dragon scales~
+Long	Some green dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	31
+Extra	262144
+Affect       -1 -1 256 27 0
+
+#MATERIAL
+Name	gold dragon scale~
+Short	some gold dragon scales~
+Long	Some gold dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	36
+Extra	262144
+Affect       -1 -1 262144 27 0
+
+#MATERIAL
+Name	silver dragon scale~
+Short	some silver dragon scales~
+Long	Some silver dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	37
+Extra	262144
+Affect       -1 -1 524288 27 0
+
+#MATERIAL
+Name	bronze dragon scale~
+Short	some bronze dragon scales~
+Long	Some bronze dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	38
+Extra	262144
+Affect       -1 -1 512 27 0
+
+#MATERIAL
+Name	copper dragon scale~
+Short	some copper dragon scales~
+Long	Some copper dragon scales have been dropped here.~
+Weight	5
+Magic	50
+Cost	3000
+Rarity	1
+Sector	-1
+Race	-1
+Extra	262144
+Affect       -1 -1 8 27 0
+
+#MATERIAL
+Name	steel~
+Short	a rod of steel~
+Long	A rod of raw steel lies here.~
+Weight	8
+Magic	280
+Cost	20
+Rarity	5
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 -1 2 0
+Affect       -1 -1 10 17 0
+
+#MATERIAL
+Name	tin~
+Short	a lump of tin~
+Long	A lump of tin sits here.~
+Weight	4
+Magic	100
+Cost	1
+Rarity	5
+Sector	13
+Race	-1
+Extra	524288
+
+#MATERIAL
+Name	bronze~
+Short	a rod of bronze~
+Long	A rod of raw bronze lies here.~
+Weight	4
+Magic	100
+Cost	1
+Rarity	5
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 1 17 0
+
+#MATERIAL
+Name	stone~
+Short	a chunk of stone~
+Long	A broken chunk of stone lies here.~
+Weight	9
+Magic	100
+Cost	1
+Rarity	30
+Sector	13
+Race	-1
+Extra	524288
+
+#MATERIAL
+Name	glass~
+Short	a rod of glass~
+Long	A rod of raw glass lies here.~
+Weight	3
+Magic	100
+Cost	50
+Rarity	10
+Sector	10
+Race	-1
+Extra	524320
+
+#MATERIAL
+Name	crystal~
+Short	a piece of crystal~
+Long	A piece of crystal lies here.~
+Weight	2
+Magic	60
+Cost	40000
+Rarity	2
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 10 3 0
+
+#MATERIAL
+Name	adamantium~
+Short	a lump of adamantium~
+Long	A lump of adamantium lies on the floor.~
+Weight	8
+Magic	65
+Cost	50000
+Rarity	2
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 10 5 0
+
+#MATERIAL
+Name	obsidian~
+Short	a piece of obsidian~
+Long	A jagged piece of obsidian lies here.~
+Weight	4
+Magic	75
+Cost	34000
+Rarity	1
+Sector	13
+Race	-1
+Extra	524292
+Affect       -1 -1 10 19 0
+
+#MATERIAL
+Name	wool~
+Short	a length of wool~
+Long	A length of warm fuzzy wool lies here.~
+Weight	2
+Magic	100
+Cost	1
+Rarity	40
+Sector	-1
+Race	-1
+Extra	327680
+
+#MATERIAL
+Name	diamond~
+Short	a sparkling diamond~
+Long	A single sparkling diamond lays on the ground.~
+Weight	1
+Magic	100
+Cost	15000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 10 19 0
+
+#MATERIAL
+Name	ivory~
+Short	a piece of ivory~
+Long	A piece of pure white ivory has been left here.~
+Weight	2
+Magic	100
+Cost	4000
+Rarity	2
+Sector	10
+Race	-1
+Extra	524288
+Affect       -1 -1 10 4 0
+
+#MATERIAL
+Name	jade~
+Short	a piece of jade~
+Long	A piece of deep green jade was dropped here.~
+Weight	1
+Magic	100
+Cost	3000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 5 31 0
+
+#MATERIAL
+Name	coral~
+Short	a chunk of coral~
+Long	A broken chunk of coral has fallen here.~
+Weight	2
+Magic	100
+Cost	1000
+Rarity	5
+Sector	12
+Race	-1
+Extra	524288
+Affect       -1 -1 -2147483648 26 0
+
+#MATERIAL
+Name	titanium~
+Short	a lump of titanium~
+Long	A lump of titanium lies on the ground.~
+Weight	7
+Magic	100
+Cost	25000
+Rarity	3
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 10 1 0
+
+#MATERIAL
+Name	pearl~
+Short	a gleaming pearl~
+Long	A single gleaming white pearl has fallen here.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	5
+Sector	12
+Race	-1
+Extra	2097152
+Affect       -1 -1 50 12 0
+Affect       -1 -1 5 25 0
+
+#MATERIAL
+Name	emerald~
+Short	a glinting emerald~
+Long	A single glinting green emerald was dropped here.~
+Weight	1
+Magic	100
+Cost	12000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 10 2 0
+
+#MATERIAL
+Name	seaweed~
+Short	a strand of seaweed~
+Long	A long strand of seaweed stretches here.~
+Weight	4
+Magic	100
+Cost	5
+Rarity	20
+Sector	12
+Race	-1
+Extra	262144
+Affect       -1 -1 -1 25 0
+
+#MATERIAL
+Name	sapphire~
+Short	a shimmering sapphire~
+Long	A shimmering blue sapphire was dropped here.~
+Weight	1
+Magic	100
+Cost	14000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 10 4 0
+
+#MATERIAL
+Name	ruby~
+Short	a fiery ruby~
+Long	A fiery red ruby has been dropped here.~
+Weight	1
+Magic	100
+Cost	14000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 10 1 0
+
+#MATERIAL
+Name	onyx~
+Short	a piece of onyx~
+Long	A piece of pitch black onyx was dropped here.~
+Weight	2
+Magic	100
+Cost	5500
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 5 4 0
+
+#MATERIAL
+Name	amber~
+Short	a drop of amber~
+Long	A single sparkling drop of amber lies here.~
+Weight	1
+Magic	100
+Cost	3000
+Rarity	5
+Sector	3
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 2 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	bone~
+Short	a bone~
+Long	A bone lies on the ground.~
+Weight	3
+Magic	90
+Cost	1000
+Rarity	20
+Sector	10
+Race	23
+Extra	524288
+Affect       -1 -1 10 5 0
+
+#MATERIAL
+Name	amethyst~
+Short	a glittering amethyst~
+Long	A glittering purple amethyst was dropped here.~
+Weight	1
+Magic	100
+Cost	5000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 31 0
+Affect       -1 -1 5 4 0
+
+#MATERIAL
+Name	fur~
+Short	a pelt of fur~
+Long	A fine fur pelt off some animal was left here.~
+Weight	3
+Magic	100
+Cost	2000
+Rarity	10
+Sector	-1
+Race	76
+Extra	327680
+
+#MATERIAL
+Name	topaz~
+Short	a piece of topaz~
+Long	A piece of orange topaz lies on the ground.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 31 0
+Affect       -1 -1 5 1 0
+
+#MATERIAL
+Name	clay~
+Short	a lump of clay~
+Long	A lump of clay is sitting here.~
+Weight	8
+Magic	100
+Cost	10
+Rarity	40
+Sector	12
+Race	-1
+Extra	524288
+Affect       -1 -1 16 29 0
+
+#MATERIAL
+Name	velvet~
+Short	a strip of velvet~
+Long	A strip of soft, black velvet was dropped here.~
+Weight	2
+Magic	100
+Cost	50000
+Rarity	10
+Sector	2
+Race	-1
+Extra	262144
+Affect       -1 -1 50 13 0
+
+#MATERIAL
+Name	platinum~
+Short	a lump of platinum~
+Long	A lump of platinum is sitting here.~
+Weight	5
+Magic	80
+Cost	13000
+Rarity	4
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 10 31 0
+
+#MATERIAL
+Name	seashell~
+Short	a seashell~
+Long	A seashell is here with a gleaming pink inside.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	10
+Sector	12
+Race	-1
+Extra	524288
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	opal~
+Short	a shining opal~
+Long	A shining piece of opal has been abandoned here~
+Weight	1
+Magic	100
+Cost	7999
+Rarity	5
+Sector	12
+Race	-1
+Extra	2097152
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	eternium~
+Short	a lump of eternium~
+Long	A lump of eternium lies here.~
+Weight	6
+Magic	80
+Cost	30000
+Rarity	5
+Sector	13
+Race	-1
+Extra	524288
+Affect       -1 -1 20 17 0
+
+#MATERIAL
+Name	elfskin~
+Short	a strip of elfskin~
+Long	A strip of elfskin is lying here.~
+Weight	1
+Magic	70
+Cost	30000
+Rarity	10
+Sector	-1
+Race	1
+Extra	262144
+Affect       -1 -1 10 2 0
+
+#MATERIAL
+Name	dwarfhide~
+Short	a strip of dwarfhide~
+Long	A strip of dwarfhide is laying here.~
+Weight	1
+Magic	100
+Cost	35000
+Rarity	10
+Sector	-1
+Race	2
+Extra	262144
+Affect       -1 -1 10 5 0
+
+#MATERIAL
+Name	ogrehide~
+Short	a strip of ogrehide~
+Long	A strip of ogrehide is laying here.~
+Weight	1
+Magic	150
+Cost	1000
+Rarity	10
+Sector	-1
+Race	6
+Extra	262144
+Affect       -1 -1 10 1 0
+
+#MATERIAL
+Name	orcskin~
+Short	a strip of orcskin~
+Long	A strip of orcskin is laying here.~
+Weight	1
+Magic	150
+Cost	500
+Rarity	10
+Sector	-1
+Race	7
+Extra	262144
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	gnomeskin~
+Short	a strip of gnomeskin~
+Long	A strip of gnomeskin is laying on the ground.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	10
+Sector	-1
+Race	14
+Extra	262144
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	zirconium~
+Short	a worthless piece of cubic zirconium~
+Long	A worthless piece of cubic zirconium was discarded here.~
+Weight	1
+Magic	100
+Cost	1
+Rarity	10
+Sector	13
+Race	-1
+Extra	2097152
+
+#MATERIAL
+Name	humanskin~
+Short	a strip of humanskin~
+Long	A strip of humanskin was left here.~
+Weight	1
+Magic	100
+Cost	32000
+Rarity	10
+Sector	-1
+Race	0
+Extra	262144
+Affect       -1 -1 10 3 0
+
+#MATERIAL
+Name	centaurhide~
+Short	a strip of centaurhide~
+Long	A strip of centaurhide was left here.~
+Weight	1
+Magic	100
+Cost	40000
+Rarity	10
+Sector	-1
+Race	20
+Extra	262144
+Affect       -1 -1 -1 2 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	garnet~
+Short	a burnished garnet~
+Long	A burnished garnet sparkles on the ground.~
+Weight	1
+Magic	100
+Cost	3500
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 4 0
+Affect       -1 -1 5 1 0
+
+#MATERIAL
+Name	moonstone~
+Short	a polished moonstone~
+Long	A polished moonstone gleams on the ground here.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 1 0
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	aquamarine~
+Short	a sea-blue aquamarine~
+Long	A sea-blue aquamarine was left here.~
+Weight	1
+Magic	100
+Cost	3000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 2 0
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	peridot~
+Short	a twinkling peridot~
+Long	A twinkling peridot was dropped here.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 31 0
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	tourmaline~
+Short	a pink-and-blue tourmaline~
+Long	A pink-and-blue tourmaline was left here.~
+Weight	1
+Magic	100
+Cost	2500
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 1 0
+Affect       -1 -1 5 4 0
+
+#MATERIAL
+Name	luminite~
+Short	a piece of luminite~
+Long	A piece of luminite glows here.~
+Weight	5
+Magic	40
+Cost	80000
+Rarity	1
+Sector	13
+Race	-1
+Extra	524289
+Affect       -1 -1 10 18 0
+Affect       -1 -1 10 19 0
+
+#MATERIAL
+Name	slith scale~
+Short	some slith scales~
+Long	Some scales from a slith lie here.~
+Weight	5
+Magic	100
+Cost	500
+Rarity	10
+Sector	-1
+Race	21
+Extra	262144
+Affect       -1 -1 5 17 0
+
+#MATERIAL
+Name	ariel feather~
+Short	some ariel feathers~
+Long	Some feathers from an ariel lie here.~
+Weight	1
+Magic	100
+Cost	20000
+Rarity	10
+Sector	-1
+Race	19
+Extra	262144
+Affect       -1 -1 10 4 0
+
+#MATERIAL
+Name	harpy feather~
+Short	some harpy feathers~
+Long	Some feathers from a harpy lie here.~
+Weight	1
+Magic	100
+Cost	100
+Rarity	10
+Sector	-1
+Race	24
+Extra	262144
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 2 0
+
+#MATERIAL
+Name	mrrshan fur~
+Short	a strip of mrrshan fur~
+Long	A strip of mrrshan fur lies here.~
+Weight	5
+Magic	100
+Cost	15000
+Rarity	10
+Sector	-1
+Race	-1
+Extra	262144
+Affect       -1 -1 10 25 0
+
+#MATERIAL
+Name	trollhide~
+Short	a strip of trollhide~
+Long	A strip of trollhide lies here.~
+Weight	3
+Magic	100
+Cost	200
+Rarity	10
+Sector	-1
+Race	8
+Extra	262144
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	fire~
+Short	a blaze of raw fire~
+Long	A blaze of pure fire shines here.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	65
+Affect       -1 -1 30 19 0
+
+#MATERIAL
+Name	chaos~
+Short	a swirl of raw chaos~
+Long	A swirl of raw chaos ripples around in the air.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	64
+Affect       -1 -1 30 19 0
+Affect       -1 -1 30 18 0
+Affect       -1 -1 1073741824 26 0
+
+#MATERIAL
+Name	wind~
+Short	a gust of wind~
+Long	A gust of wind blows about here.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	64
+Affect       -1 -1 524288 26 0
+Affect       -1 -1 30 2 0
+
+#MATERIAL
+Name	spirit~
+Short	a glow of pure spirit~
+Long	A mystical glow of pure spirit shimmers here.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	65
+Affect       -1 -1 1048576 26 0
+Affect       -1 -1 30 18 0
+
+#MATERIAL
+Name	shadow~
+Short	a sliver of shadow~
+Long	A slight sliver of shadow seems out of place on the ground.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	68
+Affect       -1 -1 65536 26 0
+Affect       -1 -1 30 19 0
+
+#MATERIAL
+Name	mana~
+Short	a pool of raw mana~
+Long	A shimmering pool of raw mana lies here.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	64
+Affect       -1 -1 30 3 0
+Affect       -1 -1 500 12 0
+
+#MATERIAL
+Name	agate~
+Short	a piece of agate~
+Long	A piece of agate lies here.~
+Weight	1
+Magic	100
+Cost	3000
+Rarity	6
+Sector	12
+Race	-1
+Extra	2097152
+Affect       -1 -1 30 13 0
+
+#MATERIAL
+Name	serpentine~
+Short	a piece of serpentine~
+Long	A piece of dark greenish serpentine lies here.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 4 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	malachite~
+Short	a piece of malachite~
+Long	A piece of dark malachite lies here.~
+Weight	1
+Magic	100
+Cost	4000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 3 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	hematite~
+Short	a piece of hematite~
+Long	A piece of grey hematite lies here.~
+Weight	1
+Magic	100
+Cost	7000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 1 0
+Affect       -1 -1 5 4 0
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	graphite~
+Short	a piece of graphite~
+Long	A piece of dull graphite lies here.~
+Weight	1
+Magic	100
+Cost	7000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	beryl~
+Short	a stark beryl~
+Long	A stark beryl glitters on the ground.~
+Weight	1
+Magic	100
+Cost	6000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 31 0
+Affect       -1 -1 5 5 0
+
+#MATERIAL
+Name	jasper~
+Short	a blood red jasper~
+Long	A blood red jasper lies on the ground.~
+Weight	1
+Magic	100
+Cost	5000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 3 0
+Affect       -1 -1 5 1 0
+
+#MATERIAL
+Name	sunstone~
+Short	a radiant sunstone~
+Long	A radiantly glowing sunstone lies on the ground.~
+Weight	1
+Magic	100
+Cost	10000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097153
+Affect       -1 -1 5 3 0
+
+#MATERIAL
+Name	oak~
+Short	a block of oak~
+Long	a block of oak lies here.~
+Weight	5
+Magic	100
+Cost	30000
+Rarity	10
+Sector	3
+Race	-1
+Extra	589824
+Affect       -1 -1 10 5 0
+
+#MATERIAL
+Name	willow~
+Short	a block of willow~
+Long	A block of willow lies here.~
+Weight	3
+Magic	100
+Cost	33000
+Rarity	10
+Sector	3
+Race	-1
+Extra	589824
+Affect       -1 -1 10 2 0
+
+#MATERIAL
+Name	quartz~
+Short	a piece of quartz~
+Long	A quartz crystal lies on the ground.~
+Weight	1
+Magic	100
+Cost	7000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 10 17 0
+
+#MATERIAL
+Name	pine~
+Short	a block of pine~
+Long	A block of pine wood lies here.~
+Weight	5
+Magic	100
+Cost	20000
+Rarity	10
+Sector	3
+Race	-1
+Extra	589824
+Affect       -1 -1 10 1 0
+
+#MATERIAL
+Name	chrysoberyl~
+Short	a piece of chrysoberyl~
+Long	a piece of chrysoberyl lies here~
+Weight	1
+Magic	100
+Cost	6000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 -1 31 0
+Affect       -1 -1 5 2 0
+
+#MATERIAL
+Name	tigerseye~
+Short	a piece of tigerseye~
+Long	A piece of tigerseye lies here.~
+Weight	1
+Magic	100
+Cost	5000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097152
+Affect       -1 -1 10 25 0
+
+#MATERIAL
+Name	maple~
+Short	a block of maple~
+Long	A block of maple lies here.~
+Weight	5
+Magic	100
+Cost	5000
+Rarity	10
+Sector	3
+Race	-1
+Extra	589824
+Affect       -1 -1 10 31 0
+
+#MATERIAL
+Name	cherry~
+Short	a block of cherry~
+Long	A block of cherry lies here.~
+Weight	5
+Magic	70
+Cost	50000
+Rarity	10
+Sector	3
+Race	-1
+Extra	589824
+Affect       -1 -1 300 12 0
+
+#MATERIAL
+Name	bamboo~
+Short	a stick of bamboo~
+Long	A stick of bamboo is lying here~
+Weight	2
+Magic	100
+Cost	3000
+Rarity	5
+Sector	3
+Race	-1
+Extra	589824
+Affect       -1 -1 10 18 0
+
+#MATERIAL
+Name	rainbow dragon scale~
+Short	some rainbow dragon scales~
+Long	Some rainbow dragon scales lie here.~
+Weight	1
+Magic	20
+Cost	500000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	262144
+Affect       -1 -1 1 27 0
+Affect       -1 -1 128 27 0
+Affect       -1 -1 2 27 0
+Affect       -1 -1 262144 27 0
+Affect       -1 -1 524288 27 0
+Affect       -1 -1 256 27 0
+Affect       -1 -1 8 27 0
+Affect       -1 -1 512 27 0
+Affect       -1 -1 4 27 0
+
+#MATERIAL
+Name	white striped black fur~
+Short	a strip of white fur with black stripes~
+Long	A strip of black striped white fur lies here.~
+Weight	1
+Magic	100
+Cost	20000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	262144
+Affect       -1 -1 1 18 0
+
+#MATERIAL
+Name	silver striped black fur~
+Short	a strip of silver fur with black stripes~
+Long	A strip of black striped silver fur lies here.~
+Weight	1
+Magic	100
+Cost	30000
+Rarity	0
+Sector	-1
+Race	-1
+Extra	262144
+Affect       -1 -1 1 19 0
+
+#MATERIAL
+Name	ruby magic~
+Short	a fiery ruby~
+Long	A fiery red ruby has been dropped here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 32 0
+
+#MATERIAL
+Name	emerald magic~
+Short	a glinting emerald~
+Long	A single glinting green emerald was dropped here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 33 0
+
+#MATERIAL
+Name	sapphire magic~
+Short	a shimmering sapphire~
+Long	A shimmering blue sapphire was dropped here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 37 0
+
+#MATERIAL
+Name	diamond magic~
+Short	a sparkling diamond~
+Long	A single sparkling diamond lays on the ground.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 34 0
+
+#MATERIAL
+Name	peridot magic~
+Short	a twinkling peridot~
+Long	A twinkling peridot was dropped here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 47 0
+
+#MATERIAL
+Name	turquoise magic~
+Short	a bluish-green turquoise~
+Long	A blue-green turquoise lies on the ground.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 48 0
+
+#MATERIAL
+Name	sunstone magic~
+Short	a radiant sunstone~
+Long	A radiantly glowing sunstone lies on the ground.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097217
+Affect       -1 -1 1 46 0
+
+#MATERIAL
+Name	hematite magic~
+Short	a piece of hematite~
+Long	A piece of grey hematite lies here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 40 0
+
+#MATERIAL
+Name	amethyst magic~
+Short	a glittering amethyst~
+Long	A glittering purple amethyst was dropped here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 45 0
+
+#MATERIAL
+Name	quartz magic~
+Short	a piece of quartz~
+Long	A quartz crystal lies on the ground.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 43 0
+
+#MATERIAL
+Name	topaz magic~
+Short	a piece of topaz~
+Long	A piece of orange topaz lies on the ground.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 42 0
+
+#MATERIAL
+Name	magnetite magic~
+Short	a piece of magnetite~
+Long	A piece of magnetite lies here~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 50 0
+
+#MATERIAL
+Name	beryl magic~
+Short	a stark beryl~
+Long	A stark beryl glitters on the ground.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 49 0
+
+#MATERIAL
+Name	graphite magic~
+Short	a piece of graphite~
+Long	A piece of dull graphite lies here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 36 0
+
+#MATERIAL
+Name	onyx magic~
+Short	a piece of onyx~
+Long	A piece of pitch black onyx was dropped here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 41 0
+
+#MATERIAL
+Name	moonstone magic~
+Short	a polished moonstone~
+Long	A polished moonstone gleams on the ground here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 38 0
+
+#MATERIAL
+Name	tourmaline magic~
+Short	a pink-and-blue tourmaline~
+Long	A pink-and-blue tourmaline was left here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 39 0
+
+#MATERIAL
+Name	nephrite magic~
+Short	a piece of white nephrite~
+Long	A piece of frosty white nephrite lies here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 35 0
+
+#MATERIAL
+Name	feldspar magic~
+Short	a piece of feldspar~
+Long	A peice of feldspar lies here.~
+Weight	1
+Magic	50
+Cost	100000
+Rarity	2
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 44 0
+
+#MATERIAL
+Name	test~
+Short	a test material~
+Long	A nondescript piece of material lies on the floor here.~
+Weight	1000
+Magic	100
+Cost	0
+Rarity	0
+Sector	-1
+Race	-1
+Extra	786440
+Affect       -1 -1 20 19 0
+Affect       -1 -1 20 18 0
+Affect       -1 -1 20 5 0
+Affect       -1 -1 20 2 0
+Affect       -1 -1 20 1 0
+Affect       -1 -1 20 25 0
+Affect       -1 -1 -500 17 0
+
+#MATERIAL
+Name	ether~
+Short	a wisp of ether~
+Long	A nondescript piece of material lies on the floor here.~
+Weight	1
+Magic	25
+Cost	0
+Rarity	0
+Sector	-1
+Race	-1
+Extra	0
+
+#MATERIAL
+Name	pearl magic~
+Short	a gleaming pearl~
+Long	A gleaming pearl is here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	12
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 40 0
+Affect       -1 -1 1 48 0
+
+#MATERIAL
+Name	chrysoberyl magic~
+Short	a piece of chrysoberyl~
+Long	a piece of chrysoberyl lies here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 47 0
+Affect       -1 -1 1 49 0
+
+#MATERIAL
+Name	opal fireopal magic~
+Short	a fire opal~
+Long	A nondescript piece of material lies on the floor here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 32 0
+Affect       -1 -1 1 46 0
+
+#MATERIAL
+Name	garnet magic~
+Short	a burnished garnet~
+Long	A nondescript piece of material lies on the floor here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 32 0
+Affect       -1 -1 1 33 0
+
+#MATERIAL
+Name	malachite magic~
+Short	a piece of malachite~
+Long	A nondescript piece of material lies on the floor here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 45 0
+Affect       -1 -1 1 44 0
+
+#MATERIAL
+Name	jasper magic~
+Short	a blood red jasper~
+Long	A nondescript piece of material lies on the floor here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 32 0
+Affect       -1 -1 1 41 0
+
+#MATERIAL
+Name	tazanite magic~
+Short	a shimmering blue tazanite~
+Long	A shimmering blue tazanite is here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 34 0
+Affect       -1 -1 1 37 0
+
+#MATERIAL
+Name	citrine magic~
+Short	a shimmering yellow citrine~
+Long	A yellow citrine is here, shimmering beautifully.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 42 0
+Affect       -1 -1 1 44 0
+
+#MATERIAL
+Name	lapis magic~
+Short	a deep blue lapis~
+Long	A deep blue square lapis is here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 37 0
+Affect       -1 -1 1 43 0
+
+#MATERIAL
+Name	cordierite magic~
+Short	an icy blue cordierite~
+Long	An icy blue cordierite is here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 34 0
+Affect       -1 -1 1 35 0
+
+#MATERIAL
+Name	spinel magic~
+Short	a gleaming pink spinel~
+Long	A gleaming pink spinel is here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 39 0
+Affect       -1 -1 1 45 0
+
+#MATERIAL
+Name	ruby magic~
+Short	a fiery ruby~
+Long	A brightly glowing ruby is here.~
+Weight	1
+Magic	10
+Cost	500000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 5 32 0
+Affect       -1 -1 -5 35 0
+
+#MATERIAL
+Name	nephrite magic~
+Short	a piece of white nephrite~
+Long	A brightly glowing white nephrite.~
+Weight	1
+Magic	10
+Cost	500000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 5 35 0
+Affect       -1 -1 -5 32 0
+
+#MATERIAL
+Name	diamond magic~
+Short	a sparkling diamond~
+Long	A brightly glowing diamond.~
+Weight	1
+Magic	10
+Cost	500000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 5 34 0
+Affect       -1 -1 -5 33 0
+
+#MATERIAL
+Name	emerald magic~
+Short	a glinting emerald~
+Long	A brightly glowing emerald.~
+Weight	1
+Magic	10
+Cost	500000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 5 33 0
+Affect       -1 -1 -5 34 0
+
+#MATERIAL
+Name	sapphire magic~
+Short	a shimmering sapphire~
+Long	A brightly glowing sapphire.~
+Weight	1
+Magic	10
+Cost	500000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 5 37 0
+Affect       -1 -1 -5 36 0
+
+#MATERIAL
+Name	graphite magic~
+Short	a piece of graphite~
+Long	A brightly glowing piece of graphite.~
+Weight	1
+Magic	10
+Cost	500000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 5 36 0
+Affect       -1 -1 -5 37 0
+
+#MATERIAL
+Name	jet magic~
+Short	a pitch black jet~
+Long	A pitch black piece of jet is here.~
+Weight	1
+Magic	25
+Cost	200000
+Rarity	1
+Sector	13
+Race	-1
+Extra	2097216
+Affect       -1 -1 1 50 0
+Affect       -1 -1 1 41 0
+
+#MATERIAL
+Name	plastic~
+Short	a piece of plastic~
+Long	A piece of plastic lies here.~
+Weight	1
+Magic	500
+Cost	500
+Rarity	40
+Sector	-1
+Race	-1
+Extra	786432
+
+#MATERIAL
+Name	rat pelt~
+Short	a rat pelt~
+Long	A skin of a rat lies here.~
+Weight	1
+Magic	100
+Cost	1
+Rarity	100
+Sector	-1
+Race	54
+Extra	262144
+#END

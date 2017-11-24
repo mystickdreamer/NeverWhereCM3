@@ -1,0 +1,21 @@
+#DEITY
+Index			14
+Filename		illusion.dty~
+Name		Illusion~
+Description	&z&gAlignment&G: chaotic
+Shadow is a dark deity that thrills in malice and cold killing.  Unlike
+Chaos, Shadow encourages its followers to calculate their killings
+carefully, rather than barge into a situation unthinking.  Shadow's
+followers are capable of slinking in even the faintest shadow unseen,
+and have been granted a tolerance to many kinds of venoms and poisons.
+However, Shadow worshippers have been known to fear bright light.
+~
+Message		The air shimmers in~
+Cost		3
+Count		172
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

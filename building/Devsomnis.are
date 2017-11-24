@@ -1,0 +1,76 @@
+#AREA   {PROTO} Devsomnis's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Devsomnis~
+
+#RANGES
+1 0 0 0
+$
+
+#RESETMSG Void~
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#1000
+Diagon Alley Info~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+S
+#1001
+Diagon Alley~
+Standing here is a brick archway.
+The crooked cobbled streets are only slightly less
+crooked than the buildings that line the alley.
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 1003
+S
+#1002
+a void~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+S
+#1003
+a void~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 1001
+S
+#0
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

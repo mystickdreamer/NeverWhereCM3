@@ -1,0 +1,61 @@
+#AREA   Houses~
+
+
+
+#VERSION 1
+#AUTHOR Nerian~
+
+#RANGES
+6 0 0 0
+$
+
+#RESETMSG Eaorth~
+
+#FLAGS
+0
+
+#ECONOMY 0 100000000
+
+#CLIMATE 2 2 2 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#200
+Houses area~
+This area is for houses.
+~
+0 0 1
+0 0 0 0 0 0 0 0
+S
+#201
+Nerian's House~
+This is your desc. You can edit this with HOUSE DESC.
+~
+0 1076888584 0
+0 0 0 0 0 0 0 0
+S
+#999
+Last Room for Houses~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

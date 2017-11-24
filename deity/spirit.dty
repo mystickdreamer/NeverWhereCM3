@@ -1,0 +1,51 @@
+#DEITY
+Filename		spirit.dty~
+Name		Death~
+Description	&z&gAlignment: &Gevil
+An odd deity, devoted to the protection and upkeep of ones personal self.
+Spirit has superb insight and can look into one's soul and detect any
+presence of evil at all. Followers of Spirit possess huge amounts of
+negative energy, which negates other negative forces. They usually
+inhabit the cooler northern regions, due to their dislike of heat.
+~
+Alignment		-500
+Worshippers	82
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		1
+Kill_npcrace	0
+Kill_npcfoe	0
+Kill_magic	1
+Sac		10
+Bury_corpse	0
+Aid_spell		-10
+Aid		-50
+Steal		0
+Backstab		0
+Die		-1
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		-10
+Dig_corpse	0
+Scorpse		30
+Savatar		800
+Sdeityobj		150
+Srecall		100
+Suplift		100
+Race		-1
+Class		-1
+Element		512
+Sex		-1
+Affected		4
+Npcrace		0
+Npcfoe		0
+Suscept		1
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		2
+End
+
+#END

@@ -1,0 +1,45 @@
+#DEITY
+Filename		air.dty~
+Name		Wind~
+Description	~
+Alignment		400
+Worshippers	0
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		0
+Kill_npcrace	50
+Kill_npcfoe	0
+Kill_magic	0
+Sac		10
+Bury_corpse	0
+Aid_spell		100
+Aid		100
+Steal		50
+Backstab		5
+Die		-10
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		100
+Dig_corpse	0
+Scorpse		50
+Savatar		500
+Sdeityobj		300
+Srecall		50
+Suplift		70
+Race		-1
+Class		-1
+Element		2048
+Sex		-1
+Affected		524288
+Npcrace		0
+Npcfoe		0
+Suscept		2097152
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		4
+End
+
+#END

@@ -1,0 +1,49 @@
+#AREA   Houses~
+
+
+
+#VERSION 1
+#AUTHOR Nerian~
+
+#RANGES
+0 0 0 0
+$
+
+#RESETMSG Void~
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#200
+Houses~
+This is the area for houses in the game. Players have the ability to expand 
+their houses, at a cost of course.
+~
+0 0 1
+0 0 0 0 0 0 0 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

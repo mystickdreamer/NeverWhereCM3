@@ -1,0 +1,20 @@
+#DEITY
+Index			0
+Filename		fire.dty~
+Name		Fire~
+Description	&z&gAlignment:&G evil
+While a common force in everyday life, Fire holds little sway over
+the world. Only rarely is its power released in great quantity, but
+it is devastating when it can be accomplished. The disciples of Fire
+are protected by this powerful deity and tend to stay to the warmer
+climates, uncomfortable without sufficient heat.
+~
+Message		Searing flames roar in~
+Cost		2
+Count		123
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

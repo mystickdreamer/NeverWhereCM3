@@ -1,0 +1,20 @@
+#DEITY
+Index			10
+Filename		change.dty~
+Name		Change~
+Description	&z&gAlignment: &Gneutral
+Never the same more than once, Change is ever the most difficult patron
+to understand. Its followers are mysterious and secretive, however
+certain things have been observed over the years. One story recounts
+a Changer disappearing into a wall. While impossible to keep them still,
+they have been known to be easily influenced.
+~
+Message		The walls seem to warp in~
+Cost		3
+Count		155
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

@@ -1,0 +1,249 @@
+#AREA   The Elkandu Academy~
+
+
+
+#VERSION 1
+#AUTHOR Nagra + Keo~
+
+#RANGES
+77 0 0 0
+$
+
+#RESETMSG Void~
+
+#FLAGS
+16
+
+#ECONOMY 0 100000000
+
+#CLIMATE 2 2 2 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#100
+the Start of a Journey~
+~
+0 1032 1
+0 0 0 0 0 0 0 0
+D5
+~
+~
+0 -1 199
+S
+#101
+the Entrance to the Academy~
+~
+0 1073741832 1
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 102
+D2
+~
+~
+0 -1 20025
+S
+#102
+the academy hall~
+Welcome to the Rogue Winds MUD academy. Please make
+sure to visit all rooms contained within the school and  
+read all instructions posted. Also please look at
+help rules now. If you have any questions check for a help file
+first by typing help subject. 
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 105
+D1
+~
+~
+0 -1 104
+D2
+~
+~
+0 -1 101
+D3
+~
+~
+0 -1 103
+S
+#103
+the cafeteria~
+You must eat, sleep, and drink to stay healthy. Neglecting to do so will
+result in severe side affects unless you do not need to eat. The only things
+that do not eat are the undead and nonliving. If you fail to eat your body
+will not repair itself as fast as it usualy would. First you must have food in 
+your inventory. To pick something up enter get <target>. For example get bread 
+will pick up an item in the room named bread. The item will be added to your
+inventory. To check your inventory enter the letter I. To eat the bread simply
+enter eat bread.
+~
+0 1073741832 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 102
+S
+#104
+a large training room~
+To see you characters current status type score. You will see your characters
+attributes listed in numeral form along with much other useful information.
+Below your attributes is your current tradein points, gold, hunger level, and
+thirst level. Below hunger level is your mentalstate. Your character will
+behave oddly if you do not keep your mentalstate balanced. You may adjust your
+mentalstate through consumption of certain items or by having certain spells
+cast on you. Please read HELP MENTALSTATE for further information.
+~
+0 1073741832 0
+0 0 0 0 0 0 0 0
+D3
+~
+~
+0 -1 102
+S
+#105
+the academy hall~
+This room and the room to the north are the most important lessons of all
+contained within this school. You started off with 300 tradein points.
+These tradein points (TP) may be traded in for a talent level or an attribute
+point. Talents give you spells and magical abilities and attribute points
+ make you bigger stronger and faster. Please read help tradein now.
+You type slist and practice to see all spells and abilities you have at
+the moment. You may practice your spells at a healer and you may find
+teachers of other abilities in your adventures.
+You may tap for mana to regain it by enter tap number.
+For example tap 100 would attempt to draw in 100 mana, but
+you must read the room descriptions to make sure it isnt
+a high or low energy area. In a low energy area your taps
+will not draw in as much and vice-versa for high energy.
+If you draw in too much mana it will damage you and
+your mentalstate will suffer. The same goes for negative
+mana minus the damage.
+~
+0 1073741832 0
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 107
+D1
+~
+~
+0 -1 108
+D2
+~
+~
+0 -1 102
+D3
+~
+~
+0 -1 106
+S
+#106
+an equipment room~
+You will need equipment to shield you from attacks unless you are a nonhumanoid
+being. To wear equipment enter wear <item> or wear all to wear all applicable
+equipment. What you can wear is determined by your and it's size. You may
+type body to see the current armor on your parts. Each different race has
+different parts. You fashion your equipment here and may add effects to it
+by using enchants. Enchants are given by talents and the number of times an
+enchant can be placed on the same item is determined by your effectiveness with
+that talent. To enchant equipment you must first funnel it, thereby charging it
+with mana. The material used determines its absorbancy. It may take
+quite some time for an item to absorb mana and it isnt a 1 to 1
+absorbancy either so you may have to funnel the item often. You may
+also fashion weapons. To wield a weapon type weapons. Read help weapons now.
+To remove a weapon sheathe it.
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D1
+~
+~
+0 -1 105
+S
+#107
+a combat training room~
+Combat is how you gain experience points and without experience points you
+cannot raise any skills or talents. To see an estimate of your EXP enter attr
+points you have. You must use a skill, weapon, or talent to put
+EXP into it. The better you get the more EXP you can hold at one
+time. To attack something, first make sure you are ready
+by entering ready. Then use a command associated with your weapon
+or body part that you wish to attack with. Example. Punch elf. You may
+also supply an arguement with this to target a specific body part. Example.
+Punch elf face would attempt to punch an elf in the face. Claw elf 'right arm'
+would attempt to claw an elf in the right arm.
+You also must ready yourself or else you will not land many hits,
+but be warned that your regeneration suffers while ready. Enter
+relax to relax from readiness.
+~
+0 8 0
+0 0 0 0 0 0 0 0
+D2
+~
+~
+0 -1 105
+S
+#108
+the foraging area~
+You may find materials used to fashion eq from by digging
+in an area. The type of area you are in determines what
+you may dig up. For example a cave will give you more metals
+than field which will give more cloth. You may also harvest
+in an area with vegetation to find foods and ingredients
+for alchemy. For more help on alchemy enter help mix.
+~
+0 8 13
+100 100 0 0 0 0 100 101
+D3
+~
+~
+0 -1 105
+S
+#199
+the Road to Torn Elkandu~
+Type DONE after getting a kit or trading in talents.
+~
+0 1032 1
+0 0 0 0 0 0 0 0
+D10
+~
+done~
+657408 -1 20000
+> entry_prog 100~
+mpforce $n help kit
+~
+|
+S
+#0
+
+
+#RESETS
+M 1 20003 13 101
+G 1 35 1
+O 1 27999 1 103
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

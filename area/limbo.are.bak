@@ -1,0 +1,1382 @@
+#AREA   Limbo~
+
+
+
+#VERSION 1
+#AUTHOR RoD / UCMM~
+
+#RANGES
+0 60 0 115
+$
+
+#RESETMSG Void~
+
+#FLAGS
+48
+
+#ECONOMY 0 43802000
+
+#CLIMATE 2 2 2 2
+
+#NEIGHBOR Torn Elkandu~
+
+#MOBILES
+#1
+Puff~
+Puff the Fractal Dragon~
+~
+71303171 4194856 0 C
+0 20 -30 5d10+30550 4d10+200
+10000 1000
+1112 100 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+31 0 0 0 0 0 0
+0 0 0 0 3156992 0 2 3
+> speech_prog test~
+say triggered by (name):	$n
+say triggered by (name&title): 	$N
+say triggerer is (he,she,it):	$e
+say triggerer is (him,her,it):	$m
+say triggerer is (his,hers,its):$s
+say random char (name):		$r
+say random char (name&title or short): 	$R
+say random char  (he,she,it):	$J
+say random char (him,her,it):	$L
+say random char (his,hers,its):	$K
+mpaset $n 3100
+if hasabit($n) == 3100
+say You have abit 3100.
+else
+say You do not have abit 3100.
+endif
+~
+> speech_prog test2~
+say firstname of obj:	 	$i
+say short_desc/title of obj: 	$I
+say he/she/it of obj:	 	$j
+say him/her/it of obj:	 	$k
+say his/hers/its of obj:	$l
+say firstname of victim: 	$t
+say short_desc/title of victim:	$T
+say he/she/it of victim: 	$E
+say him/her/it of victim: 	$M
+say his/hers/its of victim:	$S
+~
+> act_prog accusingly.~
+say Here is the votes!
+say The person doing it is:  $n.
+say The target is:  $t.
+say Have a spiffyday!
+~
+> speech_prog sell~
+yawn
+mpsellrand
+~
+|
+#2
+hell devil~
+the Devil~
+This demon is clearly something that you don't want to mess with...
+It appears to be very agile, and very strong.  
+~
+71303171 40 0 C
+0 1 -300 5d10+31550 1d2+2
+10000 155000
+1112 100 0
+1 1 1 1 1 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+> act_prog p is dying~
+if isnuisance($n)
+say You are a complete and utter loser, $n.
+,pisses on your shoes.
+,spits in your face.
+godwedgy $n
+else
+mpoload 48
+drop wine
+mpfor $n drink wine
+mpfor $n drink wine
+mpfor $n drink wine
+c heal $n
+endif
+~
+> act_prog p is starved~
+mpoload 20
+give bread $n
+mpfor $n eat bread
+c heal $n
+mea $n $I pokes you with his trident.
+mer $n $I pokes $n with his trident.
+~
+> act_prog p bashes against~
+cast heal $n
+cast heal $n
+~
+> act_prog p shivers and~
+cast 'cure poison' $n
+cast heal $n
+~
+> act_prog p wears~
+c heal $n
+c heal $n
+~
+> act_prog p wields~
+c heal $n
+c heal $n
+~
+> act_prog p is DEAD!!~
+mpat $n mptrans $n 6
+mea $n $I drags you back to hell by the collar.
+~
+|
+#3
+supermob~
+the supermob~
+How clever he looks!
+~
+6299649 4259882 0 C
+0 1 -300 5d10+31550 1d2+2
+10000 155000
+1112 100 0
+100 100 100 100 100 100 100
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 3
+> rand_prog 25~
+mpinvis 51
+~
+|
+#5
+undead animated corpse~
+an animated corpse~
+Denied its rightful death, this animated corpse has been infused with the
+powerful energies of its master.  It exists on the precipice between life
+and unlife, even as its physical body rots and decays under the strain of
+its tasks.
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 7 0 0 0 0 0
+#10
+wolf~
+a deadly wolf~
+While this large beast circles you, you have a chance to see its large          
+fangs and its sharp claws.  The wolf's eyes are small, black and have           
+the aura of a deadly intent.  Its raggedy coat tells of a recent battle         
+with something.
+~
+1073741825 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+69 0 0 0 0 0 2
+0 0 0 0 0 0 3 0
+#11
+mist~
+mist~
+Is it the fog you see?  Or are your eyes playing deadly tricks on you.  The
+mist swirls around you and then quickly disappears before you can blink.  You
+suddenly find yourself overcome with an unknown power.
+~
+1073741825 2129920 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+85 0 0 0 0 0 2
+0 0 0 0 0 0 35651584 0
+#12
+bat~
+bat~
+As this bloodsucking creature flies past you, you notice the tiny black
+eyes that stare at your jugular vein.  This little black bat has the
+intentions of drinking your blood until there is none left in your body.
+~
+1073741825 524288 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+23 0 0 0 0 0 2
+0 0 0 0 0 0 3 0
+#13
+hawk~
+hawk~
+This proud creature stands upon its perch watching you with unblinking
+eyes.  Any movement made by you could make it flare its wings in disapproval
+and open its beak to scream its intent.  Its long beak open and before you
+know what has happened, it comes flying towards you.
+~
+1073741825 524288 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+78 0 0 0 0 0 2
+0 0 0 0 0 0 2 0
+#14
+black cat~
+black cat~
+With a furry black coat, and big yellow eyes, this cat gracefully walks
+across your path, bringing you several years of bad luck.  Its tail moves
+slowly to tell you that it is laughing at your misfortune.
+~
+1073741825 8 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+29 0 0 0 0 0 2
+0 0 0 0 0 0 3 0
+#15
+dove~
+dove~
+With feathers the colour of soft grey and soft loving black eyes, this small
+delicate creature sings you a tune full of romance.  The tune it sings comes
+from the small breast that rises and falls with every chorus it sings.  You
+are at peace as you listen to this lovable creature.
+~
+1073741825 524288 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+78 0 0 0 0 0 1
+0 0 0 0 0 0 2 0
+#16
+fish~
+fish~
+With fins, teeth and gills, this slippery little thing is hard to catch.
+It swims with a speed no beast, human or animal can compete with.  It's
+tiny eyes, move with every breath.  It blows several large bubbles as it
+quickly swims past you.
+~
+1073741825 -2147483648 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+81 0 0 0 0 0 1
+0 0 0 0 0 0 0 0
+#17
+mob~
+mob~
+~
+1 4194304 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+30 30 0 0 0 0 0 2
+#18
+vampire~
+a vampire~
+~
+1073741827 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 515 2
+#19
+magic mouth~
+a magic mouth~
+~
+67108865 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+23 23 23 23 23 23 23
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#23
+demon water~
+a water demon~
+~
+3 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+12 0 0 0 0 0 2
+30 30 0 0 0 0 7 2
+> rand_prog 10~
+emote leaps into the fountain.
+mpgoto 1
+mpe purge
+~
+|
+#24
+elemental water~
+a water elemental~
+~
+3 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 1107558400 26
+> rand_prog 30~
+emote flows back into the fountain.
+mpgoto 1
+mpe purge
+~
+|
+#25
+nymph water~
+a water nymph~
+~
+133 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+1112 100 2
+5 70 70 70 5 100 40
+0 0 0 0 0
+27 0 0 0 0 0 0
+0 0 0 0 0 0 0 16386
+#0
+
+
+#OBJECTS
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 2048 1
+0
+1 0 0 0
+1 0 0
+#3
+coins gold~
+pile of coins~
+A pile of gold coins.~
+~
+20 2048 1
+0
+0 0 0 0
+1 0 0
+#10
+corpse~
+%s corpse~
+This looks like the remains of %s.~
+~
+23 2048 1
+0
+0 0 0 1
+100 0 0
+#11
+corpse~
+the corpse of %s~
+This looks like the remains of %s.~
+~
+24 133120 0
+0
+0 0 0 1
+100 0 0
+#12
+head~
+the head of %s~
+A bloody severed limb lies here.~
+%s gobble$q down $p with gusto... disgusting!~
+19 2048 1
+0
+10 0 0 0
+5 0 0
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+%s savagely devour$q $p!~
+19 0 1
+0
+16 0 0 0
+2 0 0
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+%s chomp$q on $p.~
+19 0 1
+0
+20 0 0 0
+5 0 0
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+%s chomp$q on $p.~
+19 0 1
+0
+20 0 0 0
+5 0 0
+#16
+guts~
+the spilled guts of %s~
+The spilled guts of %s makes you lose your appetite.~
+~
+19 262144 1
+0
+5 0 0 1
+5 0 0
+#17
+blood~
+pool of spilled blood~
+A pool of spilled blood lies here.~
+%s slurp$q up $p.~
+27 133120 0
+0
+5 0 0 1
+10000 0 0
+#18
+bloodstain~
+the bloodstain~
+Blood stains the ground.~
+~
+28 0 0
+0
+5 0 0 1
+1 0 0
+#19
+scraps~
+the scraps of %s~
+The scraps of %s lie here.~
+~
+29 0 1
+0
+5 0 0 1
+1 0 0
+#20
+bread~
+loaf of bread~
+A loaf of wheat bread lies here.~
+%s enjoy$q $p.~
+19 65536 1
+0
+20 12 0 0
+1 10 0
+#21
+globe light~
+a globe of light~
+A globe of light shimmers in the air.~
+~
+1 65 4194305
+0
+0 0 -1 0
+1 50 0
+#22
+spring~
+spring~
+A magical spring flows here.~
+~
+25 131136 0
+0
+100000 100000 0 0
+10000 0 0
+> act_prog p has dispelled the room!~
+mpe _blu The magical spring suddenly dries up.
+mppurge spring
+~
+|
+#23
+skin~
+the skin of %s~
+The skin of %s lays here.~
+~
+9 0 2049 128
+0
+50 50 0 0
+1 0 0
+#24
+meat fresh slice~
+a slice of raw meat from %s~
+A slice of raw meat from %s lies lies on the ground.~
+~
+19 262144 1
+0
+15 0 0 0
+2 0 0
+#25
+shopping bag~
+a bag~
+A shopping bag lies discarded on the ground nearby.~
+~
+15 0 1
+0
+50 0 0 0
+2 20 0
+#26
+trickle of blood~
+A small trickle of blood~
+A small trickle blood lies here on the ground.~
+~
+27 0 0
+0
+5 5 0 0
+1 1 0
+#27
+Surge~
+a can of Surge~
+A can of Surge has been left here.~
+~
+17 8192 1
+0
+5 15 15 0
+1 1 0
+#28
+Coke~
+a can of Coke~
+A can of Coke has been left here.~
+~
+17 8192 1
+0
+5 15 15 0
+1 1 0
+#29
+Pepsi~
+a can of Pepsi~
+A can of Pepsi has been left here.~
+~
+17 8192 1
+0
+5 15 15 0
+1 1 0
+#30
+fire~
+fire~
+A magical fire burns brightly.~
+~
+34 131137 0
+0
+0 0 0 0
+10000 0 0
+> act_prog p has dispelled the room!~
+mpe _ora The magical fire suddenly goes out.
+mppurge fire
+~
+|
+#31
+trap~
+a trap~
+You detect a trap.~
+~
+44 0 0
+0
+0 0 0 0
+10000 10 0
+#32
+portal~
+a portal~
+&CA crystal clear portal spins rapidly in the air.&w~
+~
+46 131136 0
+0
+0 0 0 0
+10000 0 0
+> act_prog p has dispelled the room!~
+mpe _blu The portal unravels and winks out of existance.
+mppurge portal
+~
+|
+#33
+black poison powder~
+black poisoning powder~
+A small amount of black poisoning powder sits in a small container on the ground.~
+~
+13 0 8193
+0
+0 0 0 0
+1 48000 0
+#34
+scroll scribing blank~
+a blank scroll~
+A blank scroll lays here gathering dust.~
+~
+2 8192 8193
+0
+0 -1 -1 -1 -1 -1
+2 1000 0
+'NONE' 'NONE' 'NONE'
+#35
+potion empty flask~
+an empty flask~
+An empty flask sits here.~
+~
+17 0 1
+0
+5 0 0 0
+1 0 0
+#36
+parchment paper note~
+piece of paper~
+A note has been discarded here.~
+~
+35 73728 8193
+0
+0 0 0 0
+1 1500 0
+#37
+quill pen~
+a quill~
+A feather dipped in ink here lies.~
+~
+21 8192 8193
+0
+15 15 0 0
+2 100 0
+#38
+Seven Up~
+a can of Seven Up~
+A can of Seven Up has been left here.~
+~
+17 8192 1
+0
+5 15 15 0
+1 1 0
+#39
+Mountain Dew~
+A can of Mountain Dew~
+A can of Mountain Dew has been left here.~
+%s savor$q the caffeine sweetness of $p.~
+17 8192 1
+0
+5 15 15 0
+1 1 0
+#40
+Dr. Pepper~
+a can of Dr. Pepper~
+A can of Dr. Pepper has been left here.~
+~
+17 8192 1
+0
+5 15 15 0
+1 1 0
+#41
+Ice Box Cooler~
+an ice box cooler~
+An Ice Box Cooler has been placed here.~
+~
+15 0 0
+0
+9999 0 0 0
+9999 99999999 0
+E
+ice box cooler~
+This is a rather large and rather cold cooler.  It at times contains
+beverage free for the testing, first come, first serve.  To see what
+is in the cooler, type OPEN COOLER, then LOOK IN COOLER.
+~
+#43
+holy symbol faith~
+a symbol of faith~
+A holy symbol lies here, shining.~
+~
+9 8192 16389
+0
+5 5 0 0
+5 100 0
+A
+4 2
+#44
+bag holding~
+a bag of holding~
+A magical bag lies on the ground.~
+~
+15 262208 1
+0
+200 0 0 0
+1 0 0
+#45
+statue~
+a statue of %s~
+A statue of %s is standing here.~
+~
+12 524288&4 0
+0
+0 0 0 0
+1000 0 0
+#46
+magic marker~
+a magic marker~
+A magic marker hovers in the air.~
+~
+21 8256 8193
+0
+20 20 0 0
+1 100 0
+#47
+key ether~
+ether key~
+The key to the secrets of the universe (yeah right) was dropped here.~
+~
+18 524288 1
+0
+0 0 0 0
+1 0 0
+#48
+wine bottle~
+a bottle of wine~
+A bottle of wine sits here.~
+~
+17 0 1
+0
+10 10 2 0 1 0
+1 1000 0
+#49
+globe darkness~
+a globe of darkness~
+A globe of darkness sucks up light here.~
+~
+1 68 4194305
+0
+0 0 0 0
+1 50 0
+#50
+blast~
+blast~
+A charge for a phaser lies here.~
+~
+57 64 0
+0
+0 0 300 0 0 6
+1 0 0
+#52
+shovel mystic~
+a mystic shovel~
+A shovel made of mystical energy was left here.~
+~
+59 64 8193
+0
+0 0 0 0
+1 10 0
+#53
+rose~
+a beautiful rose~
+A beautiful rose lies on the ground.~
+~
+1 262144 8193
+0
+0 0 0 0
+1 0 0
+A
+25 1
+#54
+tea cup~
+a hot cup of tea~
+A hot cup of tea sits here steaming.~
+~
+17 0 1
+0
+50 50 11 0
+1 0 0
+#55
+puddle %s~
+puddle of %s~
+A puddle is here.~
+~
+25 131072 0
+0
+0 0 0 0
+10000 0 0
+#60
+cube~
+a magical cube~
+Some god dropped a newly created cube here.~
+~
+15 1 4212736 10
+0
+999999 0 0 0
+1 0 0
+#70
+altar deity~
+the altar of %s~
+An altar devoted to %s stands here.~
+~
+12 1073741824 0
+0
+5 0 1168 0
+10000 0 0
+#71
+flask fire filled~
+a flask filled with fire~
+A small flask lies here, glowing with fire.~
+~
+10 65 8193
+0
+0 -1 -1 -1 -1 -1
+4 120000 0
+'sticky flame' 'NONE' 'NONE'
+> use_prog 100~
+mpdamage $n 293
+~
+> drop_prog 100~
+mpecho _ora $O shatters, unleashing magical fire into the room!
+mpoload 30 0 10
+get filled
+mpjunk filled
+~
+|
+#75
+magic mouth~
+a magic mouth~
+A magic mouth is grinning here.~
+~
+41 64 0
+0
+0 0 0 0
+1 0 0
+> greet_prog 100~
+mpat mouth mpfor mouth shout Alert! $n is in here!
+mppurge 'magic mouth'
+~
+> act_prog p has dispelled the room!~
+mppurge 'magic mouth'
+~
+|
+#80
+rune fire~
+a rune of fire~
+&z&RA fiery rune has been traced on the floor here.&w~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _ora As you step on the rune, it suddenly bursts into flames!
+mer $n _ora As $n steps on the rune, a pillar of flame engulfs $m!
+burn $n
+mppurge 'rune fire'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune fire'
+~
+|
+#81
+rune shock~
+a rune of shock~
+&YAn electric rune has been traced on the floor here.~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _yel As you step on the rune, a jolt of electricity runs up your body!
+mer $n _yel As $n steps on the rune, $e is jolted with electricity!
+shock $n
+mppurge 'rune shock'
+~
+> act_prog p has dispelled the room!~
+mppurge shock
+~
+|
+#82
+rune frost~
+a rune of frost~
+&CA frigid rune has been traced on the floor here.&w~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _lbl As you step on the rune, a blast of cold strikes you!
+mer $n _lbl As $n steps on the rune, a blast of cold strikes $m!
+chill $n
+mppurge 'rune frost'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune frost'
+~
+|
+#83
+rune light~
+a rune of light~
+&z&WA shining rune has been traced on the floor here.&w~
+~
+41 65 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _whi As you step on the rune, you are blinded by a flash of light!
+mer $n _whi As $n steps on the rune, $e is blinded by a flash of light!
+c flash $n
+mppurge 'rune light'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune light'
+~
+|
+#84
+rune pain~
+a rune of pain~
+&zA black rune has been traced on the floor here.&w~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _dch As you step on the rune, pain shoots through your body!
+mer $n _dch As $n steps on the rune, $e cries out in pain!
+taint $n
+mppurge 'rune pain'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune pain'
+~
+|
+#85
+rune poison~
+a rune of poison~
+&GA venomous rune has been traced on the floor here.&x~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _gre As you step on the rune, you feel extremely sick!
+mer $n _gre As $n steps on the rune, $e turns green and looks weak!
+c poison $n
+mppurge 'rune poison'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune poison'
+~
+|
+#86
+rune acid~
+a rune of acid~
+&gAn acidic rune has been traced on the floor here.&w~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _gre As you step on the rune, acid sprays up from the floor!
+mer $n _gre As $n steps on the rune, acid sprays up from the floor!
+c 'acid blast' $n
+mppurge 'rune acid'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune acid'
+~
+|
+#87
+rune travel~
+a rune of travel~
+&YA yellow rune has been traced on the floor here.&w~
+~
+41 131136 0
+0
+0 0 0 0
+1 0 0
+> greet_prog 100~
+mea $n _gre As you step on the rune, your surroundings suddenly seem different!
+mer $n _gre As $n steps on the rune, $e vanishes into thin air!
+mpscatter $n 2000 19999
+mppurge travel
+~
+> act_prog p has dispelled the room!~
+mppurge travel
+~
+|
+#88
+rune life~
+a rune of life~
+&PA heart-shaped rune has been traced on the floor here.~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> rand_prog 100~
+mpe _lbl $I pulses, revitalizing you.
+c heartbeat
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune life'
+~
+|
+#89
+rune wind~
+a rune of wind~
+&BA wispy rune has been traced on the floor.&w~
+~
+41 64 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _blu As you step on the rune, it vanishes in a roaring wind!
+mer $n _blu As $n steps on the rune, $e is blasted by a roaring wind!
+wind $n
+mppurge 'rune wind'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune wind'
+~
+|
+#90
+rune earth~
+a rune of earth~
+&gA green rune has been traced on the floor here.&x~
+~
+41 0 0
+0
+0 0 0 0
+10000 0 0
+> greet_prog 100~
+mea $n _dgr As you step on the rune, vines shoot out at you!
+mer $n _dgr As $n steps on the rune, vines shoot out at $m!
+c growth
+vine $n
+mppurge 'rune earth'
+~
+> act_prog p has dispelled the room!~
+mppurge 'rune earth'
+~
+|
+#91
+rune warding~
+a rune of warding~
+&ca powerful rune has been traced on the floor here.&w~
+~
+41 0 0
+0
+0 0 0 0
+10000 0 0
+#92
+blood fountain~
+blood fountain~
+A fountain of blood~
+~
+25 131072 0
+0
+10000 10000 13 0
+1 0 0
+#98
+mageblade blade~
+a gleaming golden mageblade~
+A shimmering mageblade is here gleaming golden.~
+~
+5 65 8193
+0
+0 10 10 6 0 1
+1 0 0
+A
+12 50
+A
+19 5
+A
+18 5
+#99
+fountain~
+a fountain~
+A large marble fountain gushes water here.~
+~
+25 131072 0
+0
+10000 10000 0 0
+10000 0 0
+> use_prog 30~
+mer $n $n drinks from the fountain.
+mea $n The cool draught refreshes you.
+c refresh $n
+~
+> use_prog 43~
+mer $n $n drinks from the fountain.
+mea $n This tepid water is tasteless.
+~
+> use_prog 7~
+mer $n $n drinks from the fountain.
+mea $n You feel cleansed as you drink this pure water.
+c 'cure blind' $n
+c 'remove curse' $n
+c 'remove curse' $n
+c 'remove curse' $n
+c 'cure poison' $n
+~
+> use_prog 7~
+mer $n $n's skin begins to flow like water!
+mea $n You skin begins to flow about you like water!
+c liquid $n
+~
+> use_prog 8~
+mer $n $n gags as $e drinks from the fountain.
+mea $n This water contains toxic wastes! You undergo a freakish transmutation!
+c transmut $n
+~
+> use_prog 9~
+mer $n $n drinks from the fountain.
+mea $n The trickling water of the fountain sounds like music to your ears.
+c river $n
+~
+> use_prog 10~
+mer $n $n has attracted a water nymph!
+mea $n You have attracted a water nymph!
+if sex($n) == 1
+if cha($n) > 75
+mea $n The nymph admires your beauty, then jumps back into the fountain.
+else
+mpmload 25
+mea $n The nymph tries to seduce you.
+endif
+else
+mpmload 25
+mpfor nymph c teleport
+endif
+~
+> use_prog 11~
+mer $n $n has unleashed a water demon!
+mea $n You have unleashed a water demon!
+mpmload 23
+mpfor $n k demon
+~
+> use_prog 12~
+mpe The water moves as if of its own will!
+mpmload 24
+if rand(30)
+mpfor $n k water
+endif
+~
+> use_prog 14~
+mer $n $n drinks from the fountain.
+mea $n You spot the glitter of coins beneath the clear water!
+mpwithdraw 1000
+drop 1000 coins
+~
+> use_prog 17~
+mer $n $n gags as $e drinks from the fountain.
+mea $n This water is foul! You gag and vomit.
+mpfor $n puke
+mpdam $n 20
+~
+> use_prog 20~
+mer $n $n gags as $e drinks from the fountain.
+mea $n This water is contaminated!  You feel sick.
+c poison $n
+~
+> use_prog 50~
+mer $n $n gags as $e drinks from the fountain.
+mea $n This water's no good!
+c curse $n
+drowfire $n
+~
+> use_prog 100~
+mer $n $n gags as $e drinks from the fountain.
+mea $n Gaggg... this tastes like sewage. You vomit.
+mpfor $n puke
+c weaken $n
+~
+> all_greet_prog 100~
+mea $n You hear a fountain splashing.
+~
+|
+#0
+
+
+#ROOMS
+#1
+the Void~
+You are floating in nothing.
+~
+0 1077411852 11
+0 0 0 0 0 0 0 0
+> speech_prog test~
+say triggered by (name):	$n
+say triggered by (name&title): 	$N
+say triggerer is (he,she,it):	$e
+say triggerer is (him,her,it):	$m
+say triggerer is (his,hers,its):$s
+say random char (name):		$r
+say random char (name&title or short): 	$R
+say random char  (he,she,it):	$J
+say random char (him,her,it):	$K
+say random char (his,hers,its):	$L
+~
+> speech_prog test2~
+say firstname of room:	 	$i
+say short_desc/title of room: 	$I
+say he/she/it of room:	 	$j
+say him/her/it of room:	 	$k
+say his/hers/its of room:	$l
+say firstname of victim: 	$t
+say short_desc/title of victim:	$T
+say he/she/it of victim: 	$E
+say him/her/it of victim: 	$M
+say his/hers/its of victim:	$S
+~
+> act_prog purge~
+mppurge
+~
+|
+S
+#2
+Limbo~
+You float in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light which fades into the
+relative darkness around you without any trace of edge or shadow.
+~
+0 3671052 11
+0 0 0 0 0 0 0 0
+D5
+~
+~
+0 -1 20000
+R M 0 1 1 2
+S
+#3
+Outside the World~
+This room is reserved for storage of polymorphed players.
+~
+0 3680774 11
+0 0 0 0 0 0 0 0
+R M 0 3 1 3
+S
+#4
+Storage~
+This room is reserved for future use.
+~
+0 3678220 0
+0 0 0 0 0 0 0 0
+S
+#5
+Floating in a void~
+~
+0 1073741828 1
+0 0 0 0 0 0 0 0
+S
+#6
+Purgatory~
+Go to hell, go directly to hell,
+do not pass the Nexus, do not collect 200 talent points.
+~
+0 37364748 11 0 0 2048
+0 0 0 0 0 0 0 0
+R M 0 2 1 6
+S
+#7
+an Endless Void, Courtesy of Valerezal~
+~
+0 1077257354 11
+0 0 0 0 0 0 0 0
+D0
+~
+~
+0 -1 7
+D1
+~
+~
+0 -1 7
+D2
+~
+~
+0 -1 7
+D3
+~
+~
+0 -1 7
+D4
+~
+~
+0 -1 7
+D6
+~
+~
+0 -1 7
+D7
+~
+~
+0 -1 7
+D8
+~
+~
+0 -1 7
+D9
+~
+~
+0 -1 7
+S
+#8
+a rift of darkness in the sky~
+~
+0 3678208 1 0 0 2048
+0 0 0 0 0 0 0 0
+D5
+~
+~
+0 -1 20000
+> act_prog beckons~
+mpmload 16600
+mpmload 16601
+mpmload 16602
+mpmload 16602
+mpmload 16603
+mpmload 16603
+mpmload 16604
+mpmload 16604
+mpmload 16605
+mpmload 16605
+mpmload 16612
+mpmload 16608
+mpmload 16608
+mpmload 16620
+mpmload 16610
+mpmload 16607
+mpmload 16607
+mpmload 16606
+mpmload 16613
+mpmload 16602
+mpmload 16605
+mpmload 16608
+mpmload 16609
+mpmload 16603
+mpmload 16606
+mpmload 16614
+mpmload 16602
+mpmload 16616
+~
+|
+S
+#0
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+M  25 spec_thief
+S
+
+
+#$

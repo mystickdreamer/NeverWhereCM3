@@ -1,0 +1,6389 @@
+
+#NATION
+Name       blue ariel~
+Species    avian~
+Hit        19
+Mana       34
+Height     66
+Base_age	50
+Metabolism	2
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	9
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	0
+Str_mod	-5
+Int_mod    5
+Wis_mod    5
+Dex_mod    0
+Con_mod    -5
+Cha_mod    5
+Lck_mod    0
+Eyes    blue,sky blue,cloudy,misty,gray,light blue,silvery,black,amber,green,brown~
+Hair    black,dark,dark brown,brown,blond,fair,light~
+Skin_color    pale,light,fair,very pale,very light,very fair~
+Skin_type    skin~
+Extra_color    blue,sapphire,light blue,dark blue,deep blue,sky blue,sea blue,cerulean~
+Extra_type    feathers~
+
+#NATION
+Name       mountain dwarf~
+Species    dwarf~
+Hit        35
+Mana       17
+Height     51
+Base_age	75
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	3
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    -5
+Wis_mod    20
+Dex_mod    -5
+Con_mod    20
+Cha_mod    -5
+Lck_mod    0
+Eyes    black,brown,dark brown,gray,slate gray,stony gray,blue,dark blue,light brown~
+Hair    black,brown,dark brown,light brown,reddish brown,almost black~
+Skin_color    pale,fair,light,medium,average~
+Skin_type    skin~
+Extra_color    long,short,bushy,full,very long,medium,average~
+Extra_type    beard~
+
+#NATION
+Name       wood elf~
+Species    elf~
+Hit        19
+Mana       31
+Height     63
+Base_age	100
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	8
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    5
+Wis_mod    5
+Dex_mod    10
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    green,emerald green,bright green,dark green,black,blue~
+Hair    black,dark,night black,shadowy~
+Skin_color    pale~
+Skin_type    skin~
+
+#NATION
+Name       harfoot~
+Species    dwarf~
+Hit        23
+Mana       27
+Height     45
+Base_age	1
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	-5
+Int_mod    0
+Wis_mod    5
+Dex_mod    10
+Con_mod    5
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,green,brown,black,hazel,gray,blue-gray,light blue,dark blue,dark brown,light brown~
+Hair    black,dark brown,dark,brown,light brown,jet black,blond,fair~
+Skin_color    fair,pale,light,medium,average,very pale~
+Skin_type    skin~
+
+#NATION
+Name       swamp troll~
+Species    giant~
+Hit        38
+Mana       8
+Height     120
+Base_age	15
+Metabolism	10
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	6
+Resist	0
+Suscept	1
+Weapon	5
+Bodyparts	2047
+Affect	0
+Str_mod	10
+Int_mod    -10
+Wis_mod    -10
+Dex_mod    5
+Con_mod    10
+Cha_mod    -10
+Lck_mod    0
+Eyes    yellow,brown,black,green,slime green,puke brown,feral yellow~
+Hair    seaweed green,green,slimy,muddy brown,matted black,dark,tangled green~
+Skin_color    green,slimy green,slimy brown,brown,muddy brown,dark green,dark brown~
+Skin_type    skin~
+
+#NATION
+Name       albrynnian~
+Species    human~
+Hit        25
+Mana       25
+Height     66
+Base_age	18
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	1
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	4095
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    dark,black,blue,green,hazel,gray,brown,dark brown,light brown~
+Hair    dark,black,brown,dark brown,reddish brown,slick black,shiny black,jet black~
+Skin_color    black,dark,brown,very dark,medium brown,ruddy brown~
+Skin_type    skin~
+
+#NATION
+Name       drow~
+Species    elf~
+Hit        18
+Mana       34
+Height     66
+Base_age	60
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	4
+Bodyparts	2047
+Affect	512
+Str_mod	-10
+Int_mod    10
+Wis_mod    5
+Dex_mod    10
+Con_mod    -10
+Cha_mod    -10
+Lck_mod    0
+Eyes    red,glowing red,light red,dark red,blood red,golden,silver~
+Hair    white,silver,copper,gold,silvery,light gold~
+Skin_color    dark,black,dark purple,almost black,extremely dark,very dark~
+Skin_type    skin~
+
+#NATION
+Name       hill dwarf~
+Species    dwarf~
+Hit        32
+Mana       22
+Height     51
+Base_age	60
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	1
+Resist	0
+Suscept	0
+Weapon	3
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,brown,dark brown,blue,hazel,green,light blue,gray,light gray,light brown~
+Hair    black,brown,dark brown,light brown,blond,fair,light,red,reddish brown~
+Skin_color    dark,fair,pale,light,medium,average~
+Extra_color    long,very long,full,bushy,short,very short,thin~
+Extra_type    beard~
+
+#NATION
+Name       half-elf~
+Species    elf~
+Hit        23
+Mana       27
+Height     66
+Base_age	30
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	-10
+Int_mod    5
+Wis_mod    10
+Dex_mod    0
+Con_mod    -5
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,green,black,hazel,silver,golden,light blue,dark brown,brown,light brown,amber~
+Hair    blond,black,fair,strawberry blond,light brown,brown,dark brown,reddish brown,red~
+Skin_color    fair,pale,light,very light,average,medium,dark,tanned~
+Skin_type    skin~
+
+#NATION
+Name       pixie~
+Species    fae~
+Hit        15
+Mana       35
+Height     12
+Base_age	50
+Metabolism	8
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	34815
+Affect	2097152&16777216
+Str_mod	-50
+Int_mod    50
+Wis_mod    -10
+Dex_mod    70
+Con_mod    0
+Cha_mod    10
+Lck_mod    20
+Eyes    blue,green,violet,purple,light blue,golden,amber,silver,pale violet~
+Hair    pink,green,red,blue,violet,purple,black,brown,blond,silver,golden,yellow,orange,rainbow~
+Skin_color    fair,light,pale,very light,very pale,very fair,pink,light pink,pale pink~
+Skin_type    skin~
+Extra_color    sparkling,glittering,gleaming,shimmering,shining,pink,rainbow,light blue,violet,pink,translucent,transparent,crystaline~
+Extra_type    wings~
+
+#NATION
+Name       sprite~
+Species    fae~
+Hit        13
+Mana       37
+Height     6
+Base_age	40
+Metabolism	3
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	34815
+Affect	2097154&16777216
+Str_mod	0
+Int_mod    10
+Wis_mod    5
+Dex_mod    15
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,violet,silver,white,pink,purple,yellow,gold~
+Hair    blue,green,yellow,pink,violet,silver,white,gray~
+Skin_color    light,pale,fair,white,very light,very pale,very fair,light pink,light blue~
+Skin_type    skin~
+Extra_color    translucent,transparent,light blue,pale blue,light pink,pale violet,lavender,glittering,sparkling~
+Extra_type    wings~
+
+#NATION
+Name       water nymph~
+Species    fae~
+Hit        15
+Mana       34
+Height     55
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	12
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	18431
+Affect	-2147483648
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,deep blue,sea blue,dark,black,green,amber,golden,silver,misty blue,gray,hazel,hazy blue~
+Hair    blue,dark blue,sea blue,sea green,teal,turquoise,long blue,wavy blue,straight blue,watery blue~
+Skin_color    blue,sea blue,sea green,deep blue,light blue,pale blue,fair,pale,light,turquoise,teal~
+Skin_type    skin~
+
+#NATION
+Name       wild man~
+Species    human~
+Hit        28
+Mana       22
+Height     66
+Base_age	17
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	8
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    dark,black,blue,green,hazel,gray,brown,dark brown,light brown~
+Hair    dark,black,brown,dark,tangled black~
+Skin_color    black,dark,brown,very dark,medium brown,ruddy brown,swarthy~
+Skin_type    skin~
+
+#NATION
+Name       minotaur~
+Species    hooved mammal~
+Hit        32
+Mana       14
+Height     82
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	5
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	68159359
+Affect	0
+Str_mod	40
+Int_mod    -40
+Wis_mod    -30
+Dex_mod    30
+Con_mod    40
+Cha_mod    10
+Lck_mod    0
+Eyes    black,brown,dark brown,light brown,gray,dark blue,hazel,blue~
+Hair    black,brown,dark,dark brown,light brown,blond,fair,reddish brown~
+Skin_color    fair,light,pale,average,medium,dark,tanned,very dark,very tanned,leathery~
+Skin_type    skin~
+
+#NATION
+Name       black dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	13
+Resist	512
+Suscept	4
+Weapon	14
+Bodyparts	437227065
+Affect	512&32832
+Str_mod	20
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,amber,golden,silver,red,yellow~
+Skin_color    black,dark,jet black,pitch black,night black,midnight black,shiny black,matte black,dull black~
+Skin_type    scales~
+
+#NATION
+Name       red dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	5
+Resist	1
+Suscept	2
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,red,amber,silver,fiery red,yellow,golden~
+Skin_color    fiery red,dark red,bright red,red,light red,flame red~
+Skin_type    scales~
+
+#NATION
+Name       blue dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	9
+Resist	4
+Suscept	128
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,white,silver,gold,amber,black,electric~
+Skin_color    blue,dark blue,light blue,sky blue,electric blue,cloudy blue,blue-black,black,storm gray~
+Skin_type    scales~
+
+#NATION
+Name       white dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	5
+Resist	2
+Suscept	1
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    silver,white,black,dark,blue,ice blue,chill white,cold blue,light blue,pale blue~
+Skin_color    white,frosty white,cold white,icy white,ice blue,pale blue~
+Skin_type    scales~
+
+#NATION
+Name       copper dragon~
+Species    dragon~
+Hit        59
+Mana       20
+Height     240
+Base_age	300
+Metabolism	6
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	4
+Resist	256
+Suscept	512
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,red,yellow,amber,golden~
+Skin_color    copper,pale copper,dark copper,gleaming copper,dull copper,shiny copper~
+Skin_type    scales~
+
+#NATION
+Name       green dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	3
+Resist	2097408
+Suscept	8
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,red,yellow,amber,golden,silver,green~
+Skin_color    green,dark green,light green,emerald green,very dark green,forest green~
+Skin_type    scales~
+
+#NATION
+Name       gold dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     420
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	2
+Resist	262145
+Suscept	4
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    10
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    golden,silver,amber,yellow,red,black,blue,light blue~
+Skin_color    gold,golden,light gold,gleaming gold,dark gold,bright gold,yellow,shimmering gold,shiny gold~
+Skin_type    scales~
+
+#NATION
+Name       silver dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	9
+Resist	2621440
+Suscept	9
+Weapon	14
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	0
+Int_mod    20
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,dark,black,golden,amber,silver,yellow,red,light blue~
+Skin_color    silver,silvery,shining silver,bright silver,silvery white,glittering silver~
+Skin_type    scales~
+
+#NATION
+Name       bronze dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	10
+Resist	513
+Suscept	2
+Weapon	0
+Bodyparts	437227065
+Affect	0&32832
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    black,red,yellow,golden,silver,amber~
+Skin_color    bronze,dull bronze,shiny bronze,gleaming bronze,dark bronze,light bronze~
+Skin_type    scales~
+
+#NATION
+Name       water dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     360
+Base_age	300
+Metabolism	5
+AC_plus	100
+NPC_only	0
+Unarmed	200
+Sector	12
+Resist	2101264
+Suscept	4
+Weapon	14
+Bodyparts	437210681
+Affect	-2147483648&32832
+Str_mod	0
+Int_mod    10
+Wis_mod    10
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,green,sea blue,sea green,dark blue,dark green,light blue,deep blue,black~
+Skin_color    blue,dark blue,light blue,sea blue,deep blue,watery blue,teal,turquoise,sea green,blue-green~
+Skin_type    scales~
+
+#NATION
+Name       rock troll~
+Species    giant~
+Hit        42
+Mana       7
+Height     120
+Base_age	20
+Metabolism	10
+AC_plus	10
+NPC_only	2
+Unarmed	0
+Sector	5
+Resist	0
+Suscept	262144
+Weapon	5
+Bodyparts	2047
+Affect	0
+Str_mod	30
+Int_mod    -3
+Wis_mod    0
+Dex_mod    0
+Con_mod    40
+Cha_mod    -20
+Lck_mod    0
+Eyes    white,silver,gray,black,red,yellow,blue,light blue,sparkling,diamond,emerald,sapphire,ruby~
+Skin_color    gray,brown,black,dark,light gray,dark gray,slate gray,granite,limestone,sandstone,stone gray~
+Skin_type    skin~
+
+#NATION
+Name       hill ogre~
+Species    giant~
+Hit        35
+Mana       13
+Height     110
+Base_age	15
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	4
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,black,brown,dark brown,light brown,green,hazel~
+Hair    brown,black,dark,light brown,dark brown,blond,fair,reddish brown~
+Skin_color    fair,pale,light,dark,average,medium,tanned,very tanned,very dark,ruddy,brown~
+Skin_type    skin~
+
+#NATION
+Name       cave ogre~
+Species    giant~
+Hit        30
+Mana       10
+Height     111
+Base_age	18
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	20
+Int_mod    -20
+Wis_mod    0
+Dex_mod    0
+Con_mod    10
+Cha_mod    -10
+Lck_mod    0
+Eyes    blue,dark,black,dark blue,light blue,brown,dark brown,light brown,gray,light gray,hazel~
+Hair    black,blond,brown,light brown,dark brown~
+Skin_color    fair,light,pale,average,medium,very pale,very light,very fair~
+Skin_type    skin~
+
+#NATION
+Name       gith~
+Species    human~
+Hit        24
+Mana       27
+Height     75
+Base_age	20
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	2047
+Affect	8
+Str_mod	-1
+Int_mod    1
+Wis_mod    0
+Dex_mod    5
+Con_mod    -1
+Cha_mod    0
+Lck_mod    0
+Eyes    light brown,brown,dark brown,green,dark green,deep blue,dark blue,steel grey,slate grey~
+Hair    brown,dark brown,dark,black,shiny black,dark grey,grey~
+Skin_color    olive,ivory,yellowed~
+Skin_type    skin~
+
+#NATION
+Name       slith~
+Species    reptilian~
+Hit        27
+Mana       20
+Height     66
+Base_age	22
+Metabolism	1
+AC_plus	50
+NPC_only	2
+Unarmed	0
+Sector	13
+Resist	64
+Suscept	0
+Weapon	12
+Bodyparts	724479
+Affect	512&64
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,yellow,gray,brown,amber,green,silver~
+Skin_color    green,brown,dark green,dark brown,dusty brown,light brown,tan~
+Skin_type    scales~
+
+#NATION
+Name       lizardman~
+Species    reptilian~
+Hit        27
+Mana       20
+Height     66
+Base_age	19
+Metabolism	1
+AC_plus	10
+NPC_only	2
+Unarmed	0
+Sector	15
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	741375
+Affect	-2147483648&64
+Str_mod	10
+Int_mod    -10
+Wis_mod    0
+Dex_mod    10
+Con_mod    15
+Cha_mod    5
+Lck_mod    10
+Eyes    black,blue,green,dark blue,dark green,blue-green,gray,silver,hazel,brown~
+Skin_color    green,blue,brown,black,dark green,dark blue,dark brown,light brown,blue-green,green-brown,teal~
+Skin_type    scales~
+
+#NATION
+Name       gargoyle~
+Species    elemental~
+Hit        35
+Mana       11
+Height     66
+Base_age	1
+Metabolism	1
+AC_plus	50
+NPC_only	1
+Unarmed	0
+Sector	1
+Resist	544
+Suscept	20
+Weapon	0
+Bodyparts	34815
+Affect	-2147483648&1048608
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    -30
+Con_mod    30
+Cha_mod    0
+Lck_mod    0
+Eyes    smooth marble,polished onyx,glowing yellow,glowing red,black,shiny black,diamond,blue~
+Skin_color    stone,granite,marble,smooth stone,chipped marble,cracked stone,polished marble~
+Skin_type    body~
+
+#NATION
+Name       wraith~
+Species    monster~
+Hit        17
+Mana       35
+Height     66
+Base_age	120
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	2
+Sector	1
+Resist	2098434
+Suscept	262156
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&21495840
+Str_mod	0
+Int_mod    5
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    5
+Lck_mod    0
+Eyes    black,dark,empty,yellow,red,glowing,eerie,white,silver,shadowy,ebony,gray,golden,eerie blue~
+Hair    black,dark,ebony,shadowy,dark brown,silver,white,no~
+Skin_color    black,dark,shadowy,ebony,misty,hazy,cloudy,white,silver,gray,light gray,dark gray,almost black,almost white~
+Skin_type    skin~
+
+#NATION
+Name       hill orc~
+Species    goblinoid~
+Hit        36
+Mana       20
+Height     85
+Base_age	15
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	4
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	30
+Int_mod    -50
+Wis_mod    -20
+Dex_mod    30
+Con_mod    25
+Cha_mod    -15
+Lck_mod    0
+Eyes    black,brown,green,yellow,orange,green-yellow~
+Hair    black,stringy,brown,dark brown,oily,matted,tangled,smelly,messy~
+Skin_color    light,greenish,light green,yellowish,brown,brownish,yellow-green,ochre,tan,yellow-brown~
+Skin_type    skin~
+
+#NATION
+Name       goblin~
+Species    goblinoid~
+Hit        25
+Mana       15
+Height     39
+Base_age	12
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    50
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,green,yellow,bloodshot,red,green-yellow,orange,brown,light yellow~
+Hair    tangled,oily,messy,smelly,stinky~
+Skin_color    green,yellow,light green,yellow-green,puke yellow,light yellow,green-brown~
+Skin_type    skin~
+
+#NATION
+Name       kobold~
+Species    goblinoid~
+Hit        37
+Mana       13
+Height     55
+Base_age	13
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	264191
+Affect	0
+Str_mod	0
+Int_mod    -10
+Wis_mod    0
+Dex_mod    10
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    black,red,yellow,dark red,blood red~
+Skin_color    brown,dark brown,black,matted,light brown,dirty,smelly~
+Skin_type    fur~
+
+#NATION
+Name       harpy~
+Species    avian~
+Hit        30
+Mana       19
+Height     42
+Base_age	20
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	50
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	362367
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    icy black,icy blue,icy green,icy grey,steel grey,slate grey,hawkish green,hawkish blue,hawkish grey,amber,hazel~
+Hair    golden,black,shiny black,light brown,dark brown,grey,light grey,reddish brown,red,flame red~
+Skin_color    ashen,ivory,pale,fair,ebony~
+Skin_type    skin~
+Extra_color    dusty brown,almost black,dark grey,dark brown~
+Extra_type    wings,feathers~
+
+#NATION
+Name       red ariel~
+Species    avian~
+Hit        21
+Mana       32
+Height     66
+Base_age	45
+Metabolism	3
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	9
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	0
+Str_mod	-5
+Int_mod    4
+Wis_mod    3
+Dex_mod    1
+Con_mod    -3
+Cha_mod    3
+Lck_mod    0
+Eyes    red,amber,golden,brown,dark brown,light brown,black,silver~
+Hair    black,red,reddish brown,strawberry blond,blond,fair,golden~
+Skin_color    light,fair,pale,medium,average,very light,very pale,very fair~
+Skin_type    skin~
+Extra_color    red,fiery red,dark red,crimson,scarlet,vermillion,light red~
+Extra_type    feathers~
+
+#NATION
+Name       sea-elf~
+Species    elf~
+Hit        18
+Mana       30
+Height     63
+Base_age	90
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	12
+Resist	0
+Suscept	0
+Weapon	12
+Bodyparts	18431
+Affect	-2147483648
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,amber,silver,golden,black,green,light blue,dark blue,sea blue,blue-green,hazel~
+Hair    blue,light blue,pale blue,green,light green,sea green,sea blue,black,deep blue,deep green,dark blue,dark green~
+Skin_color    fair,pale,light,light blue,pale blue,silvery,greenish-silver,light green,silvery blue~
+Skin_type    skin~
+
+#NATION
+Name       kender~
+Species    dwarf~
+Hit        22
+Mana       28
+Height     45
+Base_age	14
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	10
+Bodyparts	2047
+Affect	0
+Str_mod	-40
+Int_mod    20
+Wis_mod    10
+Dex_mod    60
+Con_mod    -30
+Cha_mod    30
+Lck_mod    10
+Eyes    blue,green,hazel,brown,dark brown,light brown,gray,light gray,blue-gray~
+Hair    black,brown,light brown,dark brown,blond,fair~
+Skin_color    fair,light,pale,average,medium~
+Skin_type    skin~
+
+#NATION
+Name       gnome~
+Species    dwarf~
+Hit        17
+Mana       33
+Height     44
+Base_age	30
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    30
+Wis_mod    10
+Dex_mod    10
+Con_mod    0
+Cha_mod    -30
+Lck_mod    0
+Eyes    blue,amber,golden,silver,brown,black,green,bronze,copper~
+Hair    black,dark,dark brown,light brown,fair,blond,golden,jet black~
+Skin_color    fair,pale,light,medium,average~
+Skin_type    skin~
+
+#NATION
+Name       green naga~
+Species    reptilian~
+Hit        28
+Mana       29
+Height     80
+Base_age	40
+Metabolism	1
+AC_plus	25
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	256
+Suscept	0
+Weapon	0
+Bodyparts	200571
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    -10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,green,hazel,gray,brown,silver,light brown,amber,dark brown~
+Hair    black,dark,dark brown,brown,light brown,auburn,red,reddish brown,blond,greenish blond,bluish blond,fair,bleached,silver,golden~
+Skin_color    dark,light,fair,pale,medium,average,medium-dark,tanned~
+Skin_type    skin~
+Extra_color    green,emerald green,dark green,light green,medium green,shiny green,dull green~
+Extra_type    scales~
+
+#NATION
+Name       mrrshan~
+Species    feline~
+Hit        24
+Mana       28
+Height     58
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	100
+Sector	3
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	135071615
+Affect	544&131072
+Str_mod	-40
+Int_mod    20
+Wis_mod    -20
+Dex_mod    40
+Con_mod    -40
+Cha_mod    50
+Lck_mod    0
+Eyes    blue,yellow,golden,amber,brown,black~
+Skin_color    brown,black,white,gray,orange,red,silver,tan,ochre,light gray,dark gray,light brown,dark brown~
+Skin_type    fur~
+Extra_color    brown,black,white,gray,orange,red,silver,tan,ochre,light gray,dark gray,light brown,dark brown~
+Extra_type    spots,speckles,stripes,tip of the tail,eartips,paws,patches,splotches,markings~
+
+#NATION
+Name       leprechaun~
+Species    fae~
+Hit        18
+Mana       33
+Height     30
+Base_age	25
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	65536&16777216
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    5
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,green,dark green,light green,emerald green,brown,dark brown,light brown,amber,gray,light gray,dark gray~
+Hair    black,dark,brown,red,reddish brown,auburn,dark brown,light brown~
+Skin_color    light,fair,pale,medium,average~
+Skin_type    skin~
+
+#NATION
+Name       forest centaur~
+Species    hooved mammal~
+Hit        25
+Mana       28
+Height     105
+Base_age	70
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	64
+Weapon	0
+Bodyparts	369166203
+Affect	0&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    green,brown,dark brown,dark green,light green,black,bright green~
+Hair    black,brown,dark brown,light brown,fair,blond,red~
+Skin_color    fair,pale,average,medium,dark,tanned~
+Skin_type    skin~
+Extra_color    brown,dark brown,black,light brown,gray,tan,dappled gray,dark gray,light gray,white~
+Extra_type    fur~
+
+#NATION
+Name       song elf~
+Species    elf~
+Hit        18
+Mana       33
+Height     70
+Base_age	100
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	2
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	2047
+Affect	16
+Str_mod	0
+Int_mod    5
+Wis_mod    10
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    amber,golden,silver,blue,light brown,honey,white,gray,light gray,misty gray,sky blue~
+Hair    golden,blond,fair,silver,yellow,gold,honey,auburn,bleached,light brown,pale yellow~
+Skin_color    pale~
+Skin_type    skin~
+
+#NATION
+Name       red naga~
+Species    reptilian~
+Hit        32
+Mana       25
+Height     83
+Base_age	20
+Metabolism	1
+AC_plus	25
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	1
+Suscept	2
+Weapon	0
+Bodyparts	200571
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    -10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    amber,brown,black,blue,green,red,orange,yellow,silver,gray,white,light gray,dark gray,light brown,dark brown,golden~
+Hair    black,dark,brown,dark brown,light brown,auburn,reddish brown,reddish blond,yellow,blond,fair~
+Skin_color    dark,light,tanned,average,medium,fair,very dark,very tanned,medium-dark~
+Skin_type    skin~
+Extra_color    red,fiery red,ruby red,blood red,crimson,scarlet,vermillion,dark red,bright red,light red~
+Extra_type    scales~
+
+#NATION
+Name       plains centaur~
+Species    hooved mammal~
+Hit        24
+Mana       29
+Height     105
+Base_age	70
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	2
+Resist	0
+Suscept	64
+Weapon	0
+Bodyparts	369166203
+Affect	0&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,black,light blue,dark blue,green,light green,brown,light brown,dark brown,hazel,gray,misty gray~
+Hair    black,blond,fair,brown,dark brown,light brown,red,reddish brown,dark blond~
+Skin_color    fair,pale,light,medium,average,dark,very dark,brown,tanned~
+Skin_type    skin~
+Extra_color    black,brown,tan,light brow,dark brown,gray,light gray~
+Extra_type    fur~
+
+#NATION
+Name       cave orc~
+Species    goblinoid~
+Hit        38
+Mana       20
+Height     82
+Base_age	14
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	512
+Str_mod	35
+Int_mod    -60
+Wis_mod    -25
+Dex_mod    25
+Con_mod    30
+Cha_mod    -20
+Lck_mod    0
+Eyes    yellow,green,black,dark yellow,dark green,yellow-green,yellow-brown,puke yellow,puke green~
+Hair    matted,tangled,stinky,smelly,oily,messy,dirty~
+Skin_color    light green,greenish,light yellow,yellow-green,yellow-brown,light brown,puke yellow,puke green~
+Skin_type    skin~
+
+#NATION
+Name       zephyl~
+Species    avian~
+Hit        17
+Mana       26
+Height     40
+Base_age	15
+Metabolism	2
+AC_plus	0
+NPC_only	2
+Unarmed	50
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	362495
+Affect	0
+Str_mod	-2
+Int_mod    15
+Wis_mod    5
+Dex_mod    50
+Con_mod    -1
+Cha_mod    3
+Lck_mod    0
+Eyes    blue,green,brown,black,silver,amber~
+Skin_color    brown,tan,ginger,black,white,cream,gray,light gray,light brown,dark gray,dark brown~
+Skin_type    fur~
+Extra_color    silver,golden~
+Extra_type    feathers~
+
+#NATION
+Name       golden naga~
+Species    reptilian~
+Hit        27
+Mana       30
+Height     100
+Base_age	80
+Metabolism	1
+AC_plus	25
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	128
+Suscept	4
+Weapon	0
+Bodyparts	200571
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    -10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,green,gold,amber,brown,light brown,dark brown,gray,light gray,silver,yellow,red~
+Hair    black,brown,dark brown,light brown,blond,yellow,golden,silver,reddish brown,strawberry blond,auburn,greenish blond~
+Skin_color    pale,fair,light,tanned,dark,golden,very light~
+Skin_type    skin~
+Extra_color    golden,yellow,light gold,dark gold,bright gold,shiny gold,dull gold~
+Extra_type    scales~
+
+#NATION
+Name       quickling~
+Species    fae~
+Hit        20
+Mana       33
+Height     25
+Base_age	10
+Metabolism	15
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	6
+Bodyparts	2047
+Affect	0&16777216
+Str_mod	-50
+Int_mod    0
+Wis_mod    0
+Dex_mod    100
+Con_mod    -50
+Cha_mod    0
+Lck_mod    0
+Eyes    green,bright green,blue,bright blue,silver,golden,amber,light gray~
+Hair    brown,black,blond,fair,light brown,dark brown,dark green,dark blue~
+Skin_color    light,pale,fair,light green,pale green,very light,tan,light brown~
+Skin_type    skin~
+
+#NATION
+Name       wood nymph~
+Species    fae~
+Hit        14
+Mana       35
+Height     70
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    green,blue,deep green,emerald green,sparkling green,black,deep blue,brown,amber,golden,silver~
+Hair    green,dark green,light green,forest green,leafy green,yellow,yellow-green,long green,curly green~
+Skin_color    green,emerald green,light green,pale green,fair,pale,light,forest green~
+Skin_type    skin~
+
+#NATION
+Name       ogre-mage~
+Species    giant~
+Hit        32
+Mana       22
+Height     110
+Base_age	30
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,bright,glowing,eerie,brown,black,yellow,green,hazel,gray,silver,gold~
+Hair    black,brown,light,fair,blond,light brown,dark brown~
+Skin_color    fair,light,pale,average,medium,dark,tanned~
+Skin_type    skin~
+
+#NATION
+Name       snow elf~
+Species    elf~
+Hit        22
+Mana       29
+Height     62
+Base_age	100
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	5
+Resist	2
+Suscept	1
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	-3
+Int_mod    2
+Wis_mod    3
+Dex_mod    1
+Con_mod    2
+Cha_mod    5
+Lck_mod    0
+Eyes    blue,light blue,pale blue,misty blue,white,silver,gray,misty ~
+Hair    snow white,black,white,silver,fair,blond,light brown~
+Skin_color    pale,fair,light,very light,very fair,very pale,slightly furry~
+Skin_type    skin~
+
+#NATION
+Name       mountain centaur~
+Species    hooved mammal~
+Hit        27
+Mana       26
+Height     106
+Base_age	69
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	5
+Resist	0
+Suscept	64
+Weapon	0
+Bodyparts	369166203
+Affect	0&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,sky blue,light blue,pale blue,dark blue,deep blue,brown,light brown,misty blue~
+Hair    black,dark,fair,blond,light,light brown,dark brown,brown~
+Skin_color    light,fair,pale,medium,average,dark~
+Skin_type    skin~
+Extra_color    black,brown,dark brown,gray,dark gray,light gray,dappled gray,tan,light brown~
+Extra_type    fur~
+
+#NATION
+Name       svirfneblin~
+Species    dwarf~
+Hit        26
+Mana       25
+Height     43
+Base_age	25
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,brown,dark,dark brown,dark blue,dark green~
+Hair    black,brown,dark brown,light brown,reddish brown~
+Skin_color    very light,very pale,very fair,light,fair,pale~
+Skin_type    skin~
+
+#NATION
+Name       titan~
+Species    giant~
+Hit        50
+Mana       3
+Height     360
+Base_age	100
+Metabolism	8
+AC_plus	0
+NPC_only	0
+Unarmed	100
+Sector	4
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	4194816
+Str_mod	100
+Int_mod    0
+Wis_mod    -80
+Dex_mod    0
+Con_mod    50
+Cha_mod    -70
+Lck_mod    30
+
+#NATION
+Name       fire giant~
+Species    giant~
+Hit        45
+Mana       5
+Height     150
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	1
+Suscept	2
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	50
+Int_mod    -30
+Wis_mod    0
+Dex_mod    -20
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    brown,red,fiery red,black,amber,light brown,dark brown,coal black~
+Hair    brown,reddish brown,red,orange,blond,fiery red,fiery orange,light brown,dark brown~
+Skin_color    fair,ruddy,brown,tanned,very tanned,somewhat tanned~
+Skin_type    skin~
+
+#NATION
+Name       frost giant~
+Species    giant~
+Hit        45
+Mana       5
+Height     150
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	5
+Resist	2
+Suscept	1
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,ice blue,light blue,pale blue,white,cold white,silver,gray,light gray,blue-gray,silver-blue~
+Hair    fair,blond,white,snow white,silver,gray,light gray,blue-gray,silver-blue~
+Skin_color    pale,fair,light,very pale,very fair,very light,white,snow white~
+Skin_type    skin~
+
+#NATION
+Name       storm giant~
+Species    giant~
+Hit        45
+Mana       5
+Height     150
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	9
+Resist	4
+Suscept	128
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,storm gray,gray,cloudy blue,blue,dark blue,light blue,sky blue,dark gray,light gray,silver~
+Hair    black,dark,storm gray,gray,light gray,dark gray,cloud gray~
+Skin_color    fair,light,pale,average,medium,dark,very dark,tanned,medium-dark~
+Skin_type    skin~
+
+#NATION
+Name       duergar~
+Species    dwarf~
+Hit        33
+Mana       17
+Height     50
+Base_age	40
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	2047
+Affect	512
+Str_mod	15
+Int_mod    -15
+Wis_mod    0
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    -10
+Eyes    black,brown,red,yellow,dark brown~
+Hair    black,dark,brown,dark brown~
+Skin_color    pale,fair,light,very light,very fair,average,medium,tanned~
+Skin_type    skin~
+
+#NATION
+Name       fire demon~
+Species    demon~
+Hit        30
+Mana       20
+Height     90
+Base_age	666
+Metabolism	3
+AC_plus	0
+NPC_only	2
+Unarmed	110
+Sector	13
+Resist	1
+Suscept	2
+Weapon	0
+Bodyparts	69046143
+Affect	516&2048
+Str_mod	5
+Int_mod    -13
+Wis_mod    -10
+Dex_mod    4
+Con_mod    5
+Cha_mod    -10
+Lck_mod    0
+Eyes    black,dark,red,yellow,bright yellow,bright red,glowing yellow,glowing red,eerie yellow,fiery red,flaming red,burning red~
+Hair    no,black,red,fiery red,dark,ebony,jet black,flowing red,fire~
+Skin_color    red,fiery red,blood red,dark red,light red,bright red,flaming red,deep red,crimson,scarlet,vermillion~
+Skin_type    skin~
+Extra_color    sharp,razor-sharp,steely,steel-gray,silver,ebony,steel,shiny,sharpened,bloody,bloodstained~
+Extra_type    claws,barbed tail,fangs,teeth,talons,hooves,horns,spikes~
+
+#NATION
+Name       storm demon~
+Species    demon~
+Hit        26
+Mana       23
+Height     90
+Base_age	666
+Metabolism	3
+AC_plus	0
+NPC_only	2
+Unarmed	110
+Sector	9
+Resist	4
+Suscept	128
+Weapon	0
+Bodyparts	69046143
+Affect	516&2048
+Str_mod	3
+Int_mod    2
+Wis_mod    2
+Dex_mod    -5
+Con_mod    3
+Cha_mod    -5
+Lck_mod    0
+Eyes    black,yellow,blue,red,dark,gray,storm gray,slate gray,misty gray,cloudy blue,dark blue,light blue,sky blue~
+Hair    black,storm gray,gray,dark gray,light gray,silver,blue-gray,blue,dark blue,blue-black,silvery-gray,shadowy~
+Skin_color    blue,gray,storm gray,cloudy blue,dark blue,light blue,pale blue,blue-gray,silver,dark gray,light gray,black~
+Skin_type    skin~
+Extra_color    silver,steel,shiny,sharp,sharpened,razor-sharp,ebony,storm gray,blue steel,ivory,bloody,bloodstained~
+Extra_type    claws,talons,fangs,teeth,horns,spikes,hooves,barbed tail~
+
+#NATION
+Name       water demon~
+Species    demon~
+Hit        25
+Mana       30
+Height     90
+Base_age	666
+Metabolism	3
+AC_plus	0
+NPC_only	2
+Unarmed	110
+Sector	12
+Resist	3
+Suscept	4
+Weapon	0
+Bodyparts	69013375
+Affect	-2147483132&2048
+Str_mod	-15
+Int_mod    5
+Wis_mod    5
+Dex_mod    5
+Con_mod    -5
+Cha_mod    2
+Lck_mod    0
+Eyes    black,dark,yellow,green,blue,gray,dark blue,deep blue,light blue,sea blue,sea green,blue-green,hazel,storm gray,blue-gray~
+Hair    black,dark,blue,dark blue,light blue,green,dark green,light green,sea green,flowing blue,flowing green,shadowy,teal~
+Skin_color    blue,dark blue,light blue,green,dark green,light green,teal,turqoise,blue-green,sea green,sea blue,blue-gray~
+Skin_type    skin~
+Extra_color    steel,blue,blue steel,mithril,silver,shiny,sharp,razor-sharp,sharpened,polished~
+Extra_type    claws,fangs,teeth,talons,hooves,horns,barbed tail,spikes~
+
+#NATION
+Name       stone devil~
+Species    demon~
+Hit        36
+Mana       15
+Height     85
+Base_age	666
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	150
+Sector	13
+Resist	160
+Suscept	20
+Weapon	0
+Bodyparts	69013375
+Affect	516&2048
+Str_mod	10
+Int_mod    -22
+Wis_mod    -20
+Dex_mod    -15
+Con_mod    10
+Cha_mod    -10
+Lck_mod    0
+Eyes    gray,dark gray,light gray,yellow,red,stone gray,slate gray,blue-gray,eerie yellow,glowing red,glowing yellow~
+Skin_color    stone gray,gray,dark gray,light gray,granite,black,gray-black,silver,silver-gray,stony~
+Skin_type    skin~
+Extra_color    sharp,razor-sharp,sharpened,stone hard,stony,stone gray,silver,steel,gray steel,steel-gray,bloody,bloodstained~
+Extra_type    claws,horns,talons,barbed tail,fangs,teeth,hooves,spikes~
+
+#NATION
+Name       ice devil~
+Species    demon~
+Hit        19
+Mana       33
+Height     92
+Base_age	666
+Metabolism	5
+AC_plus	0
+NPC_only	2
+Unarmed	110
+Sector	12
+Resist	2
+Suscept	17
+Weapon	0
+Bodyparts	69046143
+Affect	-2147483132&2048
+Str_mod	-20
+Int_mod    8
+Wis_mod    7
+Dex_mod    0
+Con_mod    -15
+Cha_mod    -5
+Lck_mod    0
+Eyes    black,dark,ice blue,dark blue,blue,deep blue,pale blue,silver,white,snow white,crystaline,glowing white,icy silver~
+Hair    crystaline,silvery,silver,white,snow white,ice blue,pale blue,dark blue,blue,silver-blue,gray,blue-gray,dark gray,light gray~
+Skin_color    white,snow white,ice blue,icy blue,silver,blue,dark blue,light blue,pale blue,blue-white,silvery blue,gray,dark gray,light gray~
+Skin_type    skin~
+Extra_color    silver,icy,crystal,crystaline,blue steel,cold steel,sharp,razor-sharp,sharpened,cold~
+Extra_type    claws,fangs,teeth,talons,barbed tail,spikes,horns,hooves~
+
+#NATION
+Name       wyvern~
+Species    dragon~
+Hit        20
+Mana       30
+Height     180
+Base_age	192
+Metabolism	4
+AC_plus	50
+NPC_only	0
+Unarmed	200
+Sector	5
+Resist	1
+Suscept	2
+Weapon	14
+Bodyparts	34377017
+Affect	512&4
+Str_mod	-10
+Int_mod    -10
+Wis_mod    -10
+Dex_mod    100
+Con_mod    -10
+Cha_mod    20
+Lck_mod    0
+Eyes    black,red,yellow~
+Skin_color    black,red,green,blue,dark,fiery red,gold,silver,copper,bronze~
+Skin_type    scales~
+
+#NATION
+Name       reaver~
+Species    insectoid~
+Hit        38
+Mana       10
+Height     220
+Base_age	145
+Metabolism	8
+AC_plus	0
+NPC_only	2
+Unarmed	180
+Sector	13
+Resist	272
+Suscept	1
+Weapon	0
+Bodyparts	302783867
+Affect	512
+Str_mod	30
+Int_mod    -15
+Wis_mod    -15
+Dex_mod    20
+Con_mod    20
+Cha_mod    -30
+Lck_mod    0
+Skin_color    gray,dark gray,light gray,blue,dark blue,light blue,black,red,silver,blood red~
+Skin_type    skin~
+
+#NATION
+Name       lich~
+Species    monster~
+Hit        20
+Mana       32
+Height     66
+Base_age	250
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	2098434
+Suscept	25
+Weapon	0
+Bodyparts	2047
+Affect	-2147483136&524320
+Str_mod	0
+Int_mod    5
+Wis_mod    5
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    empty,red,yellow,glowing,eerie blue,fiery blue,glowing red,black~
+Skin_color    rotting,ancient,gray,white,extremely pale,dusty,musty,old,leathery~
+Skin_type    skin~
+
+#NATION
+Name       imp~
+Species    demon~
+Hit        20
+Mana       30
+Height     16
+Base_age	20
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	1
+Suscept	0
+Weapon	0
+Bodyparts	855935
+Affect	4&2048
+Str_mod	0
+Int_mod    0
+Wis_mod    -10
+Dex_mod    15
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,fiery red,yellow,flame red,glowing yellow,glowing red,ebony,slate gray,eerie yellow~
+Skin_color    black,ebony,dark,red,blood red,dark gray,ashen,dark red,shadowy,leathery~
+Skin_type    skin~
+
+#NATION
+Name       winged imp~
+Species    demon~
+Hit        19
+Mana       31
+Height     15
+Base_age	18
+Metabolism	6
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	1
+Suscept	0
+Weapon	0
+Bodyparts	67997567
+Affect	4&2048
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    yellow,red,eerie yellow,glowing red,fiery red,blue,storm gray,cloudy blue,blue-gray,black,dark~
+Skin_color    black,red,dark red,light red,blood red,gray,silver,blue,storm gray,dark blue,light blue,blue-gray,blue-black~
+Skin_type    skin~
+
+#NATION
+Name       powrie~
+Species    dwarf~
+Hit        38
+Mana       15
+Height     52
+Base_age	30
+Metabolism	2
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	3
+Int_mod    -10
+Wis_mod    -15
+Dex_mod    3
+Con_mod    15
+Cha_mod    -3
+Lck_mod    0
+Eyes    black,dark,brown,dark brown,light brown,dark blue,light blue,blue,hazel,gray,slate gray~
+Hair    black,brown,dark brown,light brown~
+Skin_color    light,fair,pale,tanned,dark,medium,average,very tanned,very dark,medium-dark~
+Skin_type    skin~
+
+#NATION
+Name       rakshasa~
+Species    demon~
+Hit        12
+Mana       45
+Height     66
+Base_age	30
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	329727
+Affect	512&131072
+Str_mod	-5
+Int_mod    20
+Wis_mod    10
+Dex_mod    0
+Con_mod    -10
+Cha_mod    0
+Lck_mod    0
+Eyes    red,glowing red,glowing yellow,yellow,eerie yellow,golden,black,ebony~
+Skin_color    orange,fiery orange,dark orange~
+Skin_type    fur~
+Extra_color    black,ebony,pitch black,night black,jet black~
+Extra_type    stripes~
+
+#NATION
+Name       windrider~
+Species    elf~
+Hit        20
+Mana       32
+Height     69
+Base_age	500
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	-2
+Int_mod    5
+Wis_mod    10
+Dex_mod    2
+Con_mod    -3
+Cha_mod    20
+Lck_mod    0
+Eyes    blue,light blue,silver,brown,amber,golden,green,black,violet,gray,misty blue,hazel~
+Hair    black,blond,brown,dark brown,light brown,fair,golden,strawberry blond,reddish brown,red~
+Skin_color    fair,pale,light,very light~
+Skin_type    skin~
+
+#NATION
+Name       flylander~
+Species    human~
+Hit        26
+Mana       24
+Height     66
+Base_age	18
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	1
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,green,brown,light brown,pale blue,dark brown,black,hazel~
+Hair    fair,blond,light brown,brown,black~
+Skin_color    pale,fair,light~
+Skin_type    skin~
+
+#NATION
+Name       doralisian~
+Species    human~
+Hit        24
+Mana       26
+Height     66
+Base_age	18
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	5
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,green,dark,dark green,dark blue,blue,light blue,brown,dark brown,light brown~
+Hair    black,dark,dark brown,jet black~
+Skin_color    olive,dark olive,light olive,fair,medium~
+Skin_type    skin~
+
+#NATION
+Name       illithid~
+Species    monster~
+Hit        23
+Mana       30
+Height     72
+Base_age	40
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	11
+Resist	524288
+Suscept	0
+Weapon	0
+Bodyparts	10239
+Affect	0
+Str_mod	-5
+Int_mod    5
+Wis_mod    -5
+Dex_mod    -1
+Con_mod    -3
+Cha_mod    -20
+Lck_mod    0
+Eyes    black,dark,deep black~
+Skin_color    blue,dark blue,light blue,deep blue~
+Skin_type    skin~
+Extra_color    two,three,four,five,six,seven~
+Extra_type    tentacles~
+
+#NATION
+Name       horse~
+Species    hooved mammal~
+Hit        35
+Mana       20
+Height     84
+Base_age	2
+Metabolism	2
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	369167929
+Affect	0&32768
+Str_mod	20
+Int_mod    -20
+Wis_mod    -60
+Dex_mod    0
+Con_mod    30
+Cha_mod    0
+Lck_mod    50
+Eyes    black,dark,shiny black,brown,dark brown,light brown,blue,gray,slate gray~
+Hair    black,dark brown,silver,gray~
+Skin_color    black,white,brown,dark brown,gray,dark gray,dappled gray,light gray,tan,light brown~
+Skin_type    hide~
+
+#NATION
+Name       dolphin~
+Species    aquatic~
+Hit        25
+Mana       30
+Height     72
+Base_age	4
+Metabolism	3
+AC_plus	0
+NPC_only	0
+Unarmed	150
+Sector	12
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	609337
+Affect	0&33792
+Str_mod	0
+Int_mod    5
+Wis_mod    -1
+Dex_mod    2
+Con_mod    1
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,black,dark blue,deep blue,gray,shiny~
+Skin_color    blue,gray,dark gray,light gray,silver,silvery,silvery gray,silvery blue,white,blue-gray~
+Skin_type    skin~
+
+#NATION
+Name       half-orc~
+Species    goblinoid~
+Hit        28
+Mana       15
+Height     75
+Base_age	16
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	1
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    brown,black,dark brown,dark,dark blue,green,dark green,dark yellow,yellow-green~
+Hair    black,brown,blond,dark brown,fair,light brown,yellow-brown,yellow~
+Skin_color    fair,average,medium,dark,tanned,dark green,greenish,yellow-brown,brown,yellow-green,pale yellow~
+Skin_type    skin~
+
+#NATION
+Name       gully dwarf~
+Species    dwarf~
+Hit        34
+Mana       18
+Height     40
+Base_age	40
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	6
+Resist	0
+Suscept	0
+Weapon	3
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    -5
+Wis_mod    -3
+Dex_mod    2
+Con_mod    6
+Cha_mod    0
+Lck_mod    0
+
+#NATION
+Name       draconian~
+Species    dragon~
+Hit        35
+Mana       15
+Height     74
+Base_age	20
+Metabolism	1
+AC_plus	20
+NPC_only	0
+Unarmed	50
+Sector	1
+Resist	1
+Suscept	2
+Weapon	0
+Bodyparts	232959
+Affect	0&64
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,brown,dark,dark brown,yellow,golden,amber,silver~
+Skin_color    bronze,silver,golden,copper,brass~
+Skin_type    scales~
+
+#NATION
+Name       brownie~
+Species    fae~
+Hit        13
+Mana       40
+Height     5
+Base_age	5
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	2047
+Affect	0&16777216
+Str_mod	-10
+Int_mod    0
+Wis_mod    0
+Dex_mod    20
+Con_mod    -5
+Cha_mod    5
+Lck_mod    0
+Eyes    brown,dark,black,dark brown,light brown,amber,ochre,tan,golden,green,blue~
+Hair    dark,black,brown,dark brown,light brown,auburn,medium brown~
+Skin_color    fair,light,tanned,pale,slightly tanned,brown,dark,very dark,very tanned~
+Skin_type    skin~
+
+#NATION
+Name       lionman~
+Species    feline~
+Hit        31
+Mana       20
+Height     67
+Base_age	14
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	100
+Sector	2
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	135071615
+Affect	0&131072
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    5
+Lck_mod    0
+Eyes    blue,black,light blue,dark brown,brown,light brown,amber,yellow~
+Skin_color    yellow,golden,light brown,tan,ochre,light gold~
+Skin_type    fur~
+
+#NATION
+Name       floka~
+Species    avian~
+Hit        35
+Mana       25
+Height     200
+Base_age	20
+Metabolism	3
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	554011705
+Affect	512&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    dark,black,blue,silver,golden,amber,yellow,light blue,dark blue~
+Skin_color    black,white,silver,gray,dark gray,light gray,blue,light blue,dark blue,golden,ochre,brown,dark brown,light brown,tan,silvery-blue,blue-gray~
+Skin_type    feathers~
+
+#NATION
+Name       fire-lizard~
+Species    dragon~
+Hit        25
+Mana       35
+Height     26
+Base_age	5
+Metabolism	5
+AC_plus	10
+NPC_only	0
+Unarmed	200
+Sector	7
+Resist	524289
+Suscept	0
+Weapon	0
+Bodyparts	437227065
+Affect	0&64
+Str_mod	0
+Int_mod    10
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    red,blue,silver,green,amber,black,golden~
+Skin_color    blue,red,green,bronze,gold,silver,white,brown,copper~
+Skin_type    scales~
+
+#NATION
+Name       wolf~
+Species    canine~
+Hit        35
+Mana       20
+Height     48
+Base_age	3
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	437063225
+Affect	512&32768
+Str_mod	20
+Int_mod    -5
+Wis_mod    0
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    yellow,beast yellow,soft yellow,blue,feral yellow~
+Skin_color    black,white,gray,silver,dark gray,light gray,ruddy~
+Skin_type    fur~
+
+#NATION
+Name       wolflord~
+Species    canine~
+Hit        25
+Mana       40
+Height     66
+Base_age	10
+Metabolism	3
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	524288
+Suscept	0
+Weapon	14
+Bodyparts	437063225
+Affect	512&16809984
+Str_mod	0
+Int_mod    10
+Wis_mod    10
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    yellow,beast yellow,soft yellow,blue,light blue,brown,gray,dark gray,light gray~
+Skin_color    black,white,gray,silver,dark gray,light gray,ruddy~
+Skin_type    fur~
+
+#NATION
+Name       moogle~
+Species    fae~
+Hit        20
+Mana       33
+Height     35
+Base_age	30
+Metabolism	2
+AC_plus	0
+NPC_only	3
+Unarmed	0
+Sector	3
+Resist	524288
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,brown,dark brown,light brown,blue,light blue,dark blue,gray,dark gray,light gray,hazel~
+Skin_color    white,gray,offwhite,snow white,pure white,light gray,gray-white,silvery gray,cloud white~
+Skin_type    fur~
+Extra_color    pink,red,light pink,dark pink,bright pink,pinkish~
+Extra_type    wings~
+
+#NATION
+Name       housecat~
+Species    feline~
+Hit        15
+Mana       40
+Height     18
+Base_age	2
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	437061177
+Affect	512&131072
+Str_mod	-2
+Int_mod    0
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    blue,amber,brown,dark brown,yellow,light brown,blue and brown~
+Skin_color    brown,black,white,gray,orange,red,silver,tan,ochre,light gray,dark gray,light brown,dark brown~
+Skin_type    fur~
+Extra_color    brown,black,white,gray,orange,red,silver,tan,ochre,light gray,dark gray,light brown,dark brown~
+Extra_type    spots,speckles,stripes,tip of the tail,eartips,paws,patches,splotches,markings~
+
+#NATION
+Name       red elf~
+Species    elf~
+Hit        23
+Mana       28
+Height     73
+Base_age	90
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	2
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	2047
+Affect	512
+Str_mod	1
+Int_mod    0
+Wis_mod    -1
+Dex_mod    1
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    amber,brown,dark brown,light brown,red,orange,golden,yellow,fiery red~
+Hair    red,brown,reddish brown,strawberry blond,blond,fair,fiery red,orange,bright red~
+Skin_color    pale,light,fair,medium,average,ruddy~
+Skin_type    skin~
+
+#NATION
+Name       zombie~
+Species    monster~
+Hit        35
+Mana       15
+Height     66
+Base_age	70
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	2098434
+Suscept	1
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&524320
+Str_mod	0
+Int_mod    -2
+Wis_mod    0
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    putrid yellow,puke green,bloodshot red,rancid black,slimy blue~
+Hair    matted,black,tangled,no,sparse,lifeless,limp~
+Skin_color    rotting,stinky,smelly,dusty,putrid,rancid,gangrenous~
+Skin_type    skin~
+
+#NATION
+Name       mummy~
+Species    monster~
+Hit        26
+Mana       26
+Height     66
+Base_age	300
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	2097410
+Suscept	1
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&524320
+Str_mod	0
+Int_mod    5
+Wis_mod    0
+Dex_mod    0
+Con_mod    5
+Cha_mod    0
+Lck_mod    0
+Eyes    glowing red,eerie yellow,red,yellow,black,empty~
+Skin_color    tattered,gray,white,offwhite,dirty,tan,old,worn,ancient,dusty~
+Skin_type    wrappings~
+
+#NATION
+Name       unicorn~
+Species    hooved mammal~
+Hit        17
+Mana       45
+Height     72
+Base_age	100
+Metabolism	3
+AC_plus	10
+NPC_only	0
+Unarmed	150
+Sector	3
+Resist	0
+Suscept	0
+Weapon	16
+Bodyparts	370216505
+Affect	0&16809984
+Str_mod	0
+Int_mod    10
+Wis_mod    2
+Dex_mod    1
+Con_mod    0
+Cha_mod    2
+Lck_mod    0
+Eyes    black,blue,gray,brown,light blue,misty gray,silver~
+Hair    silver,black,white,gray~
+Skin_color    white,gray,black,pure white,pristine white,silver~
+Skin_type    fur~
+Extra_color    silver,golden,spiral,long,short,twisted~
+Extra_type    horn~
+
+#NATION
+Name       pegasus~
+Species    hooved mammal~
+Hit        22
+Mana       37
+Height     71
+Base_age	40
+Metabolism	5
+AC_plus	10
+NPC_only	0
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	19
+Bodyparts	906071609
+Affect	0&32768
+Str_mod	0
+Int_mod    2
+Wis_mod    2
+Dex_mod    5
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,dark blue,gray,dark,brown,dark brown,light blue,pale blue,silver~
+Hair    black,silver,white,dark,dark brown,blue,light blue,gray,dark gray,light gray~
+Skin_color    white,silver,black,gray,misty gray,dappled gray,light gray,dark gray,black~
+Skin_type    fur~
+Extra_color    white,silver,gray,blue,light blue,silvery blue,shiny,light gray~
+Extra_type    feathers~
+
+#NATION
+Name       nali~
+Species    feline~
+Hit        27
+Mana       25
+Height     62
+Base_age	17
+Metabolism	2
+AC_plus	0
+NPC_only	2
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	135071615
+Affect	512&131072
+Str_mod	-20
+Int_mod    -10
+Wis_mod    20
+Dex_mod    0
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    blue,green,yellow,amber,brown,light brown,black,golden~
+Skin_color    white,clean white,snow white,silver~
+Skin_type    fur~
+Extra_color    black~
+Extra_type    stripes~
+
+#NATION
+Name       tiger~
+Species    feline~
+Hit        33
+Mana       23
+Height     66
+Base_age	5
+Metabolism	2
+AC_plus	5
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	437063225
+Affect	512&163840
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    yellow,beast yellow,feral yellow,golden,amber~
+Skin_color    orange,bright orange,dark orange,white~
+Skin_type    fur~
+Extra_color    black~
+Extra_type    stripes~
+
+#NATION
+Name       bat~
+Species    animal~
+Hit        25
+Mana       30
+Height     12
+Base_age	1
+Metabolism	5
+AC_plus	10
+NPC_only	0
+Unarmed	200
+Sector	0
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	820281
+Affect	512
+Str_mod	0
+Int_mod    -5
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    20
+Lck_mod    0
+Eyes    black,dark,shiny black,tiny black,tiny~
+Skin_color    black,brown,dark brown,light brown,gray,dark gray,light gray~
+Skin_type    fur~
+Extra_color    large,small,medium,average~
+Extra_type    wings~
+
+#NATION
+Name       rat~
+Species    rodent~
+Hit        30
+Mana       25
+Height     10
+Base_age	1
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	302843449
+Affect	512
+Str_mod	-30
+Int_mod    -10
+Wis_mod    0
+Dex_mod    50
+Con_mod    -20
+Cha_mod    10
+Lck_mod    0
+Eyes    black,dark,shiny black~
+Skin_color    black,brown,gray,white,light gray,dark gray,light brown,dark brown~
+Skin_type    fur~
+Extra_color    long,short,scrawny,skinny,slim,slender,very long,medium~
+Extra_type    tail~
+
+#NATION
+Name       snake~
+Species    reptilian~
+Hit        35
+Mana       23
+Height     66
+Base_age	1
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	1
+Suscept	0
+Weapon	15
+Bodyparts	592953
+Affect	512&64
+Str_mod	10
+Int_mod    -5
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    tiny,black,tiny black,dark~
+Skin_color    green,brown,blue,yellow,red,black,silver,gray,white,orange~
+Skin_type    scales~
+Extra_color    green,brown,blue,yellow,red,black,silver,gray,white,orange~
+Extra_type    spots,stripes,bands,rings,underbelly,speckles~
+
+#NATION
+Name       monkey~
+Species    animal~
+Hit        33
+Mana       18
+Height     30
+Base_age	5
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	134547327
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,brown,dark brown,blue,dark blue,light blue,gray,dark gray,light gray~
+Skin_color    black,brown,dark brown,light brown,gray,dark gray,light gray,tan,reddish brown,brown-black,silver,white,orange,orange-brown~
+Skin_type    fur~
+
+#NATION
+Name       bear~
+Species    animal~
+Hit        40
+Mana       15
+Height     170
+Base_age	3
+Metabolism	8
+AC_plus	10
+NPC_only	0
+Unarmed	200
+Sector	5
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	437063225
+Affect	512
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,dark brown~
+Skin_color    brown,dark brown,light brown,black,grizzled,gray~
+Skin_type    fur~
+Extra_color    sharp,long,razor-sharp,ivory,shiny~
+Extra_type    claws,fangs,teeth~
+
+#NATION
+Name       boar~
+Species    hooved mammal~
+Hit        42
+Mana       13
+Height     74
+Base_age	3
+Metabolism	1
+AC_plus	10
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	16
+Bodyparts	372313657
+Affect	512&32768
+Str_mod	5
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    15
+Cha_mod    0
+Lck_mod    0
+
+#NATION
+Name       hawk~
+Species    avian~
+Hit        30
+Mana       25
+Height     18
+Base_age	1
+Metabolism	5
+AC_plus	10
+NPC_only	1
+Unarmed	200
+Sector	0
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	17138745
+Affect	0
+Str_mod	0
+Int_mod    -20
+Wis_mod    0
+Dex_mod    80
+Con_mod    0
+Cha_mod    150
+Lck_mod    0
+Eyes    black,dark,piercing,blue,dark blue,dark brown,yellow,light blue~
+Skin_color    gray,dark gray,light gray,silver,black,white,blue-gray,brown,dark brown,light brown,tan,ochre~
+Skin_type    feathers~
+Extra_color    silver,razor-sharp,sharp,razor,steel-grey~
+Extra_type    talons,claws~
+
+#NATION
+Name       deer~
+Species    hooved mammal~
+Hit        30
+Mana       25
+Height     60
+Base_age	4
+Metabolism	2
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	370150969
+Affect	0&32768
+Str_mod	0
+Int_mod    -5
+Wis_mod    0
+Dex_mod    5
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark~
+Skin_color    brown,tan,ochre,light brown,pale brown,dark brown~
+Skin_type    hide~
+Extra_color    large,small,four-pointed,six-pointed,razor-sharp~
+Extra_type    antlers~
+
+#NATION
+Name       ethereal~
+Species    elemental~
+Hit        25
+Mana       25
+Height     72
+Base_age	20
+Metabolism	12
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	8192
+Suscept	8
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&23068704
+Str_mod	-5
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    -10
+Cha_mod    0
+Lck_mod    0
+Skin_color    swirly,swirling,translucent,ethereal,transparent,wispy,shimmering,energy,glowing,radiant,sparkly,gleaming,shining~
+Skin_type    form~
+Extra_color    blue,green,purple,yellow,red,white,silver,gold,orange,cyan,blue-white,silver-blue,purple-red,blue-green,black,violet~
+Extra_type    light~
+
+#NATION
+Name       frog~
+Species    aquatic~
+Hit        15
+Mana       35
+Height     7
+Base_age	1
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	7
+Resist	128
+Suscept	1
+Weapon	0
+Bodyparts	302014009
+Affect	-2147483648&1024
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    bulging,yellow,white,large~
+Skin_color    green,dark green,light green,red,brown,light brown,tan,ochre,bright green~
+Skin_type    skin~
+
+#NATION
+Name       hellcat~
+Species    feline~
+Hit        22
+Mana       32
+Height     56
+Base_age	10
+Metabolism	3
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	13
+Resist	1
+Suscept	2
+Weapon	14
+Bodyparts	437063225
+Affect	512&133120
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    5
+Con_mod    0
+Cha_mod    5
+Lck_mod    0
+Eyes    yellow,beast yellow,feral yellow,fiery orange,fiery red,red,orange,glowing red,glowing yellow~
+Skin_color    red,fiery red,dark red,light red,crimson,scarlet,vermillion~
+Skin_type    fur~
+
+#NATION
+Name       bull~
+Species    hooved mammal~
+Hit        37
+Mana       13
+Height     85
+Base_age	3
+Metabolism	1
+AC_plus	20
+NPC_only	1
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	16
+Bodyparts	370216505
+Affect	0&32768
+Str_mod	0
+Int_mod    -5
+Wis_mod    0
+Dex_mod    -5
+Con_mod    5
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,brown,dark brown~
+Skin_color    brown,tan,light brown,dark brown,black~
+Skin_type    hide~
+
+#NATION
+Name       goat~
+Species    hooved mammal~
+Hit        31
+Mana       24
+Height     36
+Base_age	2
+Metabolism	3
+AC_plus	20
+NPC_only	1
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	16
+Bodyparts	370216505
+Affect	0&32768
+Str_mod	5
+Int_mod    -5
+Wis_mod    5
+Dex_mod    5
+Con_mod    5
+Cha_mod    5
+Lck_mod    0
+
+#NATION
+Name       griffin~
+Species    avian~
+Hit        28
+Mana       28
+Height     72
+Base_age	40
+Metabolism	4
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	990219321
+Affect	0&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    5
+Con_mod    0
+Cha_mod    5
+Lck_mod    0
+Eyes    black,dark,blue,gold,silver,amber~
+Skin_color    gold,yellow,golden,brown,light brown,tan,light gold~
+Skin_type    fur~
+Extra_color    blue,silver,silvery-blue,gray,light gray,black,dark gray,light blue,white,gold~
+Extra_type    feathers~
+
+#NATION
+Name       golem~
+Species    elemental~
+Hit        33
+Mana       15
+Height     40
+Base_age	5
+Metabolism	1
+AC_plus	50
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	544
+Suscept	20
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&1048608
+Str_mod	20
+Int_mod    -20
+Wis_mod    -20
+Dex_mod    0
+Con_mod    20
+Cha_mod    0
+Lck_mod    0
+Eyes    yellow,glowing,black,empty,dark,ruby,diamond,gemstone,shadowed~
+Skin_color    clay,wood,iron,bronze,stone,steel,straw,flesh~
+Skin_type    body~
+
+#NATION
+Name       mime~
+Species    human~
+Hit        30
+Mana       30
+Height     66
+Base_age	20
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0&4096
+Str_mod	10
+Int_mod    10
+Wis_mod    10
+Dex_mod    10
+Con_mod    10
+Cha_mod    10
+Lck_mod    0
+Eyes    blue,green,brown,black,hazel,light blue,light brown~
+Hair    black,brown,blond,fair,dark brown~
+Skin_color    white~
+Skin_type    skin~
+
+#NATION
+Name       cyclops~
+Species    giant~
+Hit        40
+Mana       10
+Height     148
+Base_age	20
+Metabolism	5
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	5
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	50
+Int_mod    -50
+Wis_mod    0
+Dex_mod    -20
+Con_mod    20
+Cha_mod    0
+Lck_mod    0
+Hair    hair dark,black,red,blond,fair,gray,shadowy,brown,dark brown,light~
+Skin_color    dark,fair,light,pale,medium,average,tanned,very~
+Extra_color    blue,green,brown,bloodshot,black,dark blue,dark brown,light brown~
+Extra_type    eye~
+
+#NATION
+Name       skaven~
+Species    rodent~
+Hit        23
+Mana       21
+Height     36
+Base_age	15
+Metabolism	2
+AC_plus	0
+NPC_only	0
+Unarmed	100
+Sector	13
+Resist	256
+Suscept	0
+Weapon	14
+Bodyparts	854015
+Affect	512
+Str_mod	-40
+Int_mod    -2
+Wis_mod    -3
+Dex_mod    40
+Con_mod    0
+Cha_mod    20
+Lck_mod    0
+Eyes    red,black,yellow,dark,dark brown,brown~
+Skin_color    black,white,gray,brown,dirty brown,dark brown,light brown,light gray,dark gray,dirty white~
+Skin_type    fur~
+
+#NATION
+Name       faun~
+Species    hooved mammal~
+Hit        22
+Mana       29
+Height     65
+Base_age	16
+Metabolism	2
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	68159359
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    -2
+Dex_mod    5
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    blue,green,black,hazel,gray,blue-gray,dark brown,light brown,amber,golden,light gray,dark gray~
+Hair    brown,black,dark brown,light brown,fair,light,blond,reddish brown,strawberry blond,red,auburn~
+Skin_color    light,fair,pale,tanned,dark,average,medium,very dark,very tanned,medium-dark~
+Skin_type    skin~
+Extra_color    black,dark,brown,dark brown,light brown,ochre,tan,gray,dark gray,light gray,white~
+Extra_type    fur~
+
+#NATION
+Name       lion~
+Species    feline~
+Hit        35
+Mana       21
+Height     66
+Base_age	6
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	437063225
+Affect	512&131072
+Str_mod	20
+Int_mod    -10
+Wis_mod    -10
+Dex_mod    0
+Con_mod    2
+Cha_mod    10
+Lck_mod    0
+
+#NATION
+Name       drider~
+Species    insectoid~
+Hit        32
+Mana       20
+Height     66
+Base_age	1
+Metabolism	3
+AC_plus	30
+NPC_only	2
+Unarmed	100
+Sector	13
+Resist	0
+Suscept	0
+Weapon	4
+Bodyparts	302255999
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    red,blood red,glowing red,dark red,golden,silver~
+Hair    white,silver,gray,light gray,copper,bronze,golden,light gold~
+Skin_color    dark,black,deep purple,dark purple,gray,dark gray,ash gray~
+Skin_type    skin~
+Extra_color    black,dark,dark brown,brown,pitch black,shiny,dull~
+Extra_type    exoskeleton~
+
+#NATION
+Name       squirrel~
+Species    rodent~
+Hit        20
+Mana       35
+Height     7
+Base_age	1
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	302843449
+Affect	512
+Str_mod	-50
+Int_mod    0
+Wis_mod    0
+Dex_mod    125
+Con_mod    -50
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,shiny black~
+Skin_color    light brown,tan,brown,gray,reddish brown~
+Skin_type    fur~
+Extra_color    bushy~
+Extra_type    tail~
+
+#NATION
+Name       android~
+Species    elemental~
+Hit        25
+Mana       25
+Height     66
+Base_age	1
+Metabolism	1
+AC_plus	20
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	4
+Weapon	0
+Bodyparts	2047
+Affect	0&1048608
+Str_mod	0
+Int_mod    20
+Wis_mod    -20
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    golden,blue,steel,dull gray,white,metallic,bronze,copper,faceted,brown,amber,silver,large,glowing,round,circular~
+Hair    black,no,dark,blond,fair,yellow,red,blue,green,silver,white,golden~
+Skin_color    flesh-toned,metallic,plastic,dark gray,light gold,gold,dark gold,flesh-colored,colorless,white,pasty white,ivory,pearly~
+Skin_type    skin~
+
+#NATION
+Name       skeleton~
+Species    monster~
+Hit        30
+Mana       22
+Height     66
+Base_age	50
+Metabolism	5
+AC_plus	10
+NPC_only	1
+Unarmed	50
+Sector	0
+Resist	96
+Suscept	16
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&1572896
+Str_mod	0
+Int_mod    -5
+Wis_mod    0
+Dex_mod    5
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Skin_color    dusty,old,clean,dirty,musty,white,gray,offwhite~
+Skin_type    bones~
+
+#NATION
+Name       red dwarf~
+Species    dwarf~
+Hit        33
+Mana       21
+Height     50
+Base_age	55
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	3
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    5
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+
+#NATION
+Name       kueijin~
+Species    monster~
+Hit        35
+Mana       15
+Height     66
+Base_age	300
+Metabolism	7
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	786432
+Weapon	10
+Bodyparts	34815
+Affect	32&524320
+Str_mod	45
+Int_mod    -15
+Wis_mod    -60
+Dex_mod    0
+Con_mod    10
+Cha_mod    15
+Lck_mod    0
+Eyes    black,dark,yellow,glowing red,dark brown,brown~
+Hair    black,dark,very dark~
+Skin_color    pale,white,fair,light,very pale,very light,very fair~
+Skin_type    skin~
+
+#NATION
+Name       angel~
+Species    angel~
+Hit        19
+Mana       32
+Height     70
+Base_age	250
+Metabolism	6
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	9
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	67108992&16777216
+Str_mod	-30
+Int_mod    0
+Wis_mod    5
+Dex_mod    5
+Con_mod    -20
+Cha_mod    10
+Lck_mod    0
+Eyes    sea blue,deep blue,vibrant blue,icy blue,violet,amber,hazel,pale green,deep green,sea green,steel grey,slate grey,light brown,brown,deep brown~
+Hair    light brown,brown,dark brown,dark,shiny black,black,raven black,silver,golden,dark grey,grey,light grey,red,light red,dak red,flame red~
+Skin_color    pale,fair,pure white,ivory,ebony,tan~
+Skin_type    skin~
+Extra_color    white,pure white,ivory,silver,shiny black~
+Extra_type    feathers~
+
+#NATION
+Name       wemic~
+Species    feline~
+Hit        27
+Mana       24
+Height     80
+Base_age	18
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	436537211
+Affect	512&163840
+Str_mod	-10
+Int_mod    0
+Wis_mod    0
+Dex_mod    20
+Con_mod    -10
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,brown,green,amber,hazel,yellow,light brown,light blue~
+Hair    black,brown,light brown,blond,fair,dark brown~
+Skin_color    light,fair,pale,average,medium,dark,very dark~
+Skin_type    skin~
+Extra_color    golden,brown,yellow,light brown,light gold,ochre~
+Extra_type    fur~
+
+#NATION
+Name       warg~
+Species    canine~
+Hit        45
+Mana       15
+Height     85
+Base_age	3
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	300
+Sector	3
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	437063225
+Affect	512&32768
+Str_mod	50
+Int_mod    -50
+Wis_mod    -50
+Dex_mod    40
+Con_mod    50
+Cha_mod    20
+Lck_mod    0
+Eyes    black,yellow,beast yellow,feral yellow,fiery red,red,fiery orange,orange~
+Skin_color    black,gray,dark gray,shadowy~
+Skin_type    fur~
+
+#NATION
+Name       kenku~
+Species    avian~
+Hit        23
+Mana       25
+Height     62
+Base_age	5
+Metabolism	4
+AC_plus	0
+NPC_only	2
+Unarmed	150
+Sector	9
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	17076095
+Affect	0
+Str_mod	-10
+Int_mod    -10
+Wis_mod    25
+Dex_mod    30
+Con_mod    20
+Cha_mod    50
+Lck_mod    0
+Eyes    black,dark,blue,dark blue,light blue,brown,dark brown,light brown,yellow~
+Skin_color    black,brown,dark brown,tan,ochre,light brown,gray,dark gray,light gray,silver~
+Skin_type    feathers~
+
+#NATION
+Name       rabbit~
+Species    rodent~
+Hit        20
+Mana       33
+Height     12
+Base_age	1
+Metabolism	4
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	2
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	302777913
+Affect	512
+Str_mod	-40
+Int_mod    -20
+Wis_mod    0
+Dex_mod    80
+Con_mod    -40
+Cha_mod    50
+Lck_mod    50
+Eyes    black,dark,blue,brown,dark brown~
+Skin_color    gray,brown,white,light brown,light gray,snow white~
+Skin_type    fur~
+Extra_color    fluffy,fluffy white,white,cotton,fuzzy,fuzzy white~
+Extra_type    tail~
+
+#NATION
+Name       akuma~
+Species    demon~
+Hit        25
+Mana       10
+Height     66
+Base_age	500
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	32
+Suscept	16
+Weapon	2
+Bodyparts	853951
+Affect	0&4
+Str_mod	75
+Int_mod    -10
+Wis_mod    10
+Dex_mod    100
+Con_mod    -10
+Cha_mod    50
+Lck_mod    -5
+Eyes    yellow,red,glowing red,glowing yellow,black,dark,eerie yellow,piercing~
+Skin_color    black,dark,red,leathery,blood red,crimson,shadowy~
+Skin_type    skin~
+
+#NATION
+Name       screeling~
+Species    demon~
+Hit        45
+Mana       5
+Height     55
+Base_age	300
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	11
+Resist	2
+Suscept	5
+Weapon	14
+Bodyparts	790495
+Affect	0&526368
+Str_mod	60
+Int_mod    -90
+Wis_mod    -90
+Dex_mod    80
+Con_mod    20
+Cha_mod    0
+Lck_mod    20
+
+#NATION
+Name       hellhound~
+Species    canine~
+Hit        42
+Mana       20
+Height     52
+Base_age	5
+Metabolism	6
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	13
+Resist	1
+Suscept	2
+Weapon	14
+Bodyparts	437063225
+Affect	512
+Str_mod	30
+Int_mod    -40
+Wis_mod    0
+Dex_mod    20
+Con_mod    25
+Cha_mod    20
+Lck_mod    0
+Eyes    yellow,red,orange,golden,fiery red,fiery orange,eerie yellow,glowing red~
+Skin_color    red,crimson,vermillion,scarlet,fiery red,dark red,light red,reddish brown,black~
+Skin_type    fur~
+
+#NATION
+Name       ghoul~
+Species    monster~
+Hit        21
+Mana       25
+Height     66
+Base_age	100
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	100
+Sector	0
+Resist	258
+Suscept	1
+Weapon	14
+Bodyparts	788479
+Affect	512&524288
+Str_mod	0
+Int_mod    -25
+Wis_mod    -30
+Dex_mod    15
+Con_mod    10
+Cha_mod    0
+Lck_mod    15
+Eyes    empty,glowing red,eerie yellow,black,coal black~
+Skin_color    rotting,rotten,slimy green,putrid brown,rancid black~
+Skin_type    flesh~
+
+#NATION
+Name       ghost~
+Species    monster~
+Hit        20
+Mana       31
+Height     66
+Base_age	150
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	258
+Suscept	0
+Weapon	0
+Bodyparts	1791
+Affect	-2146433536&23592992
+Str_mod	-15
+Int_mod    10
+Wis_mod    50
+Dex_mod    10
+Con_mod    -15
+Cha_mod    0
+Lck_mod    -10
+Eyes    glowing,blue,misty,hazy,silver,piercing,empty,cold,chilling,lonely,dark,black~
+Skin_color    white,transcluent,transparent,silvery,hazy,misty,glowing,shimmering,chilling~
+Skin_type    form~
+
+#NATION
+Name       merfolk~
+Species    aquatic~
+Hit        23
+Mana       27
+Height     66
+Base_age	20
+Metabolism	5
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	1
+Weapon	0
+Bodyparts	83579
+Affect	-2147483648&1024
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,green,sea blue,sea green,blue-green,black,golden,silver~
+Hair    red,blue,green,yellow,orange,purple,violet,sea blue,sea green,silver,golden,black~
+Skin_color    pale,fair,light,very pale,very fair,very light,tanned,pale blue~
+Skin_type    skin~
+Extra_color    blue,green,sea blue,sea green,shimmering blue,sparkling green,blue-green,silver,silvery blue,gray,orange,brown~
+Extra_type    scales~
+
+#NATION
+Name       elemental~
+Species    elemental~
+Hit        25
+Mana       25
+Height     70
+Base_age	1
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	1791
+Affect	-2147483136&17825824
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    fiery,watery,windy,electric,crystaline,whirlpool,whirlwind,glowing,sunlight,moonlight,starlight,swirling,glowing,black~
+Hair    fiery,watery,windy,electric,wispy,energy,swirling,glowing,flame,sunlight,moonlight,starlight,flowing,shimmering~
+Skin_color    watery,fiery,ice,stone,windy,stormy,electric,wispy,fleshy,wood,metallic,clay,dirt,swirling,energy~
+Skin_type    body~
+
+#NATION
+Name       shark~
+Species    aquatic~
+Hit        30
+Mana       20
+Height     80
+Base_age	1
+Metabolism	10
+AC_plus	10
+NPC_only	1
+Unarmed	250
+Sector	12
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	609337
+Affect	512&1024
+Str_mod	50
+Int_mod    -90
+Wis_mod    10
+Dex_mod    50
+Con_mod    20
+Cha_mod    20
+Lck_mod    15
+Eyes    dark,black,piercing,deep blue,silver~
+Skin_color    gray,dark gray,light gray,white,blue,blue-gray,brown,dark brown,light brown,tan,ochre,black~
+Skin_type    skin~
+
+#NATION
+Name       dracolich~
+Species    dragon~
+Hit        60
+Mana       20
+Height     350
+Base_age	500
+Metabolism	8
+AC_plus	90
+NPC_only	1
+Unarmed	200
+Sector	0
+Resist	258
+Suscept	1
+Weapon	14
+Bodyparts	437227065
+Affect	-2147483136&557152
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    -10
+Cha_mod    0
+Lck_mod    10
+Eyes    glowing red,glowing yellow,eerie blue,fiery blue~
+Skin_color    gray,dusty,ancient,brown,white,dusty gray,light gray,dark gray,black~
+Skin_type    scales~
+
+#NATION
+Name       banshee~
+Species    monster~
+Hit        20
+Mana       30
+Height     66
+Base_age	200
+Metabolism	3
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	1791
+Affect	134218240&23592992
+Str_mod	-10
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    -10
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,black,dark,silver,golden,misty,hazy,gray,glowing,piercing,shining~
+Hair    flowing,shadowy,misty,hazy,swirling,cloudy,dark,black,stormy~
+Skin_color    hazy,misty,transparent,translucent,amber,shadowy,glowing,silvery,golden~
+Skin_type    form~
+
+#NATION
+Name       shadow~
+Species    monster~
+Hit        15
+Mana       25
+Height     66
+Base_age	200
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	262144
+Weapon	0
+Bodyparts	2047
+Affect	-2146434560&31982112
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    10
+Lck_mod    0
+Eyes    black,red,glowing red,eerie yellow,yellow,glowing yellow,misty gray,empty,deep black,piercing~
+Skin_color    shadowy,dark,black,gray,dark gray,misty,eerie black,ominous,deathly~
+Skin_type    form~
+
+#NATION
+Name       nightmare~
+Species    hooved mammal~
+Hit        30
+Mana       35
+Height     84
+Base_age	100
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	369167929
+Affect	0&16809986
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    fiery red,midnight black,jet black,burning red,bright red,red,fiery orange,feral yellow,orange,yellow~
+Hair    shiny black,tangled,wild,fiery,swirling,burning,shadowy,misty~
+Skin_color    black,jet black,pitch black,night black,deep black,midnight black~
+Skin_type    fur~
+
+#NATION
+Name       spider~
+Species    insectoid~
+Hit        25
+Mana       25
+Height     27
+Base_age	1
+Metabolism	12
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	262148
+Weapon	15
+Bodyparts	302777391
+Affect	512
+Str_mod	0
+Int_mod    -5
+Wis_mod    0
+Dex_mod    20
+Con_mod    -15
+Cha_mod    20
+Lck_mod    -15
+Eyes    eight red,eight yellow,eight black,eight gray,eight dark,eight shiny,eight faceted~
+Skin_color    black,gray,dark gray,light gray,brown,tan,light brown,dark brown~
+Skin_type    exoskeleton~
+
+#NATION
+Name       wolfman~
+Species    canine~
+Hit        35
+Mana       15
+Height     70
+Base_age	20
+Metabolism	10
+AC_plus	30
+NPC_only	2
+Unarmed	200
+Sector	3
+Resist	3
+Suscept	1048576
+Weapon	0
+Bodyparts	790143
+Affect	512
+Str_mod	10
+Int_mod    -20
+Wis_mod    -15
+Dex_mod    0
+Con_mod    10
+Cha_mod    0
+Lck_mod    15
+Eyes    yellow,beast yellow,soft yellow,blue,light blue,brown,gray,dark gray,light gray,green,amber~
+Skin_color    black,white,gray,silver,dark gray,light gray,ruddy~
+Skin_type    fur~
+
+#NATION
+Name       ilwrath~
+Species    insectoid~
+Hit        20
+Mana       27
+Height     130
+Base_age	3
+Metabolism	8
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	262149
+Weapon	15
+Bodyparts	302777391
+Affect	512&8388608
+Str_mod	-10
+Int_mod    15
+Wis_mod    10
+Dex_mod    0
+Con_mod    -15
+Cha_mod    10
+Lck_mod    -10
+Eyes    eight,faceted,gray,black,shiny,piercing~
+Skin_color    black,gray,dark gray,light gray~
+Skin_type    exoskeleton~
+
+#NATION
+Name       cow~
+Species    hooved mammal~
+Hit        35
+Mana       15
+Height     80
+Base_age	3
+Metabolism	10
+AC_plus	10
+NPC_only	1
+Unarmed	100
+Sector	2
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	370216505
+Affect	0&32768
+Str_mod	5
+Int_mod    -10
+Wis_mod    -20
+Dex_mod    -5
+Con_mod    5
+Cha_mod    0
+Lck_mod    5
+Eyes    black,dark,brown,dark brown~
+Skin_color    brown,black and white,white,cream,tan,dark brown,light brown~
+Skin_type    hide~
+
+#NATION
+Name       aniarten~
+Species    fae~
+Hit        15
+Mana       35
+Height     60
+Base_age	18
+Metabolism	11
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	3
+Resist	3
+Suscept	0
+Weapon	0
+Bodyparts	34559
+Affect	128&16777216
+Str_mod	-40
+Int_mod    60
+Wis_mod    40
+Dex_mod    0
+Con_mod    -30
+Cha_mod    0
+Lck_mod    -30
+
+#NATION
+Name       ki-rin~
+Species    angel~
+Hit        22
+Mana       30
+Height     85
+Base_age	3
+Metabolism	5
+AC_plus	40
+NPC_only	1
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	16
+Bodyparts	370279481
+Affect	512&16809984
+Str_mod	0
+Int_mod    7
+Wis_mod    3
+Dex_mod    0
+Con_mod    -10
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,amber,golden,brown,dark brown,light brown,honey~
+Hair    violet,purple,lavender,deep violet,dark purple,rich purple,golden,silver~
+Skin_color    golden,silver,light gold,dark gold,bright gold,red,luminous gold~
+Skin_type    scales~
+
+#NATION
+Name       yeti~
+Species    giant~
+Hit        30
+Mana       17
+Height     90
+Base_age	50
+Metabolism	4
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	5
+Resist	2
+Suscept	1
+Weapon	5
+Bodyparts	788223
+Affect	0
+Str_mod	20
+Int_mod    -15
+Wis_mod    -20
+Dex_mod    -15
+Con_mod    15
+Cha_mod    0
+Lck_mod    10
+Eyes    black,brown,blue,light blue,light brown,dark brown,deep brown,dark~
+Skin_color    white,silver,light gray,snow white,silvery~
+Skin_type    fur~
+
+#NATION
+Name       swan~
+Species    avian~
+Hit        20
+Mana       25
+Height     55
+Base_age	2
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	6
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	296125
+Affect	-2147483648&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,dark,light blue,green,yellow,brown,dark brown~
+Skin_color    white,pure white,snow white,ivory,black,ebony~
+Skin_type    feathers~
+
+#NATION
+Name       phoenix~
+Species    avian~
+Hit        30
+Mana       30
+Height     200
+Base_age	30
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	9
+Resist	1
+Suscept	2
+Weapon	15
+Bodyparts	17073213
+Affect	512&32768
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    10
+Lck_mod    -10
+Eyes    yellow,golden,silver,black,green,emerald green,ruby red,fiery red,fiery yellow,sun yellow,sun gold~
+Skin_color    fiery red,forest green,green,red,red and green,golden red,red-gold,fire-gold,fire-green,fiery gold,fiery green~
+Skin_type    feathers~
+
+#NATION
+Name       sphinx~
+Species    feline~
+Hit        30
+Mana       25
+Height     80
+Base_age	5
+Metabolism	9
+AC_plus	30
+NPC_only	0
+Unarmed	200
+Sector	10
+Resist	1
+Suscept	2
+Weapon	0
+Bodyparts	437194297
+Affect	512&163840
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    -20
+Cha_mod    0
+Lck_mod    10
+Eyes    blue,brown,black,green,yellow,dark blue,light blue,dark brown,light brown,gray,silver,golden,light gray,dark gray~
+Hair    black,dark,dark brown,brown,light brown,auburn,honey,golden,fair,blond,light,bleached,silver~
+Skin_color    gold,golden,dark gold,light gold,pale gold,yellow,dark yellow,honey~
+Skin_type    fur~
+
+#NATION
+Name       djinn~
+Species    demon~
+Hit        26
+Mana       33
+Height     72
+Base_age	400
+Metabolism	6
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	11
+Resist	1
+Suscept	1048578
+Weapon	14
+Bodyparts	67437695
+Affect	2097152&16777216
+Str_mod	-5
+Int_mod    25
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+
+#NATION
+Name       mouse~
+Species    rodent~
+Hit        13
+Mana       30
+Height     1
+Base_age	1
+Metabolism	10
+AC_plus	0
+NPC_only	0
+Unarmed	50
+Sector	2
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	437061177
+Affect	512
+Str_mod	-55
+Int_mod    30
+Wis_mod    10
+Dex_mod    75
+Con_mod    -40
+Cha_mod    55
+Lck_mod    -40
+Eyes    black,dark,shiny black,dark brown~
+Skin_color    gray,brown,light gray,dark gray,dark brown,light brown,black,white~
+Skin_type    fur~
+Extra_color    short,long,medium,very long,very short~
+Extra_type    tail~
+
+#NATION
+Name       scorpion~
+Species    insectoid~
+Hit        25
+Mana       16
+Height     3
+Base_age	1
+Metabolism	5
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	10
+Resist	3
+Suscept	0
+Weapon	17
+Bodyparts	302974011
+Affect	512&64
+Str_mod	10
+Int_mod    -15
+Wis_mod    -15
+Dex_mod    10
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,tiny~
+Skin_color    black,dark,dark brown,brown,light brown,red,reddish brown,tan~
+Skin_type    exoskeleton~
+Extra_color    long,short,poisonous,venomous,deadly,sharp,razor-sharp,lightning-quick~
+Extra_type    stinger~
+
+#NATION
+Name       lazion~
+Species    human~
+Hit        70
+Mana       1
+Height     77
+Base_age	17
+Metabolism	8
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	10
+Resist	0
+Suscept	0
+Weapon	18
+Bodyparts	1791
+Affect	0
+Str_mod	0
+Int_mod    -50
+Wis_mod    0
+Dex_mod    50
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,brown,black,grey,steel grey,crystallin blue,icy grey,icy blue,icy black~
+Hair    dusty brown,dark brown,light brown,golden,dark,black,dark grey,grey~
+Skin_color    fair,dark,tan,bronze~
+Skin_type    skin~
+
+#NATION
+Name       gemfolk~
+Species    human~
+Hit        20
+Mana       30
+Height     66
+Base_age	1
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	13
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,black,dark,silver,brown,amber,golden,light brown,dark brown,green,hazel,gray,misty gray,cloudy blue~
+Hair    black,brown,blond,fair,golden,light,light brown,dark brown,reddish brown,red,strawberry blond~
+Skin_color    light,pale,fair,medium,average,tanned,dark,very dark,very tanned,medium-dark,very light~
+Skin_type    skin~
+Extra_color    sapphire,ruby,diamond,emerald,amethyst,turqoise,peridot,amber,onyx,crystal~
+Extra_type    in navel,in throat,in forehead,in chest,in leg,in arm,on temple,on cheek,on chin,on shoulder,on hand,on back~
+
+#NATION
+Name       ferret~
+Species    rodent~
+Hit        22
+Mana       32
+Height     12
+Base_age	5
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	100
+Sector	3
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	436997689
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    80
+Con_mod    0
+Cha_mod    50
+Lck_mod    0
+Eyes    red,black,dark,dark brown,brown,light brown~
+Skin_color    black,brown,dark brown,dark,cream,white,silver,chocolate brown,tan,reddish brown~
+Skin_type    fur~
+Extra_color    golden,silver,white,light gray,black~
+Extra_type    undercoat,stockings,feet,throat markings,tail,ears,nose~
+
+#NATION
+Name       dragonbred~
+Species    dragon~
+Hit        30
+Mana       20
+Height     85
+Base_age	25
+Metabolism	12
+AC_plus	50
+NPC_only	0
+Unarmed	200
+Sector	5
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	1017855
+Affect	512
+Str_mod	5
+Int_mod    5
+Wis_mod    5
+Dex_mod    5
+Con_mod    5
+Cha_mod    5
+Lck_mod    5
+Eyes    amber,golden,silver,violet,shiny black,icy grey~
+Hair    black,almost black,shiny black,raven black,dark,shadowy~
+Skin_color    black,almost black,shadowy,brown,dark brown,dark~
+Skin_type    scales~
+Extra_color    light grey,blood red,flame red,pale blue,dark yellow~
+Extra_type    stripes~
+
+#NATION
+Name       nirril~
+Species    monster~
+Hit        15
+Mana       25
+Height     24
+Base_age	50
+Metabolism	8
+AC_plus	0
+NPC_only	0
+Unarmed	100
+Sector	5
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	436503609
+Affect	512&524288
+Str_mod	-5
+Int_mod    10
+Wis_mod    -15
+Dex_mod    15
+Con_mod    -5
+Cha_mod    10
+Lck_mod    -10
+Eyes    blue,amber,brown,black,cute,adorable,green,violet~
+Skin_color    white,cream,gray,brown,light brown,tan,ochre,light gray,dark gray~
+Skin_type    fur~
+Extra_color    pink,light pink,bright pink,baby pink,cute pink~
+Extra_type    wings~
+
+#NATION
+Name       panther~
+Species    feline~
+Hit        33
+Mana       25
+Height     55
+Base_age	3
+Metabolism	10
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	436536889
+Affect	512&163840
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    yellow,golden,amber,feral yellow,blue,light brown,brown,dark brown,black~
+Skin_color    black,shadowy,midnight black,jet black,shiny black,sleek black~
+Skin_type    fur~
+
+#NATION
+Name       moloch~
+Species    demon~
+Hit        37
+Mana       13
+Height     180
+Base_age	75
+Metabolism	10
+AC_plus	300
+NPC_only	1
+Unarmed	200
+Sector	3
+Resist	1
+Suscept	0
+Weapon	0
+Bodyparts	68945791
+Affect	512&2048
+Str_mod	15
+Int_mod    -5
+Wis_mod    -5
+Dex_mod    -60
+Con_mod    15
+Cha_mod    0
+Lck_mod    -10
+
+#NATION
+Name       winged dragon~
+Species    dragon~
+Hit        50
+Mana       25
+Height     560
+Base_age	300
+Metabolism	3
+AC_plus	100
+NPC_only	0
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	438142521
+Affect	512&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,red,blue,brown,white,silver,gold,yellow,amber~
+Skin_color    blue,black,red,green,white,gold,silver,bronze,copper,brass,yellow,gray,brown~
+Skin_type    scales~
+Extra_color    blue,black,red,green,white,silver,yellow,orange,gold,bronze,copper,brass~
+Extra_type    wings,tail,underbelly~
+
+#NATION
+Name       wingless dragon~
+Species    dragon~
+Hit        60
+Mana       20
+Height     650
+Base_age	300
+Metabolism	3
+AC_plus	100
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	438109753
+Affect	512&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,red,yellow,gold,silver,amber,white~
+Skin_color    black,red,blue,green,white,silver,gold,copper,bronze,brass,gray,yellow~
+Skin_type    scales~
+Extra_color    black,red,blue,green,white,silver,gold,copper,bronze,brass,gray,yellow~
+Extra_type    underbelly,tail~
+
+#NATION
+Name       drake~
+Species    dragon~
+Hit        40
+Mana       30
+Height     400
+Base_age	300
+Metabolism	3
+AC_plus	100
+NPC_only	0
+Unarmed	300
+Sector	9
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	1672761
+Affect	512&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    30
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    red,golden,fiery red,black,silver,amber,deep black~
+Skin_color    red,silver,golden,bronze,fiery red,brass,copper~
+Skin_type    scales~
+
+#NATION
+Name       serpent~
+Species    dragon~
+Hit        60
+Mana       20
+Height     520
+Base_age	150
+Metabolism	3
+AC_plus	100
+NPC_only	0
+Unarmed	300
+Sector	2
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	1639993
+Affect	512&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,red,amber,gold,silver,green,yellow~
+Skin_color    green,brown,dark green,light green,dark brown,light brown,silver,white,black,gold~
+Skin_type    scales~
+
+#NATION
+Name       sea serpent~
+Species    dragon~
+Hit        60
+Mana       25
+Height     520
+Base_age	150
+Metabolism	3
+AC_plus	100
+NPC_only	0
+Unarmed	300
+Sector	8
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	1656377
+Affect	-2147483136&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,large,huge,bulging,piercing,blue,deep blue,sea blue~
+Skin_color    blue,green,sea blue,sea green,dark blue,light blue,pale blue,blue-gray,gray,storm gray,cloudy blue,black,silver~
+Skin_type    scales~
+
+#NATION
+Name       yaksheeni~
+Species    dragon~
+Hit        70
+Mana       15
+Height     3600
+Base_age	2000
+Metabolism	5
+AC_plus	100
+NPC_only	1
+Unarmed	200
+Sector	5
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	1672761
+Affect	512&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    10
+Eyes    blue,black,green,red,yellow,gold,silver,white,purple,violet,orange,cyan~
+Skin_color    black,blue,red,green,yellow,orange,purple,silver,white,gold,violet,cyan~
+Skin_type    scales~
+
+#NATION
+Name       seraphim~
+Species    angel~
+Hit        23
+Mana       27
+Height     85
+Base_age	20
+Metabolism	4
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	335544832&256
+Str_mod	10
+Int_mod    -5
+Wis_mod    -10
+Dex_mod    0
+Con_mod    5
+Cha_mod    0
+Lck_mod    0
+Eyes    deep blue,sparkling blue,light blue,icy blue,light green,green,sea green,icy green,hazel,violet,light brown,brown,deep brown,silver,golden,amber,icy silver~
+Hair    silver,white,light grey,silver blue~
+Skin_color    pale,fair,pure white,ashen,ivory~
+Skin_type    skin~
+
+#NATION
+Name       succubus~
+Species    demon~
+Hit        23
+Mana       24
+Height     72
+Base_age	250
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	886783
+Affect	268435968&2048
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    25
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    silver,golden,amber,red,glowing red,blood red,icy blue,icy grey,icy black~
+Hair    black,almost black,dark,shadowy,golden,silver,flame red,blood red~
+Skin_color    pale,fair,pale red,ebony~
+Skin_type    skin~
+Extra_color    black,almost black,shadowy,silver,golden~
+Extra_type    tattoos~
+
+#NATION
+Name       incubus~
+Species    demon~
+Hit        24
+Mana       23
+Height     75
+Base_age	250
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	886783
+Affect	268435968&2048
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    25
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    red,blood red,glowing red,silver,golden,amber,icy blue,icy green,icy grey,icy black~
+Hair    black,almost black,shiny black,raven black,silver,golden,blood red,flame red~
+Skin_color    pale,fair,pale red,ebony~
+Skin_type    skin~
+Extra_color    black,almost black,shadowy,silver,golden~
+Extra_type    tattoos~
+
+#NATION
+Name       zhavi~
+Species    human~
+Hit        27
+Mana       23
+Height     66
+Base_age	18
+Metabolism	5
+AC_plus	10
+NPC_only	2
+Unarmed	0
+Sector	2
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,green,red,purple,violet,white,black,pink,light green,light blue,deep blue,deep green,yellow,orange~
+Skin_color    silver,gold,bronze,copper~
+Skin_type    skin~
+
+#NATION
+Name       short-tailed gar~
+Species    reptilian~
+Hit        22
+Mana       20
+Height     120
+Base_age	12
+Metabolism	10
+AC_plus	10
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	135104383
+Affect	4194304&131136
+Str_mod	5
+Int_mod    -10
+Wis_mod    -5
+Dex_mod    5
+Con_mod    5
+Cha_mod    0
+Lck_mod    0
+Eyes    amber,golden,steel grey,shiny black~
+Hair    dusty brown,dirty brown,ivory,dull black,dark~
+Skin_color    light brown,brown,dark brown,forest green,dark grey,slate grey~
+Skin_type    scales~
+Extra_color    leathery,light pink,light brown,massive~
+Extra_type    wings~
+
+#NATION
+Name       long-tailed gar~
+Species    reptilian~
+Hit        25
+Mana       10
+Height     95
+Base_age	12
+Metabolism	10
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	135104383
+Affect	4194304&131136
+Str_mod	30
+Int_mod    -65
+Wis_mod    -45
+Dex_mod    30
+Con_mod    50
+Cha_mod    0
+Lck_mod    0
+Eyes    amber,golden,shiny black,steel grey,dark grey~
+Hair    dirty brown,brown,ivory,dark,dull black,reddish brown~
+Skin_color    light brown,dusty brown,dark brown,forest green,dark grey,slate grey~
+Skin_type    scales~
+Extra_color    tan,leathery,light pink,massive~
+Extra_type    wings~
+
+#NATION
+Name       gecko~
+Species    reptilian~
+Hit        18
+Mana       30
+Height     8
+Base_age	2
+Metabolism	3
+AC_plus	15
+NPC_only	0
+Unarmed	35
+Sector	3
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	436538425
+Affect	512&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    35
+Con_mod    0
+Cha_mod    30
+Lck_mod    0
+Eyes    black,dark,large,small,piercing,cute~
+Skin_color    green,brown,light green,dark green,light brown,dark brown,tan,ochre~
+Skin_type    scales~
+
+#NATION
+Name       mink~
+Species    rodent~
+Hit        20
+Mana       25
+Height     44
+Base_age	5
+Metabolism	4
+AC_plus	0
+NPC_only	0
+Unarmed	150
+Sector	2
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	437061177
+Affect	512&32768
+Str_mod	0
+Int_mod    10
+Wis_mod    0
+Dex_mod    40
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    dark,black,bright,shiny,small,piercing~
+Skin_color    black,dark,dark brown,brown~
+Skin_type    fur~
+
+#NATION
+Name       leopard~
+Species    feline~
+Hit        23
+Mana       18
+Height     50
+Base_age	3
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	10
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	437061177
+Affect	512&163840
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    50
+Con_mod    0
+Cha_mod    40
+Lck_mod    0
+Eyes    black,brown,dark brown,light brown,amber,honey,blue,light blue,dark blue~
+Skin_color    yellow,dark yellow,pale yellow,light yellow,pale orange,tan,light brown~
+Skin_type    fur~
+Extra_color    brown,dark brown~
+Extra_type    spots~
+
+#NATION
+Name       cheetah~
+Species    feline~
+Hit        16
+Mana       15
+Height     47
+Base_age	4
+Metabolism	9
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	10
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	437061177
+Affect	512&163840
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    120
+Con_mod    0
+Cha_mod    15
+Lck_mod    -25
+Eyes    black,brown,blue,light blue,yellow,amber~
+Skin_color    yellow,light yellow,light brown,ochre,tan,pale yellow~
+Skin_type    fur~
+Extra_color    brown,dark,dark brown~
+Extra_type    spots~
+
+#NATION
+Name       nym~
+Species    giant~
+Hit        23
+Mana       25
+Height     150
+Base_age	20
+Metabolism	2
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	1
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0
+Str_mod	-5
+Int_mod    15
+Wis_mod    5
+Dex_mod    0
+Con_mod    -10
+Cha_mod    0
+Lck_mod    0
+
+#NATION
+Name       raven~
+Species    avian~
+Hit        18
+Mana       27
+Height     14
+Base_age	2
+Metabolism	4
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	50693177
+Affect	552
+Str_mod	0
+Int_mod    55
+Wis_mod    30
+Dex_mod    0
+Con_mod    0
+Cha_mod    15
+Lck_mod    0
+Eyes    black,yellow,glowing red,shiny black,dark~
+Skin_color    black,pitch black,jet black,night black,midnight black~
+Skin_type    feathers~
+
+#NATION
+Name       crow~
+Species    avian~
+Hit        23
+Mana       18
+Height     12
+Base_age	3
+Metabolism	4
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	50693177
+Affect	552
+Str_mod	15
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    30
+Cha_mod    30
+Lck_mod    0
+Eyes    black,dark,shiny,piercing black,shiny black~
+Skin_color    black,pitch black,jet black,night black,midnight black~
+Skin_type    feathers~
+
+#NATION
+Name       vulture~
+Species    avian~
+Hit        25
+Mana       12
+Height     62
+Base_age	5
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	10
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	50693177
+Affect	4194304
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    20
+Cha_mod    60
+Lck_mod    0
+
+#NATION
+Name       wisp~
+Species    fae~
+Hit        1
+Mana       100
+Height     1
+Base_age	45
+Metabolism	2
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	2
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	512&16777472
+Str_mod	0
+Int_mod    100
+Wis_mod    0
+Dex_mod    100
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    silver blue,pale blue,vibrant blue,icy blue,hazel,amber,sea green,pale green,deep green,light brown,brown,deep brown,steel grey,slate grey,icy grey~
+Hair    silver blue,deep blue,light blue,light green,green,deep green,light brown,brown,deep brown,shiny black,raven black,black,dark,blood red,light red,red,dark red,flame red~
+Skin_color    pale,fair,white,ebony,ivory~
+Skin_type    skin~
+Extra_color    shimmering blue,sparkling crystallin,vibrant rainbow,shadowy black~
+Extra_type    wings~
+
+#NATION
+Name       aphrodite~
+Species    fae~
+Hit        18
+Mana       27
+Height     66
+Base_age	18
+Metabolism	5
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	17
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	268435968&16777216
+Str_mod	0
+Int_mod    5
+Wis_mod    0
+Dex_mod    20
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    violet,hazel,vibrant blue,sea green,amber,golden,silver~
+Hair    shiny black,raven black,black,dark,golden,purple,blue,green,silver blue,flame red~
+Skin_color    pale,fair,ashen,sea green,light blue,light grey,pure white,white~
+Skin_type    skin~
+Extra_color    shiny~
+Extra_type    sparkles~
+
+#NATION
+Name       kuo-toa~
+Species    aquatic~
+Hit        28
+Mana       21
+Height     56
+Base_age	18
+Metabolism	5
+AC_plus	10
+NPC_only	0
+Unarmed	0
+Sector	8
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	346111
+Affect	-2147483648&1024
+Str_mod	5
+Int_mod    -10
+Wis_mod    0
+Dex_mod    0
+Con_mod    20
+Cha_mod    0
+Lck_mod    0
+Eyes    large,bulging,blue,dark,black,green,dark blue,deep blue,brown,red,yellow,silver~
+Skin_color    black,gray,dark gray,light gray,silver,blue,green,dark blue,dark green,light blue,light green,silvery-blue,gray-green~
+Skin_type    scales~
+Extra_color    green,dark,black,blue,silver,white,brown,light brown,dark brown,dark green,dark blue,ochre,tan~
+Extra_type    fins~
+
+#NATION
+Name       air elemental~
+Species    elemental~
+Hit        18
+Mana       30
+Height     66
+Base_age	15
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	9
+Resist	3
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	3145728&24117280
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    65
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    sun yellow,cloudy,stormy,whirlwind,swirling,storm gray,translucent,crystaline,sky blue~
+Skin_color    windy,airy,swirling,tornado,hurricane,breezy,stormy,cloudy~
+Skin_type    form~
+
+#NATION
+Name       fish~
+Species    aquatic~
+Hit        23
+Mana       33
+Height     24
+Base_age	1
+Metabolism	5
+AC_plus	10
+NPC_only	1
+Unarmed	200
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	214073
+Affect	0&1024
+Str_mod	5
+Int_mod    -5
+Wis_mod    -5
+Dex_mod    40
+Con_mod    5
+Cha_mod    10
+Lck_mod    30
+Eyes    black,blue,dark,brown,dark brown,yellow,orange,dark blue~
+Skin_color    blue,green,brown,yellow,silver,gold,black,orange,red,silvery,light blue,tan~
+Skin_type    scales~
+Extra_color    blue,green,brown,yellow,silver,gold,black,orange,red,silvery,light blue,tan~
+Extra_type    fins,dorsal fin,spots,speckles,stripes,tail,markings~
+
+#NATION
+Name       fire elemental~
+Species    elemental~
+Hit        22
+Mana       17
+Height     66
+Base_age	15
+Metabolism	10
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	14
+Resist	1
+Suscept	2
+Weapon	0
+Bodyparts	2047
+Affect	0&24117280
+Str_mod	65
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blazing red,white-hot,glowing yellow,sun-yellow,radiant yellow,brilliant yellow~
+Skin_color    fiery red,fiery orange,fiery yellow,burning red-orange,fiery gold,fire-gold,red-gold,dark flame,fiery white,red hot~
+Skin_type    form~
+
+#NATION
+Name       water elemental~
+Species    elemental~
+Hit        20
+Mana       25
+Height     66
+Base_age	15
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	8
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	-2147483648&24117280
+Str_mod	0
+Int_mod    0
+Wis_mod    65
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    shimmering,white,glowing,cyan,glowing blue,deep blue,black,whirlpool,crystaline~
+Skin_color    watery,deep blue,saltwater,freshwater,sea green,sea blue,clear water,white water,turbulent,flowing~
+Skin_type    form~
+
+#NATION
+Name       ice elemental~
+Species    elemental~
+Hit        20
+Mana       20
+Height     66
+Base_age	15
+Metabolism	1
+AC_plus	20
+NPC_only	0
+Unarmed	0
+Sector	16
+Resist	2
+Suscept	1
+Weapon	0
+Bodyparts	2047
+Affect	0&17825824
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    65
+Eyes    shimmering,icicle,pearly,ivory,crystaline,ice blue,snow white,silver,black ice,translucent~
+Skin_color    ice,icy,snow white,snowy,frozen,frigid,ice blue,crystaline,ivory,chill blue,blue-white,silver,silvery white~
+Skin_type    form~
+
+#NATION
+Name       earth elemental~
+Species    elemental~
+Hit        20
+Mana       20
+Height     66
+Base_age	15
+Metabolism	1
+AC_plus	10
+NPC_only	0
+Unarmed	0
+Sector	5
+Resist	2
+Suscept	0
+Weapon	0
+Bodyparts	2047
+Affect	0&17825824
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    65
+Cha_mod    0
+Lck_mod    0
+Eyes    diamond,ruby,emerald,sapphire,gemstone,jewel,empty,glowing,black pit,onyx,smooth black,shiny,crystaline~
+Skin_color    granite,stone,dirt brown,slate gray,stone gray,brown stone,black stone,white stone,dark stone,tan stone,rock solid~
+Skin_type    form~
+
+#NATION
+Name       fox~
+Species    canine~
+Hit        18
+Mana       22
+Height     40
+Base_age	4
+Metabolism	6
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	437061177
+Affect	512&32768
+Str_mod	0
+Int_mod    20
+Wis_mod    0
+Dex_mod    65
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,dark,shiny black,piercing black~
+Skin_color    gray,brown,red,reddish brown,light brown,tan,light gray,dark gray~
+Skin_type    fur~
+Extra_color    bushy,slick,sleek,long,short~
+Extra_type    tail~
+
+#NATION
+Name       solar~
+Species    angel~
+Hit        21
+Mana       25
+Height     66
+Base_age	20
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	10237
+Affect	-2145385984&23068672
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    shimmering blue,flaring yellow,fire red~
+Skin_color    pale blue,shimmering yellow,pale moonlight,rainbow colored~
+Skin_type    form~
+Extra_color    rainbow colored,shimmering,flaring,moonbeam,twisting~
+Extra_type    tentacles~
+
+#NATION
+Name       zovid~
+Species    reptilian~
+Hit        25
+Mana       25
+Height     120
+Base_age	3
+Metabolism	4
+AC_plus	25
+NPC_only	0
+Unarmed	200
+Sector	5
+Resist	1
+Suscept	0
+Weapon	14
+Bodyparts	168625723
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    50
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    blue,red,green,black,silver,gold,yellow~
+Skin_color    black,blue,red,green,pink,turquoise,orange,gold,silver,white,brown,yellow~
+Skin_type    scales~
+
+#NATION
+Name       winged naga~
+Species    reptilian~
+Hit        25
+Mana       27
+Height     100
+Base_age	80
+Metabolism	1
+AC_plus	25
+NPC_only	0
+Unarmed	0
+Sector	9
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	886651
+Affect	0&32832
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,blue,green,red,yellow,brown,hazel,gray,silver,golden,white,amber,dark brown,light brown,dark blue,light blue~
+Hair    black,brown,blond,fair,auburn,bluish blond,greenish blond,strawberry blond,reddish brown,dark brown,light brown,silver,golden~
+Skin_color    dark,blue,light blue,fair,light,tanned,pale,pale blue,bluish,gray,ashen,light gray,yellowed,brown~
+Skin_type    skin~
+Extra_color    blue,gray,light blue,dark blue,silver,brown,bronze,black,ochre,tan,light gray,dark gray,blue-gray,cloudy blue~
+Extra_type    scales~
+
+#NATION
+Name       chicken~
+Species    avian~
+Hit        30
+Mana       30
+Height     30
+Base_age	1
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	100
+Sector	2
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	50627641
+Affect	0
+Str_mod	10
+Int_mod    -30
+Wis_mod    -30
+Dex_mod    10
+Con_mod    0
+Cha_mod    10
+Lck_mod    10
+Eyes    black,dark,amber,brown,dark brown,light brown~
+Skin_color    brown,white,light brown,tan,dark brown,black,gray,yellow~
+Skin_type    feathers~
+
+#NATION
+Name       duck~
+Species    avian~
+Hit        35
+Mana       25
+Height     33
+Base_age	1
+Metabolism	3
+AC_plus	10
+NPC_only	1
+Unarmed	50
+Sector	6
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	50381881
+Affect	0
+Str_mod	0
+Int_mod    -10
+Wis_mod    10
+Dex_mod    10
+Con_mod    0
+Cha_mod    0
+Lck_mod    50
+Eyes    black,dark,brown,dark brown,green,blue,yellow~
+Skin_color    brown,black,green,orange,dark brown,light brown,speckled,dark green,dark orange~
+Skin_type    feathers~
+
+#NATION
+Name       penguin~
+Species    avian~
+Hit        34
+Mana       26
+Height     35
+Base_age	1
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	100
+Sector	16
+Resist	2
+Suscept	1
+Weapon	15
+Bodyparts	50611257
+Affect	-2147483648
+Str_mod	0
+Int_mod    -10
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    10
+Eyes    black,dark,shiny black,dark blue,deep blue~
+Skin_color    black and white~
+Skin_type    feathers~
+
+#NATION
+Name       pelican~
+Species    avian~
+Hit        35
+Mana       20
+Height     28
+Base_age	1
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	100
+Sector	17
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	50627641
+Affect	0
+Str_mod	20
+Int_mod    -20
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    50
+Lck_mod    20
+Eyes    black,dark,dark blue,blue~
+Skin_color    white,offwhite,gray,light gray~
+Skin_type    feathers~
+
+#NATION
+Name       hamster~
+Species    rodent~
+Hit        25
+Mana       28
+Height     4
+Base_age	1
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	100
+Sector	1
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	437061121
+Affect	0
+Str_mod	-10
+Int_mod    -5
+Wis_mod    0
+Dex_mod    30
+Con_mod    0
+Cha_mod    0
+Lck_mod    30
+Eyes    red,pink,black,dark,dark brown,brown~
+Skin_color    golden,cream,brown,gray,black,rusty,white,dark gray,light gray,silver,silver gray,yellow,cinnamon~
+Skin_type    fur~
+
+#NATION
+Name       tribble~
+Species    rodent~
+Hit        40
+Mana       40
+Height     3
+Base_age	1
+Metabolism	20
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	1
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	8
+Affect	4194304
+Str_mod	0
+Int_mod    -10
+Wis_mod    -10
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Skin_color    black,white,gray,brown,tan,light brown,dark brown,light gray,dark gray,ochre,reddish brown~
+Skin_type    fur~
+
+#NATION
+Name       beolar~
+Species    monster~
+Hit        40
+Mana       2
+Height     95
+Base_age	10
+Metabolism	10
+AC_plus	20
+NPC_only	0
+Unarmed	200
+Sector	2
+Resist	2
+Suscept	0
+Weapon	14
+Bodyparts	436995641
+Affect	512&16810048
+Str_mod	0
+Int_mod    10
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    glowing red,flamming red,blood red,shadowy black,shiny black~
+Skin_color    dark grey,grey,almost black,shadowy,black~
+Skin_type    scales~
+Extra_color    jagged,gruesome,long,razor sharp,hooked~
+Extra_type    talons,claws~
+
+#NATION
+Name       dwerryl~
+Species    dwarf~
+Hit        20
+Mana       20
+Height     58
+Base_age	5
+Metabolism	5
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	14
+Bodyparts	788479
+Affect	-1879047680&524320
+Str_mod	10
+Int_mod    10
+Wis_mod    0
+Dex_mod    10
+Con_mod    10
+Cha_mod    0
+Lck_mod    0
+Eyes    black,almost black,shiney black,red,glowing red,blood red,violet~
+Hair    black,shiny black,jet black,raven black,dark,shadowy,dark brown,oily black~
+Skin_color    pale,fair,tan,dark,shadowy~
+Skin_type    skin~
+
+#NATION
+Name       rim elf~
+Species    elf~
+Hit        20
+Mana       27
+Height     78
+Base_age	30
+Metabolism	5
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	5
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	2047
+Affect	512
+Str_mod	-5
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    5
+Lck_mod    0
+Eyes    black,grey,violet,deep blue,pale green,steel grey,slate grey~
+Hair    white,black,grey,dark grey,light grey,dark,shiny black~
+Skin_color    pale,fair,ashen~
+Skin_type    skin~
+
+#NATION
+Name       myrddraal~
+Species    monster~
+Hit        23
+Mana       25
+Height     75
+Base_age	20
+Metabolism	5
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	787199
+Affect	-2009071104&16777216
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    30
+Con_mod    0
+Cha_mod    30
+Lck_mod    0
+Hair    oily black,oily dark,oily brown~
+Skin_color    chalk,ivory~
+Skin_type    skin~
+
+#NATION
+Name       emu~
+Species    avian~
+Hit        30
+Mana       20
+Height     40
+Base_age	1
+Metabolism	4
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	10
+Resist	1
+Suscept	16
+Weapon	14
+Bodyparts	50660409
+Affect	512&32768
+Str_mod	-5
+Int_mod    5
+Wis_mod    0
+Dex_mod    15
+Con_mod    -5
+Cha_mod    5
+Lck_mod    70
+Eyes    black,dark,brown,dark brown,gray,blue,dark blue,yellow,amber~
+Skin_color    gray,dark gray,light gray,brown,dark brown,light brown~
+Skin_type    feathers~
+
+#NATION
+Name       wrall~
+Species    monster~
+Hit        25
+Mana       20
+Height     72
+Base_age	18
+Metabolism	1
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	11
+Resist	3
+Suscept	0
+Weapon	13
+Bodyparts	264191
+Affect	-2147483128&1048608
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    black,brown,dark brown,blood red,red,dark red~
+Hair    light brown,brown,black,grey,dark grey~
+Skin_color    brown,tan,black,grey,dark grey~
+Skin_type    canvas~
+
+#NATION
+Name       island dwarf~
+Species    dwarf~
+Hit        32
+Mana       20
+Height     51
+Base_age	70
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	17
+Resist	0
+Suscept	0
+Weapon	12
+Bodyparts	2047
+Affect	512
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    45
+Con_mod    0
+Cha_mod    35
+Lck_mod    0
+Eyes    blue,light blue,brown,black,light brown,dark brown,dark blue,green,sea-blue,sea-green,amber,golden~
+Hair    fair,blond,brown,bleached,light,light brown,black,strawberry blond,reddish brown,red~
+Skin_color    pale,fair,light,average,medium,dark,medium-dark,tanned,very dark,very tanned,somewhat tanned~
+Skin_type    skin~
+Extra_color    long,short,bushy,full,very long,thin,very short~
+Extra_type    beard~
+
+#NATION
+Name       palistelli~
+Species    aquatic~
+Hit        30
+Mana       20
+Height     85
+Base_age	20
+Metabolism	10
+AC_plus	0
+NPC_only	2
+Unarmed	100
+Sector	8
+Resist	0
+Suscept	0
+Weapon	12
+Bodyparts	83835
+Affect	-2147483648&1024
+Str_mod	40
+Int_mod    -50
+Wis_mod    -40
+Dex_mod    0
+Con_mod    50
+Cha_mod    0
+Lck_mod    0
+Eyes    gray,storm gray,slate gray,misty gray,blue,sea blue,dark blue,sky blue,black~
+Hair    black,silver,blue,dark blue~
+Skin_color    pale,fair,dark,medium,swarthy,light~
+Skin_type    skin~
+Extra_color    green,blue,gray,dark gray,dark blue,shiny gray,shiny blue~
+Extra_type    scales~
+
+#NATION
+Name       star wyvern~
+Species    dragon~
+Hit        15
+Mana       65
+Height     150
+Base_age	20
+Metabolism	5
+AC_plus	40
+NPC_only	1
+Unarmed	200
+Sector	9
+Resist	1
+Suscept	0
+Weapon	14
+Bodyparts	33918521
+Affect	512&16777220
+Str_mod	-10
+Int_mod    50
+Wis_mod    20
+Dex_mod    40
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    bright,silver,starry,dark,black,gleaming,crystaline,white~
+Skin_color    black,dark,starry,silver,silvery,shimmering,crimson,red~
+Skin_type    scales~
+
+#NATION
+Name       mammoth~
+Species    animal~
+Hit        40
+Mana       20
+Height     500
+Base_age	1
+Metabolism	1
+AC_plus	100
+NPC_only	0
+Unarmed	200
+Sector	3
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	370214457
+Affect	0
+Str_mod	100
+Int_mod    -70
+Wis_mod    0
+Dex_mod    -50
+Con_mod    30
+Cha_mod    -50
+Lck_mod    50
+Eyes    black,large,blue,deep blue,brown,dark brown,light brown,deep brown,deep black~
+Skin_color    gray,dark gray,black,light gray,white,brown,dark brown,light brown~
+Skin_type    hide~
+Extra_color    black,dark brown,brown,light brown,golden,golden brown,rich brown,gray,light gray,dark gray,silver,white~
+Extra_type    fur~
+
+#NATION
+Name       valkyrie~
+Species    avian~
+Hit        20
+Mana       23
+Height     73
+Base_age	20
+Metabolism	1
+AC_plus	0
+NPC_only	2
+Unarmed	0
+Sector	9
+Resist	0
+Suscept	0
+Weapon	12
+Bodyparts	34815
+Affect	272629760
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    0
+Cha_mod    30
+Lck_mod    -45
+Eyes    blue,green,hazel,violet,black,grey,light blue,dark blue~
+Hair    black,brown,golden,silver,white,red~
+Skin_color    pale,fair,dark,medium~
+Skin_type    skin~
+Extra_color    white,pale blue,silver,golden~
+Extra_type    feathers~
+
+#NATION
+Name       janitor~
+Species    monster~
+Hit        25
+Mana       20
+Height     66
+Base_age	666
+Metabolism	1
+AC_plus	20
+NPC_only	1
+Unarmed	100
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	1061158911
+Affect	512&131136
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    0
+Con_mod    0
+Cha_mod    0
+Lck_mod    0
+Eyes    weird,three,four,five,six,twelve,multi-colored,a lot of,too many,woogle~
+Hair    strange,multi-colored,chaotic,rainbow,purple,wavy,flowing~
+Skin_color    blue,red,black,green,orange,purple~
+Skin_type    skin~
+Extra_color    red,blue,purple,orange,green,pink,black,rainbow,color changing~
+Extra_type    scales,fur,feathers,tail,fins,spots,speckles,stripes,hooves,horns,tongue~
+
+#NATION
+Name       cherub~
+Species    angel~
+Hit        18
+Mana       31
+Height     28
+Base_age	1
+Metabolism	5
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	34815
+Affect	67108864
+Str_mod	-30
+Int_mod    40
+Wis_mod    30
+Dex_mod    10
+Con_mod    -20
+Cha_mod    10
+Lck_mod    0
+Eyes    blue,light blue,baby blue,pale blue,violet,silver~
+Hair    blond,light,fair,light blond,silver,golden,curly gold~
+Skin_color    pale,fair,light,ivory,baby pink,soft pink~
+Skin_type    skin~
+Extra_color    silver,white,silvery,light blue,light pink,baby blue,baby pink,soft blue,soft pink~
+Extra_type    feathers~
+
+#NATION
+Name       alligator~
+Species    reptilian~
+Hit        35
+Mana       21
+Height     66
+Base_age	1
+Metabolism	6
+AC_plus	30
+NPC_only	0
+Unarmed	200
+Sector	15
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	302466105
+Affect	-2147483648&64
+Str_mod	50
+Int_mod    -10
+Wis_mod    -10
+Dex_mod    -5
+Con_mod    10
+Cha_mod    0
+Lck_mod    10
+Eyes    dark,black,shiny,piercing~
+Skin_color    green,dark green,brown,dark brown,light brown,tan,ochre,brown-green~
+Skin_type    scales~
+
+#NATION
+Name       hippopotamus~
+Species    animal~
+Hit        40
+Mana       14
+Height     400
+Base_age	1
+Metabolism	4
+AC_plus	5
+NPC_only	0
+Unarmed	200
+Sector	15
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	304154297
+Affect	-2147483648
+Str_mod	30
+Int_mod    -10
+Wis_mod    10
+Dex_mod    -10
+Con_mod    20
+Cha_mod    0
+Lck_mod    30
+Eyes    black,dark,shiny,deep black~
+Skin_color    gray,dark gray,light gray,white,black~
+Skin_type    skin~
+
+#NATION
+Name       goose~
+Species    avian~
+Hit        30
+Mana       28
+Height     40
+Base_age	1
+Metabolism	2
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	15
+Bodyparts	553747641
+Affect	0
+Str_mod	0
+Int_mod    -5
+Wis_mod    -5
+Dex_mod    15
+Con_mod    0
+Cha_mod    10
+Lck_mod    50
+Eyes    black,brown,dark,dark brown,shiny black,green~
+Skin_color    gray,dark,black,dark gray,light gray,brown,speckled,dark brown,light brown~
+Skin_type    feathers~
+
+#NATION
+Name       hippogryff~
+Species    avian~
+Hit        37
+Mana       28
+Height     76
+Base_age	1
+Metabolism	7
+AC_plus	0
+NPC_only	0
+Unarmed	200
+Sector	9
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	922846265
+Affect	0
+Str_mod	5
+Int_mod    -5
+Wis_mod    -10
+Dex_mod    0
+Con_mod    0
+Cha_mod    30
+Lck_mod    20
+Eyes    black,blue,brown,silver,golden,yellow,bright,piercing~
+Hair    black,flowing,silver,white,gray,dark gray,light gray,silvery,golden,brown~
+Skin_color    dark,black,brown,dark brown,gray,dark gray,light gray,dappled gray,silver,white~
+Skin_type    hide~
+Extra_color    black,white,silver,golden,blue,light blue,gray,dark gray,light gray,yellow~
+Extra_type    feathers~
+
+#NATION
+Name       gremlin~
+Species    demon~
+Hit        18
+Mana       31
+Height     12
+Base_age	1
+Metabolism	30
+AC_plus	0
+NPC_only	0
+Unarmed	0
+Sector	0
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	1902591
+Affect	0
+Str_mod	-20
+Int_mod    30
+Wis_mod    10
+Dex_mod    30
+Con_mod    -5
+Cha_mod    30
+Lck_mod    5
+Eyes    black,brown,blue,green,yellow,red,glowing,glowing yellow,glowing red,eerie green,mischievous~
+Skin_color    green,dark green,light green,emerald green,forest green,pink,brown,light brown,dark brown,black,white~
+Skin_type    skin~
+
+#NATION
+Name       archangel~
+Species    angel~
+Hit        18
+Mana       33
+Height     66
+Base_age	777
+Metabolism	1
+AC_plus	0
+NPC_only	1
+Unarmed	0
+Sector	11
+Resist	0
+Suscept	0
+Weapon	1
+Bodyparts	536905727
+Affect	335544448&256
+Str_mod	10
+Int_mod    10
+Wis_mod    10
+Dex_mod    10
+Con_mod    10
+Cha_mod    10
+Lck_mod    10
+Eyes    bright,blue,bright blue,silver,golden,white,glowing,radiant,beautiful,light blue,pale blue,silver-blue,shining~
+Hair    silver,golden,blond,fair,light,pale,silvery,silver-gold,shining,shimmering,gleaming~
+Skin_color    pale,ivory,light,fair,pure white,pristine white,glowing,radiant~
+Skin_type    skin~
+Extra_color    white,pure white,pristine white,ivory,glowing,radiant,resplendant~
+Extra_type    feathers~
+
+#NATION
+Name       ooze~
+Species    elemental~
+Hit        40
+Mana       30
+Height     40
+Base_age	1
+Metabolism	10
+AC_plus	0
+NPC_only	1
+Unarmed	200
+Sector	15
+Resist	0
+Suscept	0
+Weapon	0
+Bodyparts	40
+Affect	-2143289344&23068704
+Str_mod	0
+Int_mod    0
+Wis_mod    0
+Dex_mod    10
+Con_mod    10
+Cha_mod    -10
+Lck_mod    30
+Skin_color    green,brown,orange,red,blue,yellow,black,gray,white,silver,gold,bronze,ochre,purple,violet,cyan,clear,transparent,translucent~
+Skin_type    color~
+Extra_color    slimy,sticky,oozy,gooey,jelly,mushy,squishy,wet,cold,smooth,shiny,warm,icky,yucky,gross~
+Extra_type    form~
+
+#NATION
+Name       eel~
+Species    aquatic~
+Hit        40
+Mana       20
+Height     50
+Base_age	1
+Metabolism	12
+AC_plus	10
+NPC_only	1
+Unarmed	200
+Sector	0
+Resist	4
+Suscept	0
+Weapon	0
+Bodyparts	738329
+Affect	0&1024
+Str_mod	10
+Int_mod    0
+Wis_mod    0
+Dex_mod    30
+Con_mod    10
+Cha_mod    0
+Lck_mod    30
+Eyes    black,dark,coal black,shiny,round,large,piercing~
+Skin_color    blue,green,gray,bluish,greenish,green-gray,blue-gray,dark gray,black,mottled,brown,brown-gray~
+Skin_type    skin~
+
+#NATION
+Name       issilwyn~
+Species    reptilian~
+Hit        22
+Mana       32
+Height     64
+Base_age	14
+Metabolism	6
+AC_plus	5
+NPC_only	0
+Unarmed	0
+Sector	6
+Resist	0
+Suscept	0
+Weapon	2
+Bodyparts	214271
+Affect	0
+Str_mod	-10
+Int_mod    5
+Wis_mod    0
+Dex_mod    25
+Con_mod    -5
+Cha_mod    0
+Lck_mod    15
+Eyes    blue,red,yellow,green,black,orange,silver,white,brown,pink,purple,violet,light blue,gray,misty,hazy~
+Hair    red,blue,purple,green,black,orange,yellow,gray,silver,violet,pink,lavender,light gray,light blue~
+Skin_color    pink,lavender,white,yellow,pale pink,pale blue,silver,light gray,gray,pale green,pale,light~
+Skin_type    scales~
+#END

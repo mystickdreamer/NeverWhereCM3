@@ -1,0 +1,20 @@
+#DEITY
+Index			4
+Filename		lightn.dty~
+Name		Lightning~
+Description	&gAlignment: &Gchaotic
+A spontaneous and unpredictable element, Lightning is dangerous,
+for friend or ally. Followers tend to have quick tempers, but there
+are exceptions. Constantly watched over by their patron, they are
+well protected, however some things of the earth can breach that
+defense.
+~
+Message		A bolt of lightning strikes~
+Cost		2
+Count		180
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

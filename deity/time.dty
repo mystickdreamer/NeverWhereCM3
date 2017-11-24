@@ -1,0 +1,20 @@
+#DEITY
+Index			11
+Filename		time.dty~
+Name		Time~
+Description	&z&gAlignment: &Gneutral
+Father Time is a mighty deity, and while neutral in and of himself
+his followers are often chaotic in their actions.  Worshippers of
+Time are quick and tend to move more rapidly than the average
+adventurer, and they are hard to keep still.  But it is said that
+their defenses can be penetrated easily.
+~
+Message		Time seems to halt for a moment in~
+Cost		4
+Count		101
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

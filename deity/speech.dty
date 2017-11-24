@@ -1,0 +1,20 @@
+#DEITY
+Index			7
+Filename		speech.dty~
+Name		Speech~
+Description	&z&gAlignment: &Gchaotic
+Focusing on the destruction and disruption of all things, Chaos is
+greatly feared, as well as hated. Followers of Chaos are possessed by
+an intense unnatural hate, making them fearless warriors of terrible
+strength. However, due to their uncontrollable nature, they are
+vulnerable to the more arcane and concentrated attacks.
+~
+Message		A single word echoes through~
+Cost		3
+Count		181
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

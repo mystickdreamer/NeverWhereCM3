@@ -1,0 +1,52 @@
+#DEITY
+Filename		shadow.dty~
+Name		Illusion~
+Description	&z&gAlignment&G: chaotic
+Shadow is a dark deity that thrills in malice and cold killing.  Unlike
+Chaos, Shadow encourages its followers to calculate their killings
+carefully, rather than barge into a situation unthinking.  Shadow's
+followers are capable of slinking in even the faintest shadow unseen,
+and have been granted a tolerance to many kinds of venoms and poisons.
+However, Shadow worshippers have been known to fear bright light.
+~
+Alignment		-500
+Worshippers	91
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		1
+Kill_npcrace	0
+Kill_npcfoe	0
+Kill_magic	0
+Sac		10
+Bury_corpse	0
+Aid_spell		0
+Aid		0
+Steal		1
+Backstab		1
+Die		0
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		0
+Dig_corpse	0
+Scorpse		200
+Savatar		900
+Sdeityobj		250
+Srecall		150
+Suplift		300
+Race		-1
+Class		-1
+Element		256
+Sex		-1
+Affected		98304
+Npcrace		0
+Npcfoe		0
+Suscept		8
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		6
+End
+
+#END

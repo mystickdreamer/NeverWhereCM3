@@ -1,0 +1,141 @@
+
+#SPECIES
+Name       elf~
+Skillset   1
+Part       2047
+Disadvantage	0
+Adjective	elven~
+
+#SPECIES
+Name       dwarf~
+Skillset   2
+Part       2047
+Disadvantage	0
+Adjective	dwarven~
+
+#SPECIES
+Name       dragon~
+Skillset   35
+Part       437227065
+Disadvantage	0
+Adjective	draconic~
+
+#SPECIES
+Name       human~
+Skillset   0
+Part       2047
+Disadvantage	0
+Adjective	humancrafted~
+
+#SPECIES
+Name       reptilian~
+Skillset   13
+Part       724479
+Disadvantage	0
+Adjective	reptilian~
+
+#SPECIES
+Name       elemental~
+Skillset   29
+Part       34815
+Disadvantage	0
+Adjective	artificial~
+
+#SPECIES
+Name       monster~
+Skillset   23
+Part       2047
+Disadvantage	0
+Adjective	crude~
+
+#SPECIES
+Name       goblinoid~
+Skillset   7
+Part       2047
+Disadvantage	0
+Adjective	orcish~
+
+#SPECIES
+Name       rodent~
+Skillset   39
+Part       537167743
+Disadvantage	0
+Adjective	rodent~
+
+#SPECIES
+Name       fae~
+Skillset   4
+Part       34815
+Disadvantage	0
+Adjective	faerie~
+
+#SPECIES
+Name       feline~
+Skillset   22
+Part       135071295
+Disadvantage	0
+Adjective	feline~
+
+#SPECIES
+Name       hooved mammal~
+Skillset   20
+Part       369166203
+Disadvantage	0
+Adjective	centaurian~
+
+#SPECIES
+Name       giant~
+Skillset   6
+Part       2047
+Disadvantage	0
+Adjective	gigantic~
+
+#SPECIES
+Name       demon~
+Skillset   15
+Part       69013375
+Disadvantage	0
+Adjective	demoncrafted~
+
+#SPECIES
+Name       insectoid~
+Skillset   24
+Part       302782843
+Disadvantage	0
+Adjective	runed~
+
+#SPECIES
+Name       animal~
+Skillset   39
+Part       0
+Disadvantage	0
+Adjective	animal~
+
+#SPECIES
+Name       canine~
+Skillset   39
+Part       0
+Disadvantage	0
+Adjective	canine~
+
+#SPECIES
+Name       avian~
+Skillset   24
+Part       0
+Disadvantage	0
+Adjective	avian~
+
+#SPECIES
+Name       aquatic~
+Skillset   39
+Part       0
+Disadvantage	0
+Adjective	aquatic~
+
+#SPECIES
+Name       angel~
+Skillset   1
+Part       0
+Disadvantage	0
+Adjective	angelic~
+#END

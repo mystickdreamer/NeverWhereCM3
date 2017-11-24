@@ -1,0 +1,544 @@
+Sun Oct 19 10:41:29 PDT 2014
+Sun Oct 19 10:41:29 2014 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Sun Oct 19 10:41:29 2014 :: Loading commands
+Sun Oct 19 10:41:29 2014 :: Loading sysdata configuration...
+Sun Oct 19 10:41:29 2014 :: Loading socials
+Sun Oct 19 10:41:29 2014 :: Loading skill table
+Sun Oct 19 10:41:29 2014 :: Sorting skill table...
+Sun Oct 19 10:41:29 2014 :: Remapping slots to sns
+Sun Oct 19 10:41:29 2014 :: Loading herb table
+Sun Oct 19 10:41:29 2014 :: Loading clans
+Sun Oct 19 10:41:29 2014 :: Loading channels
+Sun Oct 19 10:41:29 2014 :: Loading bits
+Sun Oct 19 10:41:29 2014 :: Loading help files
+Sun Oct 19 10:41:29 2014 :: Loading books
+Sun Oct 19 10:41:29 2014 :: Initializing random number generator
+Sun Oct 19 10:41:29 2014 :: Setting time and weather
+Sun Oct 19 10:41:29 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill disease not found.
+ASSIGN_GSN: Skill weaken not found.
+ASSIGN_GSN: Skill transmutation not found.
+ASSIGN_GSN: Skill charm person not found.
+ASSIGN_GSN: Skill counterspell not found.
+ASSIGN_GSN: Skill sharpen not found.
+Sun Oct 19 10:41:29 2014 :: Loading nations
+Sun Oct 19 10:41:29 2014 :: Loading cities
+Sun Oct 19 10:41:29 2014 :: Reading in area files...
+help.are: No such file or directory
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: load_area: error loading file (can't open)
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: help.are
+limbo.are     : Rooms:     1 - 8     Objs:     2 - 99    Mobs:     1 - 25
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
+stockobj.are  : Rooms: 29000 - 29000 Objs: 28900 - 29999 Mobs:     0 - 0
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+elkandu.are   : Rooms: 20000 - 20199 Objs: 20001 - 21001 Mobs: 20000 - 20099
+gmaze.are     : Rooms:  9000 - 9074  Objs:  9000 - 9006  Mobs:     0 - 0
+Sun Oct 19 10:41:29 2014 :: [*****] FILE: jaston.are LINE: 1071
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: load_room_reset: 'D': exit 2 not door.
+Sun Oct 19 10:41:29 2014 :: [*****] FILE: jaston.are LINE: 1071
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Reset: D 0 17024 2 2
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
+Sun Oct 19 10:41:29 2014 :: [*****] FILE: jaston.are LINE: 1324
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: load_room_reset: 'D': exit 1 not door.
+Sun Oct 19 10:41:29 2014 :: [*****] FILE: jaston.are LINE: 1324
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Reset: D 0 17040 1 0
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
+Sun Oct 19 10:41:29 2014 :: [*****] FILE: jaston.are LINE: 1685
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: load_room_reset: 'D': exit 0 not door.
+Sun Oct 19 10:41:29 2014 :: [*****] FILE: jaston.are LINE: 1685
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Reset: D 0 17064 0 0
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+jaston.are    : Rooms: 17000 - 17099 Objs: 17000 - 17099 Mobs: 17001 - 17050
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+school.are    : Rooms:   100 - 199   Objs:     0 - 0     Mobs:     0 - 0
+Houses.are    : Rooms:   200 - 999   Objs:     0 - 0     Mobs:     0 - 0
+Sun Oct 19 10:41:29 2014 :: Loading high scores...
+Sun Oct 19 10:41:29 2014 :: Loading Housing System, Home Accessories Data, and Home Auctioning System
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Get_room_index: bad vnum 10088.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Cannot open homeaccessories.dat. Aborting loadup of accessories data.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Cannot open homebuy.dat. Aborting loadup of home auction data.
+Sun Oct 19 10:41:29 2014 :: Fixing exits
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Get_room_index: bad vnum 17721.
+Sun Oct 19 10:41:29 2014 :: [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Deleting east exit in room 9001
+Sun Oct 19 10:41:29 2014 :: Initializing economy
+Sun Oct 19 10:41:29 2014 :: Loading materials
+Sun Oct 19 10:41:29 2014 :: Loading world
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Extract_char: NULL ch.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Fread_mobile: Vnum not found
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Fread_string: EOF
+Sun Oct 19 10:41:29 2014 :: Loading deities
+Sun Oct 19 10:41:29 2014 :: Loading talents...
+Sun Oct 19 10:41:29 2014 :: fire.dty
+Sun Oct 19 10:41:29 2014 :: earth.dty
+Sun Oct 19 10:41:29 2014 :: wind.dty
+Sun Oct 19 10:41:29 2014 :: frost.dty
+Sun Oct 19 10:41:29 2014 :: lightn.dty
+Sun Oct 19 10:41:29 2014 :: water.dty
+Sun Oct 19 10:41:29 2014 :: dream.dty
+Sun Oct 19 10:41:29 2014 :: speech.dty
+Sun Oct 19 10:41:29 2014 :: healing.dty
+Sun Oct 19 10:41:29 2014 :: death.dty
+Sun Oct 19 10:41:29 2014 :: change.dty
+Sun Oct 19 10:41:29 2014 :: time.dty
+Sun Oct 19 10:41:29 2014 :: motion.dty
+Sun Oct 19 10:41:29 2014 :: mind.dty
+Sun Oct 19 10:41:29 2014 :: illusion.dty
+Sun Oct 19 10:41:29 2014 :: seeking.dty
+Sun Oct 19 10:41:29 2014 :: catalysm.dty
+Sun Oct 19 10:41:29 2014 :: void.dty
+Sun Oct 19 10:41:29 2014 :: $
+Sun Oct 19 10:41:29 2014 ::  Done talents 
+Sun Oct 19 10:41:29 2014 :: Loading bans
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Load_banlist: no match: ÿ
+Sun Oct 19 10:41:29 2014 :: Done.
+Sun Oct 19 10:41:29 2014 :: Loading reserved names
+Sun Oct 19 10:41:29 2014 :: Loading material shops
+Sun Oct 19 10:41:29 2014 :: Loading moons
+Sun Oct 19 10:41:29 2014 :: Loading recipes
+Sun Oct 19 10:41:29 2014 :: Loading ingredients
+Sun Oct 19 10:41:29 2014 :: Loading species
+Sun Oct 19 10:41:29 2014 :: Loading mutations
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: Load_mutations: no mutations found!
+Sun Oct 19 10:41:29 2014 :: Loading arenas
+Sun Oct 19 10:41:29 2014 :: Checking shops
+Sun Oct 19 10:41:29 2014 :: Initializing socket
+Sun Oct 19 10:41:29 2014 :: Ar'Oan Lost Dragons ready at address boogeyman on port 6501.
+Sun Oct 19 10:41:29 2014 :: I3: Loading I3 command table...
+Sun Oct 19 10:41:29 2014 :: I3: Loading Intermud-3 network data...
+Sun Oct 19 10:41:29 2014 :: I3: Loading I3 router data...
+Sun Oct 19 10:41:29 2014 :: I3: Loading I3 help file...
+Sun Oct 19 10:41:29 2014 :: I3: Loading color table...
+Sun Oct 19 10:41:29 2014 :: I3: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Sun Oct 19 10:41:29 2014 :: IMC: Loading IMC2 command table...
+Sun Oct 19 10:41:29 2014 :: ***BUG*** IMC: imc_readcommand: Command imcping loaded with invalid function. Set to NULL.
+Sun Oct 19 10:41:29 2014 :: ***BUG*** IMC: imc_readcommand: Command imcstats loaded with invalid function. Set to NULL.
+Sun Oct 19 10:41:29 2014 :: IMC: Loading IMC2 network data...
+Sun Oct 19 10:41:29 2014 :: IMC: Loading IMC2 help file...
+Sun Oct 19 10:41:29 2014 :: IMC: Loading IMC2 color table...
+Sun Oct 19 10:41:29 2014 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: stockobj.are: 'O': bad obj vnum 21013.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: jaston.are: 'M': bad mob vnum 18303.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: jaston.are: 'M': bad mob vnum 18700.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:41:29 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:41:41 2014 :: Sock.sinaddr:  75.131.128.102, port -8834.
+Sun Oct 19 10:41:42 2014 :: Preloading player data for: Aasterinian (13K)
+Sun Oct 19 10:41:42 2014 :: Creating area entry for Aasterinian
+Sun Oct 19 10:41:42 2014 :: Loading player data for: Aasterinian (13K)
+Sun Oct 19 10:41:42 2014 :: Updating area entry for Aasterinian
+Sun Oct 19 10:41:42 2014 :: Aasterinian@75.131.128.102((unknown)) has connected.
+Sun Oct 19 10:41:43 2014 :: Aasterinian has entered the game in the Nexus of Torn Elkandu (20000).
+Sun Oct 19 10:41:45 2014 :: Log Aasterinian: copyover
+Sun Oct 19 10:41:45 2014 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Sun Oct 19 10:41:45 2014 :: Loading commands
+Sun Oct 19 10:41:45 2014 :: Loading sysdata configuration...
+Sun Oct 19 10:41:45 2014 :: Loading socials
+Sun Oct 19 10:41:45 2014 :: Loading skill table
+Sun Oct 19 10:41:45 2014 :: Sorting skill table...
+Sun Oct 19 10:41:45 2014 :: Remapping slots to sns
+Sun Oct 19 10:41:45 2014 :: Loading herb table
+Sun Oct 19 10:41:45 2014 :: Loading clans
+Sun Oct 19 10:41:45 2014 :: Loading channels
+Sun Oct 19 10:41:45 2014 :: Loading bits
+Sun Oct 19 10:41:45 2014 :: Loading help files
+Sun Oct 19 10:41:45 2014 :: Loading books
+Sun Oct 19 10:41:45 2014 :: Initializing random number generator
+Sun Oct 19 10:41:45 2014 :: Setting time and weather
+Sun Oct 19 10:41:45 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill disease not found.
+ASSIGN_GSN: Skill weaken not found.
+ASSIGN_GSN: Skill transmutation not found.
+ASSIGN_GSN: Skill charm person not found.
+ASSIGN_GSN: Skill counterspell not found.
+ASSIGN_GSN: Skill sharpen not found.
+Sun Oct 19 10:41:45 2014 :: Loading nations
+Sun Oct 19 10:41:45 2014 :: Loading cities
+Sun Oct 19 10:41:45 2014 :: Reading in area files...
+help.are: No such file or directory
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: load_area: error loading file (can't open)
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: help.are
+limbo.are     : Rooms:     1 - 8     Objs:     2 - 99    Mobs:     1 - 25
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
+stockobj.are  : Rooms: 29000 - 29000 Objs: 28900 - 29999 Mobs:     0 - 0
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+elkandu.are   : Rooms: 20000 - 20199 Objs: 20001 - 21001 Mobs: 20000 - 20099
+gmaze.are     : Rooms:  9000 - 9074  Objs:  9000 - 9006  Mobs:     0 - 0
+Sun Oct 19 10:41:45 2014 :: [*****] FILE: jaston.are LINE: 1071
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: load_room_reset: 'D': exit 2 not door.
+Sun Oct 19 10:41:45 2014 :: [*****] FILE: jaston.are LINE: 1071
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Reset: D 0 17024 2 2
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
+Sun Oct 19 10:41:45 2014 :: [*****] FILE: jaston.are LINE: 1324
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: load_room_reset: 'D': exit 1 not door.
+Sun Oct 19 10:41:45 2014 :: [*****] FILE: jaston.are LINE: 1324
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Reset: D 0 17040 1 0
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
+Sun Oct 19 10:41:45 2014 :: [*****] FILE: jaston.are LINE: 1685
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: load_room_reset: 'D': exit 0 not door.
+Sun Oct 19 10:41:45 2014 :: [*****] FILE: jaston.are LINE: 1685
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Reset: D 0 17064 0 0
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+jaston.are    : Rooms: 17000 - 17099 Objs: 17000 - 17099 Mobs: 17001 - 17050
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+school.are    : Rooms:   100 - 199   Objs:     0 - 0     Mobs:     0 - 0
+Houses.are    : Rooms:   200 - 999   Objs:     0 - 0     Mobs:     0 - 0
+Sun Oct 19 10:41:45 2014 :: Loading high scores...
+Sun Oct 19 10:41:45 2014 :: Loading Housing System, Home Accessories Data, and Home Auctioning System
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Get_room_index: bad vnum 10088.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Cannot open homeaccessories.dat. Aborting loadup of accessories data.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Cannot open homebuy.dat. Aborting loadup of home auction data.
+Sun Oct 19 10:41:45 2014 :: Fixing exits
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Get_room_index: bad vnum 17721.
+Sun Oct 19 10:41:45 2014 :: [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Deleting east exit in room 9001
+Sun Oct 19 10:41:45 2014 :: Initializing economy
+Sun Oct 19 10:41:45 2014 :: Loading materials
+Sun Oct 19 10:41:45 2014 :: Loading world
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Extract_char: NULL ch.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Fread_mobile: Vnum not found
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:41:45 2014 :: Loading deities
+Sun Oct 19 10:41:45 2014 :: Loading talents...
+Sun Oct 19 10:41:45 2014 :: fire.dty
+Sun Oct 19 10:41:45 2014 :: earth.dty
+Sun Oct 19 10:41:45 2014 :: wind.dty
+Sun Oct 19 10:41:45 2014 :: frost.dty
+Sun Oct 19 10:41:45 2014 :: lightn.dty
+Sun Oct 19 10:41:45 2014 :: water.dty
+Sun Oct 19 10:41:45 2014 :: dream.dty
+Sun Oct 19 10:41:45 2014 :: speech.dty
+Sun Oct 19 10:41:45 2014 :: healing.dty
+Sun Oct 19 10:41:45 2014 :: death.dty
+Sun Oct 19 10:41:45 2014 :: change.dty
+Sun Oct 19 10:41:45 2014 :: time.dty
+Sun Oct 19 10:41:45 2014 :: motion.dty
+Sun Oct 19 10:41:45 2014 :: mind.dty
+Sun Oct 19 10:41:45 2014 :: illusion.dty
+Sun Oct 19 10:41:45 2014 :: seeking.dty
+Sun Oct 19 10:41:45 2014 :: catalysm.dty
+Sun Oct 19 10:41:45 2014 :: void.dty
+Sun Oct 19 10:41:45 2014 :: $
+Sun Oct 19 10:41:45 2014 ::  Done talents 
+Sun Oct 19 10:41:45 2014 :: Loading bans
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Load_banlist: no match: ÿ
+Sun Oct 19 10:41:45 2014 :: Done.
+Sun Oct 19 10:41:45 2014 :: Loading reserved names
+Sun Oct 19 10:41:45 2014 :: Loading material shops
+Sun Oct 19 10:41:45 2014 :: Loading moons
+Sun Oct 19 10:41:45 2014 :: Loading recipes
+Sun Oct 19 10:41:45 2014 :: Loading ingredients
+Sun Oct 19 10:41:45 2014 :: Loading species
+Sun Oct 19 10:41:45 2014 :: Loading mutations
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: Load_mutations: no mutations found!
+Sun Oct 19 10:41:45 2014 :: Loading arenas
+Sun Oct 19 10:41:45 2014 :: Checking shops
+Sun Oct 19 10:41:45 2014 :: Initializing socket
+Sun Oct 19 10:41:45 2014 :: Ar'Oan Lost Dragons ready at address boogeyman on port 6501.
+Sun Oct 19 10:41:45 2014 :: I3: Loading I3 command table...
+Sun Oct 19 10:41:45 2014 :: I3: Loading Intermud-3 network data...
+Sun Oct 19 10:41:45 2014 :: I3: Loading I3 router data...
+Sun Oct 19 10:41:45 2014 :: I3: Loading I3 help file...
+Sun Oct 19 10:41:45 2014 :: I3: Loading color table...
+Sun Oct 19 10:41:45 2014 :: I3: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Sun Oct 19 10:41:45 2014 :: IMC: Loading IMC2 command table...
+Sun Oct 19 10:41:45 2014 :: ***BUG*** IMC: imc_readcommand: Command imcping loaded with invalid function. Set to NULL.
+Sun Oct 19 10:41:45 2014 :: ***BUG*** IMC: imc_readcommand: Command imcstats loaded with invalid function. Set to NULL.
+Sun Oct 19 10:41:45 2014 :: IMC: Loading IMC2 network data...
+Sun Oct 19 10:41:45 2014 :: IMC: Loading IMC2 help file...
+Sun Oct 19 10:41:45 2014 :: IMC: Loading IMC2 color table...
+Sun Oct 19 10:41:45 2014 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Sun Oct 19 10:41:45 2014 :: Running copyover_recover.
+Sun Oct 19 10:41:45 2014 :: Copyover recovery initiated
+Sun Oct 19 10:41:45 2014 :: Loading player data for: Aasterinian (13K)
+Sun Oct 19 10:41:45 2014 :: Creating area entry for Aasterinian
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: stockobj.are: 'O': bad obj vnum 21013.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: jaston.are: 'M': bad mob vnum 18303.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: jaston.are: 'M': bad mob vnum 18700.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:41:45 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:41:49 2014 :: Log Aasterinian: minvoke rat
+Sun Oct 19 10:41:51 2014 :: Log Aasterinian: mset rat race 54
+Sun Oct 19 10:44:07 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:44:07 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:45:36 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:45:36 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:47:28 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:47:28 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:47:33 2014 :: Log Aasterinian: oset corpse material 54
+Sun Oct 19 10:48:43 2014 :: Log Aasterinian: OBJ(10): Changed object type to corpse
+Sun Oct 19 10:48:49 2014 :: Log Aasterinian: OBJ(10): Changed object type to sheath
+Sun Oct 19 10:49:01 2014 :: Log Aasterinian: OBJ(20007): Changed object type to corpse
+Sun Oct 19 10:49:33 2014 :: Log Aasterinian: oset
+Sun Oct 19 10:49:59 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:49:59 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:52:27 2014 :: [*****] BUG: reset_room: school.are: 'M': bad mob vnum 20003.
+Sun Oct 19 10:52:27 2014 :: [*****] BUG: reset_room: school.are: 'O': bad obj vnum 27999.
+Sun Oct 19 10:53:06 2014 :: Log Aasterinian: copyover
+Sun Oct 19 10:53:06 2014 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Sun Oct 19 10:53:06 2014 :: Loading commands
+Sun Oct 19 10:53:06 2014 :: Loading sysdata configuration...
+Sun Oct 19 10:53:06 2014 :: Loading socials
+Sun Oct 19 10:53:06 2014 :: Loading skill table
+Sun Oct 19 10:53:06 2014 :: Sorting skill table...
+Sun Oct 19 10:53:06 2014 :: Remapping slots to sns
+Sun Oct 19 10:53:06 2014 :: Loading herb table
+Sun Oct 19 10:53:06 2014 :: Loading clans
+Sun Oct 19 10:53:06 2014 :: Loading channels
+Sun Oct 19 10:53:06 2014 :: Loading bits
+Sun Oct 19 10:53:06 2014 :: Loading help files
+Sun Oct 19 10:53:06 2014 :: Loading books
+Sun Oct 19 10:53:06 2014 :: Initializing random number generator
+Sun Oct 19 10:53:06 2014 :: Setting time and weather
+Sun Oct 19 10:53:06 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill disease not found.
+ASSIGN_GSN: Skill weaken not found.
+ASSIGN_GSN: Skill transmutation not found.
+ASSIGN_GSN: Skill charm person not found.
+ASSIGN_GSN: Skill counterspell not found.
+ASSIGN_GSN: Skill sharpen not found.
+Sun Oct 19 10:53:06 2014 :: Loading nations
+Sun Oct 19 10:53:06 2014 :: Loading cities
+Sun Oct 19 10:53:06 2014 :: Reading in area files...
+help.are: No such file or directory
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: load_area: error loading file (can't open)
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: help.are
+limbo.are     : Rooms:     1 - 8     Objs:     2 - 99    Mobs:     1 - 25
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
+stockobj.are  : Rooms: 29000 - 29000 Objs: 28900 - 29999 Mobs:     0 - 0
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
+elkandu.are   : Rooms: 20000 - 20199 Objs: 20001 - 21001 Mobs: 20000 - 20099
+gmaze.are     : Rooms:  9000 - 9074  Objs:  9000 - 9006  Mobs:     0 - 0
+Sun Oct 19 10:53:06 2014 :: [*****] FILE: jaston.are LINE: 1071
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: load_room_reset: 'D': exit 2 not door.
+Sun Oct 19 10:53:06 2014 :: [*****] FILE: jaston.are LINE: 1071
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Reset: D 0 17024 2 2
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
+Sun Oct 19 10:53:06 2014 :: [*****] FILE: jaston.are LINE: 1324
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: load_room_reset: 'D': exit 1 not door.
+Sun Oct 19 10:53:06 2014 :: [*****] FILE: jaston.are LINE: 1324
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Reset: D 0 17040 1 0
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
+Sun Oct 19 10:53:06 2014 :: [*****] FILE: jaston.are LINE: 1685
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: load_room_reset: 'D': exit 0 not door.
+Sun Oct 19 10:53:06 2014 :: [*****] FILE: jaston.are LINE: 1685
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Reset: D 0 17064 0 0
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+jaston.are    : Rooms: 17000 - 17099 Objs: 17000 - 17099 Mobs: 17001 - 17050
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+school.are    : Rooms:   100 - 199   Objs:     0 - 0     Mobs:     0 - 0
+Houses.are    : Rooms:   200 - 999   Objs:     0 - 0     Mobs:     0 - 0
+Sun Oct 19 10:53:06 2014 :: Loading high scores...
+Sun Oct 19 10:53:06 2014 :: Loading Housing System, Home Accessories Data, and Home Auctioning System
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Get_room_index: bad vnum 10088.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Cannot open homeaccessories.dat. Aborting loadup of accessories data.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Cannot open homebuy.dat. Aborting loadup of home auction data.
+Sun Oct 19 10:53:06 2014 :: Fixing exits
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Get_room_index: bad vnum 17721.
+Sun Oct 19 10:53:06 2014 :: [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Deleting east exit in room 9001
+Sun Oct 19 10:53:06 2014 :: Initializing economy
+Sun Oct 19 10:53:06 2014 :: Loading materials
+Sun Oct 19 10:53:06 2014 :: Loading world
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Extract_char: NULL ch.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Fread_mobile: Vnum not found
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:53:06 2014 :: Loading deities
+Sun Oct 19 10:53:06 2014 :: Loading talents...
+Sun Oct 19 10:53:06 2014 :: fire.dty
+Sun Oct 19 10:53:06 2014 :: earth.dty
+Sun Oct 19 10:53:06 2014 :: wind.dty
+Sun Oct 19 10:53:06 2014 :: frost.dty
+Sun Oct 19 10:53:06 2014 :: lightn.dty
+Sun Oct 19 10:53:06 2014 :: water.dty
+Sun Oct 19 10:53:06 2014 :: dream.dty
+Sun Oct 19 10:53:06 2014 :: speech.dty
+Sun Oct 19 10:53:06 2014 :: healing.dty
+Sun Oct 19 10:53:06 2014 :: death.dty
+Sun Oct 19 10:53:06 2014 :: change.dty
+Sun Oct 19 10:53:06 2014 :: time.dty
+Sun Oct 19 10:53:06 2014 :: motion.dty
+Sun Oct 19 10:53:06 2014 :: mind.dty
+Sun Oct 19 10:53:06 2014 :: illusion.dty
+Sun Oct 19 10:53:06 2014 :: seeking.dty
+Sun Oct 19 10:53:06 2014 :: catalysm.dty
+Sun Oct 19 10:53:06 2014 :: void.dty
+Sun Oct 19 10:53:06 2014 :: $
+Sun Oct 19 10:53:06 2014 ::  Done talents 
+Sun Oct 19 10:53:06 2014 :: Loading bans
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Load_banlist: no match: ÿ
+Sun Oct 19 10:53:06 2014 :: Done.
+Sun Oct 19 10:53:06 2014 :: Loading reserved names
+Sun Oct 19 10:53:06 2014 :: Loading material shops
+Sun Oct 19 10:53:06 2014 :: Loading moons
+Sun Oct 19 10:53:06 2014 :: Loading recipes
+Sun Oct 19 10:53:06 2014 :: Loading ingredients
+Sun Oct 19 10:53:06 2014 :: Loading species
+Sun Oct 19 10:53:06 2014 :: Loading mutations
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: Load_mutations: no mutations found!
+Sun Oct 19 10:53:06 2014 :: Loading arenas
+Sun Oct 19 10:53:06 2014 :: Checking shops
+Sun Oct 19 10:53:06 2014 :: Initializing socket
+Sun Oct 19 10:53:06 2014 :: Ar'Oan Lost Dragons ready at address boogeyman on port 6501.
+Sun Oct 19 10:53:06 2014 :: I3: Loading I3 command table...
+Sun Oct 19 10:53:06 2014 :: I3: Loading Intermud-3 network data...
+Sun Oct 19 10:53:06 2014 :: I3: Loading I3 router data...
+Sun Oct 19 10:53:06 2014 :: I3: Loading I3 help file...
+Sun Oct 19 10:53:06 2014 :: I3: Loading color table...
+Sun Oct 19 10:53:06 2014 :: I3: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Sun Oct 19 10:53:06 2014 :: IMC: Loading IMC2 command table...
+Sun Oct 19 10:53:06 2014 :: ***BUG*** IMC: imc_readcommand: Command imcping loaded with invalid function. Set to NULL.
+Sun Oct 19 10:53:06 2014 :: ***BUG*** IMC: imc_readcommand: Command imcstats loaded with invalid function. Set to NULL.
+Sun Oct 19 10:53:06 2014 :: IMC: Loading IMC2 network data...
+Sun Oct 19 10:53:06 2014 :: IMC: Loading IMC2 help file...
+Sun Oct 19 10:53:06 2014 :: IMC: Loading IMC2 color table...
+Sun Oct 19 10:53:06 2014 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Sun Oct 19 10:53:06 2014 :: Running copyover_recover.
+Sun Oct 19 10:53:06 2014 :: Copyover recovery initiated
+Sun Oct 19 10:53:06 2014 :: Loading player data for: Aasterinian (13K)
+Sun Oct 19 10:53:06 2014 :: Creating area entry for Aasterinian
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: stockobj.are: 'O': bad obj vnum 21013.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18301.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 201.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18700.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17199.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17100.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 17110.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 19402.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'O': bad obj vnum 18701.
+Sun Oct 19 10:53:06 2014 :: [*****] BUG: reset_room: elkandu.are: 'M': bad mob vnum 18302.
+Sun Oct 19 10:53:23 2014 :: Log Aasterinian: mset aasterinian ep 3000

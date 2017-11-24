@@ -1,0 +1,50 @@
+#DEITY
+Filename		travel.dty~
+Name		Motion~
+Description	A dynamic deity, Music revels in differences and change, from the quick
+trills of a flute to the roaring rhythm of the drums.  Music thrills
+in tempo, and likes all kinds of songs, but particularly songs that are
+high, fast, and very loud.  Music's followers also sometimes enjoy the low
+bass notes, even though it tends to make their noses bleed.
+~
+Alignment		0
+Worshippers	32
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		0
+Kill_npcrace	0
+Kill_npcfoe	0
+Kill_magic	1
+Sac		10
+Bury_corpse	0
+Aid_spell		1
+Aid		0
+Steal		0
+Backstab		0
+Die		0
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		0
+Dig_corpse	0
+Scorpse		250
+Savatar		1000
+Sdeityobj		100
+Srecall		150
+Suplift		100
+Race		-1
+Class		-1
+Element		32
+Sex		-1
+Affected		2097152
+Npcrace		0
+Npcfoe		0
+Suscept		16
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		4
+End
+
+#END

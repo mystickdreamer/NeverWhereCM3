@@ -1,0 +1,51 @@
+#DEITY
+Filename		thought.dty~
+Name		Mind~
+Description	&gAlignment:&G neutral
+A divinity devoted to the preservation and mastery of the mind. Followers
+of this diety have been known to have an acute perception surpassing
+the norm. They also are strong in the various activities of the mind,
+however, are startled easily by sharp or sudden noises, as it breaks
+their concentration.
+~
+Alignment		250
+Worshippers	49
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		0
+Kill_npcrace	0
+Kill_npcfoe	0
+Kill_magic	0
+Sac		10
+Bury_corpse	0
+Aid_spell		0
+Aid		1
+Steal		0
+Backstab		0
+Die		0
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		0
+Dig_corpse	0
+Scorpse		300
+Savatar		1050
+Sdeityobj		200
+Srecall		200
+Suplift		50
+Race		-1
+Class		-1
+Element		8
+Sex		-1
+Affected		16777220
+Npcrace		0
+Npcfoe		0
+Suscept		32
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		1
+End
+
+#END

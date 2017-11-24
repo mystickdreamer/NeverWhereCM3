@@ -1,0 +1,18 @@
+#DEITY
+Index			5
+Filename		water.dty~
+Name		Water~
+Description	&z&gAlignment: &Glawful
+A patient deity, possessing much power, however subtly used. Followers
+have been seen meditating and praying for many hours underwater,
+conversing with their patron deity.
+~
+Message		A foaming wave crashes into~
+Cost		2
+Count		231
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

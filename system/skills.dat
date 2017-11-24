@@ -1,0 +1,6724 @@
+#SKILL
+Name         reserved~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Slot         95
+Dammsg       ~
+Wearoff      ???~
+Stat1	0
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         berserk~
+Type         unknown
+Info         0
+Flags        0
+Code         spell_smaug
+Dammsg       ~
+Stat1	0
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         nothing~
+Type         unknown
+Info         0
+Flags        0
+Minpos       195
+Slot         95
+Code         spell_smaug
+Dammsg       ~
+Stat1	0
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         piercing wind~
+Type         unknown
+Info         0
+Flags        0
+Guild        0
+Code         spell_smaug
+Dammsg       ~
+Stat1	0
+Stat2	0
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         unknown~
+Type         unknown
+Info         0
+Flags        0
+Minpos       195
+Slot         95
+Code         spell_smaug
+Dammsg       ~
+Stat1	0
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         blindness~
+Type         Spell
+Info         396
+Flags        2097152
+Target       2
+Minpos       109
+Mana         20
+Rounds       12
+Code         spell_smaug
+Dammsg       &z&Wflash&w~
+Wearoff      You can see again.~
+Hitchar      You blind $N with a searing flash of light!~
+Hitvict      A blinding flash of light sears your eyes!~
+Hitroom      A flash of light stings $N's eyes.~
+Dice         1d(i/4)~
+Affect       'i/4' 26 'blind' 0
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 10
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         create symbol~
+Type         Spell
+Info         520
+Flags        16384
+Minpos       112
+Slot         101
+Mana         35
+Rounds       4
+Code         spell_smaug
+Dammsg       ~
+Hitchar      A shining symbol of faith appears in your hands!~
+Hitroom      A shining symbol of faith appears in $n's hands!~
+Dice         0~
+Value        43
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         cure blindness~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         14
+Mana         5
+Rounds       12
+Code         spell_cure_blindness
+Dammsg       ~
+Wearoff      !Cure Blindness!~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         cure critical~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         15
+Mana         64
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      !Cure Critical!~
+Hitchar      You cure $N's critical wounds.~
+Hitvict      Your critical wounds close and your pain ebbs away.~
+Affect       '' 13 '8d(w/4)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         cure light~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         16
+Mana         4
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      Your ability to see in the dark fades away.~
+Hitchar      You cure $N's light wounds.~
+Hitvict      Your light wounds mend and your pain ebbs slightly.~
+Affect       '' 13 '2d(w/4)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         cure poison~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         43
+Mana         5
+Rounds       12
+Code         spell_cure_poison
+Dammsg       ~
+Wearoff      !Cure Poison!~
+Affect       '' 13 '5d20' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         cure serious~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         61
+Mana         25
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      !Cure Serious!~
+Hitchar      You cure $N's serious wounds.~
+Hitvict      Your serious wounds mend and your pain ebbs away.~
+Dice         5dw~
+Affect       '' 13 '5d(w/4)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         curse~
+Type         Spell
+Info         392
+Flags        0
+Target       1
+Minpos       109
+Slot         17
+Mana         20
+Rounds       12
+Code         spell_curse
+Dammsg       curse~
+Wearoff      The curse wears off.~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         death magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         533
+Mana         15
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The shadows around you dissipate.~
+Hitchar      &zFlickering shadows rise to conceal $N.~
+Hitvict      &zFlickering shadows rise to conceal you.~
+Hitroom      &zFlickering shadows rise to conceal $N.&w~
+Dice         1dw~
+Value        49
+Affect       '' 60 '57' -1
+Affect       'i*w/3' 26 'dark' 41
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         dispel~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         50
+Rounds       12
+Guild        0
+Code         do_dispel
+Dammsg       ~
+Stat1	2
+Stat2	3
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         dream magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         800
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      You feel more sleepy.~
+Hitchar      You enchant $N with a magical wakefulness.~
+Hitvict      You feel wide awake.~
+Hitroom      $N appears alert and wide awake.~
+Affect       'i*w' 28 '1024' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         earth magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         206
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The strength of the Earth withdraws from your body.~
+Hitchar      You enchant $N with the strength of the Earth.~
+Hitvict      The strength of the Earth flows through your body.~
+Hitroom      $N's body grows with the strength of the Earth.~
+Affect       'i*w' 5 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         fire magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         39
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The strength of the Flames leaves your body.~
+Hitchar      You enchant $N with the strength of the Flames.~
+Hitvict      The strength of the Flames flows through your body.~
+Hitroom      $N grows powerful with the strength of the Flames.~
+Affect       'i*w' 1 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         frost magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         502
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The strength of the Ice leaves your body.~
+Hitchar      You enchant $N with the strength of the Ice.~
+Hitvict      The strength of the Ice flows into your body.~
+Hitroom      $N's body is enhanced by the strength of the Ice.~
+Affect       'i*w' 31 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         holy strength~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      Your divine potence begins to leave your body.~
+Hitchar      $N glows with a soft white light as a divine strength fills $M.~
+Hitvict      You are filled with the strength of holiness.~
+Hitroom      $N glows with a soft white light as a divine strength fills $M.~
+Affect       'i*w' 1 '1d(w/10)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         hyperactivity~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         509
+Mana         5
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      !Hyperactivity!~
+Hitchar      $N's eyes grow wide as you make $M less tired.~
+Hitvict      Weariness is lifted away and you feel less tired.~
+Hitroom      $N's eyes grow wide and $E appears hyperactive.~
+Affect       '' 59 '10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         illusion magic~
+Type         Spell
+Info         512
+Flags        0
+Target       2
+Minpos       112
+Slot         57
+Mana         7
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      You stop glowing.~
+Hitchar      &Y$N starts to shine brightly!&w~
+Hitvict      &YYou start to shine brightly!&w~
+Hitroom      &Y$N starts to shine brightly!&w~
+Dice         1d(w/3)~
+Value        21
+Affect       '' 60 '533' -1
+Affect       'i*w/3' 26 'glow' 40
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         life force~
+Type         Spell
+Info         0
+Flags        65536
+Target       2
+Minpos       109
+Slot         512
+Mana         200
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Hitchar      You restore $N's life force!~
+Hitvict      You feel your life force being restored!~
+Hitroom      $N radiates softly as $S life force is restored.~
+Dice         0~
+Teachers     44228~
+Affect       '' 13 '20d(w/4)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         light~
+Type         Spell
+Info         8
+Flags        16384
+Minpos       112
+Mana         100
+Rounds       12
+Guild        0
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The globe of light blinks out of existance.~
+Hitchar      You twirl your finger and a globe of light appears.~
+Hitroom      A globe of light appears in $n's hands.~
+Value        21
+Teachers     10025~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         lightning magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         50
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The power of the Storm leaves your body.~
+Hitchar      You enchant $N with the strength of the Storm.~
+Hitvict      The strength of the Storm flows through your body.~
+Hitroom      $N grows powerful with the strength of the Storm.~
+Affect       'idw' 19 '1d(w/3)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         mana drain~
+Type         Spell
+Info         2055
+Flags        6144
+Target       1
+Minpos       109
+Mana         5
+Rounds       12
+Code         spell_smaug
+Dammsg       mana drain~
+Hitchar      You drain a flow of mystic energy out of $N.~
+Hitvict      $n touches you and you feel mystical powers draining from your body!~
+Hitroom      A fiery gold aura surrounds $n as $e touches $N.~
+Dice         1d20~
+Affect       '' 1012 'i+w' -1
+Affect       '' 12 '-(i+w)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         mind magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         227
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The power of the Mind withdraws from you.~
+Hitchar      You enchant $N with the power of the Mind.~
+Hitvict      The power of the Mind enhances your thoughts.~
+Hitroom      $N's eyes glimmer as the power of the Mind enters $M.~
+Affect       'i*w' 3 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         motion magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         3
+Mana         5
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The speed of Motion leaves your body.~
+Hitchar      You enchant $N with the speed of Motion.~
+Hitvict      The speed of Motion flows through your body.~
+Hitroom      $N grows nimble with the speed of Motion.~
+Affect       'w*w' 24 '-(w/10)' -1
+Affect       'w*w' 18 'w/10' -1
+Stat1	3
+Stat2	2
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         mummy rot~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         100
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      Your flesh stops rotting.~
+Hitchar      You touch $N, causing $S flesh to rot.~
+Hitvict      $n touches you, and your flesh begins to rot.~
+Hitroom      $n touches $N, causing $S flesh to rot.~
+Affect       'i*w' 1 '-10' 46
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         poison~
+Type         Spell
+Info         392
+Flags        131072
+Target       1
+Minpos       109
+Slot         33
+Mana         10
+Rounds       12
+Code         spell_poison
+Dammsg       poison~
+Wearoff      You feel less sick.~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 25
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         portal~
+Type         Spell
+Info         0
+Flags        65536
+Minpos       112
+Mana         250
+Rounds       25
+Guild        0
+Code         spell_portal
+Dammsg       ~
+Stat1	0
+Stat2	0
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 50
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         refresh~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         81
+Mana         20
+Rounds       12
+Code         spell_smaug
+Dammsg       refresh~
+Wearoff      !Refresh!~
+Hitchar      You allow blooming vitality to flow from you to $N.~
+Hitvict      Blooming vitality flows through you.~
+Affect       '' 14 '1d(w*3)' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         remove curse~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         35
+Mana         5
+Rounds       12
+Code         spell_remove_curse
+Dammsg       ~
+Wearoff      !Remove Curse!~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         remove trap~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Slot         87
+Mana         35
+Rounds       12
+Code         spell_null
+Dammsg       ~
+Wearoff      !Remove trap!~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         security magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         1
+Mana         5
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      You feel more vulnerable.~
+Hitchar      You enchant $N with a magical protection.~
+Hitvict      You feel protected.~
+Hitroom      $N glows briefly with a protective aura.~
+Affect       'i*w' 17 'w/20' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         sedate~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         580
+Mana         10
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Hitchar      $N is looking sleepy.~
+Hitvict      You are feeling very sleepy.~
+Hitroom      $N is looking sleepy.~
+Affect       '' 59 '-10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         seeking magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         100
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The power of Seeking vanishes from your eyes.~
+Hitchar      You enchant $N with the power of Seeking.~
+Hitvict      Your eyes become sharp with the power of Seeking.~
+Hitroom      $N's eyes sparkle with the power of Seeking.~
+Affect       'i*w' 25 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         sleep~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Slot         38
+Mana         15
+Rounds       12
+Code         spell_sleep
+Dammsg       ~
+Wearoff      You feel less tired.~
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         spark~
+Type         Spell
+Info         899
+Flags        4096
+Target       1
+Minpos       112
+Mana         200
+Rounds       12
+Guild        0
+Code         spell_smaug
+Dammsg       spark~
+Dice         I/5 +5~
+Stat1	3
+Stat2	2
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         sticky flame~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         572
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The flames covering you suddenly go out.~
+Hitchar      &R$N is covered in flames!&w~
+Hitvict      &RYou are covered in flames!&w~
+Hitroom      &R$N is covered in flames!&w~
+Affect       'w/3' 26 'flaming' 11
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         water magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         228
+Mana         50
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The power of the Water leaves your mind.~
+Hitchar      You enchant $N with the power of Water.~
+Hitvict      The power of the Water flows through your mind.~
+Hitroom      $N's eyes open with the power of Water.~
+Affect       'i*w' 4 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         wind magic~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         205
+Mana         100
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The speed of the Wind leaves your body.~
+Hitchar      You enchant $N with the speed of the Wind.~
+Hitvict      The speed of the Wind fills your body.~
+Hitroom      $N's body becomes quick with the speed of the Wind.~
+Affect       'i*w' 2 'w/10' -1
+Stat1	2
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         adrenaline~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       107
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      The adrenaline begins to leave your system.~
+Hitvict      A surge of adrenaline rushes through your body!~
+Missvict     You fail to work yourself into an adrenaline rush.~
+Teachers     15002~
+Affect       'c' 26 'berserk' 30
+Affect       'c*5' 1 '-4' -1
+Affect       'c' 1 '5+(c/10)' 34
+Stat1	5
+Stat2	1
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 101
+Race	2 2
+Race	3 3
+Race	4 101
+Race	5 3
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 101
+Race	13 3
+Race	14 3
+Race	15 1
+Race	16 101
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 2
+Race	21 3
+Race	22 3
+Race	23 101
+Race	24 3
+Race	25 2
+Race	26 2
+Race	27 101
+Race	28 2
+Race	29 3
+Race	30 3
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         affix~
+Type         Skill
+Info         0
+Flags        0
+Guild        0
+Code         do_affix
+Dammsg       !affix!~
+Wearoff      !WEAROFF!~
+Teachers     19103~
+Stat1	3
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 1
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 1
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 2
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 2
+End
+
+#SKILL
+Name         aid~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       4
+Code         do_aid
+Dammsg       ~
+Wearoff      !Aid!~
+Stat1	3
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 1
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 1
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 1
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         brew~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       12
+Guild        0
+Code         do_brew
+Dammsg       ~
+Stat1	2
+Stat2	4
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         climb~
+Type         Skill
+Info         0
+Flags        65536
+Target       1
+Minpos       112
+Rounds       4
+Code         do_climb
+Dammsg       climb~
+Wearoff      !climb!~
+Teachers     17107~
+Stat1	1
+Stat2	5
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 1
+Race	23 2
+Race	24 2
+Race	25 1
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         clover~
+Type         Skill
+Info         8704
+Flags        6144
+Target       2
+Minpos       112
+Mana         100
+Rounds       22
+Code         spell_smaug
+Dammsg       vault~
+Wearoff      The luck of the four-leaf clover fades away.~
+Hitchar      You pluck a four-leaf clover out of your hat and give it to $N.~
+Hitvict      The luck of a four-leaf clover strikes you.~
+Hitroom      $n plucks a four-leaf clover out of $s hat.~
+Misschar     You hunt around for a four-leaf clover.~
+Missvict     You receive a three-leaf clover, which gives you no luck.~
+Missroom     $n hunts around for a four-leaf clover.~
+Dice         0~
+Teachers     13022~
+Affect       '' 31 '10' -1
+Affect       'w*u' 18 '1d(u/5)' -1
+Stat1	3
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 1
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 1
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         combine~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_combine
+Dammsg       !combine!~
+Wearoff      !WEAROFF!~
+Teachers     15201~
+Stat1	5
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 1
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 1
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         detrap~
+Type         Skill
+Info         0
+Flags        0
+Minpos       108
+Rounds       4
+Code         do_detrap
+Dammsg       ~
+Wearoff      !Detrap!~
+Stat1	4
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         dig~
+Type         Skill
+Info         0
+Flags        65536
+Minpos       112
+Rounds       4
+Code         do_dig
+Dammsg       ~
+Teachers     13018~
+Stat1	5
+Stat2	1
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 1
+Race	4 1
+Race	5 1
+Race	6 1
+Race	7 1
+Race	8 1
+Race	9 1
+Race	10 1
+Race	11 1
+Race	12 1
+Race	13 1
+Race	14 1
+Race	15 1
+Race	16 1
+Race	17 1
+Race	18 1
+Race	19 1
+Race	20 1
+Race	21 1
+Race	22 1
+Race	23 1
+Race	24 1
+Race	25 1
+Race	26 1
+Race	27 1
+Race	28 1
+Race	29 1
+Race	30 1
+Race	31 1
+Race	32 1
+Race	33 1
+Race	34 1
+Race	35 1
+Race	36 1
+Race	37 1
+Race	38 1
+Race	39 1
+End
+
+#SKILL
+Name         disarm~
+Type         Skill
+Info         0
+Flags        0
+Minpos       107
+Rounds       20
+Code         do_disarm
+Dammsg       ~
+Wearoff      !Disarm!~
+Teachers     17913~
+Stat1	4
+Stat2	1
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         dodge~
+Type         Skill
+Info         0
+Flags        65536
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Dodge!~
+Teachers     13018~
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 1
+Race	4 1
+Race	5 1
+Race	6 1
+Race	7 1
+Race	8 1
+Race	9 1
+Race	10 1
+Race	11 1
+Race	12 1
+Race	13 1
+Race	14 1
+Race	15 1
+Race	16 1
+Race	17 1
+Race	18 1
+Race	19 1
+Race	20 1
+Race	21 1
+Race	22 1
+Race	23 1
+Race	24 1
+Race	25 1
+Race	26 1
+Race	27 1
+Race	28 1
+Race	29 1
+Race	30 1
+Race	31 1
+Race	32 1
+Race	33 1
+Race	34 1
+Race	35 1
+Race	36 1
+Race	37 1
+Race	38 1
+Race	39 1
+End
+
+#SKILL
+Name         doorbash~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       16
+Code         do_bashdoor
+Dammsg       bashdoor~
+Wearoff      !Bash Door!~
+Teachers     14130~
+Stat1	5
+Stat2	1
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 101
+Race	4 101
+Race	5 2
+Race	6 1
+Race	7 2
+Race	8 1
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 101
+Race	15 1
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 2
+Race	20 1
+Race	21 2
+Race	22 2
+Race	23 3
+Race	24 101
+Race	25 2
+Race	26 2
+Race	27 101
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 1
+Race	32 1
+Race	33 1
+Race	34 1
+Race	35 1
+Race	36 1
+Race	37 1
+Race	38 1
+Race	39 1
+End
+
+#SKILL
+Name         drowfire~
+Type         Skill
+Info         8704
+Flags        6272
+Target       1
+Minpos       109
+Mana         100
+Rounds       14
+Code         spell_smaug
+Dammsg       drowfire~
+Wearoff      The misty pink fire around you fades.~
+Hitchar      You chant some arcane words on $N.  $N is engulfed in misty pink flames!~
+Hitvict      $n chants some arcane words on you.  You are engulfed in misty pink flames!~
+Hitroom      $n chants some arcane words on $N.  $N is engulfed in misty pink flames!~
+Misschar     You chant some arcane words on $N.~
+Missvict     $n chants some arcane words on you.~
+Missroom     $n chants some arcane words on $N.~
+Dice         0~
+Teachers     13022~
+Affect       'i+w' 18 '-(3d18)' 8
+Affect       'i+w' 17 '15d15+50' 8
+Stat1	4
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 1
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         dust~
+Type         Skill
+Info         9096
+Flags        6144
+Target       2
+Minpos       109
+Mana         100
+Rounds       16
+Code         spell_smaug
+Dammsg       punt~
+Wearoff      The last of the pixie dust is shaken off, and you drift to the ground.~
+Hitchar      You sprinkle pixie dust upon $N, and with a sneeze $E rises into the air.~
+Hitvict      With a sneeze and a sprinkle of pixie dust, you rise into the air.~
+Hitroom      With a sneeze and a sprinkle of pixie dust, $N rises into the air.~
+Misschar     You sprinkle pixie dust upon $N, who sneezes but nothing happens.~
+Missvict     You sneeze as pixie dust is sprinkled on you, but nothing happens.~
+Missroom     $N sneeze as pixie dust is sprinkled on $M, but nothing happens.~
+Dice         0~
+Teachers     13022~
+Affect       'w' 26 'flying' 19
+Stat1	3
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 1
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 1
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         dye~
+Type         Skill
+Info         0
+Flags        0
+Rounds       15
+Guild        0
+Code         do_dye
+Dammsg       !dye!~
+Wearoff      !WEAROFF!~
+Teachers     10004~
+Stat1	6
+Stat2	2
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         engrave~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       12
+Code         do_engrave
+Dammsg       !engrave!~
+Wearoff      !WEAROFF!~
+Teachers     19909~
+Stat1	4
+Stat2	5
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         fashion~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Slot         304
+Code         do_fashion
+Dammsg       !fashion!~
+Wearoff      !WEAROFF!~
+Teachers     17011~
+Stat1	5
+Stat2	3
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 1
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 1
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         forestwalk~
+Type         Skill
+Info         512
+Flags        6144
+Minpos       112
+Mana         100
+Rounds       20
+Code         spell_null
+Dammsg       leap~
+Wearoff      !forestwalk!~
+Hitchar      You leap into the air and hit $N with your feet!~
+Dice         0~
+Teachers     13022~
+Stat1	3
+Stat2	0
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 1
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         frenzy~
+Type         Skill
+Info         0
+Flags        1024
+Target       3
+Minpos       109
+Rounds       14
+Code         spell_smaug
+Dammsg       frenzied attack~
+Wearoff      Your animal instincts receed and you feel calmer.~
+Hitchar      You growl and snarl as you let your animal instincts take over.~
+Hitvict      You growl and snarl as you let your animal instincts take over.~
+Hitroom      $n growls and snarls as $s animal instincts take over.~
+Misschar     You snarl a bit but fail to work yourself into a frenzy.~
+Missvict     You snarl a bit but fail to work yourself into a frenzy.~
+Missroom     $n glares around and snarls.~
+Dice         3d6~
+Affect       's+c+x' 19 '3d6' 34
+Affect       's+c+x' 18 '3d6' 30
+Stat1	1
+Stat2	5
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         grip~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Grip!~
+Teachers     1~
+Stat1	1
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 3
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         hide~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       106
+Rounds       12
+Code         do_hide
+Dammsg       ~
+Wearoff      You are no longer hidden.~
+Hitvict      You attempt to hide.~
+Misschar     You attempt to hide.~
+Teachers     16611~
+Affect       'l*23' 26 'hide' 16
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 1
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 1
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 1
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 2
+Race	33 3
+Race	34 2
+Race	35 3
+Race	36 2
+Race	37 2
+Race	38 3
+Race	39 2
+End
+
+#SKILL
+Name         hkick~
+Type         Skill
+Info         392
+Flags        0
+Target       1
+Minpos       109
+Rounds       12
+Code         spell_smaug
+Dammsg       kick~
+Dice         8d(s/4)~
+Stat1	4
+Stat2	1
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         howl~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Wearoff      You blink and rub your eyes as you begin to feel more human again.~
+Hitchar      You raise your head and let out a blood curdling howl.~
+Hitvict      You raise your head and let out a bloodcurdling howl.~
+Hitroom      $n raises $s head and emits a blood curdling howl.~
+Misschar     You howl for a long time but feel no different.~
+Missroom     $n raises $s head and emits a bloodcurdling howl.~
+Affect       'l*20' 2 '1' -1
+Affect       'l*20' 1 '1' -1
+Affect       'l*10' 18 '3d(l/10)' -1
+Affect       'l*10' 19 '3d(l/10)' -1
+Stat1	1
+Stat2	5
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         invoke~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Mana         50
+Rounds       24
+Guild        0
+Code         do_invoke
+Dammsg       ~
+Stat1	3
+Stat2	2
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         jump~
+Type         Skill
+Info         0
+Flags        65536
+Target       3
+Minpos       109
+Rounds       8
+Code         spell_smaug
+Dammsg       ~
+Wearoff      You make a spritely landing.~
+Hitvict      You jump into the air.~
+Hitroom      $n jumps into the air.~
+Missvict     You jump but don't go very far.~
+Missroom     $n jumps slightly.~
+Difficulty   3
+Teachers     13018~
+Affect       '1+s/10' 26 'flying' 19
+Stat1	1
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 1
+Race	4 1
+Race	5 1
+Race	6 1
+Race	7 1
+Race	8 1
+Race	9 1
+Race	10 1
+Race	11 1
+Race	12 1
+Race	13 1
+Race	14 1
+Race	15 1
+Race	16 1
+Race	17 1
+Race	18 1
+Race	19 1
+Race	20 1
+Race	21 1
+Race	22 1
+Race	23 1
+Race	24 1
+Race	25 1
+Race	26 1
+Race	27 1
+Race	28 1
+Race	29 1
+Race	30 1
+Race	31 1
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 1
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 1
+End
+
+#SKILL
+Name         locksmith~
+Type         Skill
+Info         0
+Flags        0
+Guild        0
+Code         do_locksmith
+Dammsg       ~
+Teachers     8101~
+Stat1	4
+Stat2	3
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 1
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 1
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         mix~
+Type         Skill
+Info         0
+Flags        0
+Minpos       106
+Rounds       12
+Code         do_mix
+Dammsg       ~
+Teachers     15001~
+Stat1	4
+Stat2	6
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 3
+End
+
+#SKILL
+Name         mount~
+Type         Skill
+Info         0
+Flags        65536
+Minpos       112
+Rounds       4
+Code         do_mount
+Dammsg       ~
+Wearoff      !Search!~
+Teachers     19104~
+Stat1	4
+Stat2	1
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 3
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 101
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         parry~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Parry!~
+Teachers     1~
+Stat1	1
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 3
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         peek~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         spell_null
+Dammsg       ~
+Wearoff      !Peek!~
+Teachers     13018~
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 1
+Race	4 1
+Race	5 1
+Race	6 1
+Race	7 1
+Race	8 1
+Race	9 1
+Race	10 1
+Race	11 1
+Race	12 1
+Race	13 1
+Race	14 1
+Race	15 1
+Race	16 1
+Race	17 1
+Race	18 1
+Race	19 1
+Race	20 1
+Race	21 1
+Race	22 1
+Race	23 1
+Race	24 1
+Race	25 1
+Race	26 1
+Race	27 1
+Race	28 1
+Race	29 1
+Race	30 1
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         pick lock~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       4
+Code         do_pick
+Dammsg       ~
+Wearoff      !Pick!~
+Teachers     19105~
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 1
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         pigeon~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       8
+Code         spell_pigeon
+Dammsg       ~
+Misschar     The pigeon fails to find the recipient.~
+Teachers     19203~
+Stat1	6
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 1
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 1
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         poison weapon~
+Type         Skill
+Info         0
+Flags        65536
+Target       4
+Minpos       112
+Rounds       12
+Guild        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !poison!~
+Teachers     10095~
+Stat1	4
+Stat2	6
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         repair~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       16
+Code         do_repair
+Dammsg       ~
+Teachers     8206~
+Stat1	4
+Stat2	3
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 1
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 1
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 1
+Race	30 2
+Race	31 2
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 2
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         scan~
+Type         Skill
+Info         0
+Flags        65536
+Minpos       112
+Rounds       10
+Code         do_scan
+Dammsg       ~
+Wearoff      !Scan!~
+Teachers     13018~
+Stat1	3
+Stat2	6
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 1
+Race	4 1
+Race	5 1
+Race	6 1
+Race	7 1
+Race	8 1
+Race	9 1
+Race	10 1
+Race	11 1
+Race	12 1
+Race	13 1
+Race	14 1
+Race	15 1
+Race	16 1
+Race	17 1
+Race	18 1
+Race	19 1
+Race	20 1
+Race	21 1
+Race	22 1
+Race	23 1
+Race	24 1
+Race	25 1
+Race	26 1
+Race	27 1
+Race	28 1
+Race	29 1
+Race	30 1
+Race	31 1
+Race	32 1
+Race	33 1
+Race	34 1
+Race	35 1
+Race	36 1
+Race	37 1
+Race	38 1
+Race	39 1
+End
+
+#SKILL
+Name         scribe~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       18
+Guild        0
+Code         do_scribe
+Dammsg       ~
+Stat1	2
+Stat2	3
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         search~
+Type         Skill
+Info         0
+Flags        65536
+Minpos       112
+Rounds       4
+Code         do_search
+Dammsg       ~
+Wearoff      !Search!~
+Teachers     13018~
+Stat1	3
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 1
+Race	1 1
+Race	2 1
+Race	3 1
+Race	4 1
+Race	5 1
+Race	6 1
+Race	7 1
+Race	8 1
+Race	9 1
+Race	10 1
+Race	11 1
+Race	12 1
+Race	13 1
+Race	14 1
+Race	15 1
+Race	16 1
+Race	17 1
+Race	18 1
+Race	19 1
+Race	20 1
+Race	21 1
+Race	22 1
+Race	23 1
+Race	24 1
+Race	25 1
+Race	26 1
+Race	27 1
+Race	28 1
+Race	29 1
+Race	30 1
+Race	31 1
+Race	32 1
+Race	33 1
+Race	34 1
+Race	35 1
+Race	36 1
+Race	37 1
+Race	38 1
+Race	39 1
+End
+
+#SKILL
+Name         skin~
+Type         Skill
+Info         0
+Flags        0
+Minpos       108
+Rounds       12
+Guild        0
+Code         do_skin
+Dammsg       ~
+Stat1	4
+Stat2	6
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         sneak~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       112
+Rounds       12
+Code         spell_smaug
+Dammsg       ~
+Hitvict      You attempt to move silently.~
+Misschar     You attempt to move silently.~
+Teachers     17050~
+Affect       '5dx' 26 'sneak' 15
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 1
+Race	2 2
+Race	3 1
+Race	4 2
+Race	5 1
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 1
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 3
+Race	16 2
+Race	17 2
+Race	18 1
+Race	19 2
+Race	20 3
+Race	21 2
+Race	22 1
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 1
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 2
+End
+
+#SKILL
+Name         spike~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       25
+Code         do_spike
+Dammsg       ~
+Wearoff      !spike!~
+Teachers     10020~
+Stat1	1
+Stat2	5
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 101
+Race	21 2
+Race	22 101
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 101
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 101
+End
+
+#SKILL
+Name         steal~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       12
+Code         do_steal
+Dammsg       ~
+Wearoff      !Steal!~
+Teachers     18261~
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 1
+Race	6 3
+Race	7 2
+Race	8 3
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 3
+Race	14 2
+Race	15 3
+Race	16 3
+Race	17 2
+Race	18 1
+Race	19 2
+Race	20 3
+Race	21 3
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 3
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 2
+End
+
+#SKILL
+Name         sting~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       8
+Code         spell_null
+Dammsg       sting~
+Wearoff      !Sting!~
+Stat1	1
+Stat2	4
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 3
+Race	1 3
+Race	2 3
+Race	3 3
+Race	4 3
+Race	5 3
+Race	6 3
+Race	7 3
+Race	8 3
+Race	9 3
+Race	10 3
+Race	11 3
+Race	12 3
+Race	13 3
+Race	14 3
+Race	15 3
+Race	16 3
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 3
+Race	21 3
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 3
+Race	29 3
+Race	30 3
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 3
+End
+
+#SKILL
+Name         stun~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       22
+Code         spell_null
+Dammsg       stun~
+Wearoff      You feel less stunned.~
+Difficulty   3
+Teachers     1~
+Stat1	5
+Stat2	1
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 3
+Race	2 2
+Race	3 2
+Race	4 3
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 3
+Race	12 3
+Race	13 2
+Race	14 3
+Race	15 2
+Race	16 2
+Race	17 3
+Race	18 3
+Race	19 3
+Race	20 2
+Race	21 2
+Race	22 3
+Race	23 3
+Race	24 3
+Race	25 3
+Race	26 3
+Race	27 3
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 2
+Race	32 2
+Race	33 2
+Race	34 2
+Race	35 2
+Race	36 2
+Race	37 2
+Race	38 2
+Race	39 2
+End
+
+#SKILL
+Name         swim~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Teachers     17041~
+Stat1	1
+Stat2	4
+Talent	0 0
+Talent	1 0
+Talent	2 0
+Talent	3 0
+Talent	4 0
+Talent	5 0
+Talent	6 0
+Talent	7 0
+Talent	8 0
+Talent	9 0
+Talent	10 0
+Talent	11 0
+Talent	12 0
+Talent	13 0
+Talent	14 0
+Talent	15 0
+Talent	16 0
+Talent	17 0
+Race	0 2
+Race	1 2
+Race	2 3
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 1
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 2
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 1
+Race	28 2
+Race	29 2
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 2
+End
+
+#SKILL
+Name         taunt~
+Type         Skill
+Info         0
+Flags        65664
+Target       1
+Minpos       109
+Rounds       15
+Code         spell_smaug
+Dammsg       ~
+Hitchar      You taunt $N into a foaming rage!~
+Hitvict      $n taunts you into a foaming rage!~
+Hitroom      $n taunts $N into a foaming rage!~
+Misschar     You taunt $N but $E remains calm.~
+Missvict     $n taunts you mercilessly but you laugh at $s efforts.~
+Missroom     $n taunts $N mercilessly but $E remains calm.~
+Teachers     13022~
+Affect       'i' 18 '-(1d20)' 30
+Stat1	2
+Stat2	6
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 1
+Race	19 101
+Race	20 101
+Race	21 101
+Race	22 101
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 101
+Race	36 101
+Race	37 101
+Race	38 101
+Race	39 101
+End
+
+#SKILL
+Name         track~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       12
+Code         do_track
+Dammsg       ~
+Wearoff      !Track!~
+Teachers     19908~
+Stat1	3
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 1
+Race	2 2
+Race	3 2
+Race	4 2
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 1
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 1
+Race	14 2
+Race	15 2
+Race	16 2
+Race	17 2
+Race	18 2
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 1
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 1
+Race	29 2
+Race	30 1
+Race	31 1
+Race	32 1
+Race	33 1
+Race	34 1
+Race	35 2
+Race	36 1
+Race	37 1
+Race	38 1
+Race	39 1
+End
+
+#SKILL
+Name         tumble~
+Type         Skill
+Info         0
+Flags        0
+Target       2
+Minpos       107
+Code         spell_null
+Dammsg       ~
+Wearoff      !Tumble!~
+Dice         1d(i/5)~
+Teachers     17705~
+Stat1	4
+Stat2	7
+Talent	0 1001
+Talent	1 1001
+Talent	2 1001
+Talent	3 1001
+Talent	4 1001
+Talent	5 1001
+Talent	6 1001
+Talent	7 1001
+Talent	8 1001
+Talent	9 1001
+Talent	10 1001
+Talent	11 1001
+Talent	12 1001
+Talent	13 1001
+Talent	14 1001
+Talent	15 1001
+Talent	16 1001
+Talent	17 1001
+Race	0 2
+Race	1 2
+Race	2 2
+Race	3 1
+Race	4 1
+Race	5 2
+Race	6 2
+Race	7 2
+Race	8 2
+Race	9 2
+Race	10 2
+Race	11 2
+Race	12 2
+Race	13 2
+Race	14 2
+Race	15 2
+Race	16 1
+Race	17 2
+Race	18 1
+Race	19 2
+Race	20 2
+Race	21 2
+Race	22 1
+Race	23 2
+Race	24 2
+Race	25 2
+Race	26 2
+Race	27 2
+Race	28 2
+Race	29 2
+Race	30 2
+Race	31 3
+Race	32 3
+Race	33 3
+Race	34 3
+Race	35 3
+Race	36 3
+Race	37 3
+Race	38 3
+Race	39 2
+End
+
+#END

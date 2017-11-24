@@ -1,0 +1,251 @@
+
+#INGRED
+Vnum        20020
+Sector      3
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20021
+Sector      2
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20022
+Sector      3
+Rarity      10
+Mana        0
+Temp        300
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20023
+Sector      2
+Rarity      10
+Mana        0
+Temp        300
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20024
+Sector      3
+Rarity      10
+Mana        0
+Temp        300
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20026
+Sector      13
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20028
+Sector      13
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20030
+Sector      13
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20031
+Sector      3
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      100
+
+#INGRED
+Vnum        20032
+Sector      3
+Rarity      10
+Mana        0
+Temp        100
+Moisture    0
+Elevation   0
+Precip      100
+
+#INGRED
+Vnum        20033
+Sector      2
+Rarity      20
+Mana        0
+Temp        200
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        20034
+Sector      12
+Rarity      20
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        17100
+Sector      2
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        8299
+Sector      13
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        17180
+Sector      3
+Rarity      10
+Mana        0
+Temp        100
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        17700
+Sector      3
+Rarity      20
+Mana        0
+Temp        300
+Moisture    0
+Elevation   0
+Precip      300
+
+#INGRED
+Vnum        14150
+Sector      2
+Rarity      20
+Mana        400
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        16800
+Sector      4
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      100
+
+#INGRED
+Vnum        16899
+Sector      4
+Rarity      20
+Mana        300
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        17750
+Sector      3
+Rarity      0
+Mana        0
+Temp        -100
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        16820
+Sector      4
+Rarity      20
+Mana        200
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        18750
+Sector      4
+Rarity      20
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      10
+
+#INGRED
+Vnum        10001
+Sector      12
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        10000
+Sector      12
+Rarity      10
+Mana        0
+Temp        0
+Moisture    0
+Elevation   0
+Precip      0
+
+#INGRED
+Vnum        18760
+Sector      3
+Rarity      10
+Mana        0
+Temp        300
+Moisture    0
+Elevation   0
+Precip      0
+#END

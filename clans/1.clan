@@ -1,0 +1,14 @@
+Name	imm~
+Title	Immortals~
+Info	(null)~
+Ext_Sec 6
+Int_Sec 1
+Bank	0
+
+#MEMBER
+Name	Aasterinian~
+Title	Leader~
+Bank	0
+Flags 447~
+End
+End

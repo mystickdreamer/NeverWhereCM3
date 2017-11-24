@@ -1,0 +1,19 @@
+#DEITY
+Index			3
+Filename		frost.dty~
+Name		Frost~
+Description	&z&gAlignment: &Gchaotic
+A reclusive deity, yet not without power, Frost has much influence over
+the world. His followers are constantly aided by their native element,
+while easily enjoying its harsh temperature, however, things go
+differently as the temperature changes.
+~
+Message		A gust of frigid wind blows snowflakes into~
+Cost		2
+Count		101
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

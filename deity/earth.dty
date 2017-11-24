@@ -1,0 +1,19 @@
+#DEITY
+Index			1
+Filename		earth.dty~
+Name		Earth~
+Description	&z&gAlignment: &Ggood
+The goddess of life and protection, she is one of the most powerful
+forces. Having such control over the world, nothing is hidden from her
+vision. Her followers are devoted and powerful. It is said, when one is
+angered, nothing can stop them.
+~
+Message		Autumn leaves blow through~
+Cost		2
+Count		160
+Archmage		(null)~
+ArchLvl		0
+Color		(null)~
+End
+
+#END

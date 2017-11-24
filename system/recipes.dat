@@ -1,0 +1,855 @@
+
+#RECIPE
+Number     1
+First      20020
+Second     20021
+Result     20085
+Flags      517
+
+#RECIPE
+Number     2
+First      20021
+Second     20020
+Result     20084
+Flags      517
+
+#RECIPE
+Number     3
+First      20022
+Second     20023
+Result     20001
+Flags      5
+
+#RECIPE
+Number     4
+First      20024
+Second     20023
+Result     20025
+Flags      0
+
+#RECIPE
+Number     5
+First      20023
+Second     20024
+Result     20025
+Flags      0
+
+#RECIPE
+Number     6
+First      20021
+Second     20026
+Result     20027
+Flags      2
+
+#RECIPE
+Number     7
+First      20027
+Second     20025
+Result     20083
+Flags      1
+
+#RECIPE
+Number     8
+First      20001
+Second     20025
+Result     20082
+Flags      0
+
+#RECIPE
+Number     9
+First      17002
+Second     20028
+Result     20086
+Flags      4
+
+#RECIPE
+Number     10
+First      20027
+Second     20029
+Result     20
+Flags      1
+
+#RECIPE
+Number     11
+First      20025
+Second     20029
+Result     17003
+Flags      0
+
+#RECIPE
+Number     12
+First      20029
+Second     17003
+Result     20087
+Flags      0
+
+#RECIPE
+Number     13
+First      20026
+Second     20030
+Result     20088
+Flags      4
+
+#RECIPE
+Number     14
+First      17002
+Second     20031
+Result     20089
+Flags      4
+
+#RECIPE
+Number     15
+First      20027
+Second     20031
+Result     20090
+Flags      1
+
+#RECIPE
+Number     16
+First      20029
+Second     20023
+Result     20091
+Flags      16
+
+#RECIPE
+Number     17
+First      20091
+Second     20025
+Result     20092
+Flags      0
+
+#RECIPE
+Number     18
+First      20032
+Second     20023
+Result     20093
+Flags      4
+
+#RECIPE
+Number     19
+First      20032
+Second     20031
+Result     20094
+Flags      512
+
+#RECIPE
+Number     20
+First      20031
+Second     20032
+Result     20094
+Flags      512
+
+#RECIPE
+Number     21
+First      17002
+Second     20032
+Result     20095
+Flags      516
+
+#RECIPE
+Number     22
+First      20033
+Second     20026
+Result     48
+Flags      6
+
+#RECIPE
+Number     23
+First      20031
+Second     20023
+Result     20096
+Flags      6
+
+#RECIPE
+Number     24
+First      20091
+Second     20031
+Result     20097
+Flags      0
+
+#RECIPE
+Number     25
+First      20001
+Second     20051
+Result     20050
+Flags      0
+
+#RECIPE
+Number     26
+First      20023
+Second     20029
+Result     20051
+Flags      4
+
+#RECIPE
+Number     27
+First      20001
+Second     17003
+Result     20082
+Flags      0
+
+#RECIPE
+Number     28
+First      17002
+Second     20034
+Result     20052
+Flags      6
+
+#RECIPE
+Number     29
+First      20088
+Second     20034
+Result     20053
+Flags      0
+
+#RECIPE
+Number     30
+First      17100
+Second     20053
+Result     17105
+Flags      0
+
+#RECIPE
+Number     31
+First      20027
+Second     20051
+Result     17130
+Flags      1
+
+#RECIPE
+Number     32
+First      8299
+Second     20023
+Result     8298
+Flags      6
+
+#RECIPE
+Number     33
+First      8299
+Second     20031
+Result     8297
+Flags      0
+
+#RECIPE
+Number     34
+First      20031
+Second     8299
+Result     8297
+Flags      0
+
+#RECIPE
+Number     35
+First      20031
+Second     20020
+Result     17160
+Flags      518
+
+#RECIPE
+Number     36
+First      20034
+Second     20020
+Result     18499
+Flags      518
+
+#RECIPE
+Number     37
+First      20032
+Second     20020
+Result     17161
+Flags      518
+
+#RECIPE
+Number     38
+First      20001
+Second     8299
+Result     8296
+Flags      0
+
+#RECIPE
+Number     39
+First      20082
+Second     8299
+Result     8296
+Flags      0
+
+#RECIPE
+Number     40
+First      20050
+Second     8299
+Result     8296
+Flags      0
+
+#RECIPE
+Number     41
+First      17109
+Second     17001
+Result     17140
+Flags      1
+
+#RECIPE
+Number     42
+First      20025
+Second     20027
+Result     17190
+Flags      1
+
+#RECIPE
+Number     43
+First      20027
+Second     17180
+Result     17181
+Flags      1
+
+#RECIPE
+Number     44
+First      20001
+Second     20029
+Result     20060
+Flags      0
+
+#RECIPE
+Number     45
+First      20060
+Second     8299
+Result     8296
+Flags      0
+
+#RECIPE
+Number     46
+First      20031
+Second     17180
+Result     17170
+Flags      6
+
+#RECIPE
+Number     47
+First      17130
+Second     17700
+Result     17799
+Flags      512
+
+#RECIPE
+Number     48
+First      20027
+Second     17109
+Result     17099
+Flags      2
+
+#RECIPE
+Number     49
+First      20051
+Second     14150
+Result     14151
+Flags      0
+
+#RECIPE
+Number     50
+First      17002
+Second     14150
+Result     14152
+Flags      6
+
+#RECIPE
+Number     51
+First      20001
+Second     14150
+Result     19996
+Flags      0
+
+#RECIPE
+Number     52
+First      20050
+Second     14150
+Result     19996
+Flags      0
+
+#RECIPE
+Number     53
+First      20082
+Second     14150
+Result     19996
+Flags      0
+
+#RECIPE
+Number     54
+First      20060
+Second     14150
+Result     19996
+Flags      0
+
+#RECIPE
+Number     55
+First      20091
+Second     17700
+Result     17720
+Flags      512
+
+#RECIPE
+Number     56
+First      17100
+Second     20021
+Result     17101
+Flags      4
+
+#RECIPE
+Number     57
+First      20028
+Second     17180
+Result     19400
+Flags      4
+
+#RECIPE
+Number     58
+First      20032
+Second     14150
+Result     17730
+Flags      6
+
+#RECIPE
+Number     59
+First      20034
+Second     14150
+Result     20053
+Flags      6
+
+#RECIPE
+Number     60
+First      20028
+Second     20032
+Result     19403
+Flags      4
+
+#RECIPE
+Number     61
+First      20084
+Second     14150
+Result     17060
+Flags      0
+
+#RECIPE
+Number     62
+First      20085
+Second     14150
+Result     17060
+Flags      0
+
+#RECIPE
+Number     63
+First      20031
+Second     14150
+Result     17710
+Flags      6
+
+#RECIPE
+Number     64
+First      17050
+Second     17730
+Result     17070
+Flags      0
+
+#RECIPE
+Number     65
+First      20034
+Second     20032
+Result     18490
+Flags      6
+
+#RECIPE
+Number     66
+First      17100
+Second     16899
+Result     17103
+Flags      0
+
+#RECIPE
+Number     67
+First      14150
+Second     17180
+Result     14170
+Flags      6
+
+#RECIPE
+Number     68
+First      20020
+Second     16899
+Result     16810
+Flags      517
+
+#RECIPE
+Number     69
+First      20025
+Second     17750
+Result     17751
+Flags      1
+
+#RECIPE
+Number     70
+First      16899
+Second     20026
+Result     16890
+Flags      1
+
+#RECIPE
+Number     71
+First      16890
+Second     17750
+Result     16850
+Flags      1
+
+#RECIPE
+Number     72
+First      16890
+Second     20031
+Result     16860
+Flags      0
+
+#RECIPE
+Number     73
+First      16890
+Second     17180
+Result     16891
+Flags      0
+
+#RECIPE
+Number     74
+First      17100
+Second     16820
+Result     17104
+Flags      0
+
+#RECIPE
+Number     75
+First      16820
+Second     20020
+Result     18499
+Flags      5
+
+#RECIPE
+Number     76
+First      8299
+Second     16820
+Result     33
+Flags      0
+
+#RECIPE
+Number     77
+First      20028
+Second     16820
+Result     19402
+Flags      0
+
+#RECIPE
+Number     78
+First      20028
+Second     20034
+Result     19401
+Flags      0
+
+#RECIPE
+Number     79
+First      20028
+Second     14150
+Result     19404
+Flags      0
+
+#RECIPE
+Number     80
+First      14150
+Second     20023
+Result     20119
+Flags      0
+
+#RECIPE
+Number     81
+First      20
+Second     17001
+Result     18720
+Flags      512
+
+#RECIPE
+Number     82
+First      20
+Second     20020
+Result     18719
+Flags      512
+
+#RECIPE
+Number     83
+First      20
+Second     17109
+Result     18718
+Flags      513
+
+#RECIPE
+Number     84
+First      20
+Second     10001
+Result     18717
+Flags      512
+
+#RECIPE
+Number     85
+First      20
+Second     10000
+Result     18717
+Flags      512
+
+#RECIPE
+Number     86
+First      20
+Second     20028
+Result     18716
+Flags      512
+
+#RECIPE
+Number     87
+First      20
+Second     19400
+Result     18716
+Flags      512
+
+#RECIPE
+Number     88
+First      17750
+Second     20029
+Result     18799
+Flags      0
+
+#RECIPE
+Number     89
+First      20
+Second     18750
+Result     18715
+Flags      512
+
+#RECIPE
+Number     90
+First      18750
+Second     17001
+Result     18751
+Flags      1
+
+#RECIPE
+Number     91
+First      18750
+Second     19996
+Result     18752
+Flags      515
+
+#RECIPE
+Number     92
+First      14152
+Second     17109
+Result     18730
+Flags      0
+
+#RECIPE
+Number     93
+First      18750
+Second     18730
+Result     18753
+Flags      512
+
+#RECIPE
+Number     94
+First      18750
+Second     14151
+Result     18754
+Flags      513
+
+#RECIPE
+Number     95
+First      21
+Second     14151
+Result     20120
+Flags      0
+
+#RECIPE
+Number     96
+First      20120
+Second     14152
+Result     20121
+Flags      0
+
+#RECIPE
+Number     97
+First      20028
+Second     20031
+Result     19405
+Flags      0
+
+#RECIPE
+Number     98
+First      21
+Second     19996
+Result     49
+Flags      0
+
+#RECIPE
+Number     99
+First      18750
+Second     16899
+Result     18755
+Flags      519
+
+#RECIPE
+Number     100
+First      18750
+Second     14150
+Result     17051
+Flags      6
+
+#RECIPE
+Number     101
+First      20091
+Second     10001
+Result     18770
+Flags      0
+
+#RECIPE
+Number     102
+First      20091
+Second     17750
+Result     18771
+Flags      0
+
+#RECIPE
+Number     103
+First      20091
+Second     14150
+Result     18772
+Flags      0
+
+#RECIPE
+Number     104
+First      20027
+Second     17001
+Result     18780
+Flags      513
+
+#RECIPE
+Number     105
+First      18780
+Second     20028
+Result     18781
+Flags      0
+
+#RECIPE
+Number     106
+First      17099
+Second     17001
+Result     17090
+Flags      0
+
+#RECIPE
+Number     107
+First      17001
+Second     18760
+Result     18761
+Flags      517
+
+#RECIPE
+Number     108
+First      18760
+Second     14150
+Result     71
+Flags      6
+
+#RECIPE
+Number     109
+First      18754
+Second     18761
+Result     18762
+Flags      0
+
+#RECIPE
+Number     110
+First      18780
+Second     18760
+Result     18782
+Flags      0
+
+#RECIPE
+Number     111
+First      16890
+Second     20032
+Result     16851
+Flags      1
+
+#RECIPE
+Number     112
+First      20027
+Second     20032
+Result     16801
+Flags      1
+
+#RECIPE
+Number     113
+First      20
+Second     10
+Result     18714
+Flags      1
+
+#RECIPE
+Number     114
+First      18780
+Second     10
+Result     18783
+Flags      513
+
+#RECIPE
+Number     115
+First      17099
+Second     10
+Result     17091
+Flags      513
+
+#RECIPE
+Number     116
+First      10
+Second     16820
+Result     7700
+Flags      0
+
+#RECIPE
+Number     117
+First      17002
+Second     18750
+Result     17004
+Flags      6
+
+#RECIPE
+Number     118
+First      17099
+Second     18730
+Result     17092
+Flags      0
+
+#RECIPE
+Number     119
+First      14150
+Second     8000
+Result     8001
+Flags      1028
+
+#RECIPE
+Number     120
+First      17002
+Second     8000
+Result     8099
+Flags      1543
+
+#RECIPE
+Number     121
+First      20031
+Second     8000
+Result     8002
+Flags      6
+
+#RECIPE
+Number     122
+First      16820
+Second     8000
+Result     8003
+Flags      7
+#END

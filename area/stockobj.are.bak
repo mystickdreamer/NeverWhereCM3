@@ -1,0 +1,2133 @@
+#AREA   Generic Objects~
+
+
+
+#VERSION 1
+#AUTHOR Rogue Winds~
+
+#RANGES
+1 0 0 0
+$
+
+#RESETMSG Void~
+
+#FLAGS
+32
+
+#ECONOMY 0 31250000
+
+#CLIMATE 2 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#28900
+wakizashi~
+%s wakizashi~
+%s wakizashi has been dropped here.~
+~
+5 524288 0
+0
+0 10 11 0 0 1
+6 2500 0
+#28901
+kilt~
+%s kilt~
+%s kilt was dropped here.~
+%s wear$q $p over $s legs.~
+9 264192&4 0 32
+0&256
+5 0 0 0
+2 1000 0
+#28902
+panties~
+pair of %s panties~
+Pair of %s panties is laying on the floor.~
+%s slip$q into $p.~
+9 264192 0 1
+0&16640
+5 0 0 0
+1 1000 0
+#28903
+skirt~
+%s skirt~
+%s skirt was dropped here.~
+%s slip$q into $p~
+9 264192 0 32
+6144&256
+0 0 0 0
+3 2000 0
+#28904
+drum~
+%s drum~
+%s drum was dropped here.~
+~
+14 526336 0 64
+0
+0 0 0 0
+10 300 0
+#28905
+kite shield~
+%s kite shield~
+%s kite shield was left here.~
+%s sling$q over $p.~
+9 8914944 0 100
+0
+40 0 0 0
+25 3000 0
+A
+2 -1
+#28906
+tower shield~
+%s tower shield~
+%s tower shield was left here.~
+~
+9 8914944 0 100
+0
+50 0 0 0
+35 5000 0
+A
+2 -2
+#28907
+lute~
+%s lute~
+%s lute was left here.~
+~
+14 526336 0
+0
+0 0 0 0
+8 1000 0
+#28908
+anvil~
+%s anvil~
+%s anvil is sitting here.~
+~
+12 526336 0
+1
+0 16 0 0
+300 5000 0
+#28909
+piano~
+%s piano~
+%s piano is sitting here.~
+~
+14 526336 0
+0
+0 0 0 0
+200 10000 0
+#28910
+pants~
+pair of %s pants~
+Pair of %s pants is lying here.~
+%s pull$q $p onto $s legs.~
+9 264192&4 0 2
+6144
+0 0 0 0
+3 2000 0
+#28911
+shirt~
+%s shirt~
+%s shirt was dropped on the floor.~
+%s pull$q $p over $s chest.~
+9 262144 0 1
+28
+5 0 0 0
+1 100 0
+#28912
+mug~
+%s mug~
+%s mug is sitting here.~
+~
+17 524288 0
+0
+15 0 0 0
+3 100 0
+#28913
+tankard~
+%s tankard~
+%s tankard is sitting here.~
+~
+17 524288 0
+30
+25 0 0 0
+6 150 0
+#28914
+bugle~
+%s bugle~
+%s bugle was left here.~
+~
+14 524288 0
+0
+0 0 0 0
+12 3000 0
+#28915
+ribbon~
+%s ribbon~
+%s ribbon lies on the ground.~
+%s tie$q $p around $s horn.~
+9 262144 0
+-536870912
+1 0 0 0
+1 100 0
+A
+25 1
+#28916
+sash~
+%s sash~
+%s sash was left here.~
+%s wear$q $p around $s waist.~
+9 262144 0 32
+8
+5 0 0 0
+2 1000 0
+#28917
+saddle~
+%s saddle~
+%s saddle was dropped here.~
+~
+9 524288 0 128
+16
+0 0 0 0
+20 5000 0
+#28918
+orb~
+%s orb~
+%s orb hovers in the air here.~
+~
+1 524353&4 0
+0
+0 0 0 0
+2 10000 0
+#28919
+parachute~
+%s parachute~
+%s parachute is folded up here.~
+%s release$q $p over $s back.~
+9 262144&4 0 128
+16
+0 0 0 0
+10 10000 0
+A
+26 2097152
+#28920
+pillow~
+%s pillow~
+Fluffy %s pillow is sitting here.~
+~
+12 262144 0
+0
+1 1168 16 0
+3 500 0
+#28921
+hoopak~
+%s hoopak~
+%s hoopak is laying on the ground.~
+~
+5 526336&4 0
+0
+10 5 7 0 0 10
+4 1000 0
+#28922
+blindfold~
+%s blindfold~
+%s blindfold was dropped here.~
+%s tie$q $p over $s eyes.~
+9 264192 0
+98336
+0 0 0 0
+1 1000 0
+A
+26 1
+#28923
+keyring~
+%s keyring~
+%s keyring was dropped here.~
+%s attach$q $p to $s belt.~
+62 526336 0 128
+8
+0 0 0 0
+1 100 0
+#28924
+morningstar~
+%s morningstar~
+Spiked %s ball on a chain was left here.~
+~
+5 526336 0
+0
+9 9 8 0 0 4
+10 0 0
+#28925
+scythe~
+%s scythe~
+A wicked looking %s scythe was left here.~
+~
+5 17303552 0
+0
+0 8 1 0 0 13
+5 0 0
+#28926
+club~
+%s club~
+%s club lies on the ground.~
+~
+5 526336 0
+0
+0 8 7 0 0 5
+1 500 0
+A
+19 2
+#28927
+bagpipes~
+some %s bagpipes~
+Some %s bagpipes lie here.~
+~
+14 264192 0
+0
+0 0 0 0
+5 2000 0
+A
+25 -1
+#28928
+book~
+%s book~
+%s book is lying here.~
+~
+35 526336 0
+0
+0 0 0 0
+10 1000 0
+#28929
+diaper~
+%s diaper~
+%s diaper is lying here.~
+%s wear$q $p covering $s smooth globes.~
+9 264192 0 1
+0&24832
+0 0 0 0
+1 500 0
+#28930
+hood~
+%s hood~
+%s hood is laying here.~
+%s pull$q $p over $s head.~
+9 264192 0
+1
+4 0 0 0
+3 1000 0
+#28931
+sandals~
+pair of %s sandals~
+Pair of %s sandals lie here.~
+%s slip$q $s feet into $p.~
+9 264192 0 2
+24576
+5 0 0 0
+1 500 0
+#28932
+crown~
+%s crown~
+%s crown sits on the ground.~
+%s don$q $p upon $s head.~
+9 526336 0
+1
+5 0 0 0
+2 5000 0
+#28933
+coffin~
+%s coffin~
+%s coffin lies here.~
+~
+12 526336 0
+5
+0 2336 0 0
+200 2500 0
+#28934
+golf golfclub~
+%s golf club~
+%s golf club is lying here.~
+~
+5 526400 0
+0
+0 7 8 0 0 5
+4 5000 0
+#28935
+decanter~
+%s decanter of endless water~
+%s decanter is pouring out water here.~
+~
+25 526400 0
+10000
+0 0 0 0
+1 30000 0
+#28936
+flail~
+%s flail~
+%s flail is laying here.~
+~
+5 526336&4 0
+0
+0 5 7 0 0 4
+10 1000 0
+#28937
+codpiece~
+%s codpiece~
+%s loincloth was discarded here.~
+%s attach$q $p to $s loins~
+9 526336 0
+0&24576
+10 0 0 0
+1 100 0
+#28938
+rifle~
+%s rifle~
+%s rifle is here.~
+~
+56 17301504&4 0
+0
+0 7 6 10 0 7
+9 20000 0
+#28939
+gun shotgun~
+%s shotgun~
+%s shotgun is here.~
+~
+56 17301504&4 15
+0
+0 7 6 10 0 7
+12 18000 0
+#28940
+gag~
+%s gag~
+Some god dropped a newly created gag here.~
+%s stick$q $p in $s mouth.~
+9 262144 0 2
+0&1
+0 0 0 0
+1 0 0
+#28942
+glaive~
+%s glaive~
+%s glaive is laying here.~
+~
+5 17301504 0
+0
+0 10 3 0 0 11
+20 10000 0
+#28950
+shuriken ~
+%s shuriken~
+%s shuriken has been dropped here~
+~
+5 524288 0
+0
+0 0 0 0
+1 0 0
+#28951
+nosering~
+%s nosering~
+Some god dropped a newly created nosering here.~
+%s pierce$q $s nose with $p.~
+9 524288 0
+32
+2 1 0 0
+1 0 0
+#28952
+hat~
+%s hat~
+Some god dropped a newly created hat here.~
+%s don$q $p upon $s head.~
+9 262144 0
+1
+4 0 0 0
+3 0 0
+#28953
+trenchcoat~
+%s trenchcoat~
+Some god dropped a newly created trenchcoat here.~
+%s pull$q $p around $s body.~
+9 264192 10 16
+1556
+10 0 0 0
+10 1000 0
+#28954
+headset~
+%s headset~
+Some god dropped a newly created headset here.~
+%s slip$q $p over $s ears.~
+6 0 40 4
+402653185
+1 100 0 0
+2 5000 0
+#28955
+staff~
+%s staff~
+%s staff was dropped here.~
+~
+5 17301504&4 0
+0
+0 10 7 0 0 10
+5 500 0
+#28956
+radio~
+%s radio~
+Some god dropped a newly created radio here.~
+~
+6 524288 20
+0
+5 100 0 0
+5 3000 0
+#28957
+watch~
+%s watch~
+Some god dropped a newly created wrist watch here.~
+~
+6 524288 40
+262144
+2 100 0 0
+1 5000 0
+E
+watch~
+Type TIME to read the time on the watch.
+This watch also has a built-in radio.
+~
+#28958
+boomerang~
+%s boomerang~
+A strange curved stick...~
+~
+5 1572864 15
+0
+0 0 0 0 0 5
+1 10000 0
+#28959
+ship~
+%s ship~
+%s ship has been left here.~
+sails~
+54 526336 0
+0
+0 0 2 0
+500 10000 0
+#28960
+shoes~
+pair of %s shoes~
+Pair of %s shoes is here.~
+%s pull$q $p onto $s feet.~
+9 262144 0
+24576
+2 0 0 0
+1 100 0
+#28998
+chain~
+%s chain~
+Length of %s chain lies on the ground.~
+%s link$q $p around $s ankles.~
+9 524288&4 0 128
+1572864
+10 0 0 0
+5 500 0
+#28999
+throne~
+%s throne~
+%s throne is sitting here.~
+~
+12 524288 0
+0
+0 16 0 0
+110 1000 0
+#29000
+chainmail~
+suit of %s chain mail~
+Suit of %s chain mail lies on the ground.~
+%s fit$q $p over $s body.~
+9 524288 0 4
+28
+20 0 0 0
+8 5000 0
+A
+27 32
+A
+2 -2
+A
+17 3
+#29001
+plate mail~
+suit of %s plate mail~
+Suit of %s plate mail lays on the ground.~
+%s fit$q $p over $s body.~
+9 526336 0 12
+28
+50 0 0 0
+40 10000 0
+A
+27 16
+A
+2 -5
+A
+17 6
+#29002
+rings ring~
+pair of %s rings~
+%s ring is lying here.~
+%s slip$q $p onto $s fingers.~
+9 526336 0 1
+384
+1 0 0 0
+1 100 0
+#29003
+vest~
+%s vest~
+%s vest lies crumpled on the ground.~
+%s wear$q $p over $s chest.~
+9 264192 0 2
+28
+10 0 0 0
+3 200 0
+#29004
+helm~
+%s helm~
+%s helm sits on the ground.~
+%s pull$q $p onto $s head.~
+9 526336 0 32
+1
+5 0 0 0
+1 1000 0
+A
+17 1
+#29005
+greathelm helm~
+%s greathelm~
+%s greathelm sits here.~
+%s don$q $p upon $s head.~
+9 526336 0 32
+35
+10 0 0 0
+3 2000 0
+A
+17 2
+#29006
+bracer bracers~
+pair of %s bracers~
+%s bracer lies on the ground.~
+%s fit$q $p around $s forearms.~
+9 264192&4 0
+393216
+5 0 0 0
+1 500 0
+#29007
+belt~
+%s belt~
+%s belt is lying on the ground.~
+%s buckle$q $p around $s waist.~
+9 264192 0 2
+8
+5 0 0 0
+1 1000 0
+#29008
+boots~
+pair of %s boots~
+Pair of %s boots is sitting here.~
+%s pull$q $p onto $s feet.~
+9 262144 0 2
+24576
+5 0 0 0
+3 500 0
+#29009
+shod boots~
+pair of %s-shod boots~
+Pair of %s-shod boots is sitting here.~
+%s pull$q $p onto $s feet.~
+9 526336 0 2
+24576
+10 0 0 0
+5 2500 0
+A
+2 -1
+A
+17 1
+#29010
+girth~
+%s girth~
+%s girth is laying on the ground.~
+%s buckle$q $p around $s waist.~
+9 526336 0 4
+8
+10 0 0 0
+5 2000 0
+A
+2 -1
+#29011
+gloves~
+pair of %s gloves~
+Pair of %s gloves is laying here.~
+%s slip$q $p onto $s hands.~
+9 264192 0 2
+384
+5 0 0 0
+1 500 0
+#29012
+gauntlets~
+pair of %s gauntlets~
+Pair of %s gauntlets is lying here.~
+%s pull$q $p onto $s hands.~
+9 526336&4 0 3
+384
+10 0 0 0
+5 2000 0
+A
+2 -1
+A
+17 1
+#29013
+robe~
+%s robe~
+%s robes are laying in a pile on the ground.~
+%s slip$q $p around $s body.~
+9 264192 0 16
+28
+5 0 0 0
+1 500 0
+#29014
+cloak~
+%s cloak~
+%s cloak has been left on the ground.~
+%s hang$q $p over $s shoulders.~
+9 264192 0 32
+16
+10 0 0 0
+3 1000 0
+#29015
+briefs~
+pair of %s briefs~
+Pair of %s briefs has been discarded here.~
+%s pull$q $p over $s pelvis.~
+9 264192 0 1
+0&8448
+5 0 0 0
+1 500 0
+#29016
+leggings~
+pair of %s leggings~
+Pair of %s leggings is lying here.~
+%s slip$q $p onto $s legs.~
+9 264192 0 2
+6144
+5 0 0 0
+1 1000 0
+#29017
+socks~
+pair of %s socks~
+Pair of %s socks lays on the ground.~
+%s slip$q $p on $s feet.~
+9 264192 0 1
+24576
+5 0 0 0
+1 200 0
+#29018
+greaves~
+set of %s greaves~
+Set of %s greaves has been left here.~
+%s attach$q $p on $s legs.~
+9 526336 0 4
+6144
+10 0 0 0
+5 3000 0
+A
+2 -1
+A
+17 1
+#29019
+collar~
+%s collar~
+%s collar has been left here.~
+%s wear$q $p around $s neck.~
+9 264192 0
+2
+5 0 0 0
+2 100 0
+#29020
+ringmail~
+%s ring mail~
+Suit of %s ring mail has been dropped here.~
+%s wrap$q $p around $s chest.~
+9 526336 0 6
+28
+15 0 0 0
+5 1000 0
+A
+27 64
+A
+2 -3
+#29021
+anklet anklets~
+pair of %s anklets~
+%s anklet has been dropped here.~
+%s fit$q $p around $s ankles.~
+9 526336 0
+1572864
+5 0 0 0
+1 1000 0
+#29022
+sleeves~
+pair of %s sleeves~
+Pair of %s sleeves is crumpled on the ground.~
+%s wear$q $p over $s arms.~
+9 264192 0 1
+1536
+5 0 0 0
+1 500 0
+#29023
+vambraces~
+set of %s vambraces~
+Set of %s vambraces has been left here.~
+%s attach$q $p over $s arms.~
+9 526336 0 2
+1536
+10 0 0 0
+5 2000 0
+A
+2 -1
+A
+17 1
+#29024
+mask~
+%s mask~
+%s mask has been left here.~
+%s attach$q $p over $s face.~
+9 526336 0
+0&512
+7 0 0 0
+1 2000 0
+A
+17 1
+#29025
+visor~
+%s visor~
+%s visor has been dropped here.~
+%s pull$q down $p over $s face.~
+9 526336&4 0 50
+98336
+5 0 0 0
+1 1000 0
+#29026
+buckler~
+%s buckler~
+%s buckler is laying on the ground.~
+~
+9 8914944 0 100
+0
+10 0 0 0
+5 500 0
+#29027
+small shield~
+small %s shield~
+Small %s shield has been left here.~
+~
+9 8914944 0
+0
+20 0 0 0
+10 1000 0
+#29028
+large shield~
+large %s shield~
+Large %s shield has been left here.~
+~
+9 8914944 0
+0
+30 0 0 0
+15 2000 0
+#29029
+knife~
+%s knife~
+%s knife has been dropped here.~
+~
+5 526336&4 0
+0
+0 3 2 0 0 2
+1 500 0
+#29030
+dagger~
+%s dagger~
+%s dagger has been dropped here.~
+~
+5 526336&4 0
+0
+0 4 11 0 0 2
+2 1000 0
+#29031
+dirk~
+%s dirk~
+%s dirk has been dropped here.~
+~
+5 526336&4 0
+0
+0 5 11 0 0 2
+3 1500 0
+#29032
+short sword shortsword~
+%s short sword~
+%s short sword has been dropped here.~
+~
+5 526336&4 0
+0
+0 6 11 0 0 1
+5 2000 0
+#29033
+long sword longsword~
+%s long sword~
+%s long sword has been dropped here.~
+~
+5 526336&4 0
+0
+0 7 3 0 0 1
+7 3000 0
+#29034
+bastard sword~
+%s bastard sword~
+%s bastard sword has been dropped here.~
+~
+5 526336&4 0
+0
+0 8 3 0 0 1
+9 4000 0
+#29035
+great sword greatsword~
+%s great sword~
+%s great sword has been dropped here.~
+~
+5 17303552&4 0
+0
+0 9 3 0 0 1
+10 5000 0
+#29036
+mace~
+%s mace~
+%s mace is laying here.~
+~
+5 526336 0
+0
+0 5 7 0 0 5
+4 1000 0
+#29037
+great mace greatmace~
+%s great mace~
+%s great mace has been dropped here.~
+~
+5 526336&4 0
+0
+0 7 8 0 0 5
+8 5000 0
+#29038
+hand axe~
+%s hand axe~
+%s hand axe has been dropped here.~
+~
+5 526336&4 0
+0
+0 9 1 0 0 3
+5 1000 0
+#29039
+battle axe~
+%s battle axe~
+%s battle axe has been dropped here.~
+~
+5 526336&4 0
+0
+0 10 1 0 0 3
+16 2000 0
+#29040
+great axe greataxe~
+%s great axe~
+%s great axe has been dropped here.~
+~
+5 17303552&4 0
+0
+0 9 3 0 0 3
+12 5000 0
+#29041
+spear~
+%s spear~
+%s spear is laying on the ground.~
+~
+5 526336&4 0
+0
+0 10 11 0 0 12
+8 1000 0
+#29042
+halberd~
+%s halberd~
+%s halberd is laying here.~
+~
+5 17303552 0
+0
+0 10 1 0 0 11
+23 10000 0
+#29043
+whip~
+%s whip~
+%s whip lies coiled on the ground.~
+~
+5 264192&4 0
+0
+0 4 4 0 0 4
+3 1500 0
+#29044
+claw~
+%s claw~
+%s claw is laying on the ground.~
+%s slide$q $p onto $s hands.~
+5 526336&4 0 20
+384
+0 3 5 0 0 14
+5 1000 0
+#29045
+crossbow~
+%s crossbow~
+%s crossbow has been left here.~
+~
+56 524288 0
+0
+0 5 13 2 0 9
+10 20000 0
+#29046
+bolt~
+%s crossbow bolt~
+%s bolt for a crossbow is laying here.~
+~
+57 524288 0
+0
+30 1 150 0 0 9
+1 100 0
+#29047
+long bow~
+%s long bow~
+%s long bow has been left here.~
+~
+56 589824 0
+0
+0 15 14 5 0 8
+5 9000 0
+#29048
+arrow~
+%s-tipped arrow~
+%s arrow for a bow is laying here.~
+~
+57 524288 0
+0
+20 1 100 0 0 8
+1 50 0
+#29049
+pistol~
+%s pistol~
+%s pistol is lying on the ground~
+~
+56 524354 20
+0
+0 7 6 10 0 7
+1 15000 0
+#29050
+bullet~
+%s bullet~
+%s bullet was left here.~
+~
+57 524288 0
+0
+50 1 200 0 0 7
+1 200 0
+#29051
+hammer~
+%s hammer~
+%s hammer is laying here.~
+~
+5 526336 0
+0
+7 6 8 0 0 5
+12 5000 0
+#29052
+cape~
+%s cape~
+%s cape has been left here.~
+%s drape$q $p over $s body.~
+9 264192 0 32
+16
+5 0 0 0
+1 1000 0
+#29053
+cap~
+%s cap~
+%s cap is laying here.~
+%s wear$q $p upon $s head.~
+9 264192 0 32
+1
+4 0 0 0
+1 300 0
+#29054
+bracelet bracelets~
+pair of %s bracelets~
+%s bracelet is laying here.~
+%s wear$q $p on $s wrists.~
+9 524288 0 2
+393216
+0 0 0 0
+1 6000 0
+#29055
+staff quarterstaff~
+%s quarterstaff~
+%s staff was dropped here.~
+~
+5 17303552 0
+0
+0 10 7 0 0 10
+10 500 0
+#29056
+peashooter~
+%s peashooter~
+%s peashooter has been left here.~
+~
+56 2048 0
+0
+0 0 17 0
+1 200 0
+#29057
+shovel~
+%s shovel~
+%s shovel has been left here.~
+~
+59 526336 0
+0
+0 0 0 0
+10 50 0
+#29058
+katana~
+%s katana~
+%s katana lies on the floor.~
+~
+5 526336&4 0
+0
+0 10 1 0 0 1
+10 5000 0
+#29059
+veil~
+%s veil~
+%s veil lays on the ground here.~
+%s drape$q $p over $s face.~
+9 264256 0
+98305
+2 0 0 0
+1 500 0
+#29060
+earring earrings~
+pair of %s earrings~
+Pair of %s earrings have been dropped here.~
+%s hang$q $p on $s ears.~
+9 526336&4 0
+402653184
+0 0 0 0
+1 100 0
+#29061
+necklace~
+%s necklace~
+%s necklace was dropped here.~
+%s wear$q $p around $s neck.~
+9 526336 0
+2
+0 0 0 0
+1 100 0
+#29062
+pack~
+%s pack~
+%s pack lies open on the ground.~
+~
+15 264192&4 0 128
+16
+300 0 0 0
+3 1000 0
+#29063
+broad sword broadsword~
+%s broadsword~
+%s broadsword was dropped here.~
+~
+5 526336&4 0
+0
+0 7 3 0 0 1
+8 3500 0
+#29064
+amulet~
+%s amulet~
+%s amulet was dropped here.~
+%s wear$q $p around $s neck.~
+9 526336 0
+2
+5 0 0 0
+3 5000 0
+#29065
+talisman~
+%s talisman~
+%s talisman was dropped here.~
+%s wear$q $p around $s neck.~
+9 526336 0
+2
+10 0 0 0
+6 8000 0
+#29066
+wand~
+%s wand~
+%s wand was dropped here.~
+~
+56 526400 0
+0
+0 8 6 0 0 6
+1 7000 0
+#29067
+boat~
+%s boat~
+%s boat has been abandoned here.~
+rows~
+54 526336 0
+0
+0 0 2 0
+100 10000 0
+#29068
+pipe~
+%s pipe~
+%s pipe was dropped here.~
+~
+30 526336&4 0
+10
+10 0 0 0
+2 1000 0
+#29069
+chair~
+%s chair~
+%s chair is sitting here.~
+~
+12 526336 0
+0
+1 0 16 0
+40 1000 0
+#29070
+pen~
+%s pen~
+%s pen was dropped here.~
+~
+21 526400&4 0
+0
+10 10 0 0
+1 200 0
+#29071
+mat~
+%s mat~
+%s mat is spread out on the floor.~
+~
+12 134481920&4 0
+0
+10 1168 16 0
+10 500 0
+#29072
+pouch~
+%s pouch~
+%s pouch was dropped here.~
+~
+15 262144 0 3
+8
+30 0 0 0
+1 100 0
+#29073
+bag~
+%s bag~
+%s bag is laying on the ground.~
+~
+15 264192 0
+0
+100 0 0 0
+5 200 0
+#29074
+chest~
+%s chest~
+%s chest is sitting here.~
+~
+15 526336&4 0 128
+16
+500 1 0 0
+50 1000 0
+#29075
+box~
+%s box~
+%s box is sitting here.~
+~
+15 526336 0
+16
+100 1 0 0
+10 500 0
+#29076
+desk~
+%s desk~
+%s desk is sitting here.~
+~
+12 524288 0
+0
+5 1170 0 0
+100 2000 0
+#29077
+couch~
+%s couch~
+%s couch is sitting here~
+~
+12 134744064&4 0
+0
+5 0 1168 0
+150 2000 0
+#29078
+bed~
+%s bed~
+%s bed is sitting here.~
+~
+12 526336 0
+0
+5 0 3472 0
+200 2500 0
+#29079
+cup~
+%s cup~
+%s cup is sitting here.~
+~
+17 526336 0
+0&8192
+10 0 0 0
+1 50 0
+#29080
+barrel~
+%s barrel~
+%s barrel is sitting here.~
+~
+17 526336 0
+0
+100 0 0 0
+40 500 0
+#29081
+harp~
+%s harp~
+%s harp is sitting on the floor.~
+~
+14 526336 0
+0
+0 0 0 0
+5 2000 0
+#29082
+flute~
+%s flute~
+%s flute was dropped here.~
+~
+14 526336&4 0
+2
+0 0 0 0
+1 500 0
+#29083
+loincloth~
+%s loincloth~
+%s loincloth was discarded here.~
+%s hang$q $p from $s loins.~
+9 264192 0 1
+0&24576
+10 0 0 0
+1 100 0
+#29084
+turban~
+%s turban~
+%s turban was discarded here.~
+%s don$q $p upon $s head.~
+9 264192&4 0
+1
+5 0 0 0
+1 100 0
+#29085
+horseshoes shoes~
+set of %s horseshoes~
+Set of %s horseshoes are lying on the ground.~
+%s attach$q $p onto $s hooves.~
+9 526336 0
+6291456
+0 0 0 0
+10 1000 0
+#29086
+manacle manacles~
+set of %s manacles~
+A set of %s manacles lays on the ground.~
+%s attach$q $p on $s ankle.~
+9 526336 0
+1572864
+10 0 0 0
+5 500 0
+#29087
+key~
+%s key~
+%s key was dropped here.~
+~
+18 526336 0
+0
+0 0 0 0
+1 100 0
+#29088
+lock~
+%s lock~
+%s lock was dropped here.~
+~
+50 526336 0
+0
+0 0 0 0
+3 1000 0
+#29089
+cutlass~
+%s cutlass~
+%s cutlass was dropped here~
+~
+5 526336 0
+0
+2 30 1 0 0 1
+10 3000 0
+#29090
+quiver~
+%s quiver~
+%s quiver was dropped here.~
+%s attach$q $p onto $s waist.~
+58 526336 0 64
+8
+0 0 0 0
+5 2000 0
+#29091
+%s trident~
+%s trident~
+Three-pronged %s spear was dropped here.~
+~
+5 526336 0
+0
+0 9 11 0 0 12
+10 10000 0
+#29092
+bouquet roses~
+bouquet of %s roses~
+Bouquet of %s roses is sitting here.~
+~
+8 264192 0
+0
+0 0 0 0
+3 5000 0
+A
+25 1
+#29093
+condom~
+%s condom~
+Used %s condom has been discarded here.~
+%s slide$q $p on $s penis.~
+9 264192 0
+0&8192
+10 0 0 0
+1 100 0
+#29094
+sweater~
+%s sweater~
+%s sweater has been left here.~
+%s wear$q $p over $s body.~
+9 264192&4 0 3
+1564
+10 0 0 0
+1 2000 0
+#29095
+slippers~
+%s slippers~
+Some god dropped a newly created slippers here.~
+%s slip$q $p onto $s feet.~
+9 264192 0
+24576
+1 0 0 0
+1 1500 0
+#29096
+tanto~
+%s tanto~
+%s dirk has been dropped here.~
+~
+5 526336&4 0
+0
+0 5 11 0 0 2
+4 1500 0
+#29097
+%s wedding ring~
+%s wedding ring~
+%s wedding ring is lying here.~
+~
+9 526336 0
+256
+1 0 0 0
+1 100 0
+#29098
+%s spade~
+%s spade~
+%s spade has been left here.~
+~
+59 526336 0
+0
+0 0 0 0
+3 50 0
+#29099
+bodysuit~
+%s bodysuit~
+%s bodysuit is lying here.~
+%s wear$q $p over $s body.~
+9 264192 0 1
+1998366&24832
+0 3 0 0
+5 2000 0
+#29100
+torso armor~
+%s torso armor~
+Some god dropped a newly created torso armor here.~
+%s pull$q $p onto $s body.~
+9 526336 0 3
+28&24832
+35 0 0 0
+25 10000 0
+A
+2 -3
+#29101
+hooded cape~
+hooded %s cape~
+Some god dropped a newly created hooded cape here.~
+~
+9 264192 0 5
+19
+3 0 0 0
+3 2000 0
+#29102
+knee high boots~
+pair of %s knee high boots~
+Some god dropped a newly created knee high boots here.~
+~
+9 264192 0 2
+1597440
+3 0 0 0
+3 1500 0
+#29103
+glasses~
+%s rimmed pair of glasses~
+%s rimmed pair of glasses~
+%s wear$q $p on $s eyes.~
+9 526336&4 0
+98304
+5 0 0 0
+1 400 0
+#29104
+Kakuri knife~
+%s kakuri knife~
+Some god dropped a newly created Kakuri knife here.~
+~
+5 526336&4 0
+384
+0 0 0 3 0 2
+5 1500 0
+#29105
+rapier~
+%s rapier~
+Some god dropped a newly created rapier here.~
+~
+5 526336&4 0
+0
+0 0 0 11 0 1
+4 1700 0
+#29106
+scimitar~
+%s scimitar~
+Some god dropped a newly created scimitar here.~
+~
+5 526336&4 0
+0
+0 0 0 3 0 1
+7 1700 0
+#29107
+kimono~
+%s kimono~
+%s kimono is laying here.~
+%s slip$q $p around $s body.~
+9 264192 0 30
+28&256
+6 0 0 0
+2 500 0
+#29108
+kabi stick~
+%s kabi stick~
+Some god dropped a newly created kabi stick here.~
+~
+5 0 0
+0
+0 0 0 7 0 5
+4 900 0
+#29109
+tunic~
+%s tunic~
+%s shirt was dropped on the floor.~
+%s pull$q $p over $s chest.~
+9 262144 0
+28
+5 0 0 0
+2 100 0
+#29110
+torc torque~
+%s torc~
+%s talisman was dropped here.~
+%s wear$q $p around $s neck.~
+9 526336 0
+2
+15 0 0 0
+8 8000 0
+#29111
+saber~
+%s saber~
+Some god dropped a newly created saber here.~
+~
+5 0 0
+0
+0 0 0 3 0 1
+7 1500 0
+#29112
+knuckles~
+%s knuckles~
+Some god dropped a newly created knuckles here.~
+~
+5 524288 0
+0
+0 0 0 7 0 18
+3 1200 0
+#29113
+laser gun~
+%s laser gun~
+%s laser gun was dropped here.~
+~
+56 526400 30
+0
+0 8 6 0 0 6
+3 7000 0
+#29114
+diaphragm~
+%s diaphragm~
+Some god dropped a newly created diaphragm here.~
+~
+9 262144 0
+0&16384
+1 0 0 0
+1 0 0
+#29115
+scanner~
+%s scanner~
+Some god dropped a newly created scanner here.~
+~
+7 524288 50
+0
+2 0 0 0
+8 10000 0
+#29116
+bra~
+%s bra~
+Some god dropped a newly created bra here.~
+~
+9 262144 0
+4
+0 0 0 0
+3 0 0
+#29117
+sickle~
+%s sickle~
+Some god dropped a newly created sickle here.~
+~
+5 524288 0
+0
+0 0 0 3 0 13
+9 2000 0
+#29118
+lance~
+%s lance~
+Some god dropped a newly created lance here.~
+~
+5 524288 0
+0
+0 0 0 2 0 12
+12 1850 0
+#29119
+javelin~
+%s javelin~
+Some god dropped a newly created javelin here.~
+~
+5 524288 0
+0
+0 0 0 2 0 12
+9 1900 0
+#29120
+stockings~
+some %s stockings~
+Some god dropped a newly created stockings here.~
+~
+9 262144 0 1
+1603584
+0 2 0 0
+1 1100 0
+#29121
+armlet armlets~
+pair of %s armlets~
+A pair of %s armlets lies here.~
+%s slide$p $p onto $s arms.~
+9 524288 0 2
+1536
+5 10 0 0
+4 2100 0
+#29122
+falchion~
+%s falchion~
+%s falchions is sitting on the ground here.~
+~
+5 17301504 0
+0
+0 0 0 0 0 1
+20 1000 0
+#29123
+nipple rings~
+pair of %s nipple rings~
+Some god dropped a newly created nipple rings here.~
+~
+9 524288 0 1
+4
+0 0 3 0
+2 1010 0
+#29124
+dai katana~
+%s dai katana~
+Some god dropped a newly created dai katana here.~
+~
+5 17301504&4 0
+0
+0 0 0 3 0 1
+12 2500 0
+#29125
+tongue ring~
+%s tongue ring~
+Some god dropped a newly created tongue ring here.~
+%s pierce$q $s tongue with $p~
+9 524288 0 1
+0&1
+0 2 0 0
+1 1010 0
+#29126
+jacket~
+%s jacket~
+%s jacket is lying here.~
+%s slides %s arms into $p and shrugs into it.~
+9 262144 0 16
+1552
+5 0 0 0
+1 2000 0
+#29127
+scuba gear~
+%s scuba gear~
+A set of scuba gear is here.~
+~
+9 524288 40
+16
+20 0 0 0
+30 10000 0
+A
+26 -2147483648
+#29128
+submarine~
+%s submarine~
+A submarine is here.~
+sails~
+54 524288 60
+0
+0 0 134 0
+1000 100000 0
+#29129
+car~
+%s car~
+A car is here.~
+drives~
+54 524288 40
+0
+0 0 1 0
+300 50000 0
+#29130
+airplane plane~
+%s airplane~
+An airplane is here.~
+flies~
+54 525312 70
+0
+0 0 0 0
+200 200000 0
+#29131
+spaceship ship~
+%s spaceship~
+A spaceship is here.~
+warps~
+54 525313&4 90
+0
+0 0 152 0
+1000 300000 0
+#29132
+hovercraft~
+%s hovercraft~
+A hovercraft is here.~
+hovers~
+54 525312 50
+0
+0 0 0 0
+200 200000 0
+#29133
+tank~
+%s tank~
+A tank is here.~
+rolls~
+54 524288 50
+0
+0 0 833 0
+1000 300000 0
+#29134
+motorcycle~
+%s motorcycle~
+A motorcycle is here.~
+rides loudly~
+54 524288 55
+0
+0 0 321 0
+150 300000 0
+#29135
+snowmobile~
+%s snowmobile~
+A snowmobile is here.~
+rides~
+54 524288 60
+0
+0 0 513 0
+100 200000 0
+#29136
+mech~
+%s mech~
+A mech is here.~
+clanks~
+54 524288 100
+0
+0 0 993 0
+500 1000000 0
+#29137
+wagon~
+%s wagon~
+A wagon is here.~
+drives~
+54 524288 5
+0
+0 0 1 0
+200 5000 0
+#29138
+tent~
+%s tent~
+A tent is here.~
+~
+54 262144 0
+0
+0 0 0 0
+40 2000 0
+#29139
+scarf~
+%s scarf~
+%s scarf is here.~
+%s tie$q $p around $s neck.~
+9 262144 0
+2
+0 0 0 0
+1 10 0
+#29140
+epee~
+%s epee~
+%s epee is here.~
+~
+5 526336&4 0
+0
+0 0 0 11 0 1
+3 5000 0
+#29141
+nodachi~
+%s nodachi~
+%s nodachi is here.~
+~
+5 17303552&4 0
+0
+0 9 3 0 0 1
+9 10000 0
+#29142
+bottle~
+%s bottle~
+%s bottle is sitting here.~
+~
+17 524288 2
+0
+10 0 0 0
+1 100 0
+#29143
+sofa~
+%s sofa~
+%s sofa is sitting here.~
+~
+12 134744064&4 0
+0
+5 0 1168 0
+120 1900 0
+#29144
+sack~
+%s sack~
+%s sack is laying here.~
+~
+15 264192 0
+0
+80 0 0 0
+4 170 0
+#29145
+basket~
+%s basket~
+%s basket is here.~
+~
+15 591872 0
+0
+200 0 0 0
+10 200 0
+#29146
+bowl~
+%s bowl~
+%s bowl is sitting here.~
+~
+17 526336 0
+0
+50 0 0 0
+1 500 0
+#29147
+dish~
+%s dish~
+%s dish is sitting here.~
+~
+17 526336 0
+0
+40 0 0 0
+2 400 0
+#29148
+bucket~
+%s bucket~
+%s bucket is sitting here.~
+~
+17 526336 0
+0
+60 0 0 0
+40 400 0
+#29150
+lamp~
+%s lamp~
+%s lamp is sitting here.~
+~
+1 524289 10
+0
+0 0 0 0
+3 2000 0
+#29151
+lantern~
+%s lantern~
+%s lantern is sitting here.~
+~
+1 524289 8
+0
+0 0 0 0
+5 1500 0
+#29152
+table~
+%s table~
+%s table is here.~
+~
+12 524288 0
+0
+5 1170 0 0
+70 1700 0
+#29153
+armoire~
+%s armoire~
+%s armoire is here.~
+~
+12 524288 0
+0
+5 1170 0 0
+200 5000 0
+#29154
+dresser~
+%s dresser~
+%s dresser is here.~
+~
+12 524288 0
+0
+5 1170 0 0
+150 3000 0
+#29155
+carpet~
+%s carpet~
+%s carpet is spread out on the foor.~
+~
+12 134479872 0
+0
+10 1168 1168 0
+20 2000 0
+#29156
+rug~
+%s rug~
+%s rug is spread out on the floor.~
+~
+12 134479872 0
+0
+10 1168 1168 0
+5 800 0
+#29157
+torch~
+%s torch~
+%s torch is sitting here.~
+~
+1 589825 8
+0
+0 0 0 0
+3 500 0
+#29158
+candle~
+%s candle~
+%s candle is sitting here.~
+~
+1 262145 8
+0
+0 0 0 0
+1 100 0
+#29159
+cabinet~
+%s armoire~
+%s armoire is here.~
+~
+12 1074266112 0
+0
+5 1170 0 0
+200 5000 0
+#29160
+coat~
+%s coat~
+%s coat is lying here.~
+%s slides %s arms into $p and shrugs into it.~
+9 262144 0 16
+1552
+7 0 0 0
+3 3000 0
+#29161
+counter~
+%s counter~
+%s counter is here.~
+~
+12 524288 0
+0
+5 1170 0 0
+160 2200 0
+#29162
+carriage~
+%s carriage~
+A carriage is here.~
+drives~
+54 524288 5
+0
+0 0 1 0
+300 5000 0
+#29163
+chariot~
+%s chariot~
+A carriage is here.~
+rides~
+54 524288 5
+0
+0 0 1 0
+100 10000 0
+#29164
+cart~
+%s cart~
+A carriage is here.~
+drives~
+54 524288 5
+0
+0 0 1 0
+250 4000 0
+#29165
+raft~
+%s raft~
+%s raft is sitting here.~
+rows~
+54 589824 0
+0
+0 0 2 0
+40 2000 0
+#29166
+recurve bow~
+%s recurve bow~
+%s recurve bow is here.~
+~
+56 589824 10
+0
+0 15 14 5 0 8
+2 20000 0
+#29167
+compound bow~
+%s compound bow~
+%s compound bow is here.~
+~
+56 589824 20
+0
+0 15 14 5 0 8
+3 30000 0
+#29168
+television~
+%s television~
+%s television is sitting here.~
+~
+7 524288 40
+0
+5 100 0 0
+30 10000 0
+#29999
+raw %s material ore~
+a lump of ore~
+A lump of ore is lying here.~
+~
+8 2048&5 0
+0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#29000
+Floating in a void~
+~
+0 1073741828 1
+0 0 0 0 0 0 0 0
+S
+#0
+
+
+#RESETS
+O 1 21013 1 29000
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

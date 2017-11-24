@@ -1,0 +1,335 @@
+Name        Slith~
+Race        21
+Str_Plus    1
+Dex_Plus    -2
+Wis_Plus    -1
+Int_Plus    1
+Con_Plus    -1
+Cha_Plus    -2
+Lck_Plus    0
+Hit         5
+Mana        7
+Unarmed	 2
+Parts		1246719
+Affected    512&64
+Resist      64
+Suscept     0
+Language    1024
+Align       0
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    -100
+Exp_Mult   98
+Attacks    0
+Defenses   0
+Height     80
+Weight     302
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  137309016
+HP_Regen    0
+Race_Recall 0
+Base_age	1
+NPC_only	0
+Disadvantage	-1
+WhereName  <used as light>     ~
+WhereName  <worn on finger>    ~
+WhereName  <worn on finger>    ~
+WhereName  <worn around neck>  ~
+WhereName  <worn around neck>  ~
+WhereName  <worn on body>      ~
+WhereName  <worn on head>      ~
+WhereName  <worn on legs>      ~
+WhereName  <worn on feet>      ~
+WhereName  <worn on hands>     ~
+WhereName  <worn on arms>      ~
+WhereName  <worn as shield>    ~
+WhereName  <worn about body>   ~
+WhereName  <worn about waist>  ~
+WhereName  <worn around wrist> ~
+WhereName  <worn around wrist> ~
+WhereName  <wielded>           ~
+WhereName  <held>              ~
+WhereName  <dual wielded>      ~
+WhereName  <worn on ears>      ~
+WhereName  <worn on eyes>      ~
+WhereName  <missile wielded>   ~
+WhereName  <worn on back>      ~
+WhereName  <worn on face>      ~
+WhereName  <worn on ankle>     ~
+WhereName  <worn on ankle>     ~
+WhereName  <floating nearby>   ~
+WhereName  Avatar~
+Skill 'reserved' 3
+Skill 'berserk' 3
+Skill 'nothing' 3
+Skill 'unknown' 3
+Skill 'acid blast' 3
+Skill 'alertness' 3
+Skill 'animate dead' 3
+Skill 'antimagic shell' 3
+Skill 'aqua breath' 3
+Skill 'armor' 3
+Skill 'astral walk' 3
+Skill 'barkskin' 3
+Skill 'basic shield' 3
+Skill 'blazebane' 3
+Skill 'blazeward' 3
+Skill 'bless' 3
+Skill 'blindness' 3
+Skill 'blizzard' 3
+Skill 'blur' 3
+Skill 'bringaround ballad' 3
+Skill 'bubonic touch' 3
+Skill 'burning hands' 3
+Skill 'cancelation' 3
+Skill 'cause critical' 3
+Skill 'cause light' 3
+Skill 'cause serious' 3
+Skill 'caustic rain' 3
+Skill 'chain lightning' 3
+Skill 'change sex' 3
+Skill 'charged beacon' 3
+Skill 'chariots of fire' 3
+Skill 'chemical funnel' 3
+Skill 'chill touch' 3
+Skill 'clairvoyance' 3
+Skill 'claustrophobia' 3
+Skill 'colour spray' 3
+Skill 'come sail away' 3
+Skill 'cone of cold' 3
+Skill 'continual light' 3
+Skill 'control weather' 3
+Skill 'corrosive touch' 3
+Skill 'cover of darkness' 3
+Skill 'create fire' 3
+Skill 'create food' 3
+Skill 'create spring' 3
+Skill 'create symbol' 3
+Skill 'create water' 3
+Skill 'create wine' 3
+Skill 'cure blindness' 3
+Skill 'cure critical' 3
+Skill 'cure light' 3
+Skill 'cure poison' 3
+Skill 'cure serious' 3
+Skill 'curse' 3
+Skill 'darkling aura' 3
+Skill 'demonskin' 3
+Skill 'detect hidden' 3
+Skill 'detect invis' 3
+Skill 'detect magic' 3
+Skill 'detect poison' 3
+Skill 'detect traps' 3
+Skill 'discord' 3
+Skill 'disenchant' 3
+Skill 'dispel magic' 3
+Skill 'dragon wit' 3
+Skill 'dragonskin' 3
+Skill 'dream' 3
+Skill 'earthquake' 3
+Skill 'eldritch sphere' 3
+Skill 'elven beauty' 3
+Skill 'enchant' 3
+Skill 'energy drain' 3
+Skill 'enrage' 3
+Skill 'ethereal funnel' 3
+Skill 'ethereal shield' 3
+Skill 'exhaustion' 3
+Skill 'extradimensional portal' 3
+Skill 'faerie fire' 3
+Skill 'faerie fog' 3
+Skill 'farsight' 3
+Skill 'fatigue' 3
+Skill 'feather fall' 3
+Skill 'feebleness' 3
+Skill 'festering wounds' 3
+Skill 'fields of gold' 3
+Skill 'fireball' 3
+Skill 'fireshield' 3
+Skill 'flare' 3
+Skill 'flash' 3
+Skill 'fletch' 3
+Skill 'flight' 3
+Skill 'fog' 3
+Skill 'forcefield' 3
+Skill 'gate' 3
+Skill 'grounding' 3
+Skill 'hallucination' 3
+Skill 'harm' 3
+Skill 'haste' 3
+Skill 'heal' 3
+Skill 'helical flow' 3
+Skill 'holy armor' 3
+Skill 'holy strength' 3
+Skill 'hyperactivity' 3
+Skill 'iceshard' 3
+Skill 'iceshield' 3
+Skill 'identify' 3
+Skill 'ill fortune' 3
+Skill 'improvement' 3
+Skill 'infectious swarm' 3
+Skill 'infravision' 3
+Skill 'inner warmth' 3
+Skill 'invis' 3
+Skill 'iron man' 3
+Skill 'kindred strength' 3
+Skill 'knock' 3
+Skill 'leprechaun fortune' 3
+Skill 'lethargy' 3
+Skill 'life force' 3
+Skill 'lightning bolt' 3
+Skill 'liquid skin' 3
+Skill 'locate object' 3
+Skill 'mageblade' 3
+Skill 'magic missile' 3
+Skill 'mana drain' 3
+Skill 'master of puppets' 3
+Skill 'mental block' 3
+Skill 'midas touch' 3
+Skill 'mindflay' 3
+Skill 'minstrel shield' 3
+Skill 'necromantic touch' 3
+Skill 'ogrish hide' 3
+Skill 'pass door' 3
+Skill 'penetrate defenses' 3
+Skill 'pianissimmo' 3
+Skill 'plant pass' 3
+Skill 'poison' 3
+Skill 'polymorph' 3
+Skill 'portal' 3
+Skill 'possess' 3
+Skill 'power word kill' 3
+Skill 'quantum spike' 3
+Skill 'quickfire' 3
+Skill 'razorbait' 3
+Skill 'recharge' 3
+Skill 'refresh' 3
+Skill 'remove curse' 3
+Skill 'remove invis' 3
+Skill 'remove trap' 3
+Skill 'resilience' 3
+Skill 'restore mana' 3
+Skill 'return' 3
+Skill 'revelation' 3
+Skill 'sagacity' 3
+Skill 'sanctuary' 3
+Skill 'scorching surge' 3
+Skill 'scry' 3
+Skill 'sedate' 3
+Skill 'serenity' 3
+Skill 'shadowform' 3
+Skill 'shield' 3
+Skill 'shocking grasp' 3
+Skill 'shockshield' 3
+Skill 'shockwave' 3
+Skill 'sleep' 3
+Skill 'slink' 3
+Skill 'slow' 3
+Skill 'spellbait' 3
+Skill 'spiderweb' 3
+Skill 'spiral blast' 3
+Skill 'stone skin' 3
+Skill 'summon' 3
+Skill 'swordbait' 3
+Skill 'telekinesis' 3
+Skill 'telepathy' 3
+Skill 'teleport' 3
+Skill 'torrent' 3
+Skill 'transmutation' 3
+Skill 'transport' 3
+Skill 'trollish vigor' 3
+Skill 'true sight' 3
+Skill 'unholy orb' 3
+Skill 'unravel defense' 3
+Skill 'uplift' 3
+Skill 'valiance' 3
+Skill 'ventriloquate' 3
+Skill 'visitation' 3
+Skill 'vorpal gauntlets' 3
+Skill 'weaken' 3
+Skill 'wind beneath my wings' 3
+Skill 'winter mist' 3
+Skill 'witherfist' 3
+Skill 'wizards life fire' 3
+Skill 'adrenaline' 3
+Skill 'affix' 2
+Skill 'aid' 2
+Skill 'backstab' 2
+Skill 'bash' 2
+Skill 'brew' 2
+Skill 'charge' 2
+Skill 'circle' 2
+Skill 'climb' 2
+Skill 'combine' 2
+Skill 'detrap' 2
+Skill 'dig' 1
+Skill 'dirt throw' 2
+Skill 'disarm' 2
+Skill 'dodge' 1
+Skill 'doorbash' 2
+Skill 'dual wield' 1
+Skill 'dye' 2
+Skill 'eighth cast' 3
+Skill 'engrave' 2
+Skill 'enhanced damage' 2
+Skill 'fashion' 2
+Skill 'fifth attack' 3
+Skill 'fifth cast' 3
+Skill 'fourth attack' 3
+Skill 'fourth cast' 3
+Skill 'garrote' 3
+Skill 'gouge' 2
+Skill 'grip' 2
+Skill 'hide' 2
+Skill 'jump' 1
+Skill 'kick' 1
+Skill 'locksmith' 2
+Skill 'lore' 2
+Skill 'mistwalk' 3
+Skill 'mount' 2
+Skill 'parry' 2
+Skill 'peek' 1
+Skill 'pick lock' 2
+Skill 'pigeon' 2
+Skill 'poison weapon' 2
+Skill 'punch' 1
+Skill 'rescue' 2
+Skill 'scan' 1
+Skill 'scribe' 2
+Skill 'search' 1
+Skill 'second attack' 1
+Skill 'second cast' 1
+Skill 'seventh cast' 3
+Skill 'sharpen' 2
+Skill 'shieldwork' 2
+Skill 'sixth cast' 3
+Skill 'sneak' 2
+Skill 'spike' 2
+Skill 'steal' 3
+Skill 'sting' 3
+Skill 'stun' 2
+Skill 'tail' 1
+Skill 'third attack' 3
+Skill 'third cast' 3
+Skill 'track' 2
+Skill 'tumble' 2
+Skill 'bludgeons' 2
+Skill 'flexible arms' 2
+Skill 'long blades' 2
+Skill 'missile weapons' 2
+Skill 'pugilism' 2
+Skill 'short blades' 1
+Skill 'talonous arms' 3
+Skill 'unarmed' 2
+Skill 'common' 1
+Skill 'dwarven' 3
+Skill 'elvish' 3
+Skill 'gith' 3
+Skill 'goblin' 3
+Skill 'halfling' 3
+Skill 'ogre' 3
+Skill 'orcish' 3
+Skill 'pixie' 3
+Skill 'trollese' 3
+End

@@ -1,0 +1,51 @@
+#DEITY
+Filename		light.dty~
+Name		Healing~
+Description	&z&gAlignment: &Ggood
+Followers of Light believe in protecting all things good. Some of the
+smaller, chaotic races despise their beliefs and continually harass
+them, however thwarted they are by the deities protection. Because
+of their protective habits, they are harmed less by some of the more
+common destructive forces.... but not all.
+~
+Alignment		1000
+Worshippers	54
+Flee		-10
+Flee_npcrace	-1
+Flee_npcfoe	-25
+Kill		0
+Kill_npcrace	-5
+Kill_npcfoe	50
+Kill_magic	0
+Sac		10
+Bury_corpse	10
+Aid_spell		1
+Aid		30
+Steal		-50
+Backstab		-200
+Die		-20
+Die_npcrace	-40
+Die_npcfoe	-5
+Spell_aid		1
+Dig_corpse	-500
+Scorpse		100
+Savatar		700
+Sdeityobj		50
+Srecall		100
+Suplift		30
+Race		-1
+Class		-1
+Element		1
+Sex		-1
+Affected		8708
+Npcrace		0
+Npcfoe		25
+Suscept		128
+Race2		-1
+Susceptnum	-150
+Elementnum	75
+Affectednum	150
+Objstat		6
+End
+
+#END

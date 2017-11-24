@@ -1,0 +1,45 @@
+#DEITY
+Filename		ice.dty~
+Name		Frost~
+Description	~
+Alignment		-400
+Worshippers	0
+Flee		0
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		20
+Kill_npcrace	50
+Kill_npcfoe	0
+Kill_magic	20
+Sac		20
+Bury_corpse	0
+Aid_spell		20
+Aid		-10
+Steal		20
+Backstab		20
+Die		-10
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		20
+Dig_corpse	0
+Scorpse		200
+Savatar		400
+Sdeityobj		100
+Srecall		50
+Suplift		50
+Race		-1
+Class		-1
+Element		2
+Sex		-1
+Affected		272629760
+Npcrace		0
+Npcfoe		0
+Suscept		1
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		2
+End
+
+#END

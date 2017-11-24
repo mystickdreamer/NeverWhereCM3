@@ -1,0 +1,3769 @@
+#COMMAND
+Name        '~
+Code        do_say
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        ,~
+Code        do_emote
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        .~
+Code        do_chat
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        ;~
+Code        do_channels
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        \~
+Code        do_save
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        ]~
+Code        do_reply
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        at~
+Code        do_at
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        affected~
+Code        do_affected
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        afk~
+Code        do_afk
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        ansi~
+Code        do_ansi
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        aassign~
+Code        do_aassign
+Position    100
+Log         1
+Permit	4
+End
+
+#COMMAND
+Name        areas~
+Code        do_areas
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        aset~
+Code        do_aset
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        astat~
+Code        do_astat
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        apply~
+Code        do_apply
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        atobj~
+Code        do_atobj
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        atmob~
+Code        do_atmob
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        aexit~
+Code        do_aexit
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        aentrance~
+Code        do_aentrance
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        alist~
+Code        do_areas
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        alias~
+Code        do_alias
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        away~
+Code        do_afk
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        abit~
+Code        do_abit
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        adopt~
+Code        do_adopt
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        award~
+Code        do_award
+Position    100
+Log         1
+Permit	32
+End
+
+#COMMAND
+Name        attributes~
+Code        do_attributes
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        antimatter~
+Code        do_antimatter
+Position    112
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        ask~
+Code        do_say
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        attack~
+Code        do_hit
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        allow~
+Code        do_allow
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        anchor~
+Code        do_immobilize
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        arena~
+Code        do_arena
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        alter~
+Code        do_alter
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        accessories~
+Code        do_accessories
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        buy~
+Code        do_buy
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        bamfin~
+Code        do_bamfin
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        bamfout~
+Code        do_bamfout
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        ban~
+Code        do_ban
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        bio~
+Code        do_bio
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        bury~
+Code        do_bury
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        beep~
+Code        do_beep
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        body~
+Code        do_body
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        bodybag~
+Code        do_bodybag
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        bounty~
+Code        do_bounty
+Position    100
+Log         1
+End
+
+#COMMAND
+Name        bite~
+Code        do_bite
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        boneset~
+Code        do_boneset
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        bandage~
+Code        do_bandage
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        build~
+Code        do_build
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        bestow~
+Code        do_bestow
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        bind~
+Code        do_bind
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        brand~
+Code        do_brand
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        blink~
+Code        do_blink
+Position    110
+Log         0
+End
+
+#COMMAND
+Name        burn~
+Code        do_burn
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        blizzard~
+Code        do_blizzard
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        blast~
+Code        do_blast
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        buildwalk~
+Code        do_buildwalk
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        cast~
+Code        do_cast
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        close~
+Code        do_close
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        consider~
+Code        do_consider
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        channels~
+Code        do_channels
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        checkvnums~
+Code        do_check_vnums
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        clear~
+Code        do_clear
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        cedit~
+Code        do_cedit
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        commands~
+Code        do_commands
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        config~
+Code        do_config
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        credits~
+Code        do_credits
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        cset~
+Code        do_cset
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        cmdtable~
+Code        do_cmdtable
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        copyover~
+Code        do_copyover
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        climate~
+Code        do_climate
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        color~
+Code        do_ansi
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        clan~
+Code        do_clan
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        consent~
+Code        do_consent
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        connect~
+Code        do_connect
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        claw~
+Code        do_claw
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        compare~
+Code        do_compare
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        chop~
+Code        do_chop
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        city~
+Code        do_city
+Position    100
+Log         1
+Permit	4
+End
+
+#COMMAND
+Name        charge~
+Code        do_funnel
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        cure~
+Code        do_cure
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        change~
+Code        do_change
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        calm~
+Code        do_pacify
+Position    110
+Log         0
+End
+
+#COMMAND
+Name        cloudkill~
+Code        do_poisoncloud
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        chainlightning~
+Code        do_chainlightning
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        calllightning~
+Code        do_electrocute
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        chill~
+Code        do_chill
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        down~
+Code        do_down
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        drink~
+Code        do_drink
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        drop~
+Code        do_drop
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        deny~
+Code        do_deny
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        description~
+Code        do_description
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        destro~
+Code        do_destro
+Position    112
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        destroy~
+Code        do_destroy
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        dig~
+Code        do_dig
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        disconnect~
+Code        do_disconnect
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        drag~
+Code        do_drag
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        dismount~
+Code        do_dismount
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        diagnose~
+Code        do_diagnose
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        dismiss~
+Code        do_dismiss
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        delay~
+Code        do_delay
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        delete~
+Code        do_suicide
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        deposit~
+Code        do_deposit
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        divorce~
+Code        do_divorce
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        dispel~
+Code        do_dispel
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        disown~
+Code        do_disown
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        decapitate~
+Code        do_skin
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        deduct~
+Code        do_deduct
+Position    100
+Log         1
+Permit	32
+End
+
+#COMMAND
+Name        date~
+Code        do_time
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        dream~
+Code        do_dream
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        drain~
+Code        do_drain
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        decay~
+Code        do_decay
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        detonate~
+Code        do_detonate
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        distort~
+Code        do_distort
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        east~
+Code        do_east
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        eat~
+Code        do_eat
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        emote~
+Code        do_emote
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        exits~
+Code        do_exits
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        examine~
+Code        do_examine
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        equipment~
+Code        do_equipment
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        echo~
+Code        do_player_echo
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        empty~
+Code        do_empty
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        enter~
+Code        do_enter
+Position    110
+Log         0
+End
+
+#COMMAND
+Name        elbow~
+Code        do_elbow
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        emerge~
+Code        do_emerge
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        experience~
+Code        do_experience
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        enchant~
+Code        do_enchant
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        fill~
+Code        do_fill
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        follow~
+Code        do_follow
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        fixchar~
+Code        do_fixchar
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        flee~
+Code        do_flee
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        foldarea~
+Code        do_foldarea
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        for~
+Code        do_for
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        force~
+Code        do_force
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        forceclose~
+Code        do_forceclose
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        formpass~
+Code        do_form_password
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        freeze~
+Code        do_freeze
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        fprompt~
+Code        do_fprompt
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        fly~
+Code        do_fly
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        feed~
+Code        do_feed
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        family~
+Code        do_family
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        fire~
+Code        do_shoot
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        finger~
+Code        do_whois
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        funnel~
+Code        do_funnel
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        flood~
+Code        do_flood
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        flare~
+Code        do_flare
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        flamingrain~
+Code        do_flamingrain
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        frostbite~
+Code        do_frostbite
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        get~
+Code        do_get
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        give~
+Code        do_give
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        gtell~
+Code        do_gtell
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        group~
+Code        do_group
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        glance~
+Code        do_glance
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        goto~
+Code        do_goto
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        gold~
+Code        do_gold
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        gwhere~
+Code        do_gwhere
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        genarea~
+Code        do_genarea
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        graffiti~
+Code        do_graffiti
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        guard~
+Code        do_guard
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        hold~
+Code        do_wield
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        hell~
+Code        do_hell
+Position    100
+Log         4
+Permit	16
+End
+
+#COMMAND
+Name        holylight~
+Code        do_holylight
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        homepage~
+Code        do_homepage
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        heal~
+Code        do_heal
+Position    105
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        headbutt~
+Code        do_headbutt
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        harvest~
+Code        do_search
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        hiscore~
+Code        do_hiscore
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        hire~
+Code        do_hire
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        hiscoset~
+Code        do_hiscoset
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        hit~
+Code        do_hit
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        help~
+Code        do_new_help
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        house~
+Code        do_house
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        homebuy~
+Code        do_homebuy
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        inventory~
+Code        do_inventory
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        induct~
+Code        do_induct
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        installarea~
+Code        do_installarea
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        insert~
+Code        do_give
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        info~
+Code        do_info
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        instaroom~
+Code        do_instaroom
+Position    100
+Log         3
+Permit	4
+End
+
+#COMMAND
+Name        introduce~
+Code        do_introduce
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        instazone~
+Code        do_instazone
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        ingredient~
+Code        do_ingredient
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        identify~
+Code        do_identify
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        immobilize~
+Code        do_immobilize
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        invade~
+Code        do_invade
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        kill~
+Code        do_hit
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        knock~
+Code        do_rap
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        kick~
+Code        do_kick
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        knee~
+Code        do_knee
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        kneel~
+Code        do_kneel
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        look~
+Code        do_look
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        lock~
+Code        do_lock
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        list~
+Code        do_list
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        last~
+Code        do_last
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        leave~
+Code        do_leave
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        light~
+Code        do_light
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        litterbug~
+Code        do_litterbug
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        log~
+Code        do_log
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        land~
+Code        do_land
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        lunge~
+Code        do_lunge
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        load~
+Code        do_load
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        loadup~
+Code        do_loadup
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        loadarea~
+Code        do_loadarea
+Position    100
+Log         1
+Permit	4
+End
+
+#COMMAND
+Name        learn~
+Code        do_practice
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        link~
+Code        do_link
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        lightning~
+Code        do_lightning
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        magic~
+Code        do_magic
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        mpecho~
+Code        do_mpecho
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpechoat~
+Code        do_mpechoat
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mea~
+Code        do_mpechoat
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpat~
+Code        do_mpat
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpforce~
+Code        do_mpforce
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpechoaround~
+Code        do_mpechoaround
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mer~
+Code        do_mpechoaround
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpasound~
+Code        do_mpasound
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpoload~
+Code        do_mpoload
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpjunk~
+Code        do_mpjunk
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpgoto~
+Code        do_mpgoto
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpdamage~
+Code        do_mp_damage
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpdeposit~
+Code        do_mp_deposit
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mprestore~
+Code        do_mp_restore
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpkill~
+Code        do_hit
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mptransfer~
+Code        do_mptransfer
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpmload~
+Code        do_mpmload
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpnothing~
+Code        do_mpnothing
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mppurge~
+Code        do_mppurge
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpinvis~
+Code        do_mpinvis
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpclosepassage~
+Code        do_mp_close_passage
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpopenpassage~
+Code        do_mp_open_passage
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpdream~
+Code        do_mpdream
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpslay~
+Code        do_mp_slay
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mppractice~
+Code        do_mp_practice
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpwithdraw~
+Code        do_mp_withdraw
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        massign~
+Code        do_massign
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        mcreate~
+Code        do_mcreate
+Position    100
+Log         3
+Permit	8
+End
+
+#COMMAND
+Name        mdelete~
+Code        do_mdelete
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        mfind~
+Code        do_mfind
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        minvoke~
+Code        do_minvoke
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        mlist~
+Code        do_mlist
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        makeshop~
+Code        do_makeshop
+Position    100
+Log         3
+Permit	128
+End
+
+#COMMAND
+Name        mpedit~
+Code        do_mpedit
+Position    100
+Log         3
+Permit	2048
+End
+
+#COMMAND
+Name        memorize~
+Code        do_home
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        mpstat~
+Code        do_mpstat
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        memory~
+Code        do_memory
+Position    100
+Log         0
+Permit	2
+End
+
+#COMMAND
+Name        mset~
+Code        do_mset
+Position    100
+Log         3
+Permit	8
+End
+
+#COMMAND
+Name        mstat~
+Code        do_mstat
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        mwhere~
+Code        do_mwhere
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        mpdelay~
+Code        do_mpdelay
+Position    100
+Log         0
+Permit	512
+Flags       1
+End
+
+#COMMAND
+Name        mposet~
+Code        do_mposet
+Position    100
+Log         0
+Permit	512
+Flags       1
+End
+
+#COMMAND
+Name        mpmset~
+Code        do_mpmset
+Position    100
+Log         0
+Permit	512
+Flags       1
+End
+
+#COMMAND
+Name        mpscatter~
+Code        do_mpscatter
+Position    100
+Log         0
+Permit	512
+Flags       1
+End
+
+#COMMAND
+Name        mppeace~
+Code        do_mppeace
+Position    100
+Log         0
+Permit	512
+Flags       1
+End
+
+#COMMAND
+Name        mpechozone~
+Code        do_mpechozone
+Position    100
+Log         0
+Permit	512
+Flags       1
+End
+
+#COMMAND
+Name        mez~
+Code        do_mpechozone
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        moblog~
+Code        do_moblog
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        material~
+Code        do_material
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        makeore~
+Code        do_makeore
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        mpaset~
+Code        do_mpaset
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpqset~
+Code        do_mpqset
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpaddpoints~
+Code        do_mpaddpoints
+Position    100
+Log         1
+Permit	512
+End
+
+#COMMAND
+Name        maketalent~
+Code        do_makedeity
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        makerooms~
+Code        do_makerooms
+Position    100
+Log         1
+Permit	4
+End
+
+#COMMAND
+Name        marry~
+Code        do_marry
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        mpshowtalents~
+Code        do_mpshowtalents
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mpmakeore~
+Code        do_mpmakeore
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        morph~
+Code        do_morph
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        matshop~
+Code        do_matshop
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        mpsellrand~
+Code        do_mpsellrand
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        mutation~
+Code        do_mutation
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        mpmakeitem~
+Code        do_mpmakeitem
+Position    100
+Log         0
+Permit	512
+End
+
+#COMMAND
+Name        money~
+Code        do_gold
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        magma~
+Code        do_magma
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        manastorm~
+Code        do_manastorm
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        meteor~
+Code        do_meteor
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        mindflay~
+Code        do_mindflay
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        mobedit~
+Code        do_omedit
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        north~
+Code        do_north
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        ne~
+Code        do_northeast
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        nw~
+Code        do_northwest
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        noemote~
+Code        do_noemote
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        noresolve~
+Code        do_noresolve
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        northeast~
+Code        do_northeast
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        northwest~
+Code        do_northwest
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        notell~
+Code        do_notell
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        notitle~
+Code        do_notitle
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        news~
+Code        do_news
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        namegen~
+Code        do_namegen
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        neighbors~
+Code        do_neighbors
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        nation~
+Code        do_nation
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        nochannel~
+Code        do_nochannel
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        nightmare~
+Code        do_nightmare
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        order~
+Code        do_order
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        open~
+Code        do_open
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        oassign~
+Code        do_oassign
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        ocreate~
+Code        do_ocreate
+Position    100
+Log         3
+Permit	64
+End
+
+#COMMAND
+Name        odelete~
+Code        do_odelete
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        ofind~
+Code        do_ofind
+Position    100
+Log         0
+Permit	64
+End
+
+#COMMAND
+Name        oinvoke~
+Code        do_oinvoke
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        olist~
+Code        do_olist
+Position    100
+Log         0
+Permit	64
+End
+
+#COMMAND
+Name        opedit~
+Code        do_opedit
+Position    100
+Log         3
+Permit	2048
+End
+
+#COMMAND
+Name        opstat~
+Code        do_opstat
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        ostat~
+Code        do_ostat
+Position    100
+Log         0
+Permit	64
+End
+
+#COMMAND
+Name        outcast~
+Code        do_outcast
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        owhere~
+Code        do_owhere
+Position    100
+Log         0
+Permit	64
+End
+
+#COMMAND
+Name        oset~
+Code        do_oset
+Position    100
+Log         3
+Permit	64
+End
+
+#COMMAND
+Name        outputprefix~
+Code        do_outputprefix
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        outputsuffix~
+Code        do_outputsuffix
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        osearch~
+Code        do_osearch
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        osay~
+Code        do_ooc_say
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        otransfer~
+Code        do_otransfer
+Position    100
+Log         1
+Permit	64
+End
+
+#COMMAND
+Name        objedit~
+Code        do_ooedit
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        put~
+Code        do_put
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        password~
+Code        do_password
+Position    100
+Log         2
+End
+
+#COMMAND
+Name        practice~
+Code        do_practice
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        pagelength~
+Code        do_pagelen
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        peace~
+Code        do_peace
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        pull~
+Code        do_pull
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        purge~
+Code        do_purge
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        push~
+Code        do_push
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        prompt~
+Code        do_prompt
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        pager~
+Code        do_pager
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        pcrename~
+Code        do_pcrename
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        protect~
+Code        do_protect
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        press~
+Code        do_push
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        punch~
+Code        do_punch
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        pound~
+Code        do_pound
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        pry~
+Code        do_pry
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        permit~
+Code        do_permit
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        piss~
+Code        do_piss
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        plant~
+Code        do_plant
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        play~
+Code        do_sing
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        purify~
+Code        do_purify
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        preserve~
+Code        do_preserve
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        quaff~
+Code        do_quaff
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        qui~
+Code        do_qui
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        quit~
+Code        do_quit
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        qbit~
+Code        do_qbit
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        quake~
+Code        do_quake
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        reply~
+Code        do_reply
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        rest~
+Code        do_rest
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        report~
+Code        do_report
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        remove~
+Code        do_remove
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        rank~
+Code        do_rank
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        rassign~
+Code        do_rassign
+Position    100
+Log         1
+Permit	8
+End
+
+#COMMAND
+Name        rat~
+Code        do_rat
+Position    100
+Log         1
+Permit	4
+End
+
+#COMMAND
+Name        reboo~
+Code        do_reboo
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        reboot~
+Code        do_reboot
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        recite~
+Code        do_recite
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        redit~
+Code        do_redit
+Position    100
+Log         3
+Permit	4
+End
+
+#COMMAND
+Name        regoto~
+Code        do_regoto
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        rent~
+Code        do_rent
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        reset~
+Code        do_reset
+Position    100
+Log         3
+Permit	4
+End
+
+#COMMAND
+Name        restore~
+Code        do_restore
+Position    100
+Log         1
+End
+
+#COMMAND
+Name        restoretime~
+Code        do_restoretime
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        return~
+Code        do_return
+Position    100
+Log         1
+End
+
+#COMMAND
+Name        retransfer~
+Code        do_retran
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        rlist~
+Code        do_rlist
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        rpedit~
+Code        do_rpedit
+Position    100
+Log         3
+Permit	2048
+End
+
+#COMMAND
+Name        rpstat~
+Code        do_rpstat
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        rstat~
+Code        do_rstat
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        rreset~
+Code        (0x558988)
+Position    100
+Log         3
+Permit	4
+End
+
+#COMMAND
+Name        reserve~
+Code        do_reserve
+Position    100
+Log         1
+Permit	256
+End
+
+#COMMAND
+Name        retell~
+Code        do_retell
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        roll~
+Code        do_roll
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        races~
+Code        do_races
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        recipe~
+Code        do_recipe
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        read~
+Code        do_look
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        ready~
+Code        do_ready
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        relax~
+Code        do_relax
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        radio~
+Code        do_radio
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        reward~
+Code        do_award
+Position    100
+Log         1
+Permit	32
+End
+
+#COMMAND
+Name        rebirth~
+Code        do_rebirth
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        rfind~
+Code        do_rfind
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        rune~
+Code        do_rune
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        resurrect~
+Code        do_resurrect
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        retrieve~
+Code        do_retrieve
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        reshape~
+Code        do_reshape
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        recall~
+Code        do_recall
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        residence~
+Code        do_residence
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        roomedit~
+Code        do_oredit
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        south~
+Code        do_south
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        se~
+Code        do_southeast
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        sw~
+Code        do_southwest
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        say~
+Code        do_say
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        save~
+Code        do_save
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        sleep~
+Code        do_sleep
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        stand~
+Code        do_stand
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        savearea~
+Code        do_savearea
+Position    100
+Log         3
+Permit	4
+End
+
+#COMMAND
+Name        sell~
+Code        do_sell
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        sedit~
+Code        do_sedit
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        setboot~
+Code        do_set_boot_time
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        shops~
+Code        do_shops
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        shopset~
+Code        do_shopset
+Position    100
+Log         3
+End
+
+#COMMAND
+Name        shopstat~
+Code        do_shopstat
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        shove~
+Code        do_shove
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        shutdow~
+Code        do_shutdow
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        sit~
+Code        do_sit
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        silence~
+Code        do_silence
+Position    100
+Log         1
+End
+
+#COMMAND
+Name        slay~
+Code        do_slay
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        slookup~
+Code        do_slookup
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        smoke~
+Code        do_smoke
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        snoop~
+Code        do_snoop
+Position    100
+Log         4
+Permit	1
+End
+
+#COMMAND
+Name        sober~
+Code        do_sober
+Position    100
+Log         4
+Permit	128
+End
+
+#COMMAND
+Name        socials~
+Code        do_socials
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        southeast~
+Code        do_southeast
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        southwest~
+Code        do_southwest
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        sset~
+Code        do_sset
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        switch~
+Code        do_switch
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        saveall~
+Code        do_saveall
+Position    100
+Log         0
+Permit	8
+End
+
+#COMMAND
+Name        showweather~
+Code        do_showweather
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        setweather~
+Code        do_setweather
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        strew~
+Code        do_strew
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        strip~
+Code        do_strip
+Position    100
+Log         1
+Permit	16
+End
+
+#COMMAND
+Name        showlayers~
+Code        do_showlayers
+Position    100
+Log         0
+Permit	64
+End
+
+#COMMAND
+Name        score~
+Code        do_score
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        showabit~
+Code        do_showabit
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        showqbit~
+Code        do_showqbit
+Position    100
+Log         0
+Permit	2048
+End
+
+#COMMAND
+Name        setabit~
+Code        do_setabit
+Position    100
+Log         3
+Permit	2048
+End
+
+#COMMAND
+Name        setqbit~
+Code        do_setqbit
+Position    100
+Log         3
+Permit	2048
+End
+
+#COMMAND
+Name        showtalent~
+Code        do_showdeity
+Position    100
+Log         0
+Permit	32
+End
+
+#COMMAND
+Name        settalent~
+Code        do_setdeity
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        species~
+Code        do_species
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        sing~
+Code        do_sing
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        split~
+Code        do_split
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        skills~
+Code        do_skills
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        suicide~
+Code        do_suicide
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        squat~
+Code        do_squat
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        status~
+Code        do_status
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        slash~
+Code        do_slash
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        stab~
+Code        do_stab
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        sheathe~
+Code        do_sheathe
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        shoot~
+Code        do_shoot
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        story~
+Code        do_story
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        steam~
+Code        do_steam
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        setmoon~
+Code        do_moon
+Position    100
+Log         0
+Permit	128
+End
+
+#COMMAND
+Name        shutdown~
+Code        do_shutdown
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        sethelp~
+Code        do_set_help
+Position    100
+Log         0
+Permit	2
+End
+
+#COMMAND
+Name        setbook~
+Code        do_set_book
+Position    100
+Log         0
+Permit	2
+End
+
+#COMMAND
+Name        shield~
+Code        do_shield
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        summon~
+Code        do_summon
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        seek~
+Code        do_seek
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        sandstorm~
+Code        do_sandstorm
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        scatter~
+Code        do_scatter
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        sonic~
+Code        do_sonics
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        sear~
+Code        do_sunstroke
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        soulfire~
+Code        do_soulfire
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        sworddance~
+Code        do_sworddance
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        smite~
+Code        do_smite
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        splash~
+Code        do_splash
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        shock~
+Code        do_shock
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        storm~
+Code        do_storm
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        sellhouse~
+Code        do_sellhouse
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        tell~
+Code        do_tell
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        take~
+Code        do_get
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        tamp~
+Code        do_tamp
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        think~
+Code        do_think
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        time~
+Code        do_time
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        title~
+Code        do_title
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        transfer~
+Code        do_transfer
+Position    100
+Log         1
+Permit	128
+End
+
+#COMMAND
+Name        timecmd~
+Code        do_timecmd
+Position    100
+Log         0
+Permit	1
+End
+
+#COMMAND
+Name        tap~
+Code        do_tap
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        tradein~
+Code        do_tradein
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        talents~
+Code        do_deities
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        tadvance~
+Code        do_talent_advance
+Position    100
+Log         1
+Permit	32
+End
+
+#COMMAND
+Name        tail~
+Code        do_tail
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        throw~
+Code        do_throw
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        turn~
+Code        do_turn
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        talk~
+Code        do_chat
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        train~
+Code        do_train
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        travel~
+Code        do_travel
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        telekinesis~
+Code        do_telekinetics
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        taint~
+Code        do_taint
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        up~
+Code        do_up
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        unlock~
+Code        do_unlock
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        unfoldarea~
+Code        do_unfoldarea
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        unhell~
+Code        do_unhell
+Position    100
+Log         4
+Permit	16
+End
+
+#COMMAND
+Name        users~
+Code        do_users
+Position    100
+Log         0
+Permit	256
+End
+
+#COMMAND
+Name        unsilence~
+Code        do_unsilence
+Position    100
+Log         1
+End
+
+#COMMAND
+Name        unwield~
+Code        do_sheathe
+Position    105
+Log         0
+End
+
+#COMMAND
+Name        urinate~
+Code        do_piss
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        users2~
+Code        do_users
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        unhide~
+Code        do_emerge
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        unholyblast~
+Code        do_unholyblast
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        value~
+Code        do_value
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        vnums~
+Code        do_vnums
+Position    100
+Log         0
+Permit	4
+End
+
+#COMMAND
+Name        vsearch~
+Code        do_vsearch
+Position    100
+Log         0
+Permit	64
+End
+
+#COMMAND
+Name        ventriloquate~
+Code        do_ventriloquate
+Position    107
+Log         0
+End
+
+#COMMAND
+Name        visible~
+Code        do_emerge
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        void~
+Code        do_void
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        voice~
+Code        do_ventriloquate
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        vines~
+Code        do_vines
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        west~
+Code        do_west
+Position    109
+Log         0
+End
+
+#COMMAND
+Name        wake~
+Code        do_wake
+Position    104
+Log         0
+End
+
+#COMMAND
+Name        who~
+Code        do_who
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        wear~
+Code        do_wear
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        whois~
+Code        do_whois
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        wield~
+Code        do_wield
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        weather~
+Code        do_weather
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        wizhelp~
+Code        do_wizhelp
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        wizlock~
+Code        do_wizlock
+Position    100
+Log         1
+Permit	1
+End
+
+#COMMAND
+Name        whisper~
+Code        do_whisper
+Position    100
+Log         0
+Flags       1
+End
+
+#COMMAND
+Name        withdraw~
+Code        do_withdraw
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        wail~
+Code        do_wail
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        write~
+Code        do_bookwrite
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        where~
+Code        do_where
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        weapons~
+Code        do_weapons
+Position    100
+Log         0
+End
+
+#COMMAND
+Name        whip~
+Code        do_whip
+Position    108
+Log         0
+End
+
+#COMMAND
+Name        wind~
+Code        do_wind
+Position    112
+Log         0
+End
+
+#COMMAND
+Name        zap~
+Code        do_shoot
+Position    106
+Log         0
+End
+
+#COMMAND
+Name        zones~
+Code        do_zones
+Position    100
+Log         0
+Permit	4
+End
+
+#END

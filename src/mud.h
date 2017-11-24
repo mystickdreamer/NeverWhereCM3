@@ -2266,6 +2266,8 @@ struct char_data
    int mood;   /* anger, fear, etc */
    int encumberance; /* weight of items being worn */
    int speed;
+   int skinamount;
+   int curr_skinamount;
    OBJ_DATA *in_obj; /* for vehicles */
 };
 

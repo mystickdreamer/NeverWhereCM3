@@ -97,7 +97,6 @@ void do_mpmset( CHAR_DATA * ch, char *argument )
          return;
       }
       victim->skinamount = value;
-      victim->curr_skinamount = victim->skinamount;
       return;
    }
    if( !str_cmp( arg2, "str" ) )

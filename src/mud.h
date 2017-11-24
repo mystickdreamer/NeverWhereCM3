@@ -2100,7 +2100,6 @@ struct mob_index_data
    sh_int saving_breath;
    sh_int saving_spell_staff;
    sh_int skinamount;
-   sh_int curr_skinamount;
 };
 
 
@@ -2267,7 +2266,6 @@ struct char_data
    int encumberance; /* weight of items being worn */
    int speed;
    sh_int skinamount;
-   sh_int curr_skinamount;
    OBJ_DATA *in_obj; /* for vehicles */
 };
 

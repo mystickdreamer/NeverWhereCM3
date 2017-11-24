@@ -639,7 +639,6 @@ CHAR_DATA *generate_mob( NATION_DATA * nation )
    mob->perm_per = 100 + nation->cha_mod;
    mob->perm_lck = 100 + nation->lck_mod;
    mob->skinamount = 0;
-   mob->curr_skinamount = 0;
 
    mob->susceptible = nation->suscept;
    mob->speed = 100;
@@ -677,7 +676,6 @@ CHAR_DATA *generate_mob( NATION_DATA * nation )
          mob->perm_lck += 50;
          mob->perm_per += 50;
          mob->skinamount += 20;
-         mob->curr_skinamount += 20;
       }
       switch ( number_range( 1, 10 ) )
       {

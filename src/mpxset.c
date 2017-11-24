@@ -86,6 +86,20 @@ void do_mpmset( CHAR_DATA * ch, char *argument )
    value = is_number( arg3 ) ? atoi( arg3 ) : -1;
    if( atoi( arg3 ) < -1 && value == -1 )
       value = atoi( arg3 );
+      
+   if( !str_cmp( arg2, "skinning" ) )
+      
+   {
+      if( value < minattr || value > maxattr )
+         
+      {
+         progbug( "MpMset: Invalid skinning", ch );
+         return;
+      }
+      victim->skinamount = value;
+      victim->curr_skinamount = victim->skinamount;
+      return;
+   }
    if( !str_cmp( arg2, "str" ) )
       
    {

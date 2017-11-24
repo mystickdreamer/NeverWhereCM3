@@ -2678,6 +2678,7 @@ OBJ_DATA *create_object( OBJ_INDEX_DATA * pObjIndex, int level )
       case ITEM_QUIVER:
       case ITEM_SHOVEL:
       case ITEM_PROJECTILE:
+      case ITEM_CARVINGKNIFE:
          break;
 
       case ITEM_SALVE:

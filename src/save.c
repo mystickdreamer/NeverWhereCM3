@@ -2393,7 +2393,6 @@ void fwrite_mobile( FILE * fp, CHAR_DATA * mob )
     */
    fprintf( fp, "AttrPerm     %d %d %d %d %d %d %d\n",
             mob->perm_str, mob->perm_int, mob->perm_wil, mob->perm_dex, mob->perm_con, mob->perm_per, mob->perm_lck );
-   fprintf( fp, "Skin %d Curr Skin %d\n", mob->skinamount, mob->curr_skinamount);
    fprintf( fp, "Part	%d\n", mob->xflags );
    if( mob->first_carrying )
       fwrite_obj( mob, mob->last_carrying, fp, 0, OS_CARRY );
@@ -2412,7 +2411,7 @@ CHAR_DATA *fread_mobile( FILE * fp )
    int inroom = 0;
    char *line;
    ROOM_INDEX_DATA *pRoomIndex = NULL;
-   int x1, x2, x3, x4, x5, x6, x7, x8, x9;
+   int x1, x2, x3, x4, x5, x6, x7;
 
    word = feof( fp ) ? "EndMobile" : fread_word( fp );
    if( !strcmp( word, "Vnum" ) )
@@ -2473,7 +2472,7 @@ CHAR_DATA *fread_mobile( FILE * fp )
             {
                line = fread_line( fp );
                x1 = x2 = x3 = x4 = x5 = x6 = x7 = 0;
-               sscanf( line, "%d %d %d %d %d %d %d %d %d", &x1, &x2, &x3, &x4, &x5, &x6, &x7, &x8, &x9 );
+               sscanf( line, "%d %d %d %d %d %d %d", &x1, &x2, &x3, &x4, &x5, &x6, &x7 );
                mob->perm_str = x1;
                mob->perm_int = x2;
                mob->perm_wil = x3;
@@ -2481,8 +2480,6 @@ CHAR_DATA *fread_mobile( FILE * fp )
                mob->perm_con = x5;
                mob->perm_per = x6;
                mob->perm_lck = x7;
-               mob->skinamount = x8;
-               mob->curr_skinamount = x9;
                fMatch = TRUE;
                break;
             }

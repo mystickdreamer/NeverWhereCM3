@@ -2413,7 +2413,7 @@ CHAR_DATA *fread_mobile( FILE * fp )
    int inroom = 0;
    char *line;
    ROOM_INDEX_DATA *pRoomIndex = NULL;
-   int x1, x2, x3, x4, x5, x6, x7, s1, s2;
+   int x1, x2, x3, x4, x5, x6, x7;
 
    word = feof( fp ) ? "EndMobile" : fread_word( fp );
    if( !strcmp( word, "Vnum" ) )

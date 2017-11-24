@@ -746,16 +746,16 @@ int percent;
 MATERIAL_DATA *material;
    
 found = FALSE;
-   
-if( !can_use_skill( ch, 0, gsn_skin ) )
+  //Everybody should be able to skin 
+//if( !can_use_skill( ch, 0, gsn_skin ) )
             
-         {
+//         {
             
-send_to_char( "You do not yet know how to skin.\n\r", ch );
+//send_to_char( "You do not yet know how to skin.\n\r", ch );
             
-return;
+//return;
          
-}   
+//}   
    
    
 if( argument[0] == '\0' )

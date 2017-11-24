@@ -1063,7 +1063,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
       send_to_char( "  age qp qpa favor deity\n\r", ch );
       send_to_char( "\n\r", ch );
       send_to_char( "skinning - set amount 0 to 100", ch);
-      send_to_char* "\n\r", ch );
+      send_to_char( "\n\r", ch );
       send_to_char( "For editing index/prototype mobiles:\n\r", ch );
       send_to_char( "  hitnumdie hitsizedie hitplus (hit points)\n\r", ch );
       send_to_char( "  damnumdie damsizedie damplus (damage roll)\n\r", ch );

@@ -152,8 +152,8 @@ char *const o_types[] = {
    "book", "switch", "lever", "pullchain", "button", "dial", "rune",
    "runepouch", "sheath", "trap", "map", "portal", "paper", "tinder",
    "lockpick", "lock", "disease", "oil", "fuel", "vehicle", "bank",
-   "missileweapon", "projectile", "quiver", "shovel", "salve", "cook",
-   "keyring", "carvingknife", "odor"
+   "missileweapon", "projectile", "quiver", "shovel", "carvingknife", "salve", "cook",
+   "keyring", "odor"
 };
 
 char *const a_types[] = {

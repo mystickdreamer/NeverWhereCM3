@@ -2486,6 +2486,8 @@ CHAR_DATA *fread_mobile( FILE * fp )
                break;
             }
             break;
+         case 'C':
+            KEY( "CurrSkin", mob->curr_skinamount, fread_number( fp ) );
          case 'D':
             KEY( "Description", mob->description, fread_string( fp ) );
             break;
@@ -2522,7 +2524,6 @@ CHAR_DATA *fread_mobile( FILE * fp )
             break;
          case 'S':
             KEY( "Skin", mob->skinamount, fread_number( fp ) );
-            KEY( "CurrSkin", mob->curr_skinamount, fread_number( fp ) );
             KEY( "Short", mob->short_descr, fread_string( fp ) );
             break;
       }

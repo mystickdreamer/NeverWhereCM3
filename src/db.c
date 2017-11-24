@@ -2626,6 +2626,7 @@ OBJ_DATA *create_object( OBJ_INDEX_DATA * pObjIndex, int level )
       case ITEM_DRINK_CON:
       case ITEM_KEY:
       case ITEM_KEYRING:
+      case ITEM_CARVINGKNIFE:
       case ITEM_ODOR:
       case ITEM_INSTRUMENT:
       case ITEM_VEHICLE:
@@ -2677,7 +2678,6 @@ OBJ_DATA *create_object( OBJ_INDEX_DATA * pObjIndex, int level )
       case ITEM_FUEL:
       case ITEM_QUIVER:
       case ITEM_SHOVEL:
-       case ITEM_CARVINGKNIFE:
       case ITEM_PROJECTILE:
          break;
 

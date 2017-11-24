@@ -1114,11 +1114,10 @@ void do_mset( CHAR_DATA * ch, char *argument )
          return;
       }
       victim->skinamount = value;
-      victim->curr_skinamount = value;
+      victim->curr_skinamount = victim->skinamount;
       if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
          victim->pIndexData->skinamount = value;
-      if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
-         victim->pIndexData->curr_skinamount = value;
+         victim->pIndexData->curr_skinamount = victim->pIndexData->skinamount;
       return;
    }
    

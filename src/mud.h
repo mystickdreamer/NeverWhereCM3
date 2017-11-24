@@ -2099,6 +2099,8 @@ struct mob_index_data
    sh_int saving_para_petri;
    sh_int saving_breath;
    sh_int saving_spell_staff;
+   int skinamount;
+   int curr_skinamount;
 };
 
 

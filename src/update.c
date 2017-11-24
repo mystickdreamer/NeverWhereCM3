@@ -949,7 +949,7 @@ void mobile_update( void )
                case ITEM_MONEY:
                case ITEM_BOAT:
                case ITEM_PROJECTILE:
-               case ITEM_SHOVEL:
+               case ITEM_SHOVEL: 
                case ITEM_CARVINGKNIFE:
                case ITEM_KEY:
                case ITEM_LOCK:

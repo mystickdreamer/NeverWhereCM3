@@ -2393,7 +2393,8 @@ void fwrite_mobile( FILE * fp, CHAR_DATA * mob )
     */
    fprintf( fp, "AttrPerm     %d %d %d %d %d %d %d\n",
             mob->perm_str, mob->perm_int, mob->perm_wil, mob->perm_dex, mob->perm_con, mob->perm_per, mob->perm_lck );
-   fprintf( fp, "Skin %d %d\n", mob->skinamount, mob->curr_skinamount );
+   fprintf( fp, "Skin %d\n", mob->skinamount );
+   fprintf( fp, "CurrSkin %d\n", mob-curr_skinamount);
    fprintf( fp, "Part	%d\n", mob->xflags );
    if( mob->first_carrying )
       fwrite_obj( mob, mob->last_carrying, fp, 0, OS_CARRY );
@@ -2520,17 +2521,8 @@ CHAR_DATA *fread_mobile( FILE * fp )
             KEY( "Room", inroom, fread_number( fp ) );
             break;
          case 'S':
-             if( !strcmp( word, "Skin" ) )
-             {
-              line = fread_line( fp );
-               s1 = s2 = 0;
-               sscanf( line, "%d %d %d %d %d %d %d", &s1, &s2 );
-               mob->skinamount = s1;
-               mob->curr_skinamount = s2; 
-               fMatch = TRUE;
-               break;
-             }
-            
+            KEY( "Skin", mob->skinamount, fread_number( fp ) );
+            KEY( "CurrSkin", mob->curr_skinamount, fread_number( fp ) );
             KEY( "Short", mob->short_descr, fread_string( fp ) );
             break;
       }

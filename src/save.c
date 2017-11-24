@@ -2394,7 +2394,7 @@ void fwrite_mobile( FILE * fp, CHAR_DATA * mob )
    fprintf( fp, "AttrPerm     %d %d %d %d %d %d %d\n",
             mob->perm_str, mob->perm_int, mob->perm_wil, mob->perm_dex, mob->perm_con, mob->perm_per, mob->perm_lck );
    fprintf( fp, "Skin %d\n", mob->skinamount );
-   fprintf( fp, "CurrSkin %d\n", mob-curr_skinamount);
+   fprintf( fp, "CurrSkin %d\n", mob->curr_skinamount);
    fprintf( fp, "Part	%d\n", mob->xflags );
    if( mob->first_carrying )
       fwrite_obj( mob, mob->last_carrying, fp, 0, OS_CARRY );

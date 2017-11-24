@@ -1062,6 +1062,8 @@ void do_mset( CHAR_DATA * ch, char *argument )
       send_to_char( "  name short long description title spec\n\r", ch );
       send_to_char( "  age qp qpa favor deity\n\r", ch );
       send_to_char( "\n\r", ch );
+      send_to_char( "skinning - set amount 0 to 100", ch);
+      send_to_char* "\n\r", ch );
       send_to_char( "For editing index/prototype mobiles:\n\r", ch );
       send_to_char( "  hitnumdie hitsizedie hitplus (hit points)\n\r", ch );
       send_to_char( "  damnumdie damsizedie damplus (damage roll)\n\r", ch );
@@ -1437,6 +1439,22 @@ void do_mset( CHAR_DATA * ch, char *argument )
       return;
    }
 
+      if( !str_cmp( arg2, "skinning" ) )
+   {
+      if( value < 0 || value > 100 )
+      {
+         send_to_char( "Skinning range is 0 to 100.\n\r", ch);
+         return;
+      }
+      victim->skinamount = value;
+	  victim->curr_skinamount = value;
+      if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
+         victim->pIndexData->skinamount = value;
+		 victim->pIndexData->curr_skinamount = value;
+      return;
+   }
+   
+   
    if( !str_cmp( arg2, "move" ) )
    {
       if( value < 0 || value > 30000 )

@@ -1105,7 +1105,22 @@ void do_mset( CHAR_DATA * ch, char *argument )
 
    if( atoi( arg3 ) < -1 && value == -1 )
       value = atoi( arg3 );
-
+   
+   if( !str_cmp( arg2, "skinning" ) )
+   {
+      if( value < minattr || value > maxattr )
+      {
+         ch_printf( ch, "Skinning range is %d to %d.\n\r", minattr, maxattr );
+         return;
+      }
+      victim->skinamount = value;
+      victim->curr_skinamount = value;
+      if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
+         victim->pIndexData->skinamount = value;
+         victim->pIndexData->curr_skinamount = value;
+      return;
+   }
+   
    if( !str_cmp( arg2, "str" ) )
    {
       if( value < minattr || value > maxattr )

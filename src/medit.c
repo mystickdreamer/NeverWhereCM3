@@ -760,6 +760,8 @@ void medit_disp_npc_menu( DESCRIPTOR_DATA *d )
 	
 	ch_printf_color( ch, "&g5&w) Gold:     [&c%8d&w]\n\r",
         mob->gold );
+        ch_printf_color( ch, "&g6&w) Skin Resource:     [&c%8d&w]\n\r",
+        mob->skinamount );
 	ch_printf_color( ch, "\n\r");
 		
     ch_printf_color( ch, "&gA&w) Strength:[&c%5d&w], &gB&w) Dexterity:       [&c%5d&w], &gC&w) Constitution:[&c%5d&w]\n\r",

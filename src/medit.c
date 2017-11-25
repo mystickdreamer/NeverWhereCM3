@@ -1036,8 +1036,8 @@ void medit_parse( DESCRIPTOR_DATA *d, char *arg )
 	    return;
 	case 'O':
 	    OLC_MODE(d) = MEDIT_SPEC;
-	    medit_disp_spec1
-            return;
+	    medit_disp_spec(d);
+	    return;
 	case 'P':
 	    OLC_MODE(d) = MEDIT_SAVE_MENU;
 	    medit_disp_saving_menu(d);

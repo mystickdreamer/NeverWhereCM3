@@ -2500,6 +2500,7 @@ struct obj_data
    int size;
    int raw_mana;
    int mana;
+   sh_int skinamount;
    EXT_BV parts;  /* which parts the item is worn on */
    OBJ_DATA *gem; /* what gem is attached to it */
 };

@@ -2455,6 +2455,7 @@ struct obj_index_data
    int value[7];  /* Added one extra -- Scion */
    int serial;
    sh_int layers;
+   sh_int skinamount;
    EXT_BV parts;
 };
 

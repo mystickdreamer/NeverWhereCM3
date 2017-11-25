@@ -1434,7 +1434,7 @@ void do_mstat( CHAR_DATA * ch, char *argument )
    if( IS_NPC( victim ) )
       pager_printf_color( ch, "&cSkin Resource: &w%d\r\n", victim->skinamount );
    else
-      pager_printf_color( ch, "  &cBank: &w%ld  &cBounty: &w%d\r\n", victim->pcdata->balance, victim->pcdata->bounty );
+      pager_printf_color( ch, "&cBank: &w%ld  &cBounty: &w%d\r\n", victim->pcdata->balance, victim->pcdata->bounty );
    pager_printf_color( ch, "&cWorth: &w%-4d\r\n", IS_NPC( victim ) ? get_exp_worth( victim ) : get_char_worth( victim ) );
    if( get_timer( victim, TIMER_PKILLED ) )
       pager_printf_color( ch, "&cTimerKilled:  &R%d\n\r", get_timer( victim, TIMER_PKILLED ) );

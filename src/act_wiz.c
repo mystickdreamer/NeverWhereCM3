@@ -1224,7 +1224,7 @@ void do_ostat( CHAR_DATA * ch, char *argument )
 {
    char arg[MAX_INPUT_LENGTH];
    AFFECT_DATA *paf;
-   OBJ_DATA *obj;
+   OBJ_DATA *corpse, *obj;
 
    set_char_color( AT_CYAN, ch );
 

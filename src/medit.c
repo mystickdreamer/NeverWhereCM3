@@ -760,8 +760,7 @@ void medit_disp_npc_menu( DESCRIPTOR_DATA *d )
 	
 	ch_printf_color( ch, "&g5&w) Gold:     [&c%8d&w]\n\r",
         mob->gold );
-        ch_printf_color( ch, "&g6&w) Skin Resource:     [&c%8d&w]\n\r",
-        mob->skinamount );
+        ch_printf_color( ch, "&g6&w) Skin Resource: [&c%8d&w]\n\r", mob->skinamount );
 	ch_printf_color( ch, "\n\r");
 		
     ch_printf_color( ch, "&gA&w) Strength:[&c%5d&w], &gB&w) Dexterity:       [&c%5d&w], &gC&w) Constitution:[&c%5d&w]\n\r",
@@ -1029,6 +1028,10 @@ void medit_parse( DESCRIPTOR_DATA *d, char *arg )
 	case '5':
 	    OLC_MODE(d) = MEDIT_GOLD;
 	    send_to_char( "\n\rEnter amount of gold mobile carries: ", d->character );
+	    return;
+	case '6':
+	    OLC_MODE(d) = MEDIT_SKIN;
+	    send_to_char( "\n\rEnter the amount of skin the creature has: ", d->character );
 	    return;
 	case 'O':
 	    OLC_MODE(d) = MEDIT_SPEC;
@@ -1628,6 +1631,10 @@ void medit_parse( DESCRIPTOR_DATA *d, char *arg )
     case MEDIT_GOLD:
 	victim->gold = UMAX( 0, atoi(arg) );
 	olc_log( d, "Changed gold to %d", victim->gold );
+	break;
+    case MEDIT_SKIN:
+	victim->skinamount = UMAX( 0, atoi(arg) );
+	olc_log( d, "Changed amount of skin to %d", victim->skinamount );
 	break;
 
     case MEDIT_POS:

@@ -2680,6 +2680,15 @@ void do_oset( CHAR_DATA * ch, char *argument )
       }
       return;
    }
+   if( !str_cmp( arg2, "skinamount" ) )
+   {
+      obj->skinamount = value;
+      if( IS_OBJ_STAT( obj, ITEM_PROTOTYPE ) )
+      {
+         obj->pIndexData->skinamount = value;
+      }
+      return;
+   }
 
    if( !str_cmp( arg2, "cost" ) )
    {

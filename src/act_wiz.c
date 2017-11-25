@@ -1276,6 +1276,10 @@ void do_ostat( CHAR_DATA * ch, char *argument )
    ch_printf_color( ch, "&cIn room: &w%d  ", obj->in_room == NULL ? 0 : obj->in_room->vnum );
    ch_printf_color( ch, "&cIn object: &w%s  ", obj->in_obj == NULL ? "(none)" : obj->in_obj->short_descr );
    ch_printf_color( ch, "&cCarried by: &C%s\n\r", obj->carried_by == NULL ? "(none)" : obj->carried_by->name );
+   if( obj->pIndexData->item_type == ITEM_CORPSE)
+   {
+   ch_printf_color( ch, "&cSkinning Amount: &w%d  ", obj->skinamount );
+   }
    ch_printf_color( ch, "&cIndex Values : &w%d %d %d %d %d %d %d.\n\r",
                     obj->pIndexData->value[0], obj->pIndexData->value[1],
                     obj->pIndexData->value[2], obj->pIndexData->value[3],

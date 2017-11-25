@@ -211,6 +211,7 @@ void do_mcopy( CHAR_DATA *ch, char *argument )
     copy->damsizedice	        = orig->damsizedice;
     copy->damplus		= orig->damplus;
     copy->gold		        = orig->gold;
+    copy->skinamount            = orig->skinamount;
     copy->exp		        = orig->exp;
     copy->position		= orig->position;
     copy->sex		        = orig->sex;
@@ -1035,8 +1036,7 @@ void medit_parse( DESCRIPTOR_DATA *d, char *arg )
 	    return;
 	case 'O':
 	    OLC_MODE(d) = MEDIT_SPEC;
-	    medit_disp_spec(d);
-	    return;
+	    medit_disp_spec1
 	case 'P':
 	    OLC_MODE(d) = MEDIT_SAVE_MENU;
 	    medit_disp_saving_menu(d);

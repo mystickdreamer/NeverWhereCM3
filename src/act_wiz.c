@@ -1278,7 +1278,7 @@ void do_ostat( CHAR_DATA * ch, char *argument )
    ch_printf_color( ch, "&cCarried by: &C%s\n\r", obj->carried_by == NULL ? "(none)" : obj->carried_by->name );
    if( obj->item_type == ITEM_CORPSE_NPC )
    {
-   ch_printf_color( ch, "&cSkinning Amount: &w%d  ", obj->skinamount );
+   ch_printf_color( ch, "&cSkinning Amount: &w%d  \n\r", obj->skinamount );
    }
    ch_printf_color( ch, "&cIndex Values : &w%d %d %d %d %d %d %d.\n\r",
                     obj->pIndexData->value[0], obj->pIndexData->value[1],

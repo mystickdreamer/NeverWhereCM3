@@ -2363,6 +2363,8 @@ void do_oset( CHAR_DATA * ch, char *argument )
       send_to_char( "  name short long ed rmed actiondesc\n\r", ch );
       send_to_char( "  type value0 value1 value2 value3 value4 value5\n\r", ch );
       send_to_char( "  affect rmaffect layers size mana\n\r", ch );
+      send_to_char( "For corpses:             \n\r", ch );
+      send_to_char( "skinamount\n\r", ch);
       send_to_char( "For weapons:             For armor:\n\r", ch );
       send_to_char( "  weapontype               ac\n\r", ch );
       send_to_char( "For scrolls, potions and pills:\n\r", ch );

@@ -1432,7 +1432,7 @@ void do_mstat( CHAR_DATA * ch, char *argument )
    pager_printf_color( ch, "&cSecs: &w%d  &cTimer: &w%d  &cGold: &Y%ld", ( int )victim->played, victim->timer,
                        victim->gold );
    if( IS_NPC( victim ) )
-      pager_printf_color(ch, "\n\r");
+      pager_printf_color( ch, "\r\n" );
       pager_printf_color( ch, "&cSkin Resource: &w%d\r\n", victim->skinamount );
    else
       pager_printf_color( ch, "  &cBank: &w%ld  &cBounty: &w%d\r\n", victim->pcdata->balance, victim->pcdata->bounty );

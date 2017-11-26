@@ -2293,10 +2293,13 @@ void make_corpse( CHAR_DATA * ch )
 
    if( IS_NPC( ch ) )
    {
+       // This is how we transfer the name from a mob to the corpse
       name = ch->short_descr;
+      // gotta transfer how much skinning the mob has to the corpse which is an object
       skinamount = ch->skinamount;
       corpse = create_object( get_obj_index( OBJ_VNUM_CORPSE_NPC ), 0 );
       corpse->skinamount = skinamount;
+      // adding a timer for the corpse
       corpse->timer = 6;
       if( ch->gold > 0 )
       {

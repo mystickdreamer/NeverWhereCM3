@@ -1634,7 +1634,7 @@ void medit_parse( DESCRIPTOR_DATA *d, char *arg )
 	olc_log( d, "Changed gold to %d", victim->gold );
 	break;
     case MEDIT_SKIN:
-	victim->skinamount = UMAX( 0, atoi(arg) );
+	victim->skinamount = URANGE( 0, atoi(arg), 4 );
 	olc_log( d, "Changed amount of skin to %d", victim->skinamount );
 	break;
 

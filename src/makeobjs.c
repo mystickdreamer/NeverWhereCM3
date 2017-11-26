@@ -2294,8 +2294,9 @@ void make_corpse( CHAR_DATA * ch )
    if( IS_NPC( ch ) )
    {
       name = ch->short_descr;
+      skinamount = ch->skinamount;
       corpse = create_object( get_obj_index( OBJ_VNUM_CORPSE_NPC ), 0 );
-      corpse->skinamount = ch->skinamount;
+      corpse->skinamount = skinamount;
       corpse->timer = 6;
       if( ch->gold > 0 )
       {

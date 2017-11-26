@@ -2258,7 +2258,7 @@ void make_corpse( CHAR_DATA * ch )
    OBJ_DATA *obj_next;
    MATERIAL_DATA *material;
    PART_DATA *part;
-   char *name;
+   char *name, skinamount;
    
 
    if( IS_AFFECTED( ch, AFF_NO_CORPSE ) )
@@ -2294,6 +2294,7 @@ void make_corpse( CHAR_DATA * ch )
    if( IS_NPC( ch ) )
    {
       name = ch->short_descr;
+      skinamount = ch->skinamount;
       corpse = create_object( get_obj_index( OBJ_VNUM_CORPSE_NPC ), 0 );
       corpse->timer = 6;
       if( ch->gold > 0 )

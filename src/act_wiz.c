@@ -1279,7 +1279,9 @@ void do_ostat( CHAR_DATA * ch, char *argument )
    if( obj->item_type == ITEM_CORPSE_NPC )
    {
    ch_printf_color( ch, "&cSkinning Amount: &w%d  \n\r", obj->skinamount );
+   ch_printf_color( ch, "&cSkinning Type: &w%d  \n\r", obj->skintype );
    }
+   
    ch_printf_color( ch, "&cIndex Values : &w%d %d %d %d %d %d %d.\n\r",
                     obj->pIndexData->value[0], obj->pIndexData->value[1],
                     obj->pIndexData->value[2], obj->pIndexData->value[3],
@@ -1436,7 +1438,8 @@ void do_mstat( CHAR_DATA * ch, char *argument )
    pager_printf_color( ch, "&cSecs: &w%d  &cTimer: &w%d  &cGold: &Y%ld \n\r", ( int )victim->played, victim->timer,
                        victim->gold );
    if( IS_NPC( victim ) )
-      pager_printf_color( ch, "&cSkin Resource: &w%d\r\n", victim->skinamount );
+      pager_printf_color( ch, "&cSkin Amount: &w%d\r\n", victim->skinamount );
+   pager_printf_color( ch, "&cSkin Type: &w%d\r\n", victim->skintype );
    else
       pager_printf_color( ch, "&cBank: &w%ld  &cBounty: &w%d\r\n", victim->pcdata->balance, victim->pcdata->bounty );
    pager_printf_color( ch, "&cWorth: &w%-4d\r\n", IS_NPC( victim ) ? get_exp_worth( victim ) : get_char_worth( victim ) );

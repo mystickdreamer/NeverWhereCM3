@@ -6089,7 +6089,7 @@ void load_materials( void )
          case 'S':
             KEY( "Sector", material->sector, fread_number( fp ) );
             KEY( "Short", material->short_descr, fread_string( fp ) );
-            KEY( "Skin", material->skin( fp ) );
+            KEY( "Skin", material->skin, fread_number( fp ) );
             break;
          case 'W':
             KEY( "Weight", material->weight, fread_number( fp ) );

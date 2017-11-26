@@ -3678,7 +3678,7 @@ void do_material( CHAR_DATA * ch, char *argument )
           }
           if( atoi( arg4 ) >= SKIN_MAX || atoi( arg4 ) < -1 )
           {
-              send_to_char( "That is not a valid skin type. \r\n". ch);
+              send_to_char( "That is not a valid skin type. \r\n", ch );
               return;
           }
           material->skin = atoi( arg4 );

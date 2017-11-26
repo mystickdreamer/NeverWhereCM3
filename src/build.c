@@ -1062,7 +1062,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
       send_to_char( "  name short long description title spec\n\r", ch );
       send_to_char( "  age qp qpa favor deity\n\r", ch );
       send_to_char( "\n\r", ch );
-      send_to_char( "skinning - set amount 0 to 100", ch);
+      send_to_char( "skinning - set amount 0 to 4", ch);
       send_to_char( "\n\r", ch );
       send_to_char( "For editing index/prototype mobiles:\n\r", ch );
       send_to_char( "  hitnumdie hitsizedie hitplus (hit points)\n\r", ch );
@@ -1082,7 +1082,9 @@ void do_mset( CHAR_DATA * ch, char *argument )
 
    minattr = 1;
    maxattr = 1000;
-
+   minskin = 0;
+   maxskin = 4;
+   
    if( !str_cmp( arg2, "on" ) )
    {
       CHECK_SUBRESTRICTED( ch );
@@ -1108,6 +1110,10 @@ void do_mset( CHAR_DATA * ch, char *argument )
    
     if( !str_cmp( arg2, "skinning" ) )
    {
+      if( value < minskin || value > maxskin )
+      {
+          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", minskin, maxskin );
+      }
       victim->skinamount = value;
       if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
          victim->pIndexData->skinamount = value;

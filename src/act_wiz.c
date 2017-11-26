@@ -1438,8 +1438,7 @@ void do_mstat( CHAR_DATA * ch, char *argument )
    pager_printf_color( ch, "&cSecs: &w%d  &cTimer: &w%d  &cGold: &Y%ld \n\r", ( int )victim->played, victim->timer,
                        victim->gold );
    if( IS_NPC( victim ) )
-      pager_printf_color( ch, "&cSkin Amount: &w%d\r\n", victim->skinamount );
-   pager_printf_color( ch, "&cType of Hide: &w%d\r\n", victim->hidetype );
+      pager_printf_color( ch, "&cSkin Amount: &w%d Type of Hide: %d\r\n", victim->skinamount, victim->hidetype );
    else
       pager_printf_color( ch, "&cBank: &w%ld  &cBounty: &w%d\r\n", victim->pcdata->balance, victim->pcdata->bounty );
    pager_printf_color( ch, "&cWorth: &w%-4d\r\n", IS_NPC( victim ) ? get_exp_worth( victim ) : get_char_worth( victim ) );

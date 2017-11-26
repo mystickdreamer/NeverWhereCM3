@@ -1533,6 +1533,7 @@ void medit_parse(DESCRIPTOR_DATA *d, char *arg) {
             victim->skinamount = URANGE(0, atoi(arg), 4);
             olc_log(d, "Changed amount of skin to %d", victim->skinamount);
             break;
+            
 
         case MEDIT_POS:
             number = atoi(arg);

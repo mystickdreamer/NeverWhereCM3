@@ -37,7 +37,7 @@ void do_mpmset( CHAR_DATA * ch, char *argument )
    char outbuf[MAX_STRING_LENGTH];
    CHAR_DATA * victim;
    int value;
-   int minattr, maxattr;
+   int minattr, maxattr, minskin, maxskin;
    
       /*
        * A desc means switched.. too many loopholes if we allow that.. 
@@ -75,6 +75,9 @@ void do_mpmset( CHAR_DATA * ch, char *argument )
    {
       minattr = 1;
       maxattr = 100;
+      minskin = 0;
+      maxskin = 4;
+     
    }
    
    else
@@ -90,13 +93,25 @@ void do_mpmset( CHAR_DATA * ch, char *argument )
    if( !str_cmp( arg2, "skinning" ) )
       
    {
-      if( value < minattr || value > maxattr )
+      if( value < minskin || value > maxskin )
          
       {
          progbug( "MpMset: Invalid skinning", ch );
          return;
       }
       victim->skinamount = value;
+      return;
+   }
+      if( !str_cmp( arg2, "hidetype" ) )
+      
+   {
+      if( value < 0 || value > SKIN_MAX )
+         
+      {
+         progbug( "MpMset: Invalid hidetype", ch );
+         return;
+      }
+      victim->hidetype = value;
       return;
    }
    if( !str_cmp( arg2, "str" ) )

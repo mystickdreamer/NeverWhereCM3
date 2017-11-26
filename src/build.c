@@ -1113,6 +1113,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
       if( value < minskin || value > maxskin )
       {
           ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", minskin, maxskin );
+          return;
       }
       victim->skinamount = value;
       if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )

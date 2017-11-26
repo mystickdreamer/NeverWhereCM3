@@ -6020,6 +6020,7 @@ void load_materials( void )
                   material->sector = 5;
                   material->magic = 100;
                   material->race = -1;
+                  material->skin = -1;
                   xCLEAR_BITS( material->extra_flags );
                   material->first_affect = NULL;
                }
@@ -6088,6 +6089,7 @@ void load_materials( void )
          case 'S':
             KEY( "Sector", material->sector, fread_number( fp ) );
             KEY( "Short", material->short_descr, fread_string( fp ) );
+            KEY( "Skin", material->skin( fp ) );
             break;
          case 'W':
             KEY( "Weight", material->weight, fread_number( fp ) );

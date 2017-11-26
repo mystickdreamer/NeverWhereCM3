@@ -1082,8 +1082,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
 
    minattr = 1;
    maxattr = 1000;
-   minskin = 0;
-   maxskin = 4;
+
    
    if( !str_cmp( arg2, "on" ) )
    {
@@ -1109,6 +1108,8 @@ void do_mset( CHAR_DATA * ch, char *argument )
       value = atoi( arg3 );
    
     if( !str_cmp( arg2, "skinning" ) )
+           minskin = 0;
+           maxskin = 4;
    {
       if( value < minskin || value > maxskin )
       {

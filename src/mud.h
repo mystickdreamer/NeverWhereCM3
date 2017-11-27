@@ -2531,8 +2531,7 @@ struct material_data
    int sector; /* Sectory type this ore can be found in */
    int race;   /* Race that generates this ore when killed (ie. dragon
                 * scales */
-   int skinamount; // This is the type of hide from skinning
-   int hidetype; 
+   int hidetype; // This is the type of hide from skinning 
    EXT_BV extra_flags;  /* Same flags as objects, they get transferred to finished product */
 
    AFFECT_DATA *first_affect;

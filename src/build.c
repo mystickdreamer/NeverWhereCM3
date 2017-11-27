@@ -1134,16 +1134,11 @@ void do_mset( CHAR_DATA * ch, char *argument )
           victim->hidetype = 0;
           return;
       }
-          if( value >= SKIN_MAX || value < 0 )
-          {
-              send_to_char( "That is not a valid skin type. \r\n", ch );
-              return;
-          }
          send_to_char( "Hide type set.\r\n", ch);
-          victim->hidetype = value;
-          if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
+      victim->hidetype = value;
+      if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
          victim->pIndexData->hidetype = value;
-          return;
+      return;
       }
    
    if( !str_cmp( arg2, "str" ) )

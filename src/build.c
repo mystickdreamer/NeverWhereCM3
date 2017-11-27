@@ -1063,7 +1063,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
       send_to_char( "  age qp qpa favor deity\n\r", ch );
       send_to_char( "\n\r", ch );
       send_to_char( "skinning - set amount 0 to 4\n\r", ch);
-      send_to_char( " &GHide Type: \n\r", ch);
+      send_to_char( " &GHideype: \n\r", ch);
       send_to_char( "     &G1)Scraps,    2)Scrawny Pelt, 3)Scrawny Fur, 4)Scrawny Hide, 5)Rough Pelt, 6)Rough Fur\r\n", ch );
       send_to_char( "     &G7)Rough Hide, 8)Thin Pelt, 9)Thin Fur, 10)Thin Hide, 11)Pelt, 12)Fur, 13)Hide, 14)Tough Pelt\r\n", ch );
       send_to_char( "    &G15)Tough Fur, 16)Tough Hide, 17)Fine Pelt, 18)Fine Fur, 19)Fine Hide, 20)Fancy Pelt\r\n", ch );
@@ -1128,12 +1128,12 @@ void do_mset( CHAR_DATA * ch, char *argument )
    }
       if( !strcmp( arg2, "hidetype" ) )
       {
-          if( arg3[0] != '-' && !is_number( arg3 ) )
+          if( !is_number( arg3 ) )
           {
               send_to_char( "That is not a number.\r\n", ch );
               return;
           }
-          if( atoi( arg3 ) >= SKIN_MAX || atoi( arg3 ) < -1 )
+          if value >= SKIN_MAX || value < 0 )
           {
               send_to_char( "That is not a valid skin type. \r\n", ch );
               victim->hidetype = 0;
@@ -2724,7 +2724,7 @@ void do_oset( CHAR_DATA * ch, char *argument )
    }
          if( !strcmp( arg2, "hidetype" ) )
       {
-          if( arg3[0] != '-' && !is_number( arg3 ) )
+          if( !is_number( arg3 ) )
           {
               send_to_char( "That is not a number.\r\n", ch );
               return;

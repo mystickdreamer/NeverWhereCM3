@@ -3731,7 +3731,7 @@ void do_material( CHAR_DATA * ch, char *argument )
           send_to_char( "Skin type set.\r\n", ch);
           return;
       }
-            if( !strcmp( arg3, "hidetype" ) )
+          if( !strcmp( arg3, "hidetype" ) )
       {
           if( !is_number( arg4 ) )
           {
@@ -3800,6 +3800,7 @@ void do_material( CHAR_DATA * ch, char *argument )
          fprintf( fp, "Sector	%d\n", material->sector );
          fprintf( fp, "Race	%d\n", material->race );
          fprintf( fp, "Skin    %d\n", material->skinamount );
+         fprintf( fp, "Hidetype %d\n", material->hidetype );
          fprintf( fp, "Extra	%s\n", print_bitvector( &material->extra_flags ) );
 /* save affects */
          for( paf = material->first_affect; paf; paf = paf->next )

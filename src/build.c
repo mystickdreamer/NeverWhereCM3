@@ -3725,7 +3725,7 @@ void do_material( CHAR_DATA * ch, char *argument )
               return;
           }
           material->skin = atoi( arg4 );
-          send_to_char( "Skin type set.\r\n", ch);
+          send_to_char( "Hide type set.\r\n", ch);
           return;
       }
       if( !strcmp( arg3, "race" ) )

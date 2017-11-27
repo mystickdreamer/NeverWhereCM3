@@ -1278,8 +1278,7 @@ void do_ostat( CHAR_DATA * ch, char *argument )
    ch_printf_color( ch, "&cCarried by: &C%s\n\r", obj->carried_by == NULL ? "(none)" : obj->carried_by->name );
    if( obj->item_type == ITEM_CORPSE_NPC )
    {
-   ch_printf_color( ch, "&cSkinning Amount: &w%d  \n\r", obj->skinamount );
-   ch_printf_color( ch, "&cType of Hide: &w%d  \n\r", obj->hidetype );
+   ch_printf_color( ch, "&cSkinningamount: &w%d Hidetype: &w%d \n\r", obj->skinamount, obj->hidetype );
    }
    
    ch_printf_color( ch, "&cIndex Values : &w%d %d %d %d %d %d %d.\n\r",
@@ -1438,7 +1437,7 @@ void do_mstat( CHAR_DATA * ch, char *argument )
    pager_printf_color( ch, "&cSecs: &w%d  &cTimer: &w%d  &cGold: &Y%ld \n\r", ( int )victim->played, victim->timer,
                        victim->gold );
    if( IS_NPC( victim ) )
-      pager_printf_color( ch, "&cSkin Amount: &w%d Type of Hide: %d\r\n", victim->skinamount, victim->hidetype );
+      pager_printf_color( ch, "&cSkinamount: &w%d Hidetype: &w%d\r\n", victim->skinamount, victim->hidetype );
    else
       pager_printf_color( ch, "&cBank: &w%ld  &cBounty: &w%d\r\n", victim->pcdata->balance, victim->pcdata->bounty );
    pager_printf_color( ch, "&cWorth: &w%-4d\r\n", IS_NPC( victim ) ? get_exp_worth( victim ) : get_char_worth( victim ) );

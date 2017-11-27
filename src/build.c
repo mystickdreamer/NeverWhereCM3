@@ -1134,7 +1134,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
           victim->hidetype = 0;
           return;
       }
-        // send_to_char( "Hide type set.\r\n", ch);
+       
       victim->hidetype = value;
       if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
          victim->pIndexData->hidetype = value;

@@ -2466,7 +2466,7 @@ struct obj_index_data
    int serial;
    sh_int layers;
    sh_int skinamount;
-   iint hidetype;
+   int hidetype;
    EXT_BV parts;
 };
 

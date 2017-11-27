@@ -3398,6 +3398,8 @@ void do_material( CHAR_DATA * ch, char *argument )
       send_to_char( buf, ch );
       sprintf( buf, "Skin: %d\r\n", material->skinamount );
       send_to_char( buf, ch );
+      sprintf( buf, "Hidetype: %d\r\n", material->hidetype);
+      send_to_char( bud, ch);
       for( paf = material->first_affect; paf; paf = paf->next )
       {
          sprintf( buf, "Affects %s by %d.\r\n", affect_loc_name( paf->location ), paf->modifier );
@@ -3506,6 +3508,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       material->sector = -1;
       material->race = -1;
       material->skinamount = -1;
+      material->hidetype = -1;
       xCLEAR_BITS( material->extra_flags );
       material->first_affect = NULL;
       sprintf( buf, "Material %d created.\r\n", material->number );
@@ -3719,13 +3722,29 @@ void do_material( CHAR_DATA * ch, char *argument )
               send_to_char( "That is not a number.\r\n", ch );
               return;
           }
+          if( atoi( arg4 ) >= 4 || atoi( arg4 ) < 0 )
+          {
+              send_to_char( "That is not a valid skin amount. \r\n", ch );
+              return;
+          }
+          material->skinamount = atoi( arg4 );
+          send_to_char( "Skin type set.\r\n", ch);
+          return;
+      }
+            if( !strcmp( arg3, "hidetype" ) )
+      {
+          if( !is_number( arg4 ) )
+          {
+              send_to_char( "That is not a number.\r\n", ch );
+              return;
+          }
           if( atoi( arg4 ) >= SKIN_MAX || atoi( arg4 ) < -1 )
           {
               send_to_char( "That is not a valid skin type. \r\n", ch );
               return;
           }
-          material->skinamount = atoi( arg4 );
-          send_to_char( "Skin type set.\r\n", ch);
+          material->hidetype = atoi( arg4 );
+          send_to_char( "Hide type set.\r\n", ch);
           return;
       }
       if( !strcmp( arg3, "race" ) )

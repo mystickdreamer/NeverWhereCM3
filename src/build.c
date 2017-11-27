@@ -2708,17 +2708,15 @@ void do_oset( CHAR_DATA * ch, char *argument )
       return;
    }
        if( !str_cmp( arg2, "skinamount" ) )
-           minskin = 0;
-           maxskin = 4;
    {
-      if( value < minskin|| value > maxskin )
+      if( value < 0 || value > 4 )
       {
-          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", minskin, maxskin );
+          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", 0, 4 );
           obj->skinamount = 0;
           return;
       }
       obj->skinamount = value;
-      if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
+      if( IS_OBJ_STAT( obj, ITEM_PROTOTYPE ) )
       {
          obj->pIndexData->skinamount = value;
       }

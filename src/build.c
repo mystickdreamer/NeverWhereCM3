@@ -1062,7 +1062,8 @@ void do_mset( CHAR_DATA * ch, char *argument )
       send_to_char( "  name short long description title spec\n\r", ch );
       send_to_char( "  age qp qpa favor deity\n\r", ch );
       send_to_char( "\n\r", ch );
-      send_to_char( " &GHidetype: \n\r", ch);
+      send_to_char( "skinning - set amount 0 to 4\n\r", ch);
+      send_to_char( " &GHideype: \n\r", ch);
       send_to_char( "     &G1)Scraps,    2)Scrawny Pelt, 3)Scrawny Fur, 4)Scrawny Hide, 5)Rough Pelt, 6)Rough Fur\r\n", ch );
       send_to_char( "     &G7)Rough Hide, 8)Thin Pelt, 9)Thin Fur, 10)Thin Hide, 11)Pelt, 12)Fur, 13)Hide, 14)Tough Pelt\r\n", ch );
       send_to_char( "    &G15)Tough Fur, 16)Tough Hide, 17)Fine Pelt, 18)Fine Fur, 19)Fine Hide, 20)Fancy Pelt\r\n", ch );
@@ -1112,7 +1113,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
    if( atoi( arg3 ) < -1 && value == -1 )
       value = atoi( arg3 );
    
-    if( !str_cmp( arg2, "skinamount" ) )
+    if( !str_cmp( arg2, "skinning" ) )
    {
       if( value < minskin || value > maxskin )
       {
@@ -1137,7 +1138,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
               send_to_char( "That is not a valid skin type. \r\n", ch );
               return;
           }
-         //send_to_char( "Hide type set.\r\n", ch);
+         send_to_char( "Hide type set.\r\n", ch);
           victim->hidetype = value;
           if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_PROTOTYPE ) )
          victim->pIndexData->hidetype = value;
@@ -3395,7 +3396,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       send_to_char( buf, ch );
       sprintf( buf, "Sector: %d  Race: %d\r\n", material->sector, material->race );
       send_to_char( buf, ch );
-      sprintf( buf, "Hidetype: %d\r\n", material->hidetype );
+      sprintf( buf, "Hidetype: %d\r\n", material->skin );
       send_to_char( buf, ch );
       for( paf = material->first_affect; paf; paf = paf->next )
       {
@@ -3504,7 +3505,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       material->magic = 100;
       material->sector = -1;
       material->race = -1;
-      material->hidetype = -1;
+      material->skin = -1;
       xCLEAR_BITS( material->extra_flags );
       material->first_affect = NULL;
       sprintf( buf, "Material %d created.\r\n", material->number );
@@ -3723,7 +3724,7 @@ void do_material( CHAR_DATA * ch, char *argument )
               send_to_char( "That is not a valid skin type. \r\n", ch );
               return;
           }
-          material->hidetype = atoi( arg4 );
+          material->skin = atoi( arg4 );
           send_to_char( "Skin type set.\r\n", ch);
           return;
       }
@@ -3779,7 +3780,7 @@ void do_material( CHAR_DATA * ch, char *argument )
          fprintf( fp, "Rarity	%d\n", material->rarity );
          fprintf( fp, "Sector	%d\n", material->sector );
          fprintf( fp, "Race	%d\n", material->race );
-         fprintf( fp, "Skin    %d\n", material->hidetype );
+         fprintf( fp, "Skin    %d\n", material->skin );
          fprintf( fp, "Extra	%s\n", print_bitvector( &material->extra_flags ) );
 /* save affects */
          for( paf = material->first_affect; paf; paf = paf->next )

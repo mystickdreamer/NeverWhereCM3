@@ -3399,7 +3399,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       sprintf( buf, "Skin: %d\r\n", material->skinamount );
       send_to_char( buf, ch );
       sprintf( buf, "Hidetype: %d\r\n", material->hidetype);
-      send_to_char( bud, ch);
+      send_to_char( buf, ch);
       for( paf = material->first_affect; paf; paf = paf->next )
       {
          sprintf( buf, "Affects %s by %d.\r\n", affect_loc_name( paf->location ), paf->modifier );

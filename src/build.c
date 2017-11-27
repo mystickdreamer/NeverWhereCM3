@@ -933,7 +933,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
    char char1, char2;
    CHAR_DATA *victim;
    int value;
-   int minattr, maxattr;
+   int minattr, maxattr, minskin, maxskin;
    bool lockvictim;
    char *origarg = argument;
 
@@ -1087,6 +1087,8 @@ void do_mset( CHAR_DATA * ch, char *argument )
 
    minattr = 1;
    maxattr = 1000;
+   minskin = 0;
+   maxskin = 4;
    
    if( !str_cmp( arg2, "on" ) )
    {
@@ -1113,9 +1115,9 @@ void do_mset( CHAR_DATA * ch, char *argument )
    
     if( !str_cmp( arg2, "skinamount" ) )
    {
-      if( value < 0 || value > 4 )
+      if( value < minskin || value > maxskin )
       {
-          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", 0, 4 );
+          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", minskin, maxskin );
           victim->skinamount = 0;
           return;
       }

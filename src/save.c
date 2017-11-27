@@ -2512,6 +2512,7 @@ CHAR_DATA *fread_mobile( FILE * fp )
             break;
          case 'H':
              KEY( "Hidetype", mob->hidetype, fread_number( fp ) );
+             break;
          case 'N':
             KEY( "Name", mob->name, fread_string( fp ) );
             break;

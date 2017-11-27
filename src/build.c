@@ -933,7 +933,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
    char char1, char2;
    CHAR_DATA *victim;
    int value;
-   int minattr, maxattr, minskin, maxskin;
+   int minattr, maxattr;
    bool lockvictim;
    char *origarg = argument;
 
@@ -1062,7 +1062,7 @@ void do_mset( CHAR_DATA * ch, char *argument )
       send_to_char( "  name short long description title spec\n\r", ch );
       send_to_char( "  age qp qpa favor deity\n\r", ch );
       send_to_char( "\n\r", ch );
-      send_to_char( "skinning - set amount 0 to 4\n\r", ch);
+      send_to_char( "Skinamount - set amount 0 to 4\n\r", ch);
       send_to_char( " &GHideype: \n\r", ch);
       send_to_char( "     &G1)Scraps,    2)Scrawny Pelt, 3)Scrawny Fur, 4)Scrawny Hide, 5)Rough Pelt, 6)Rough Fur\r\n", ch );
       send_to_char( "     &G7)Rough Hide, 8)Thin Pelt, 9)Thin Fur, 10)Thin Hide, 11)Pelt, 12)Fur, 13)Hide, 14)Tough Pelt\r\n", ch );
@@ -1087,8 +1087,6 @@ void do_mset( CHAR_DATA * ch, char *argument )
 
    minattr = 1;
    maxattr = 1000;
-   minskin = 0;
-   maxskin = 4;
    
    if( !str_cmp( arg2, "on" ) )
    {
@@ -1113,11 +1111,11 @@ void do_mset( CHAR_DATA * ch, char *argument )
    if( atoi( arg3 ) < -1 && value == -1 )
       value = atoi( arg3 );
    
-    if( !str_cmp( arg2, "skinning" ) )
+    if( !str_cmp( arg2, "skinamount" ) )
    {
-      if( value < minskin || value > maxskin )
+      if( value < 0 || value > 4 )
       {
-          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", minskin, maxskin );
+          ch_printf( ch, "Skinning Amount range if %d to %d. \n\r", 0, 4 );
           victim->skinamount = 0;
           return;
       }

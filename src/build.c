@@ -3396,7 +3396,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       send_to_char( buf, ch );
       sprintf( buf, "Sector: %d  Race: %d\r\n", material->sector, material->race );
       send_to_char( buf, ch );
-      sprintf( buf, "Skin: %d\r\n", material->skin );
+      sprintf( buf, "Skin: %d\r\n", material->skinamount );
       send_to_char( buf, ch );
       for( paf = material->first_affect; paf; paf = paf->next )
       {
@@ -3505,7 +3505,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       material->magic = 100;
       material->sector = -1;
       material->race = -1;
-      material->skin = -1;
+      material->skinamount = -1;
       xCLEAR_BITS( material->extra_flags );
       material->first_affect = NULL;
       sprintf( buf, "Material %d created.\r\n", material->number );
@@ -3724,7 +3724,7 @@ void do_material( CHAR_DATA * ch, char *argument )
               send_to_char( "That is not a valid skin type. \r\n", ch );
               return;
           }
-          material->skin = atoi( arg4 );
+          material->skinamount = atoi( arg4 );
           send_to_char( "Skin type set.\r\n", ch);
           return;
       }
@@ -3780,7 +3780,7 @@ void do_material( CHAR_DATA * ch, char *argument )
          fprintf( fp, "Rarity	%d\n", material->rarity );
          fprintf( fp, "Sector	%d\n", material->sector );
          fprintf( fp, "Race	%d\n", material->race );
-         fprintf( fp, "Skin    %d\n", material->skin );
+         fprintf( fp, "Skin    %d\n", material->skinamount );
          fprintf( fp, "Extra	%s\n", print_bitvector( &material->extra_flags ) );
 /* save affects */
          for( paf = material->first_affect; paf; paf = paf->next )

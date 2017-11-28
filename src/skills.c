@@ -2977,8 +2977,8 @@ void do_invade( CHAR_DATA *ch , char *argument )
 	send_to_char( "Invade <area> <# of invaders> <mob vnum>\n\r", ch );
 	return;
     }
-    for ( tarea = first_area; tarea; tarea = tarea->next )
-	if ( !str_cmp( tarea->filename, arg1 ) )
+    for ( area = first_area; area; area = area->next )
+	if ( !str_cmp( area->filename, arg1 ) )
 	{
 	  found = TRUE;
 	  break;

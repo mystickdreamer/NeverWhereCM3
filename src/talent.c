@@ -5329,7 +5329,7 @@ void do_void( CHAR_DATA * ch, char *argument )
       return;
    }
    argument = one_argument( argument, arg );
-   if( !str_cmp( arg, "enter" )  &&ch->curr_talent[TAL_VOID] >= 1 )
+   if( !str_cmp( arg, "enter" ) && ch->curr_talent[TAL_VOID] >= 1 )
    {
       if( IS_AFFECTED( ch, AFF_VOID ) )
       {

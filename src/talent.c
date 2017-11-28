@@ -5322,13 +5322,12 @@ void do_void( CHAR_DATA * ch, char *argument )
    char arg[MAX_STRING_LENGTH];
    AREA_DATA * pArea;
    ROOM_INDEX_DATA * pRoomIndex;
-  // if( number_range( 1, 100 ) > TALENT( ch, TAL_VOID ) )
-   if( ch->curr_talent[TAL_VOID] < number_range( 1, 100 ) )
+  /* if( number_range( 1, 100 ) > TALENT( ch, TAL_VOID ) )
   {
       travel_teleport( ch );
       lose_hp( ch, number_range( 1, 100 ) );
       return;
-   }
+   }*/
    argument = one_argument( argument, arg );
    if( !str_cmp( arg, "enter" ) && ch->curr_talent[TAL_VOID] >= 1 )
    {

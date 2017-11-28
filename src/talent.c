@@ -3804,6 +3804,18 @@ void do_dream( CHAR_DATA * ch, char *argument )
       ch->position = POS_STANDING;
       act( AT_MAGIC, "$n slowly fades into the dream.", ch, NULL, NULL, TO_ROOM );
    }
+      else if( !str_cmp( arg, "leave" ) && ch->curr_talent[TAL_DREAM] >= 10 )
+   {
+      if( !IS_AFFECTED( ch, AFF_DREAMWORLD ) )
+      {
+         send_to_char( "You aren't in the Dream!\n\r", ch );
+         return;
+      }
+      act( AT_MAGIC, "You step out of the Dream.", ch, NULL, NULL, TO_CHAR );
+      act( AT_MAGIC, "$n steps out of the Dream.", ch, NULL, NULL, TO_ROOM );
+      xREMOVE_BIT( ch->pcdata->perm_aff, AFF_DREAMWORLD );
+      act( AT_MAGIC, "$n steps into reality.", ch, NULL, NULL, TO_ROOM );
+   }
    else if( !str_cmp( arg, "pull" )  &&ch->curr_talent[TAL_DREAM] >= 40 )
    {
       victim = get_char_room( ch, argument );
@@ -5328,7 +5340,7 @@ void do_void( CHAR_DATA * ch, char *argument )
       lose_hp( ch, number_range( 1, 100 ) );
       return;
    }
-   //argument = one_argument( argument, arg );
+   argument = one_argument( argument, arg );
    if( !str_cmp( arg, "enter" ) && ch->curr_talent[TAL_VOID] >= 1 )
    {
       if( IS_AFFECTED( ch, AFF_VOID ) )

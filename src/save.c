@@ -615,9 +615,9 @@ void fwrite_obj( CHAR_DATA * ch, OBJ_DATA * obj, FILE * fp, int iNest, sh_int os
    if( obj->material != NULL )
       fprintf( fp, "Material	%d\n", obj->material->number );
    if( obj->skinamount != NULL )
-       fprintf( fp, "Skin    %d\n", obj->skinamount->number );
+       fprintf( fp, "Skin    %d\n", obj->skinamount );
    if( obj->hide_type != NULL )
-       fprintf( fp, "HideType    %d\n", obj->hide_type->number);
+       fprintf( fp, "HideType    %d\n", obj->hide_type);
    if( os_type == OS_GROUND && obj->in_room )
       fprintf( fp, "Room         %d\n", obj->in_room->vnum );
 /*    else if (((IS_OBJ_STAT(obj, ITEM_ARTIFACT)) || (IS_OBJ_STAT(obj, ITEM_PLRBLD))) && !obj->in_room)

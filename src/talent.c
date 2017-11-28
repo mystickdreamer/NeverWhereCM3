@@ -5500,11 +5500,11 @@ void do_void( CHAR_DATA * ch, char *argument )
       act( AT_DGREY, "$n is pulled into the Void!", victim, NULL, NULL, TO_ROOM );
       do_look( victim, "auto" );
    }
-   else
+/*   else
    {
       send_to_char( "You can't do any such thing.\n\r", ch );
       return;
-   }
+   }*/
    WAIT_STATE( ch, PULSE_VIOLENCE );
    use_magic( ch, TAL_VOID, 1000 - ch->curr_talent[TAL_VOID] * 9 );
 }

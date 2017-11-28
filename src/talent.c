@@ -5322,12 +5322,12 @@ void do_void( CHAR_DATA * ch, char *argument )
    char arg[MAX_STRING_LENGTH];
    AREA_DATA * pArea;
    ROOM_INDEX_DATA * pRoomIndex;
-  /* if( number_range( 1, 100 ) > TALENT( ch, TAL_VOID ) )
+   if( number_range( 1, 100 ) > TALENT( ch, TAL_VOID ) )
   {
       travel_teleport( ch );
       lose_hp( ch, number_range( 1, 100 ) );
       return;
-   }*/
+   }
    argument = one_argument( argument, arg );
    if( !str_cmp( arg, "enter" ) && ch->curr_talent[TAL_VOID] >= 1 )
    {
@@ -5500,11 +5500,11 @@ void do_void( CHAR_DATA * ch, char *argument )
       act( AT_DGREY, "$n is pulled into the Void!", victim, NULL, NULL, TO_ROOM );
       do_look( victim, "auto" );
    }
-/*   else
+   else
    {
       send_to_char( "You can't do any such thing.\n\r", ch );
       return;
-   }*/
+   }
    WAIT_STATE( ch, PULSE_VIOLENCE );
    use_magic( ch, TAL_VOID, 1000 - ch->curr_talent[TAL_VOID] * 9 );
 }

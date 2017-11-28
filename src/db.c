@@ -1006,6 +1006,7 @@ void load_mobiles( AREA_DATA * tarea, FILE * fp )
          pMobIndex->perm_per = fread_number( fp );
          pMobIndex->perm_lck = fread_number( fp );
          pMobIndex->skinamount = fread_number( fp );
+         pMobIndex->hide_type = fread_number( fp );
          pMobIndex->saving_poison_death = fread_number( fp );
          pMobIndex->saving_wand = fread_number( fp );
          pMobIndex->saving_para_petri = fread_number( fp );
@@ -1052,6 +1053,7 @@ void load_mobiles( AREA_DATA * tarea, FILE * fp )
          pMobIndex->perm_con = 100;
          pMobIndex->perm_lck = 100;
          pMobIndex->skinamount = 0;
+         pMobIndex->hide_type = 0;
          pMobIndex->race = 0;
          pMobIndex->xflags = 0;
          pMobIndex->resistant = 0;

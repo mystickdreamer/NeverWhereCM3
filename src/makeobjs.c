@@ -639,7 +639,6 @@ CHAR_DATA *generate_mob( NATION_DATA * nation )
    mob->perm_per = 100 + nation->cha_mod;
    mob->perm_lck = 100 + nation->lck_mod;
    mob->skinamount = 0;
-   mob->hidetype = 0;
 
    mob->susceptible = nation->suscept;
    mob->speed = 100;
@@ -677,7 +676,6 @@ CHAR_DATA *generate_mob( NATION_DATA * nation )
          mob->perm_lck += 50;
          mob->perm_per += 50;
          mob->skinamount += 20;
-         mob->hidetype = 0;
       }
       switch ( number_range( 1, 10 ) )
       {
@@ -2260,7 +2258,7 @@ void make_corpse( CHAR_DATA * ch )
    OBJ_DATA *obj_next;
    MATERIAL_DATA *material;
    PART_DATA *part;
-   char *name, skinamount, hidetype;
+   char *name, skinamount;
    
 
    if( IS_AFFECTED( ch, AFF_NO_CORPSE ) )
@@ -2299,10 +2297,8 @@ void make_corpse( CHAR_DATA * ch )
       name = ch->short_descr;
       // gotta transfer how much skinning the mob has to the corpse which is an object
       skinamount = ch->skinamount;
-      hidetype = ch->hidetype;
       corpse = create_object( get_obj_index( OBJ_VNUM_CORPSE_NPC ), 0 );
       corpse->skinamount = skinamount;
-      corpse->hidetype = hidetype;
       // adding a timer for the corpse
       corpse->timer = 6;
       if( ch->gold > 0 )

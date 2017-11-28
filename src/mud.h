@@ -2108,7 +2108,6 @@ struct mob_index_data
    sh_int saving_breath;
    sh_int saving_spell_staff;
    sh_int skinamount;
-   int hidetype;
 };
 
 
@@ -2275,7 +2274,6 @@ struct char_data
    int encumberance; /* weight of items being worn */
    int speed;
    sh_int skinamount;
-   int hidetype;
    OBJ_DATA *in_obj; /* for vehicles */
 };
 
@@ -2466,7 +2464,6 @@ struct obj_index_data
    int serial;
    sh_int layers;
    sh_int skinamount;
-   int hidetype;
    EXT_BV parts;
 };
 
@@ -2513,7 +2510,6 @@ struct obj_data
    int raw_mana;
    int mana;
    sh_int skinamount;
-   int hidetype;
    EXT_BV parts;  /* which parts the item is worn on */
    OBJ_DATA *gem; /* what gem is attached to it */
 };

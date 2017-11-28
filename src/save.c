@@ -2393,7 +2393,7 @@ void fwrite_mobile( FILE * fp, CHAR_DATA * mob )
     */
    fprintf( fp, "AttrPerm     %d %d %d %d %d %d %d\n",
             mob->perm_str, mob->perm_int, mob->perm_wil, mob->perm_dex, mob->perm_con, mob->perm_per, mob->perm_lck );
-   fprintf( fp, "Skin %d Hidetype %d\n", mob->skinamount, mob->hidetype );
+   fprintf( fp, "Skin %d\n", mob->skinamount );
    
    fprintf( fp, "Part	%d\n", mob->xflags );
    if( mob->first_carrying )
@@ -2510,8 +2510,8 @@ CHAR_DATA *fread_mobile( FILE * fp )
          case 'G':
             KEY( "Gold", mob->gold, fread_number( fp ) );
             break;
-         case 'H':
-             KEY( "Hidetype", mob->hidetype, fread_number( fp ) );
+          case 'H':
+              
              break;
          case 'N':
             KEY( "Name", mob->name, fread_string( fp ) );

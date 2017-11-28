@@ -102,18 +102,6 @@ void do_mpmset( CHAR_DATA * ch, char *argument )
       victim->skinamount = value;
       return;
    }
-      if( !str_cmp( arg2, "hidetype" ) )
-      
-   {
-      if( value < 0 || value > SKIN_MAX )
-         
-      {
-         progbug( "MpMset: Invalid hidetype", ch );
-         return;
-      }
-      victim->hidetype = value;
-      return;
-   }
    if( !str_cmp( arg2, "str" ) )
       
    {

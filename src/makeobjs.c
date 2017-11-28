@@ -2297,8 +2297,10 @@ void make_corpse( CHAR_DATA * ch )
       name = ch->short_descr;
       // gotta transfer how much skinning the mob has to the corpse which is an object
       skinamount = ch->skinamount;
+      hide_type = ch->hide_type;
       corpse = create_object( get_obj_index( OBJ_VNUM_CORPSE_NPC ), 0 );
       corpse->skinamount = skinamount;
+      corpse->hide_type = hide_type;
       // adding a timer for the corpse
       corpse->timer = 6;
       if( ch->gold > 0 )

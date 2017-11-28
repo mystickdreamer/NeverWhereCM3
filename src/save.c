@@ -614,9 +614,9 @@ void fwrite_obj( CHAR_DATA * ch, OBJ_DATA * obj, FILE * fp, int iNest, sh_int os
    fprintf( fp, "Vnum         %d\n", obj->pIndexData->vnum );
    if( obj->material != NULL )
       fprintf( fp, "Material	%d\n", obj->material->number );
-   if( obj->skinamount != NULL )
+ //  if( obj->skinamount != NULL )
        fprintf( fp, "Skin    %d\n", obj->skinamount );
-   if( obj->hide_type != NULL )
+//   if( obj->hide_type != NULL )
        fprintf( fp, "HideType    %d\n", obj->hide_type);
    if( os_type == OS_GROUND && obj->in_room )
       fprintf( fp, "Room         %d\n", obj->in_room->vnum );
@@ -2400,9 +2400,9 @@ void fwrite_mobile( FILE * fp, CHAR_DATA * mob )
     */
    fprintf( fp, "AttrPerm     %d %d %d %d %d %d %d\n",
             mob->perm_str, mob->perm_int, mob->perm_wil, mob->perm_dex, mob->perm_con, mob->perm_per, mob->perm_lck );
-   if( mob->skinamount != NULL)
+   //if( mob->skinamount != NULL)
    fprintf( fp, "Skin %d\n", mob->skinamount );
-   if( mob->hide_type != NULL)
+   //if( mob->hide_type != NULL)
        fprintf( fp, "Hidetype    %d\n", mob->hide_type );
    
    fprintf( fp, "Part	%d\n", mob->xflags );

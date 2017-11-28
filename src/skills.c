@@ -2962,7 +2962,7 @@ void do_invade( CHAR_DATA *ch , char *argument )
     char arg2[MAX_INPUT_LENGTH];
     char arg3[MAX_INPUT_LENGTH];
     CHAR_DATA *victim;
-    AREA_DATA *area;
+    AREA_DATA *tarea;
     int count, created;
     bool found=FALSE;
     MOB_INDEX_DATA *pMobIndex;
@@ -2977,8 +2977,8 @@ void do_invade( CHAR_DATA *ch , char *argument )
 	send_to_char( "Invade <area> <# of invaders> <mob vnum>\n\r", ch );
 	return;
     }
-    for ( area = first_area; area; area = area->next )
-	if ( !str_cmp( area->filename, arg1 ) )
+    for ( tarea = first_area; tarea; tarea = tarea->next )
+	if ( !str_cmp( tarea->filename, arg1 ) )
 	{
 	  found = TRUE;
 	  break;
@@ -3001,7 +3001,7 @@ void do_invade( CHAR_DATA *ch , char *argument )
 
     for ( created=0; created < count; created++ )
     {
-	if ( (location = get_room_index(number_range(area->low_r_vnum, area->hi_r_vnum ))) == NULL )
+	if ( (location = get_room_index(number_range(tarea->low_r_vnum, tarea->hi_r_vnum ))) == NULL )
         {
           --created;
 	  continue;

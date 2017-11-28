@@ -2108,6 +2108,7 @@ struct mob_index_data
    sh_int saving_breath;
    sh_int saving_spell_staff;
    sh_int skinamount;
+   int hide_type; // What kind of hide does the creature have
 };
 
 
@@ -2273,6 +2274,7 @@ struct char_data
    int mood;   /* anger, fear, etc */
    int encumberance; /* weight of items being worn */
    int speed;
+   int hide_type; // What kind of hide does the creature have
    sh_int skinamount;
    OBJ_DATA *in_obj; /* for vehicles */
 };
@@ -2385,6 +2387,7 @@ struct pc_data
    char *skin_type;
    char *extra_color;
    char *extra_type;
+   //int hide_type; // Currently cannot skin PCs who have been killed, this may change in the future
 #ifdef I3
    I3_CHARDATA *i3chardata;
 #endif
@@ -2462,6 +2465,7 @@ struct obj_index_data
    int raw_mana;
    int value[7];  /* Added one extra -- Scion */
    int serial;
+   int hide_type; // what type of hide does the corpse have
    sh_int layers;
    sh_int skinamount;
    EXT_BV parts;
@@ -2509,7 +2513,8 @@ struct obj_data
    int size;
    int raw_mana;
    int mana;
-   sh_int skinamount;
+   int hide_type; // what type of skin does the corpse have
+   sh_int skinamount; // how much can be skinned
    EXT_BV parts;  /* which parts the item is worn on */
    OBJ_DATA *gem; /* what gem is attached to it */
 };

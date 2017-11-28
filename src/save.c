@@ -2043,7 +2043,9 @@ void fread_obj( CHAR_DATA * ch, FILE * fp, sh_int os_type )
                }
             }
             break;
-
+         case 'H':
+             KEY( "Hidetype", obj->hide_type, fread_number( fp ) );
+             break;
          case 'I':
             KEY( "ItemType", obj->item_type, fread_number( fp ) );
             break;
@@ -2102,6 +2104,7 @@ void fread_obj( CHAR_DATA * ch, FILE * fp, sh_int os_type )
             }
 
             KEY( "Size", obj->size, fread_number( fp ) );
+            KEY( "Skin", obj->skinamount, fread_number( fp ) );
             break;
 
          case 'T':
@@ -2397,7 +2400,10 @@ void fwrite_mobile( FILE * fp, CHAR_DATA * mob )
     */
    fprintf( fp, "AttrPerm     %d %d %d %d %d %d %d\n",
             mob->perm_str, mob->perm_int, mob->perm_wil, mob->perm_dex, mob->perm_con, mob->perm_per, mob->perm_lck );
+   if( mob->skinamount != NULL)
    fprintf( fp, "Skin %d\n", mob->skinamount );
+   if( mob->hide_type != NULL)
+       fprintf( fp, "Hidetype    %d\n", mob->hide_type );
    
    fprintf( fp, "Part	%d\n", mob->xflags );
    if( mob->first_carrying )
@@ -2515,7 +2521,7 @@ CHAR_DATA *fread_mobile( FILE * fp )
             KEY( "Gold", mob->gold, fread_number( fp ) );
             break;
           case 'H':
-              
+             KEY( "Hidetype", mob->hide_type, fread_string( fp ) ); 
              break;
          case 'N':
             KEY( "Name", mob->name, fread_string( fp ) );

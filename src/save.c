@@ -2510,9 +2510,9 @@ CHAR_DATA *fread_mobile( FILE * fp )
          case 'G':
             KEY( "Gold", mob->gold, fread_number( fp ) );
             break;
-          case "H":
-              KEY( "Hidetype", mob->hide_type, fread_number( fp ) );
-              break;
+         case 'H':
+            KEY( "Hidetype", mob->hide_type, fread_number( fp ) );
+            break;
          case 'N':
             KEY( "Name", mob->name, fread_string( fp ) );
             break;

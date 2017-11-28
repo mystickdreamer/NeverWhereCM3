@@ -2962,7 +2962,7 @@ void do_invade( CHAR_DATA *ch , char *argument )
     char arg2[MAX_INPUT_LENGTH];
     char arg3[MAX_INPUT_LENGTH];
     CHAR_DATA *victim;
-    AREA_DATA *tarea;
+    AREA_DATA *area;
     int count, created;
     bool found=FALSE;
     MOB_INDEX_DATA *pMobIndex;

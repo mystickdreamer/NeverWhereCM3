@@ -3001,7 +3001,7 @@ void do_invade( CHAR_DATA *ch , char *argument )
 
     for ( created=0; created < count; created++ )
     {
-	if ( (location = get_room_index(number_range(tarea->low_r_vnum, tarea->hi_r_vnum ))) == NULL )
+	if ( (location = get_room_index(number_range(area->low_r_vnum, area->hi_r_vnum ))) == NULL )
         {
           --created;
 	  continue;

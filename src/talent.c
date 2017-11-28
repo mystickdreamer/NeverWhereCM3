@@ -5346,7 +5346,7 @@ void do_void( CHAR_DATA * ch, char *argument )
       xSET_BIT( ch->pcdata->perm_aff, AFF_VOID );
       act( AT_DGREY, "$n steps into the Void.", ch, NULL, NULL, TO_ROOM );
    }
-   else if( !str_cmp( arg, "leave" )  &&ch->curr_talent[TAL_VOID] >= 20 )
+   else if( !str_cmp( arg, "leave" ) && ch->curr_talent[TAL_VOID] >= 20 )
    {
       if( !IS_AFFECTED( ch, AFF_VOID ) )
       {

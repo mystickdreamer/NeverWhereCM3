@@ -3370,7 +3370,7 @@ void do_material( CHAR_DATA * ch, char *argument )
       send_to_char( buf, ch );
       sprintf( buf, "Rarity: %d percent\r\n", material->rarity );
       send_to_char( buf, ch );
-      sprintf( buf, "Sector: %d  Race: %d\r\n", material->sector, material->race );
+      sprintf( buf, "Sector: %d  Race: %d %s\r\n", material->sector, material->race, npc_race[material->race] );
       send_to_char( buf, ch );
       sprintf( buf, "Hidetype: %d\r\n", material->skin );
       send_to_char( buf, ch );

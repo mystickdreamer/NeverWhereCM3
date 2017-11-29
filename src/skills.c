@@ -846,7 +846,7 @@ void do_skin(CHAR_DATA * ch, char *argument) {
 
             for (material = first_material; material; material = material->next) {
                 // This sector type is going to have to add a sector type to mob corpses so can skin for them
-                if (((!knife && number_percent() < 50) || (knife)) && (material->hide_type == obj->hide_type) && (number_percent() < material->rarity)) {
+                if (((!knife && number_percent() < 50) || (knife)) && (material->skin == obj->hide_type) && (number_percent() < material->rarity)) {
 
                     /*
                      * Can't get magical anything in mana dead areas 

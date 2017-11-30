@@ -812,7 +812,7 @@ void do_skin(CHAR_DATA * ch, char *argument) {
     for (obj = ch->first_carrying; obj; obj = obj->next_content)
 
         if (obj->item_type == ITEM_CARVINGKNIFE) {
-
+            send_to_char(" Checkng for knife ", ch);
             knife = TRUE;
 
             break;
